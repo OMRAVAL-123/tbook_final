@@ -75,7 +75,7 @@ class MegaRouterApp:
     def route_query(self, query):
         context = ""
         for kb, summary in self.kb_summaries.items():
-            context += f"KB: {kb}\nSummary: {summary}\n\n"
+            context += f"KB Folder: {kb}\nSummary: {summary}\n\n"
             
         prompt = f"""You are a routing expert.
 Context:
@@ -83,8 +83,15 @@ Context:
 
 User Query: "{query}"
 
-Task: Select the most relevant KBs. Return a JSON list of folder names.
-Example: ["m_11_kb", "p_12_kb"]
+Task: Select the most relevant KBs.
+Rules:
+1. Map subjects carefully: 
+   - Physics 11 -> p_11_kb, Physics 12 -> p_12_kb
+   - Math 11 -> m_11_kb, Math 12 -> m_12_kb
+   - Chemistry 11 -> c_11_kb, Chemistry 12 -> c_12_kb
+2. If query specifies "Physics 12", ONLY select "p_12_kb".
+3. Return a JSON list of folder names.
+Example: ["p_12_kb"]
 """
         response = self.router_llm.invoke(prompt)
         content = response.content.strip()
