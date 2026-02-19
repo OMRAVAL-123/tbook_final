@@ -1,10 +1,9 @@
-import sqlite3
 import pathlib
 import os
 import re
 import json
 import warnings
-from typing import List, Dict, Any, Tuple
+from typing import List, Dict, Any
 
 # LangChain & Groq
 from langchain_community.vectorstores import FAISS
@@ -23,8 +22,7 @@ MODEL_SMART = "llama-3.3-70b-versatile"
 class Retriever:
     def __init__(self):
         self.base_path = pathlib.Path(__file__).parent
-        self.dbs = list(self.base_path.glob("*.db"))
-        self.db_schemas = self._load_schemas()
+        self.txt_files = list(self.base_path.glob("*.txt"))
         
         self.llm_fast = ChatGroq(model_name=MODEL_FAST, temperature=0, groq_api_key=GROQ_API_KEY)
         self.llm_smart = ChatGroq(model_name=MODEL_SMART, temperature=0.3, groq_api_key=GROQ_API_KEY)
@@ -45,124 +43,112 @@ class Retriever:
         except Exception:
             self.vectorstore = None
 
-    def _load_schemas(self) -> Dict[str, str]:
-        """Dynamically load schemas from all detected sqlite databases."""
-        schemas = {}
-        for db_path in self.dbs:
-            try:
-                conn = sqlite3.connect(db_path)
-                cursor = conn.cursor()
-                cursor.execute("SELECT name FROM sqlite_master WHERE type='table';")
-                tables = cursor.fetchall()
-                db_schema_str = []
-                for table in tables:
-                    table_name = table[0]
-                    # Skip internal tables
-                    if table_name.startswith("sqlite_"): continue
-                    
-                    cursor.execute(f"PRAGMA table_info({table_name})")
-                    columns = cursor.fetchall()
-                    col_str = ", ".join([f"{col[1]} ({col[2]})" for col in columns])
-                    
-                    # Add sample data to help LLM understand format
-                    try:
-                        cursor.execute(f"SELECT * FROM {table_name} LIMIT 3")
-                        rows = cursor.fetchall()
-                        sample_str = f"Sample rows: {str(rows)}"
-                    except:
-                        sample_str = "No samples available."
-                        
-                    db_schema_str.append(f"Table: {table_name}\nColumns: {col_str}\n{sample_str}")
-                
-                if db_schema_str:
-                    schemas[db_path.name] = "\n\n".join(db_schema_str)
-                conn.close()
-            except Exception as e:
-                print(f"Error loading schema for {db_path}: {e}")
-        return schemas
+        # Cross Encoder
+        try:
+            self.cross_encoder = CrossEncoder('cross-encoder/ms-marco-MiniLM-L-6-v2')
+        except Exception as e:
+            # print(f"Warning: CrossEncoder failed to load: {e}")
+            self.cross_encoder = None
 
     def _detect_intent(self, query: str) -> str:
         query_lower = query.lower()
         
-        # 1. Structured Query Detection (Rule 1 - Refined)
-        # Only trigger if "Example" or "Chapter" is followed by digits or specific listing context
-        
-        # Specific listing keywords
-        listing_keywords = ["list all", "list the", "list topics", "list summaries", "give me a list"]
+        # Listing keywords
+        listing_keywords = ["list all", "list the", "list topics", "list summaries", "give me a list", "show all"]
         for k in listing_keywords:
             if k in query_lower:
                 return "listing"
 
-        # Regex for "Chapter X", "Example Y", "Exercise Z", "Problem Q"
-        # This prevents "Explain with examples" from triggering structured mode.
+        # Structured Pattern Detection
+        # Matches: "Chapter 7", "Example 7.2", "Exercise 3.1", "Problem 1.5", "1.2"
         structured_patterns = [
             r"chapter\s*\d+", 
             r"example\s*\d+", 
             r"problem\s*\d+", 
             r"exercise\s*\d+",
-            r"\b\d+\.\d+\b" # Matches X.Y
+            r"question\s*\d+",
+            r"\b\d+\.\d+\b"
         ]
         
         for p in structured_patterns:
             if re.search(p, query_lower):
                 return "structured"
 
-        # 2. Conceptual/Theoretical (Rule 4)
         return "explanation"
 
-    def _generate_sql_strict(self, query: str, intent: str) -> Dict[str, Any]:
-        """Strict SQL generation for structured queries."""
-        # Collapse schemas
-        full_schema_context = ""
-        for db_file, schema in self.db_schemas.items():
-            full_schema_context += f"Database File: {db_file}\n{schema}\n\n"
+    def _find_file_for_query(self, query: str) -> str:
+        """Heuristic to pick the right text file based on query terms."""
+        q = query.lower()
+        if "example" in q:
+            return "examples.txt"
+        elif "problem" in q:
+            return "problems.txt"
+        elif "exercise" in q or "question" in q:
+            # Check for both, prioritize exercises.txt
+            if (self.base_path / "exercises.txt").exists():
+                return "exercises.txt"
+            return "exercise.txt" # Common variation
+        elif "topic" in q or "chapter" in q:
+            return "topics.txt"
+        return ""
+
+    def _extract_from_text(self, filename: str, query: str, intent: str) -> str:
+        file_path = self.base_path / filename
+        if not file_path.exists():
+            return f"File {filename} not found."
             
-        system_instruction = """You are a Strict SQL Generator.
-Rules:
-1. ONLY generate SQL for the provided SQLite schemas.
-2. Check the "Sample rows" in the schema context to understand the format of columns like 'chapter_name'.
-   - If 'chapter_name' contains "Chapter 1", use strict string matching: WHERE chapter_name = 'Chapter 7'
-   - If 'chapter_name' contains "1", use the integer/string number: WHERE chapter_name = '7'
-   - ADAPT to the specific table's format.
-3. For "Example X.Y", check columns like 'example_id' or 'topic_number'.
-4. Do NOT approximate numbers.
-5. If user asks for 'Summaries', look for a 'summaries' table.
-6. Return ONLY JSON with keys: "db_file", "sql_query".
-"""
+        with open(file_path, "r", encoding="utf-8") as f:
+            content = f.read()
 
-        prompt = f"""{system_instruction}
+        # 1. Identify Target Chapter/ID
+        # Try to find "X.Y" or just "X"
+        id_match = re.search(r"(\d+(\.\d+)*)", query)
+        target_id = id_match.group(1) if id_match else None
         
-Context Schemas:
-{full_schema_context}
+        if not target_id:
+            return "Could not identify a specific ID (e.g., 7.1) in your query."
 
-User Query: "{query}"
+        # 2. Logic for Topics (Line-based)
+        if filename == "topics.txt":
+            # If target_id is just a chapter number (e.g. '7' or '07'), list all 7.x
+            # If target_id is specific '7.2', show that line
+            lines = content.splitlines()
+            matches = []
+            for line in lines:
+                if line.strip().startswith(target_id):
+                    matches.append(line.strip())
+            
+            if matches:
+                return "\n".join(matches)
+            else:
+                return f"No topics found for ID {target_id}"
 
-Response (JSON):
-"""
-        response = self.llm_fast.invoke(prompt)
-        content = response.content.strip()
-        if content.startswith("```"):
-            content = content.strip("`").replace("json", "").strip()
-        try:
-            return json.loads(content)
-        except:
-            return {}
+        # 3. Logic for Examples/Exercises/Problems (Block-based)
+        # We assume blocks start with "Example X.Y", "Question X.Y", "Problem X.Y"
+        # We'll try to find the specific block for target_id
+        
+        # Regex to find the header
+        # Covers: Example 1.1, Question 1.1, Exercise 1.1, Problem 1.1
+        header_pattern = re.compile(
+            r"(Example|Question|Exercise|Problem)\s+" + re.escape(target_id) + r"\s*(.*?)(?=(Example|Question|Exercise|Problem)\s+\d+\.\d+|\Z)", 
+            re.IGNORECASE | re.DOTALL
+        )
+        
+        match = header_pattern.search(content)
+        if match:
+            return match.group(0).strip()
+            
+        # If strict match failed, maybe the user asked for "Chapter 7" examples in listing mode
+        if intent == "listing" and len(target_id.split('.')) == 1:
+            # List all items for this chapter
+            # Find all headers starting with "{target_id}."
+            list_pattern = re.compile(r"((Example|Question|Exercise|Problem)\s+" + re.escape(target_id) + r"\.\d+.*)", re.IGNORECASE)
+            headers = [m.group(1) for m in list_pattern.finditer(content)]
+            if headers:
+                return "**Items found:**\n" + "\n".join([f"- {h}" for h in headers[:50]]) # Limit to 50
+            return f"No items found for Chapter {target_id}"
 
-    def _execute_sql(self, db_file: str, sql_query: str) -> List[Any]:
-        db_path = self.base_path / db_file
-        if not db_path.exists():
-            return []
-        try:
-            conn = sqlite3.connect(db_path)
-            conn.row_factory = sqlite3.Row # Return dict-like rows
-            cursor = conn.cursor()
-            cursor.execute(sql_query)
-            rows = cursor.fetchall()
-            output = [dict(row) for row in rows]
-            conn.close()
-            return output
-        except Exception as e:
-            return [f"SQL Error: {e}"]
+        return f"Exact match for {target_id} not found in {filename}."
 
     def _retrieve_and_rank(self, query: str) -> str:
         if not self.vectorstore:
@@ -179,7 +165,6 @@ Response (JSON):
             if self.cross_encoder:
                 pairs = [[query, doc] for doc in doc_texts]
                 scores = self.cross_encoder.predict(pairs)
-                # Sort by score
                 scored_docs = sorted(zip(doc_texts, scores), key=lambda x: x[1], reverse=True)
                 top_docs = [d[0] for d in scored_docs[:5]] 
             else:
@@ -217,30 +202,25 @@ Instructions:
         }
         
         if intent in ["structured", "listing"]:
-            # Rule 2: Do NOT rely on semantic similarity.
-            sql_plan = self._generate_sql_strict(query, intent)
+            # Try to identify which text file to look into
+            target_file = self._find_file_for_query(query)
             
-            if sql_plan and "db_file" in sql_plan and "sql_query" in sql_plan:
-                rows = self._execute_sql(sql_plan["db_file"], sql_plan["sql_query"])
-                if rows:
-                    # Format output based on intent
-                    if intent == "listing":
-                        # Rule 3: Return structured bullet format.
-                        formatted_rows = "\n".join([f"- {str(row)}" for row in rows])
-                        result["answer"] = f"**Found {len(rows)} items:**\n\n{formatted_rows}"
-                    else:
-                        # Structured match found
-                        # Just return the structured data clearly
-                        json_str = json.dumps(rows, indent=2)
-                        result["answer"] = f"**Strict Match Found:**\n\n```json\n{json_str}\n```"
-                else:
-                    # Rule 2: If exact match is not present... respond specific msg
-                    result["answer"] = "Exact structured match not found in retrieved context."
+            if target_file:
+                result["answer"] = self._extract_from_text(target_file, query, intent)
+                # Fallback to vector search if text search fails? 
+                # The user said "simply use the txt files", implying strictly text search for listing tasks.
+                if "not found" in result["answer"] and intent == "structured":
+                     # Maybe try semantic search as fallback if specific ID wasn't found?
+                     # No, user wants strict adherence to txt listing.
+                     pass
             else:
-                result["answer"] = "Exact structured match not found in retrieved context."
+                 # If we can't map query to a file (e.g. "List everything"), maybe list topics?
+                 if intent == "listing":
+                     result["answer"] = self._extract_from_text("topics.txt", query, intent)
+                 else:
+                     result["answer"] = "Could not determine which resource (Examples, Exercises, Topics) you are looking for. Please specify."
                 
         else: # explanation
-            # Rule 4: Semantic retrieval is allowed.
             result["answer"] = self._retrieve_and_rank(query)
             
         return result
