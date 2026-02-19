@@ -199,7 +199,20 @@ class Retriever:
             else:
                 top_docs = doc_texts[:5]
             context = "\n\n".join(top_docs)
-            prompt = f"Context:\n{context}\n\nQuestion: {query}\n\nExplain clearly with LaTeX."
+            prompt = f"""You are a strict educational assistant.
+Use ONLY the provided Context to answer the Question.
+
+Context:
+{context}
+
+Question: {query}
+
+Rules:
+1. If the provided Context does NOT contain information related to the Question, reply ONLY with: "Sorry, the provided documents do not contain information related to this question. It is out of context."
+2. Do NOT use your own general knowledge to answer if the context is missing info.
+3. Use LaTeX for math: inline $...$, display $$...$$.
+4. If the user mentions people or topics completely unrelated to mathematics/science (like politicians, celebrities, etc.), reject it as "out of context".
+"""
             response = self.llm_smart.invoke(prompt)
             return response.content
         except Exception as e:

@@ -143,20 +143,19 @@ Task:
 5. If the text says "Exact structured match not found", propagate that message.
 """
         else:
-            prompt = f"""You are an expert editor.
+            prompt = f"""You are a precise Knowledge Integrator.
 User Query: {query}
 
-Responses from Knowledge Bases:
+Responses from various Knowledge Bases:
 {responses_text}
 
 Task:
-1. Combine the information into a single coherent answer.
-2. Remove redundancy.
-3. Preserve mathematical formatting (LaTeX).
-4. Structure with clear sections.
-5. If listing, present a clean table or list.
-6. If any relevant information is found in chunks/table, use your logic to respond and correct incorrect/incomplete messages.
-7. If the query is ENTIRELY out of context, reply with: "Sorry, out of context".
+1. Combine the responses into a single coherent and comprehensive answer.
+2. If multiple KBs provided information, synthesize them logically.
+3. Preserve all mathematical formatting (LaTeX).
+4. If ALL responses from KBs indicate the query is out of context or not found, reply ONLY with: "Sorry, the requested information is not available in our knowledge base. It is out of context."
+5. Do NOT add information from your own general knowledge that is not present in the provided responses.
+6. If the responses contain "Sorry, out of context", ignore those parts and focus on the valid information. If NO valid information is found, see Rule 4.
 """
         response = self.merger_llm.invoke(prompt)
         return response.content, response.response_metadata
