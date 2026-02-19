@@ -90,29 +90,30 @@ class Retriever:
     def _detect_intent(self, query: str) -> str:
         query_lower = query.lower()
         
-        # 1. Structured Query Detection (Rule 1)
-        structured_keywords = ["chapter", "example", "problem", "exercise", "section"]
-        listing_keywords = ["list all topics", "list summaries", "all chapters", "list examples", "list exercises"]
+        # 1. Structured Query Detection (Rule 1 - Refined)
+        # Only trigger if "Example" or "Chapter" is followed by digits or specific listing context
         
-        # Check listing first as specific subtype of structured
+        # Specific listing keywords
+        listing_keywords = ["list all", "list the", "list topics", "list summaries", "give me a list"]
         for k in listing_keywords:
             if k in query_lower:
                 return "listing"
-                
-        # Numeric pattern check (X.Y)
-        if re.search(r"\b\d+\.\d+\b", query):
-            return "structured"
 
-        for k in structured_keywords:
-             if k in query_lower:
-                 return "structured"
+        # Regex for "Chapter X", "Example Y", "Exercise Z", "Problem Q"
+        # This prevents "Explain with examples" from triggering structured mode.
+        structured_patterns = [
+            r"chapter\s*\d+", 
+            r"example\s*\d+", 
+            r"problem\s*\d+", 
+            r"exercise\s*\d+",
+            r"\b\d+\.\d+\b" # Matches X.Y
+        ]
+        
+        for p in structured_patterns:
+            if re.search(p, query_lower):
+                return "structured"
 
         # 2. Conceptual/Theoretical (Rule 4)
-        conceptual_keywords = ["what is", "explain", "derive", "calculate", "how"]
-        for k in conceptual_keywords:
-            if k in query_lower:
-                return "explanation"
-                
         return "explanation"
 
     def _generate_sql_strict(self, query: str, intent: str) -> Dict[str, Any]:
@@ -125,12 +126,14 @@ class Retriever:
         system_instruction = """You are a Strict SQL Generator.
 Rules:
 1. ONLY generate SQL for the provided SQLite schemas.
-2. For structured queries (e.g., "Chapter 7 Example 2"), you MUST use EXACT MATCHING on columns like 'chapter_name', 'example_id', 'q_id', etc.
-3. Do NOT approximate numbers. If user asks for '7.2', query for '7.2' exactly (or LIKE '7.2%'). Do not query for '1.2'.
-4. Do NOT use vector search or semantic similarity. Rely purely on SQL WHERE clauses.
-5. If the user asks to LIST items, select all relevant rows.
-6. Return a JSON object with keys: "db_file", "sql_query".
-7. If no relevant table is found, return empty JSON."""
+2. For "Chapter X", use EXACT MATCHING strings. 
+   - CORRECT: WHERE chapter_name = 'Chapter 1' 
+   - WRONG: WHERE chapter_name LIKE '%Chapter 1%' (This matches Chapter 11, 12...)
+3. For "Example X.Y", check columns like 'example_id' or 'topic_number'.
+4. Do NOT approximate numbers.
+5. If user asks for 'Summaries', look for a 'summaries' table.
+6. Return ONLY JSON with keys: "db_file", "sql_query".
+"""
 
         prompt = f"""{system_instruction}
         
