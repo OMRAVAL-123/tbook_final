@@ -198,9 +198,10 @@ class Retriever:
                 top_docs = [d[0] for d in scored_docs[:5]] 
             else:
                 top_docs = doc_texts[:5]
+            subject = "Mathematics" if "m_" in self.base_path.name else "Physics" if "p_" in self.base_path.name else "Chemistry"
             context = "\n\n".join(top_docs)
-            prompt = f"""You are a strict educational assistant.
-Use ONLY the provided Context to answer the Question.
+            prompt = f"""You are an expert {subject} Tutor.
+Primary Task: Answer the Question using the provided Context.
 
 Context:
 {context}
@@ -208,10 +209,10 @@ Context:
 Question: {query}
 
 Rules:
-1. If the provided Context does NOT contain information related to the Question, reply ONLY with: "Sorry, the provided documents do not contain information related to this question. It is out of context."
-2. Do NOT use your own general knowledge to answer if the context is missing info.
-3. Use LaTeX for math: inline $...$, display $$...$$.
-4. If the user mentions people or topics completely unrelated to mathematics/science (like politicians, celebrities, etc.), reject it as "out of context".
+1. If the question is about {subject}, provide a clear, helpful answer. Use the Context as your primary source. If the specific problem is not in the Context but is a standard {subject} topic, use your internal knowledge to explain it clearly.
+2. If the user mentions un-related entities (like "PM of India", "celebrities", etc.) as part of a {subject} query, ignore those entities and focus on the {subject} task.
+3. If the entire query is about a different domain (e.g. politics, recipes, sports) and has NO {subject} content, reply ONLY with: "Sorry, the provided documents do not contain information related to this question. It is out of context."
+4. Use LaTeX for math: $...$ for inline, $$...$$ for blocks.
 """
             response = self.llm_smart.invoke(prompt)
             return response.content

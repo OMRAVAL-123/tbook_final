@@ -154,8 +154,8 @@ Task:
 2. If multiple KBs provided information, synthesize them logically.
 3. Preserve all mathematical formatting (LaTeX).
 4. If ALL responses from KBs indicate the query is out of context or not found, reply ONLY with: "Sorry, the requested information is not available in our knowledge base. It is out of context."
-5. Do NOT add information from your own general knowledge that is not present in the provided responses.
-6. If the responses contain "Sorry, out of context", ignore those parts and focus on the valid information. If NO valid information is found, see Rule 4.
+5. Focus on the provided responses. You can use your knowledge to synthesize a better explanation, but the core factual content should be grounded in the responses.
+6. If some responses contain "Sorry, out of context" but others have valid information, focus on the valid information.
 """
         response = self.merger_llm.invoke(prompt)
         return response.content, response.response_metadata
