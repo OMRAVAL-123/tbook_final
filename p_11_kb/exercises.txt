@@ -1,0 +1,639 @@
+Question 1.1
+Fill in the blanks (a) The volume of a cube of side 1 cm is equal to .....m 3 (b) The surface area of a solid cylinder of radius 2.0 cm and height 10.0 cm is equal to ...(mm) 2 (c) A vehicle moving with a speed of 18 km h –1 covers....m in 1 s (d) The relative density of lead is 11.3. Its density is ....g cm –3 or ....kg m –3 .
+
+Question 1.2
+Fill in the blanks by suitable conversion of units (a) 1 kg m 2 s –2 = ....g cm 2 s –2 (b) 1 m = ..... ly (c) 3.0 m s –2 = .... km h –2 (d) G = 6.67 × 10 –11 N m 2 (kg) –2 = .... (cm) 3 s –2 g –1 .
+
+Question 1.3
+A calorie is a unit of heat (energy in transit) and it equals about 4.2 J where 1J = 1 kg m 2 s –2 . Suppose we employ a system of units in which the unit of mass equals α kg, the unit of length equals β m, the unit of time is γ s. Show that a calorie has a magnitude 4.2 α –1 β –2 γ 2 in terms of the new units.
+
+Question 1.4
+Explain this statement clearly : “To call a dimensional quantity ‘large’ or ‘small’ is meaningless without specifying a standard for comparison”. In view of this, reframe the following statements wherever necessary : (a) atoms are very small objects (b) a jet plane moves with great speed (c) the mass of Jupiter is very large (d) the air inside this room contains a large number of molecules (e) a proton is much more massive than an electron (f) the speed of sound is much smaller than the speed of light.
+
+Question 1.5
+A new unit of length is chosen such that the speed of light in vacuum is unity. What is the distance between the Sun and the Earth in terms of the new unit if light takes 8 min and 20 s to cover this distance ?
+
+Question 1.6
+Which of the following is the most precise device for measuring length : (a) a vernier callipers with 20 divisions on the sliding scale (b) a screw gauge of pitch 1 mm and 100 divisions on the circular scale (c) an optical instrument that can measure length to within a wavelength of light ?
+
+Question 1.7
+A student measures the thickness of a human hair by looking at it through a microscope of magnification 100. He makes 20 observations and finds that the average width of the hair in the field of view of the microscope is 3.5 mm. What is the estimate on the thickness of hair ?
+
+Question 1.8
+Answer the following : (a)You are given a thread and a metre scale. How will you estimate the diameter of the thread ? (b)A screw gauge has a pitch of 1.0 mm and 200 divisions on the circular scale. Do you think it is possible to increase the accuracy of the screw gauge arbitrarily by increasing the number of divisions on the circular scale ? (c) The mean diameter of a thin brass rod is to be measured by vernier callipers. Why is a set of 100 measurements of the diameter expected to yield a more reliable estimate than a set of 5 measurements only ?
+
+Question 1.9
+The photograph of a house occupies an area of 1.75 cm 2 on a 35 mm slide. The slide is projected on to a screen, and the area of the house on the screen is 1.55 m 2 . What is the linear magnification of the projector-screen arrangement.
+
+Question 1.10
+State the number of significant figures in the following : (a) 0.007 m 2 (b) 2.64 × 10 24 kg (c) 0.2370 g cm –3 (d) 6.320 J (e) 6.032 N m –2 (f) 0.0006032 m 2
+
+Question 1.11
+The length, breadth and thickness of a rectangular sheet of metal are 4.234 m, 1.005 m, and 2.01 cm respectively. Give the area and volume of the sheet to correct significant figures.
+
+Question 1.12
+The mass of a box measured by a grocer’s balance is 2.30 kg. Two gold pieces of masses 20.15 g and 20.17 g are added to the box. What is (a) the total mass of the box, (b) the difference in the masses of the pieces to correct significant figures ?
+
+Question 1.13
+A famous relation in physics relates ‘moving mass’ m to the ‘rest mass’ m o of a particle in terms of its speed v and the speed of light, c . (This relation first arose as a consequence of special relativity due to Albert Einstein). A boy recalls the relation almost correctly but forgets where to put the constant c. He writes :
+
+Question 1.14
+The unit of length convenient on the atomic scale is known as an angstrom and is denoted by Å : 1 Å = 10 –10 m. The size of a hydrogen atom is about 0.5 Å . What is the total atomic volume in m 3 of a mole of hydrogen atoms ?
+
+Question 1.15
+One mole of an ideal gas at standard temperature and pressure occupies 22.4 L (molar volume). What is the ratio of molar volume to the atomic volume of a mole of hydrogen ? (Take the size of hydrogen molecule to be about 1 Å ). Why is this ratio so large ?
+
+Question 1.16
+Explain this common observation clearly : If you look out of the window of a fast moving train, the nearby trees, houses etc. seem to move rapidly in a direction opposite to the train’s motion, but the distant objects (hill tops, the Moon, the stars etc.) seem to be stationary. (In fact, since you are aware that you are moving, these distant objects seem to move with you).
+
+Question 1.17
+The Sun is a hot plasma (ionized matter) with its inner core at a temperature exceeding 10 7 K, and its outer surface at a temperature of about 6000 K. At these high temperatures, no substance remains in a solid or liquid phase. In what range do you expect the mass density of the Sun to be, in the range of densities of solids and liquids or gases ? Check if your guess is correct from the following data : mass of the Sun = 2.0 × 10 30 kg, radius of the Sun = 7.0 × 10 8 m.
+
+Question 2.1
+In which of the following examples of motion, can the body be considered approximately a point object: (a) a railway carriage moving without jerks between two stations. (b) a monkey sitting on top of a man cycling smoothly on a circular track. (c) a spinning cricket ball that turns sharply on hitting the ground. (d) a tumbling beaker that has slipped off the edge of a table.
+
+Question 2.2
+The position-time ( x-t ) graphs for two children A and B returning from their school O to their homes P and Q respectively are shown in Fig. 2.9. Choose the correct entries in the brackets below ; (a) (A/B) lives closer to the school than (B/A) (b) (A/B) starts from the school earlier than (B/A) (c) (A/B) walks faster than (B/A) (d) A and B reach home at the (same/different) time (e) (A/B) overtakes (B/A) on the road (once/twice).
+
+Question 2.3
+A woman starts from her home at 9.00 am, walks with a speed of 5 km h –1 on a straight road up to her office 2.5 km away, stays at the office up to 5.00 pm, and returns home by an auto with a speed of 25 km h –1 . Choose suitable scales and plot the x - t graph of her motion.
+
+Question 2.4
+A drunkard walking in a narrow lane takes 5 steps forward and 3 steps backward, followed again by 5 steps forward and 3 steps backward, and so on. Each step is 1 m long and requires 1 s. Plot the x - t graph of his motion. Determine graphically and otherwise how long the drunkard takes to fall in a pit 13 m away from the start.
+
+Question 2.5
+A car moving along a straight highway with speed of 126 km h –1 is brought to a stop within a distance of 200 m. What is the retardation of the car (assumed uniform), and how long does it take for the car to stop ?
+
+Question 2.6
+A player throws a ball upwards with an initial speed of 29.4 m s –1 . (a) What is the direction of acceleration during the upward motion of the ball ? (b) What are the velocity and acceleration of the ball at the highest point of its motion ? (c) Choose the x = 0 m and t = 0 s to be the location and time of the ball at its highest point, vertically downward direction to be the positive direction of x -axis, and give the signs of position, velocity and acceleration of the ball during its upward, and downward motion. (d) To what height does the ball rise and after how long does the ball return to the player’s hands ? (Take g = 9.8 m s –2 and neglect air resistance).
+
+Question 2.7
+Read each statement below carefully and state with reasons and examples, if it is true or false ; A particle in one-dimensional motion (a) with zero speed at an instant may have non-zero acceleration at that instant (b) with zero speed may have non-zero velocity, (c) with constant speed must have zero acceleration, (d) with positive value of acceleration must be speeding up.
+
+Question 2.8
+A ball is dropped from a height of 90 m on a floor. At each collision with the floor, the ball loses one tenth of its speed. Plot the speed-time graph of its motion between t = 0 to 12 s.
+
+Question 2.9
+Explain clearly, with examples, the distinction between : (a) magnitude of displacement (sometimes called distance) over an interval of time, and the total length of path covered by a particle over the same interval; (b) magnitude of average velocity over an interval of time, and the average speed over the same interval. [Average speed of a particle over an interval of time is defined as the total path length divided by the time interval]. Show in both (a) and (b) that the second quantity is either greater than or equal to the first. When is the equality sign true ? [For simplicity, consider one-dimensional motion only].
+
+Question 2.10
+A man walks on a straight road from his home to a market 2.5 km away with a speed of 5 km h –1 . Finding the market closed, he instantly turns and walks back home with a speed of 7.5 km h –1 . What is the (a) magnitude of average velocity, and (b) average speed of the man over the interval of time (i) 0 to 30 min, (ii) 0 to 50 min, (iii) 0 to 40 min ? [Note: You will appreciate from this exercise why it is better to define average speed as total path length divided by time, and not as magnitude of average velocity. You would not like to tell the tired man on his return home that his average speed was zero !]
+
+Question 2.11
+In Exercises 2.9 and 2.10, we have carefully distinguished between average speed and magnitude of average velocity. No such distinction is necessary when we consider instantaneous speed and magnitude of velocity. The instantaneous speed is always equal to the magnitude of instantaneous velocity. Why?
+
+Question 2.12
+Look at the graphs (a) to (d) (Fig. 2.10) carefully and state, with reasons, which of these cannot possibly represent one-dimensional motion of a particle.
+
+Question 2.13
+Figure 2.11shows the x-t plot of one- dimensional motion of a particle. Is it correct to say from the graph that the particle moves in a straight line for t < 0 and on a parabolic path for t >0 ? If not, suggest a suitable physical context for this graph.
+
+Question 2.14
+A police van moving on a highway with a speed of 30 km h –1 fires a bullet at a thief’s car speeding away in the same direction with a speed of 192 km h –1 . If the muzzle speed of the bullet is 150 m s –1 , with what speed does the bullet hit the thief’s car ? (Note: Obtain that speed which is relevant for damaging the thief’s car).
+
+Question 2.15
+Suggest a suitable physical situation for each of the following graphs (Fig 2.12):
+
+Question 2.16
+Figure 2.13 gives the x-t plot of a particle executing one-dimensional simple harmonic motion. (You will learn about this motion in more detail in Chapter13). Give the signs of position, velocity and acceleration variables of the particle at t = 0.3 s, 1.2 s, – 1.2 s.
+
+Question 2.17
+Figure 2.14 gives the x-t plot of a particle in one-dimensional motion. Three different equal intervals of time are shown. In which interval is the average speed greatest, and in which is it the least ? Give the sign of average velocity for each interval. Fig. 2.14
+
+Question 2.18
+Figure 2.15 gives a speed-time graph of a particle in motion along a constant direction. Three equal intervals of time are shown. In which interval is the average acceleration greatest in magnitude? In which interval is the average speed greatest ? Choosing the positive direction as the constant direction of motion, give the signs of v and a in the three intervals. What are the accelerations at the points A, B, C and D ? Fig. 2.15
+
+Question 3.1
+State, for each of the following physical quantities, if it is a scalar or a vector : volume, mass, speed, acceleration, density, number of moles, velocity, angular frequency, displacement, angular velocity.
+
+Question 3.2
+Pick out the two scalar quantities in the following list : force, angular momentum, work, current, linear momentum, electric field, average velocity, magnetic moment, relative velocity.
+
+Question 3.3
+Pick out the only vector quantity in the following list : Temperature, pressure, impulse, time, power, total path length, energy, gravitational potential, coefficient of friction, charge.
+
+Question 3.4
+State with reasons, whether the following algebraic operations with scalar and vector physical quantities are meaningful : (a) adding any two scalars, (b) adding a scalar to a vector of the same dimensions , (c) multiplying any vector by any scalar, (d) multiplying any two scalars, (e) adding any two vectors, (f) adding a component of a vector to the same vector.
+
+Question 3.5
+Read each statement below carefully and state with reasons, if it is true or false : (a) The magnitude of a vector is always a scalar, (b) each component of a vector is always a scalar, (c) the total path length is always equal to the magnitude of the displacement vector of a particle. (d) the average speed of a particle (defined as total path length divided by the time taken to cover the path) is either greater or equal to the magnitude of average velocity of the particle over the same interval of time, (e) Three vectors not lying in a plane can never add up to give a null vector.
+
+Question 3.6
+Establish the following vector inequalities geometrically or otherwise : (a) | a + b | < | a | + | b | (b) | a + b | > || a | − | b ||
+
+Question 3.7
+Given a + b + c + d = 0 , which of the following statements are correct : (a) a , b , c , and d must each be a null vector, (b) The magnitude of ( a + c ) equals the magnitude of ( b + d ), (c) The magnitude of a can never be greater than the sum of the magnitudes of b , c , and d , (d) b + c must lie in the plane of a and d if a and d are not collinear, and in the line of a and d , if they are collinear ?
+
+Question 3.8
+Three girls skating on a circular ice ground of radius 200 m start from a point P on the edge of the ground and reach a point Q diametrically opposite to P following different paths as shown in Fig. 3.19. What is the magnitude of the displacement vector for each ? For which girl is this equal to the actual length of path skate ?
+
+Question 3.9
+A cyclist starts from the centre O of a circular park of radius 1 km, reaches the edge P of the park, then cycles along the circumference, and returns to the centre along QO as shown in Fig. 3.20. If the round trip takes 10 min, what is the (a) net displacement, (b) average velocity, and (c) average speed of the cyclist ?
+
+Question 3.10
+On an open ground, a motorist follows a track that turns to his left by an angle of 60 0 after every 500 m. Starting from a given turn, specify the displacement of the motorist at the third, sixth and eighth turn. Compare the magnitude of the displacement with the total path length covered by the motorist in each case.
+
+Question 3.11
+A passenger arriving in a new town wishes to go from the station to a hotel located 10 km away on a straight road from the station. A dishonest cabman takes him along a circuitous path 23 km long and reaches the hotel in 28 min. What is (a) the average speed of the taxi, (b) the magnitude of average velocity ? Are the two equal ?
+
+Question 3.12
+The ceiling of a long hall is 25 m high. What is the maximum horizontal distance that a ball thrown with a speed of 40 m s -1 can go without hitting the ceiling of the hall ?
+
+Question 3.13
+A cricketer can throw a ball to a maximum horizontal distance of 100 m. How much high above the ground can the cricketer throw the same ball ?
+
+Question 3.14
+A stone tied to the end of a string 80 cm long is whirled in a horizontal circle with a constant speed. If the stone makes 14 revolutions in 25 s, what is the magnitude and direction of acceleration of the stone ?
+
+Question 3.15
+An aircraft executes a horizontal loop of radius 1.00 km with a steady speed of 900 km/h. Compare its centripetal acceleration with the acceleration due to gravity.
+
+Question 3.16
+Read each statement below carefully and state, with reasons, if it is true or false : (a) The net acceleration of a particle in circular motion is always along the radius of the circle towards the centre (b) The velocity vector of a particle at a point is always along the tangent to the path of the particle at that point (c) The acceleration vector of a particle in uniform circular motion averaged over one cycle is a null vector
+
+Question 3.17
+The position of a particle is given by ˆ ˆ ˆ 3.0 2.0 4.0 m t t = − + r i j k where t is in seconds and the coefficients have the proper units for r to be in metres. (a) Find the v and a of the particle? (b) What is the magnitude and direction of velocity of the particle at t = 2.0 s ?
+
+Question 3.18
+A particle starts from the origin at t = 0 s with a velocity of 10.0 j ɵ m/s and moves in the x-y plane with a constant acceleration of ( ) 8.0 2.0 ɵ ɵ i j + m s -2 . (a) At what time is the x - coordinate of the particle 16 m? What is the y -coordinate of the particle at that time? (b) What is the speed of the particle at the time ?
+
+Question 3.19
+ɵ i and ɵ j are unit vectors along x - and y - axis respectively. What is the magnitude and direction of the vectors ɵ ɵ i j + , and ɵ ɵ i j − ? What are the components of a vector A = 2 ɵ ɵ i j + 3 along the directions of ɵ ɵ i j + and ɵ ɵ i j − ? [You may use graphical method]
+
+Question 3.20
+For any arbitrary motion in space, which of the following relations are true : (a) v average = (1/2) ( v ( t 1 ) + v ( t 2 )) (b) v average = [ r ( t 2 ) - r ( t 1 ) ] /( t 2 – t 1 ) (c) v ( t ) = v (0) + a t (d) r ( t ) = r (0) + v (0) t + (1/2) a t 2 (e) a average =[ v ( t 2 ) - v ( t 1 )] /( t 2 – t 1 ) (The ‘average’ stands for average of the quantity over the time interval t 1 to t 2 )
+
+Question 3.21
+Read each statement below carefully and state, with reasons and examples, if it is true or false : A scalar quantity is one that (a) is conserved in a process (b) can never take negative values (c) must be dimensionless (d) does not vary from one point to another in space (e) has the same value for observers with different orientations of axes.
+
+Question 3.22
+An aircraft is flying at a height of 3400 m above the ground. If the angle subtended at a ground observation point by the aircraft positions 10.0 s a part is 30°, wat is the speed of the aircraft ?
+
+Question 4.1
+Give the magnitude and direction of the net force acting on (a) a drop of rain falling down with a constant speed, (b) a cork of mass 10 g floating on water, (c) a kite skillfully held stationary in the sky, (d) a car moving with a constant velocity of 30 km/h on a rough road, (e) a high-speed electron in space far from all material objects, and free of electric and magnetic fields.
+
+Question 4.2
+A pebble of mass 0.05 kg is thrown vertically upwards. Give the direction and magnitude of the net force on the pebble, (a) during its upward motion, (b) during its downward motion, (c) at the highest point where it is momentarily at rest. Do your answers change if the pebble was thrown at an angle of 45° with the horizontal direction? Ignore air resistance.
+
+Question 4.3
+Give the magnitude and direction of the net force acting on a stone of mass 0.1 kg, (a) just after it is dropped from the window of a stationary train, (b) just after it is dropped from the window of a train running at a constant velocity of 36 km/h, (c ) just after it is dropped from the window of a train accelerating with 1 m s -2 , (d) lying on the floor of a train which is accelerating with 1 m s -2 , the stone being at rest relative to the train. Neglect air resistance throughout.
+
+Question 4.4
+One end of a string of length l is connected to a particle of mass m and the other to a small peg on a smooth horizontal table. If the particle moves in a circle with speed v the net force on the particle (directed towards the centre) is : , (iv) 0 (i) T, (ii) l mv T − , (iii) l mv + T
+
+Question 4.5
+A constant retarding force of 50 N is applied to a body of mass 20 kg moving initially with a speed of 15 m s -1 . How long does the body take to stop ?
+
+Question 4.6
+A constant force acting on a body of mass 3.0 kg changes its speed from 2.0 m s -1 to 3.5 m s -1 in 25 s. The direction of the motion of the body remains unchanged. What is the magnitude and direction of the force ?
+
+Question 4.7
+A body of mass 5 kg is acted upon by two perpendicular forces 8 N and 6 N. Give the magnitude and direction of the acceleration of the body.
+
+Question 4.8
+The driver of a three-wheeler moving with a speed of 36 km/h sees a child standing in the middle of the road and brings his vehicle to rest in 4.0 s just in time to save the child. What is the average retarding force on the vehicle ? The mass of the three-wheeler is 400 kg and the mass of the driver is 65 kg.
+
+Question 4.9
+A rocket with a lift-off mass 20,000 kg is blasted upwards with an initial acceleration of 5.0 m s -2 . Calculate the initial thrust (force) of the blast.
+
+Question 4.10
+A body of mass 0.40 kg moving initially with a constant speed of 10 m s -1 to the north is subject to a constant force of 8.0 N directed towards the south for 30 s. Take the instant the force is applied to be t = 0, the position of the body at that time to be x = 0, and predict its position at t = –5 s, 25 s, 100 s.
+
+Question 4.11
+A truck starts from rest and accelerates uniformly at 2.0 m s -2 . At t = 10 s, a stone is dropped by a person standing on the top of the truck (6 m high from the ground). What are the (a) velocity, and (b) acceleration of the stone at t = 11s ? (Neglect air resistance.)
+
+Question 4.12
+A bob of mass 0.1 kg hung from the ceiling of a room by a string 2 m long is set into oscillation. The speed of the bob at its mean position is 1 m s -1 . What is the trajectory of the bob if the string is cut when the bob is (a) at one of its extreme positions, (b) at its mean position.
+
+Question 4.13
+A man of mass 70 kg stands on a weighing scale in a lift which is moving (a) upwards with a uniform speed of 10 m s -1 , (b) downwards with a uniform acceleration of 5 m s -2 , (c) upwards with a uniform acceleration of 5 m s -2 . What would be the readings on the scale in each case? (d) What would be the reading if the lift mechanism failed and it hurtled down freely under gravity ?
+
+Question 4.14
+Figure 4.16 shows the position-time graph of a particle of mass 4 kg. What is the (a) force on the particle for t < 0 , t > 4 s, 0 < t < 4 s? (b) impulse at t = 0 and t = 4 s ? (Consider one-dimensional motion only).
+
+Question 4.15
+Two bodies of masses 10 kg and 20 kg respectively kept on a smooth, horizontal surface are tied to the ends of a light string. A horizontal force F = 600 N is applied to (i) A, (ii) B along the direction of string. What is the tension in the string in each case?
+
+Question 4.16
+Two masses 8 kg and 12 kg are connected at the two ends of a light inextensible string that goes over a frictionless pulley. Find the acceleration of the masses, and the tension in the string when the masses are released.
+
+Question 4.17
+A nucleus is at rest in the laboratory frame of reference. Show that if it disintegrates into two smaller nuclei the products must move in opposite directions.
+
+Question 4.18
+Two billiard balls each of mass 0.05 kg moving in opposite directions with speed 6 m s -1 collide and rebound with the same speed. What is the impulse imparted to each ball due to the other ?
+
+Question 4.19
+A shell of mass 0.020 kg is fired by a gun of mass 100 kg. If the muzzle speed of the shell is 80 m s -1 , what is the recoil speed of the gun ?
+
+Question 4.20
+A batsman deflects a ball by an angle of 45° without changing its initial speed which is equal to 54 km/h. What is the impulse imparted to the ball ? (Mass of the ball is 0.15 kg.)
+
+Question 4.21
+A stone of mass 0.25 kg tied to the end of a string is whirled round in a circle of radius 1.5 m with a speed of 40 rev./min in a horizontal plane. What is the tension in the string ? What is the maximum speed with which the stone can be whirled around if the string can withstand a maximum tension of 200 N ?
+
+Question 4.22
+If, in Exercise 4.21, the speed of the stone is increased beyond the maximum permissible value, and the string breaks suddenly, which of the following correctly describes the trajectory of the stone after the string breaks : (a) the stone moves radially outwards, (b) the stone flies off tangentially from the instant the string breaks, (c) the stone flies off at an angle with the tangent whose magnitude depends on the speed of the particle ?
+
+Question 4.23
+Explain why (a) a horse cannot pull a cart and run in empty space, (b) passengers are thrown forward from their seats when a speeding bus stops suddenly, (c) it is easier to pull a lawn mower than to push it, (d) a cricketer moves his hands backwards while holding a catch.
+
+Question 5.1
+The sign of work done by a force on a body is important to understand. State carefully if the following quantities are positive or negative: (a) work done by a man in lifting a bucket out of a well by means of a rope tied to the bucket. (b) work done by gravitational force in the above case, (c) work done by friction on a body sliding down an inclined plane, (d) work done by an applied force on a body moving on a rough horizontal plane with uniform velocity, (e) work done by the resistive force of air on a vibrating pendulum in bringing it to rest.
+
+Question 5.2
+A body of mass 2 kg initially at rest moves under the action of an applied horizontal force of 7 N on a table with coefficient of kinetic friction = 0.1. Compute the (a) work done by the applied force in 10 s, (b) work done by friction in 10 s, (c) work done by the net force on the body in 10 s, (d) change in kinetic energy of the body in 10 s, and interpret your results.
+
+Question 5.3
+Given in Fig. 5.11 are examples of some potential energy functions in one dimension. The total energy of the particle is indicated by a cross on the ordinate axis. In each case, specify the regions, if any, in which the particle cannot be found for the given energy. Also, indicate the minimum total energy the particle must have in each case. Think of simple physical contexts for which these potential energy shapes are relevant.
+
+Question 5.4
+The potential energy function for a particle executing linear simple harmonic motion is given by V ( x ) = kx 2 / 2, where k is the force constant of the oscillator. For k = 0.5 N m -1 , the graph of V ( x ) versus x is shown in Fig. 5.12. Show that a particle of total energy 1 J moving under this potential must ‘turn back’ when it reaches x = ± 2 m.
+
+Question 5.5
+Answer the following : (a) The casing of a rocket in flight burns up due to friction. At whose expense is the heat energy required for burning obtained? The rocket or the atmosphere? (b) Comets move around the sun in highly elliptical orbits. The gravitational force on the comet due to the sun is not normal to the comet’s velocity in general. Yet the work done by the gravitational force over every complete orbit of the comet is zero. Why ? (c) An artificial satellite orbiting the earth in very thin atmosphere loses its energy gradually due to dissipation against atmospheric resistance, however small. Why then does its speed increase progressively as it comes closer and closer to the earth ? (d) In Fig. 5.13(i) the man walks 2 m carrying a mass of 15 kg on his hands. In Fig. 5.13(ii), he walks the same distance pulling the rope behind him. The rope goes over a pulley, and a mass of 15 kg hangs at its other end. In which case is the work done greater ?
+
+Question 5.6
+Underline the correct alternative : (a) When a conservative force does positive work on a body, the potential energy of the body increases/decreases/remains unaltered. (b) Work done by a body against friction always results in a loss of its kinetic/potential energy. (c) The rate of change of total momentum of a many-particle system is proportional to the external force/sum of the internal forces on the system. (d) In an inelastic collision of two bodies, the quantities which do not change after the collision are the total kinetic energy/total linear momentum/total energy of the system of two bodies.
+
+Question 5.7
+State if each of the following statements is true or false. Give reasons for your answer. (a) In an elastic collision of two bodies, the momentum and energy of each body is conserved. (b) Total energy of a system is always conserved, no matter what internal and external forces on the body are present. (c) Work done in the motion of a body over a closed loop is zero for every force in nature. (d) In an inelastic collision, the final kinetic energy is always less than the initial kinetic energy of the system.
+
+Question 5.8
+Answer carefully, with reasons : (a) In an elastic collision of two billiard balls, is the total kinetic energy conserved during the short time of collision of the balls (i.e. when they are in contact) ? (b) Is the total linear momentum conserved during the short time of an elastic collision of two balls ?
+
+Question 5.9
+A body is initially at rest. It undergoes one-dimensional motion with constant acceleration. The power delivered to it at time t is proportional to (i) t 1/2 (ii) t (iii) t 3/2 (iv) t 2
+
+Question 5.10
+A body is moving unidirectionally under the influence of a source of constant power. Its displacement in time t is proportional to (i) t 1/2 (ii) t (iii) t 3/2 (iv) t 2
+
+Question 5.11
+A body constrained to move along the z-axis of a coordinate system is subject to a constant force F given by N ˆ ˆ ˆ k j i F + + − = where k ,j ,i ˆ ˆ ˆ are unit vectors along the x -, y - and z -axis of the system respectively. What is the work done by this force in moving the body a distance of 4 m along the z -axis ?
+
+Question 5.12
+An electron and a proton are detected in a cosmic ray experiment, the first with kinetic energy 10 keV, and the second with 100 keV. Which is faster, the electron or the proton ? Obtain the ratio of their speeds. (electron mass = 9.11 × 10 -31 kg, proton mass = 1.67 × 10 –27 kg, 1 eV = 1.60 × 10 –19 J).
+
+Question 5.13
+A rain drop of radius 2 mm falls from a height of 500 m above the ground. It falls with decreasing acceleration (due to viscous resistance of the air) until at half its original height, it attains its maximum (terminal) speed, and moves with uniform speed thereafter. What is the work done by the gravitational force on the drop in the first and second half of its journey ? What is the work done by the resistive force in the entire journey if its speed on reaching the ground is 10 m s –1 ?
+
+Question 5.14
+A molecule in a gas container hits a horizontal wall with speed 200 m s –1 and angle 30° with the normal, and rebounds with the same speed. Is momentum conserved in the collision ? Is the collision elastic or inelastic ?
+
+Question 5.15
+A pump on the ground floor of a building can pump up water to fill a tank of volume 30 m 3 in 15 min. If the tank is 40 m above the ground, and the efficiency of the pump is 30%, how much electric power is consumed by the pump ?
+
+Question 5.16
+Two identical ball bearings in contact with each other and resting on a frictionless table are hit head-on by another ball bearing of the same mass moving initially with a speed V . If the collision is elastic, which of the following (Fig. 5.14) is a possible result after collision ?
+
+Question 5.17
+The bob A of a pendulum released from 30 o to the vertical hits another bob B of the same mass at rest on a table as shown in Fig. 5.15. How high does the bob A rise after the collision ? Neglect the size of the bobs and assume the collision to be elastic.
+
+Question 5.18
+The bob of a pendulum is released from a horizontal position. If the length of the pendulum is 1.5 m, what is the speed with which the bob arrives at the lowermost point, given that it dissipated 5% of its initial energy against air resistance ?
+
+Question 5.19
+A trolley of mass 300 kg carrying a sandbag of 25 kg is moving uniformly with a speed of 27 km/h on a frictionless track. After a while, sand starts leaking out of a hole on the floor of the trolley at the rate of 0.05 kg s –1 . What is the speed of the trolley after the entire sand bag is empty ?
+
+Question 5.20
+A body of mass 0.5 kg travels in a straight line with velocity v = a x 3/2 where a = 5 m –1/2 s –1 . What is the work done by the net force during its displacement from x = 0 to x = 2 m ?
+
+Question 5.21
+The blades of a windmill sweep out a circle of area A . (a) If the wind flows at a velocity v perpendicular to the circle, what is the mass of the air passing through it in time t ? (b) What is the kinetic energy of the air ? (c) Assume that the windmill converts 25% of the wind’s energy into electrical energy, and that A = 30 m 2 , v = 36 km/h and the density of air is 1.2 kg m –3 . What is the electrical power produced ?
+
+Question 5.22
+A person trying to lose weight (dieter) lifts a 10 kg mass, one thousand times, to a height of 0.5 m each time. Assume that the potential energy lost each time she lowers the mass is dissipated. (a) How much work does she do against the gravitational force ? (b) Fat supplies 3.8 × 10 7 J of energy per kilogram which is converted to mechanical energy with a 20% efficiency rate. How much fat will the dieter use up?
+
+Question 5.23
+A family uses 8 kW of power. (a) Direct solar energy is incident on the horizontal surface at an average rate of 200 W per square meter. If 20% of this energy can be converted to useful electrical energy, how large an area is needed to supply 8 kW? (b) Compare this area to that of the roof of a typical house.
+
+Question 6.1
+Give the location of the centre of mass of a (i) sphere, (ii) cylinder, (iii) ring, and (iv) cube, each of uniform mass density. Does the centre of mass of a body necessarily lie inside the body ?
+
+Question 6.2
+In the HCl molecule, the separation between the nuclei of the two atoms is about 1.27 Å (1 Å = 10 - 10 m). Find the approximate location of the CM of the molecule, given that a chlorine atom is about 35.5 times as massive as a hydrogen atom and nearly all the mass of an atom is concentrated in its nucleus.
+
+Question 6.3
+A child sits stationary at one end of a long trolley moving uniformly with a speed V on a smooth horizontal floor. If the child gets up and runs about on the trolley in any manner, what is the speed of the CM of the (trolley + child) system ?
+
+Question 6.4
+Show that the area of the triangle contained between the vectors a and b is one half of the magnitude of a × b .
+
+Question 6.5
+Show that a . ( b × c ) is equal in magnitude to the volume of the parallelepiped formed on the three vectors , a , b and c .
+
+Question 6.6
+Find the components along the x, y, z axes of the angular momentum l of a particle, whose position vector is r with components x , y , z and momentum is p with components p x , p y and p z . Show that if the particle moves only in the x - y plane the angular momentum has only a z -component.
+
+Question 6.7
+Two particles, each of mass m and speed v , travel in opposite directions along parallel lines separated by a distance d . Show that the angular momentum vector of the two particle system is the same whatever be the point about which the angular momentum is taken.
+
+Question 6.8
+A non-uniform bar of weight W is suspended at rest by two strings of negligible weight as shown in Fig.6.33. The angles made by the strings with the vertical are 36.9 ° and 53.1 ° respectively. The bar is 2 m long. Calculate the distance d of the centre of gravity of the bar from its left end.
+
+Question 6.9
+A car weighs 1800 kg. The distance between its front and back axles is 1.8 m. Its centre of gravity is 1.05 m behind the front axle. Determine the force exerted by the level ground on each front wheel and each back wheel.
+
+Question 6.10
+Torques of equal magnitude are applied to a hollow cylinder and a solid sphere, both having the same mass and radius. The cylinder is free to rotate about its standard axis of symmetry, and the sphere is free to rotate about an axis passing through its centre. Which of the two will acquire a greater angular speed after a given time.
+
+Question 6.11
+A solid cylinder of mass 20 kg rotates about its axis with angular speed 100 rad s -1 . The radius of the cylinder is 0.25 m. What is the kinetic energy associated with the rotation of the cylinder? What is the magnitude of angular momentum of the cylinder about its axis?
+
+Question 6.12
+(a) A child stands at the centre of a turntable with his two arms outstretched. The turntable is set rotating with an angular speed of 40 rev/min. How much is the angular speed of the child if he folds his hands back and thereby reduces his moment of inertia to 2/5 times the initial value ? Assume that the turntable rotates without friction. (b) Show that the child’s new kinetic energy of rotation is more than the initial kinetic energy of rotation. How do you account for this increase in kinetic energy?
+
+Question 6.13
+A rope of negligible mass is wound round a hollow cylinder of mass 3 kg and radius 40 cm. What is the angular acceleration of the cylinder if the rope is pulled with a force of 30 N ? What is the linear acceleration of the rope ? Assume that there is no slipping.
+
+Question 6.14
+To maintain a rotor at a uniform angular speed of 200 rad s -1 , an engine needs to transmit a torque of 180 N m. What is the power required by the engine ? (Note: uniform angular velocity in the absence of friction implies zero torque. In practice, applied torque is needed to counter frictional torque). Assume that the engine is 100% efficient.
+
+Question 6.15
+From a uniform disk of radius R , a circular hole of radius R /2 is cut out. The centre of the hole is at R /2 from the centre of the original disc. Locate the centre of gravity of the resulting flat body.
+
+Question 6.16
+A metre stick is balanced on a knife edge at its centre. When two coins, each of mass 5 g are put one on top of the other at the 12.0 cm mark, the stick is found to be balanced at 45.0 cm. What is the mass of the metre stick?
+
+Question 6.17
+The oxygen molecule has a mass of 5.30 × 10 -26 kg and a moment of inertia of 1.94 × 10 -46 kg m 2 about an axis through its centre perpendicular to the lines joining the two atoms. Suppose the mean speed of such a molecule in a gas is 500 m/s and that its kinetic energy of rotation is two thirds of its kinetic energy of translation. Find the average angular velocity of the molecule.
+
+Question 7.1
+Answer the following : (a) You can shield a charge from electrical forces by putting it inside a hollow conductor. Can you shield a body from the gravitational influence of nearby matter by putting it inside a hollow sphere or by some other means ? (b) An astronaut inside a small space ship orbiting around the earth cannot detect gravity. If the space station orbiting around the earth has a large size, can he hope to detect gravity ? (c) If you compare the gravitational force on the earth due to the sun to that due to the moon, you would find that the Sun’s pull is greater than the moon’s pull. (you can check this yourself using the data available in the succeeding exercises). However, the tidal effect of the moon’s pull is greater than the tidal effect of sun. Why ?
+
+Question 7.2
+Choose the correct alternative : (a) Acceleration due to gravity increases/decreases with increasing altitude. (b) Acceleration due to gravity increases/decreases with increasing depth (assume the earth to be a sphere of uniform density). (c) Acceleration due to gravity is independent of mass of the earth/mass of the body. (d) The formula – G Mm (1/ r 2 – 1/ r 1 ) is more/less accurate than the formula mg ( r 2 – r 1 ) for the difference of potential energy between two points r 2 and r 1 distance away from the centre of the earth.
+
+Question 7.3
+Suppose there existed a planet that went around the Sun twice as fast as the earth. What would be its orbital size as compared to that of the earth ?
+
+Question 7.4
+Io, one of the satellites of Jupiter, has an orbital period of 1.769 days and the radius of the orbit is 4.22 × 10 8 m. Show that the mass of Jupiter is about one-thousandth that of the sun.
+
+Question 7.5
+Let us assume that our galaxy consists of 2.5 × 10 11 stars each of one solar mass. How long will a star at a distance of 50,000 ly from the galactic centre take to complete one revolution ? Take the diameter of the Milky Way to be 10 5 ly.
+
+Question 7.6
+Choose the correct alternative: (a) If the zero of potential energy is at infinity, the total energy of an orbiting satellite is negative of its kinetic/potential energy. (b) The energy required to launch an orbiting satellite out of earth’s gravitational influence is more/less than the energy required to project a stationary object at the same height (as the satellite) out of earth’s influence.
+
+Question 7.7
+Does the escape speed of a body from the earth depend on (a) the mass of the body, (b) the location from where it is projected, (c) the direction of projection, (d) the height of the location from where the body is launched?
+
+Question 7.8
+A comet orbits the sun in a highly elliptical orbit. Does the comet have a constant (a) linear speed, (b) angular speed, (c) angular momentum, (d) kinetic energy, (e) potential energy, (f) total energy throughout its orbit? Neglect any mass loss of the comet when it comes very close to the Sun.
+
+Question 7.9
+Which of the following symptoms is likely to afflict an astronaut in space (a) swollen feet, (b) swollen face, (c) headache, (d) orientational problem.
+
+Question 7.10
+In the following two exercises, choose the correct answer from among the given ones: The gravitational intensity at the centre of a hemispherical shell of uniform mass density has the direction indicated by the arrow (see Fig 7.11) (i) a, (ii) b, (iii) c, (iv) 0.
+
+Question 7.11
+For the above problem, the direction of the gravitational intensity at an arbitrary point P is indicated by the arrow (i) d, (ii) e, (iii) f, (iv) g.
+
+Question 7.12
+A rocket is fired from the earth towards the sun. At what distance from the earth’s centre is the gravitational force on the rocket zero ? Mass of the sun = 2 × 10 30 kg, mass of the earth = 6 × 10 24 kg. Neglect the effect of other planets etc. (orbital radius = 1.5 × 10 11 m).
+
+Question 7.13
+How will you ‘weigh the sun’, that is estimate its mass? The mean orbital radius of the earth around the sun is 1.5 × 10 8 km.
+
+Question 7.14
+A saturn year is 29.5 times the earth year. How far is the saturn from the sun if the earth is 1.50 × 10 8 km away from the sun ?
+
+Question 7.15
+A body weighs 63 N on the surface of the earth. What is the gravitational force on it due to the earth at a height equal to half the radius of the earth ?
+
+Question 7.16
+Assuming the earth to be a sphere of uniform mass density, how much would a body weigh half way down to the centre of the earth if it weighed 250 N on the surface ?
+
+Question 7.17
+A rocket is fired vertically with a speed of 5 km s -1 from the earth’s surface. How far from the earth does the rocket go before returning to the earth ? Mass of the earth = 6.0 × 10 24 kg; mean radius of the earth = 6.4 × 10 6 m; G = 6.67 × 10 –11 N m 2 kg – 2 .
+
+Question 7.18
+The escape speed of a projectile on the earth’s surface is 11.2 km s –1 . A body is projected out with thrice this speed. What is the speed of the body far away from the earth? Ignore the presence of the sun and other planets.
+
+Question 7.19
+A satellite orbits the earth at a height of 400 km above the surface. How much energy must be expended to rocket the satellite out of the earth’s gravitational influence? Mass of the satellite = 200 kg; mass of the earth = 6.0 × 10 24 kg; radius of the earth = 6.4 × 10 6 m; G = 6.67 × 10 –11 N m 2 kg – 2 .
+
+Question 7.20
+Two stars each of one solar mass (= 2 × 10 30 kg) are approaching each other for a head on collision. When they are a distance 10 9 km, their speeds are negligible. What is the speed with which they collide ? The radius of each star is 10 4 km. Assume the stars to remain undistorted until they collide. (Use the known value of G ).
+
+Question 7.21
+Two heavy spheres each of mass 100 kg and radius 0.10 m are placed 1.0 m apart on a horizontal table. What is the gravitational force and potential at the mid point of the line joining the centres of the spheres ? Is an object placed at that point in equilibrium? If so, is the equilibrium stable or unstable ?
+
+Question 8.1
+A steel wire of length 4.7 m and cross-sectional area 3.0 × 10 -5 m 2 stretches by the same amount as a copper wire of length 3.5 m and cross-sectional area of 4.0 × 10 –5 m 2 under a given load. What is the ratio of the Young’s modulus of steel to that of copper?
+
+Question 8.2
+Figure 8.9 shows the strain-stress curve for a given material. What are (a) Young’s modulus and (b) approximate yield strength for this material?
+
+Question 8.3
+The stress-strain graphs for materials A and B are shown in Fig. 8.10.
+
+Question 8.4
+Read the following two statements below carefully and state, with reasons, if it is true or false. (a) The Young’s modulus of rubber is greater than that of steel; (b) The stretching of a coil is determined by its shear modulus.
+
+Question 8.5
+Two wires of diameter 0.25 cm, one made of steel and the other made of brass are loaded as shown in Fig. 8.11. The unloaded length of steel wire is 1.5 m and that of brass wire is 1.0 m. Compute the elongations of the steel and the brass wires.
+
+Question 8.6
+The edge of an aluminium cube is 10 cm long. One face of the cube is firmly fixed to a vertical wall. A mass of 100 kg is then attached to the opposite face of the cube. The shear modulus of aluminium is 25 GPa. What is the vertical deflection of this face?
+
+Question 8.7
+Four identical hollow cylindrical columns of mild steel support a big structure of mass 50,000 kg. The inner and outer radii of each column are 30 and 60 cm respectively. Assuming the load distribution to be uniform, calculate the compressional strain of each column.
+
+Question 8.8
+A piece of copper having a rectangular cross-section of 15.2 mm × 19.1 mm is pulled in tension with 44,500 N force, producing only elastic deformation. Calculate the resulting strain?
+
+Question 8.9
+A steel cable with a radius of 1.5 cm supports a chairlift at a ski area. If the maximum stress is not to exceed 10 8 N m –2 , what is the maximum load the cable can support ?
+
+Question 8.10
+A rigid bar of mass 15 kg is supported symmetrically by three wires each 2.0 m long. Those at each end are of copper and the middle one is of iron. Determine the ratios of their diameters if each is to have the same tension.
+
+Question 8.11
+A 14.5 kg mass, fastened to the end of a steel wire of unstretched length 1.0 m, is whirled in a vertical circle with an angular velocity of 2 rev/s at the bottom of the circle. The cross-sectional area of the wire is 0.065 cm 2 . Calculate the elongation of the wire when the mass is at the lowest point of its path.
+
+Question 8.12
+Compute the bulk modulus of water from the following data: Initial volume = 100.0 litre, Pressure increase = 100.0 atm (1 atm = 1.013 × 10 5 Pa), Final volume = 100.5 litre. Compare the bulk modulus of water with that of air (at constant temperature). Explain in simple terms why the ratio is so large.
+
+Question 8.13
+What is the density of water at a depth where pressure is 80.0 atm, given that its density at the surface is 1.03 × 103 kg m –3 ?
+
+Question 8.14
+Compute the fractional change in volume of a glass slab, when subjected to a hydraulic pressure of 10 atm.
+
+Question 8.15
+Determine the volume contraction of a solid copper cube, 10 cm on an edge, when subjected to a hydraulic pressure of 7.0 × 10 6 Pa.
+
+Question 8.16
+How much should the pressure on a litre of water be changed to compress it by 0.10%? carry one quarter of the load.
+
+Question 10.1
+The triple points of neon and carbon dioxide are 24.57 K and 216.55 K respectively. Express these temperatures on the Celsius and Fahrenheit scales.
+
+Question 10.2
+Two absolute scales A and B have triple points of water defined to be 200 A and 350 B. What is the relation between T A and T B ?
+
+Question 10.3
+The electrical resistance in ohms of a certain thermometer varies with temperature according to the approximate law : R = R o [1 + α ( T – T o )] The resistance is 101.6 Ω at the triple-point of water 273.16 K, and 165.5 Ω at the normal melting point of lead (600.5 K). What is the temperature when the resistance is 123.4 Ω ?
+
+Question 10.4
+Answer the following : (a) The triple-point of water is a standard fixed point in modern thermometry. Why ? What is wrong in taking the melting point of ice and the boiling point of water as standard fixed points (as was originally done in the Celsius scale) ? (b) There were two fixed points in the original Celsius scale as mentioned above which were assigned the number 0 ° C and 100 ° C respectively. On the absolute scale, one of the fixed points is the triple-point of water, which on the Kelvin absolute scale is assigned the number 273.16 K. What is the other fixed point on this (Kelvin) scale ? (c) The absolute temperature (Kelvin scale) T is related to the temperature t c on the Celsius scale by t c = T – 273.15 Why do we have 273.15 in this relation, and not 273.16 ? (d) What is the temperature of the triple-point of water on an absolute scale whose unit interval size is equal to that of the Fahrenheit scale ?
+
+Question 10.5
+Two ideal gas thermometers A and B use oxygen and hydrogen respectively. The following observations are made :
+
+Question 10.6
+A steel tape 1m long is correctly calibrated for a temperature of 27.0 ° C. The length of a steel rod measured by this tape is found to be 63.0 cm on a hot day when the temperature is 45.0 ° C. What is the actual length of the steel rod on that day ? What is the length of the same steel rod on a day when the temperature is 27.0 ° C ? Coefficient of linear expansion of steel = 1.20 × 10 –5 K –1 .
+
+Question 10.7
+A large steel wheel is to be fitted on to a shaft of the same material. At 27 ° C, the outer diameter of the shaft is 8.70 cm and the diameter of the central hole in the wheel is 8.69 cm. The shaft is cooled using ‘dry ice’. At what temperature of the shaft does the wheel slip on the shaft? Assume coefficient of linear expansion of the steel to be constant over the required temperature range : α steel = 1.20 × 10 –5 K –1 .
+
+Question 10.8
+A hole is drilled in a copper sheet. The diameter of the hole is 4.24 cm at 27.0 ° C. What is the change in the diameter of the hole when the sheet is heated to 227 ° C? Coefficient of linear expansion of copper = 1.70 × 10 –5 K –1 .
+
+Question 10.9
+A brass wire 1.8 m long at 27 ° C is held taut with little tension between two rigid supports. If the wire is cooled to a temperature of –39 ° C, what is the tension developed in the wire, if its diameter is 2.0 mm ? Co-efficient of linear expansion of brass = 2.0 × 10 –5 K –1 ; Young’s modulus of brass = 0.91 × 10 11 Pa.
+
+Question 10.10
+A brass rod of length 50 cm and diameter 3.0 mm is joined to a steel rod of the same length and diameter. What is the change in length of the combined rod at 250 ° C, if the original lengths are at 40.0 ° C? Is there a ‘thermal stress’ developed at the junction ? The ends of the rod are free to expand (Co-efficient of linear expansion of brass = 2.0 × 10 –5 K –1 , steel = 1.2 × 10 –5 K –1 ).
+
+Question 10.11
+The coefficient of volume expansion of glycerine is 49 × 10 –5 K –1 . What is the fractional change in its density for a 30 ° C rise in temperature ?
+
+Question 10.12
+A 10 kW drilling machine is used to drill a bore in a small aluminium block of mass 8.0 kg. How much is the rise in temperature of the block in 2.5 minutes, assuming 50% of power is used up in heating the machine itself or lost to the surroundings. Specific heat of aluminium = 0.91 J g –1 K –1 .
+
+Question 10.13
+A copper block of mass 2.5 kg is heated in a furnace to a temperature of 500 ° C and then placed on a large ice block. What is the maximum amount of ice that can melt? (Specific heat of copper = 0.39 J g –1 K –1 ; heat of fusion of water = 335 J g –1 ).
+
+Question 10.14
+In an experiment on the specific heat of a metal, a 0.20 kg block of the metal at 150 ° C is dropped in a copper calorimeter (of water equivalent 0.025 kg) containing 150 cm 3 of water at 27 ° C. The final temperature is 40 ° C. Compute the specific heat of the metal. If heat losses to the surroundings are not negligible, is your answer greater or smaller than the actual value for specific heat of the metal ?
+
+Question 10.15
+Given below are observations on molar specific heats at room temperature of some common gases.
+
+Question 10.16
+A child running a temperature of 101 ° F is given an antipyrin (i.e. a medicine that lowers fever) which causes an increase in the rate of evaporation of sweat from his body. If the fever is brought down to 98 ° F in 20 minutes, what is the average rate of extra evaporation caused, by the drug. Assume the evaporation mechanism to be the only way by which heat is lost. The mass of the child is 30 kg. The specific heat of human body is approximately the same as that of water, and latent heat of evaporation of water at that temperature is about 580 cal g –1 .
+
+Question 10.17
+A ‘thermacole’ icebox is a cheap and an efficient method for storing small quantities of cooked food in summer in particular. A cubical icebox of side 30 cm has a thickness of 5.0 cm. If 4.0 kg of ice is put in the box, estimate the amount of ice remaining after 6 h. The outside temperature is 45 ° C, and co-efficient of thermal conductivity of thermacole is 0.01 J s –1 m –1 K –1 . [Heat of fusion of water = 335 × 10 3 J kg –1 ]
+
+Question 10.18
+A brass boiler has a base area of 0.15 m 2 and thickness 1.0 cm. It boils water at the rate of 6.0 kg/min when placed on a gas stove. Estimate the temperature of the part of the flame in contact with the boiler. Thermal conductivity of brass = 109 J s –1 m –1 K –1 ; Heat of vaporisation of water = 2256 × 10 3 J kg –1 .
+
+Question 10.19
+Explain why : (a) a body with large reflectivity is a poor emitter (b) a brass tumbler feels much colder than a wooden tray on a chilly day (c) an optical pyrometer (for measuring high temperatures) calibrated for an ideal black body radiation gives too low a value for the temperature of a red hot iron piece in the open, but gives a correct value for the temperature when the same piece is in the furnace (d) the earth without its atmosphere would be inhospitably cold (e) heating systems based on circulation of steam are more efficient in warming a building than those based on circulation of hot water
+
+Question 10.20
+A body cools from 80 ° C to 50 ° C in 5 minutes. Calculate the time it takes to cool from 60 ° C to 30 ° C. The temperature of the surroundings is 20 ° C.
+
+Question 11.1
+A geyser heats water flowing at the rate of 3.0 litres per minute from 27 ° C to 77 ° C. If the geyser operates on a gas burner, what is the rate of consumption of the fuel if its heat of combustion is 4.0 × 10 4 J/g ?
+
+Question 11.2
+What amount of heat must be supplied to 2.0 × 10 –2 kg of nitrogen (at room temperature) to raise its temperature by 45 ° C at constant pressure ? (Molecular mass of N 2 = 28; R = 8.3 J mol –1 K –1 .)
+
+Question 11.3
+Explain why (a) Two bodies at different temperatures T 1 and T 2 if brought in thermal contact do not necessarily settle to the mean temperature ( T 1 + T 2 )/2. (b) The coolant in a chemical or a nuclear plant (i.e., the liquid used to prevent the different parts of a plant from getting too hot) should have high specific heat. (c) Air pressure in a car tyre increases during driving. (d) The climate of a harbour town is more temperate than that of a town in a desert at the same latitude.
+
+Question 11.4
+A cylinder with a movable piston contains 3 moles of hydrogen at standard temperature and pressure. The walls of the cylinder are made of a heat insulator, and the piston is insulated by having a pile of sand on it. By what factor does the pressure of the gas increase if the gas is compressed to half its original volume ?
+
+Question 11.5
+In changing the state of a gas adiabatically from an equilibrium state A to another equilibrium state B , an amount of work equal to 22.3 J is done on the system. If the gas is taken from state A to B via a process in which the net heat absorbed by the system is 9.35 cal, how much is the net work done by the system in the latter case ? (Take 1 cal = 4.19 J)
+
+Question 11.6
+Two cylinders A and B of equal capacity are connected to each other via a stopcock. A contains a gas at standard temperature and pressure. B is completely evacuated. The entire system is thermally insulated. The stopcock is suddenly opened. Answer the following : (a) What is the final pressure of the gas in A and B ? (b) What is the change in internal energy of the gas ? (c) What is the change in the temperature of the gas ? (d) Do the intermediate states of the system (before settling to the final equilibrium state) lie on its P-V-T surface ?
+
+Question 11.7
+An electric heater supplies heat to a system at a rate of 100W. If system performs work at a rate of 75 joules per second. At what rate is the internal energy increasing?
+
+Question 11.8
+A thermodynamic system is taken from an original state to an intermediate state by the linear process shown in Fig. (11.13)
+
+Question 12.1
+Estimate the fraction of molecular volume to the actual volume occupied by oxygen gas at STP. Take the diameter of an oxygen molecule to be 3 Å.
+
+Question 12.2
+Molar volume is the volume occupied by 1 mol of any (ideal) gas at standard temperature and pressure (STP : 1 atmospheric pressure, 0 ° C). Show that it is 22.4 litres.
+
+Question 12.3
+Figure 12.8 shows plot of PV/T versus P for 1.00 × 10 –3 kg of oxygen gas at two different temperatures. y
+
+Question 12.4
+An oxygen cylinder of volume 30 litre has an initial gauge pressure of 15 atm and a temperature of 27 ° C. After some oxygen is withdrawn from the cylinder, the gauge pressure drops to 11 atm and its temperature drops to 17 ° C. Estimate the mass of oxygen taken out of the cylinder ( R = 8.31 J mol –1 K –1 , molecular mass of O 2 = 32 u).
+
+Question 12.5
+An air bubble of volume 1.0 cm 3 rises from the bottom of a lake 40 m deep at a temperature of 12 ° C. To what volume does it grow when it reaches the surface, which is at a temperature of 35 ° C ?
+
+Question 12.6
+Estimate the total number of air molecules (inclusive of oxygen, nitrogen, water vapour and other constituents) in a room of capacity 25.0 m 3 at a temperature of 27 ° C and 1 atm pressure.
+
+Question 12.7
+Estimate the average thermal energy of a helium atom at (i) room temperature (27 ° C), (ii) the temperature on the surface of the Sun (6000 K), (iii) the temperature of 10 million kelvin (the typical core temperature in the case of a star).
+
+Question 12.8
+Three vessels of equal capacity have gases at the same temperature and pressure. The first vessel contains neon (monatomic), the second contains chlorine (diatomic), and the third contains uranium hexafluoride (polyatomic). Do the vessels contain equal number of respective molecules ? Is the root mean square speed of molecules the same in the three cases? If not, in which case is v rms the largest ?
+
+Question 12.9
+At what temperature is the root mean square speed of an atom in an argon gas cylinder equal to the rms speed of a helium gas atom at – 20 ° C ? (atomic mass of Ar = 39.9 u, of He = 4.0 u).
+
+Question 12.10
+Estimate the mean free path and collision frequency of a nitrogen molecule in a cylinder containing nitrogen at 2.0 atm and temperature 17 0 C. Take the radius of a nitrogen molecule to be roughly 1.0 Å. Compare the collision time with the time the molecule moves freely between two successive collisions (Molecular mass of N 2 = 28.0 u).
+
+Question 14.1
+A string of mass 2.50 kg is under a tension of 200 N. The length of the stretched string is 20.0 m. If the transverse jerk is struck at one end of the string, how long does the disturbance take to reach the other end?
+
+Question 14.2
+A stone dropped from the top of a tower of height 300 m splashes into the water of a pond near the base of the tower. When is the splash heard at the top given that the speed of sound in air is 340 m s –1 ? ( g = 9.8 m s –2 )
+
+Question 14.3
+A steel wire has a length of 12.0 m and a mass of 2.10 kg. What should be the tension in the wire so that speed of a transverse wave on the wire equals the speed of sound in dry air at 20 ° C = 343 m s –1 .
+
+Question 14.4
+Use the formula v P = γ to explain why the speed of sound in air ρ (a) is independent of pressure, (b) increases with temperature, (c) increases with humidity.
+
+Question 14.5
+You have learnt that a travelling wave in one dimension is represented by a function y = f (x, t) where x and t must appear in the combination x – v t or x + v t , i.e. y = f (x ± v t) . Is the converse true? Examine if the following functions for y can possibly represent a travelling wave : (a) ( x – vt ) 2 (b) log [( x + vt )/ x 0 ] (c) 1/( x + vt )
+
+Question 14.6
+A bat emits ultrasonic sound of frequency 1000 kHz in air. If the sound meets a water surface, what is the wavelength of (a) the reflected sound, (b) the transmitted sound? Speed of sound in air is 340 m s –1 and in water 1486 m s –1 .
+
+Question 14.7
+A hospital uses an ultrasonic scanner to locate tumours in a tissue. What is the wavelength of sound in the tissue in which the speed of sound is 1.7 km s –1 ? The operating frequency of the scanner is 4.2 MHz.
+
+Question 14.8
+A transverse harmonic wave on a string is described by y(x, t) = 3.0 sin (36 t + 0.018 x + π /4) where x and y are in cm and t in s. The positive direction of x is from left to right. (a) Is this a travelling wave or a stationary wave ? If it is travelling, what are the speed and direction of its propagation ? (b) What are its amplitude and frequency ? (c) What is the initial phase at the origin ? (d) What is the least distance between two successive crests in the wave ?
+
+Question 14.9
+For the wave described in Exercise 14.8, plot the displacement ( y ) versus ( t ) graphs for x = 0, 2 and 4 cm. What are the shapes of these graphs? In which aspects does the oscillatory motion in travelling wave differ from one point to another: amplitude, frequency or phase ?
+
+Question 14.10
+For the travelling harmonic wave y ( x, t ) = 2.0 cos 2 π (10 t – 0.0080 x + 0.35) where x and y are in cm and t in s. Calculate the phase difference between oscillatory motion of two points separated by a distance of (a) 4 m, (b) 0.5 m, (c) λ /2, (d) 3 λ /4
+
+Question 14.11
+The transverse displacement of a string (clamped at its both ends) is given by y ( x, t ) = 0.06 sin π x       cos (120 π t ) where x and y are in m and t in s. The length of the string is 1.5 m and its mass is 3.0 × 10 –2 kg. Answer the following : (a) Does the function represent a travelling wave or a stationary wave? (b) Interpret the wave as a superposition of two waves travelling in opposite directions. What is the wavelength, frequency, and speed of each wave ?
+
+Question 14.12
+(i) For the wave on a string described in Exercise 15.11, do all the points on the string oscillate with the same (a) frequency, (b) phase, (c) amplitude? Explain your answers. (ii) What is the amplitude of a point 0.375 m away from one end?
+
+Question 14.13
+Given below are some functions of x and t to represent the displacement (transverse or longitudinal) of an elastic wave. State which of these represent (i) a travelling wave, (ii) a stationary wave or (iii) none at all: (a) y = 2 cos (3 x ) sin (10 t ) (b) y x vt = − (c) y = 3 sin (5 x – 0.5 t ) + 4 cos (5 x – 0.5 t ) (d) y = cos x sin t + cos 2 x sin 2 t
+
+Question 14.14
+A wire stretched between two rigid supports vibrates in its fundamental mode with a frequency of 45 Hz. The mass of the wire is 3.5 × 10 –2 kg and its linear mass density is 4.0 × 10 –2 kg m –1 . What is (a) the speed of a transverse wave on the string, and (b) the tension in the string?
+
+Question 14.15
+A metre-long tube open at one end, with a movable piston at the other end, shows resonance with a fixed frequency source (a tuning fork of frequency 340 Hz) when the tube length is 25.5 cm or 79.3 cm. Estimate the speed of sound in air at the temperature of the experiment. The edge effects may be neglected.
+
+Question 14.16
+A steel rod 100 cm long is clamped at its middle. The fundamental frequency of longitudinal vibrations of the rod are given to be 2.53 kHz. What is the speed of sound in steel?
+
+Question 14.17
+A pipe 20 cm long is closed at one end. Which harmonic mode of the pipe is resonantly excited by a 430 Hz source ? Will the same source be in resonance with the pipe if both ends are open? (speed of sound in air is 340 m s –1 ).
+
+Question 14.18
+Two sitar strings A and B playing the note ‘ Ga ’ are slightly out of tune and produce beats of frequency 6 Hz. The tension in the string A is slightly reduced and the beat frequency is found to reduce to 3 Hz. If the original frequency of A is 324 Hz, what is the frequency of B? 14.19 Explain why (or how): (a) in a sound wave, a displacement node is a pressure antinode and vice versa, (b) bats can ascertain distances, directions, nature, and sizes of the obstacles without any “eyes”, (c) a violin note and sitar note may have the same frequency, yet we can distinguish between the two notes, (d) solids can support both longitudinal and transverse waves, but only longitudinal waves can propagate in gases, and (e) the shape of a pulse gets distorted during propagation in a dispersive medium.
+

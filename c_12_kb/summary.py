@@ -1,0 +1,78 @@
+import sqlite3
+
+conn = sqlite3.connect("summaries.db")
+cursor = conn.cursor()
+
+cursor.execute("""
+CREATE TABLE IF NOT EXISTS summaries (
+    chapter_no INTEGER PRIMARY KEY,
+    chapter_title TEXT,
+    summary TEXT
+)
+""")
+
+data = [
+
+(1, "Solutions",
+"""This chapter explains different types of solutions and methods of expressing concentration 
+such as molarity, molality, and mole fraction. It discusses solubility of solids and gases in liquids, 
+vapour pressure of liquid solutions, Raoult’s law, Henry’s law, ideal and non-ideal solutions, 
+colligative properties, and determination of molar mass including abnormal molar masses."""),
+
+(2, "Electrochemistry",
+"""This chapter deals with electrochemical cells including galvanic and electrolytic cells, 
+electrode potentials, Nernst equation, conductance of electrolytic solutions, measurement of conductivity, 
+batteries (primary and secondary), fuel cells, and corrosion. It establishes the relationship between 
+chemical energy and electrical energy."""),
+
+(3, "Chemical Kinetics",
+"""This chapter studies the rate of chemical reactions and factors affecting it such as concentration, 
+temperature, and catalysts. It covers rate laws, order and molecularity of reactions, integrated rate equations 
+for zero and first order reactions, half-life, Arrhenius equation, temperature dependence of rate, 
+and collision theory of chemical reactions."""),
+
+(4, "D- and F-Block Elements",
+"""This chapter discusses the position, electronic configuration, and general properties of transition 
+elements and inner transition elements (lanthanoids and actinoids). It explains oxidation states, magnetic 
+properties, colour, complex formation, catalytic activity, alloy formation, and important compounds of 
+d- and f-block elements along with their applications."""),
+
+(5, "Coordination Compounds",
+"""This chapter introduces Werner’s theory, important terms related to coordination compounds, 
+nomenclature rules, isomerism (geometrical, optical, linkage, ionisation, etc.), bonding theories 
+including valence bond theory and crystal field theory, magnetic properties, colour in complexes, 
+metal carbonyls, and importance and applications of coordination compounds."""),
+
+(6, "Haloalkanes and Haloarenes",
+"""This chapter covers classification and nomenclature of haloalkanes and haloarenes, nature of the 
+carbon-halogen bond, preparation methods, physical properties, and chemical reactions. It also discusses 
+important polyhalogen compounds such as chloroform, carbon tetrachloride, Freons, and DDT along with 
+their environmental effects."""),
+
+(7, "Alcohols, Phenols and Ethers",
+"""This chapter explains classification, nomenclature, and structure of alcohols, phenols, and ethers. 
+It discusses preparation methods, physical and chemical properties, reactions of alcohols and phenols, 
+commercially important alcohols, and preparation and reactions of ethers."""),
+
+(8, "Aldehydes, Ketones and Carboxylic Acids",
+"""This chapter focuses on nomenclature and structure of carbonyl and carboxyl groups. It explains 
+methods of preparation, physical properties, chemical reactions of aldehydes, ketones, and carboxylic acids, 
+including reactions involving bond cleavage, and discusses their uses in daily life and industry."""),
+
+(9, "Amines",
+"""This chapter deals with structure, classification, and nomenclature of amines. It explains methods 
+of preparation, physical and chemical properties, reactions of amines, and preparation and reactions 
+of diazonium salts, highlighting their synthetic importance in organic chemistry."""),
+
+(10, "Biomolecules",
+"""This chapter introduces biologically important molecules including carbohydrates, proteins, enzymes, 
+vitamins, nucleic acids, and hormones. It discusses classification, structure, properties, biological 
+functions, denaturation of proteins, enzyme mechanism, and the role of biomolecules in living systems.""")
+]
+
+cursor.executemany("INSERT OR REPLACE INTO summaries VALUES (?, ?, ?)", data)
+
+conn.commit()
+conn.close()
+
+print("summaries.db updated successfully.")

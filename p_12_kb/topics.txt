@@ -1,0 +1,233 @@
+
+Unit: Chapter One - ELECTRIC CHARGES AND FIELDS
+1.1 INTRODUCTION
+1.2 ELECTRIC CHARGE
+1.3 CONDUCTORS AND INSULATORS
+1.4 BASIC PROPERTIES OF ELECTRIC
+    1.4.1 Additivity of charges
+    1.4.2 Charge is conserved
+    1.4.3 Quantisation of charge
+1.5 COULOMB’S LAW
+1.6 FORCES BETWEEN MULTIPLE CHARGES
+1.7 ELECTRIC FIELD
+    1.7.1 Electric field due to a system of charges
+    1.7.2 Physical significance of electric field
+1.8 ELECTRIC FIELD LINES
+1.9 ELECTRIC FLUX
+1.10 ELECTRIC DIPOLE
+    1.10.1 The field of an electric dipole
+    1.10.2 Physical significance of dipoles
+1.11 DIPOLE IN A UNIFORM EXTERNAL FIELD
+1.12 CONTINUOUS CHARGE DISTRIBUTION
+1.13 GAUSS’S LAW
+1.14 APPLICATIONS OF GAUSS’S LAW
+    1.14.1
+    1.14.2 Field due to a uniformly charged infinite plane sheet
+    1.14.3 Field due to a uniformly charged thin spherical shell
+
+Unit: Chapter Two - ELECTROSTATIC POTENTIAL AND CAPACITANCE
+
+2.1 INTRODUCTION
+2.2 ELECTROSTATIC POTENTIAL
+2.3 POTENTIAL DUE TO A POINT CHARGE
+2.4 POTENTIAL DUE TO AN ELECTRIC DIPOLE
+2.5 POTENTIAL DUE TO A SYSTEM OF CHARGES
+2.6 EQUIPOTENTIAL SURFACES
+    2.6.1 Relation between field and potential
+2.7 POTENTIAL ENERGY OF A SYSTEM OF CHARGES
+2.8 POTENTIAL ENERGY IN AN EXTERNAL FIELD
+    2.8.1 Potential energy of a single charge
+    2.8.2
+    2.8.3 Potential energy of a dipole in an external field
+2.9 ELECTROSTATICS OF CONDUCTORS
+2.10 DIELECTRICS AND POLARISATION
+2.11 CAPACITORS AND CAPACITANCE
+2.12 THE PARALLEL PLATE CAPACITOR
+2.13 EFFECT OF DIELECTRIC ON CAPACITANCE
+2.14 COMBINATION OF CAPACITORS
+    2.14.1 Capacitors in series
+    2.14.2 Capacitors in parallel
+2.15 ENERGY STORED IN A CAPACITOR
+
+
+Unit: Chapter Three - CURRENT ELECTRICITY
+3.1 INTRODUCTION
+3.2 ELECTRIC CURRENT
+3.3 ELECTRIC CURRENTS IN CONDUCTORS
+3.4 OHM’S LAW
+3.5 DRIFT OF ELECTRONS AND THE ORIGIN
+    3.5.1 Mobility
+3.6 LIMITATIONS OF OHM’S LAW
+3.7 RESISTIVITY OF VARIOUS MATERIALS
+3.9 ELECTRICAL ENERGY, POWER
+3.10 CELLS, EMF, INTERNAL RESISTANCE
+3.11 CELLS
+3.12 KIRCHHOFF’S RULES
+3.13 WHEATSTONE BRIDGE
+
+
+Unit: Chapter Four - MOVING CHARGES  AND MAGNETISM
+4.1 INTRODUCTION
+4.2 MAGNETIC FORCE
+    4.2.1 Sources and fields
+    4.2.2 Magnetic Field, Lorentz Force
+    4.2.3 Magnetic force on a current-carrying conductor
+4.3 MOTION IN A MAGNETIC FIELD
+4.5 MAGNETIC FIELD ON THE AXIS OF A CIRCULAR
+4.6 AMPERE’S CIRCUITAL LAW
+4.7 THE SOLENOID
+4.8 FORCE BETWEEN TWO PARALLEL
+4.9 TORQUE ON CURRENT LOOP, MAGNETIC DIPOLE
+    4.9.1
+    4.9.2 Circular current loop as a magnetic dipole
+4.10 THE MOVING COIL GALVANOMETER
+
+Unit: Chapter Five - MAGNETISM AND MATTER
+5.1 INTRODUCTION
+5.2 THE
+    5.2.1 The magnetic field lines
+    5.2.2 Bar magnet as an
+    5.2.3 The dipole in a uniform magnetic field
+    5.2.4 The electrostatic analog
+5.3 MAGNETISM AND GAUSS’S LAW
+5.4 MAGNETISATION AND MAGNETIC INTENSITY
+5.5 MAGNETIC PROPERTIES OF MATERIALS
+    5.5.1 Diamagnetism
+    5.5.2 Paramagnetism
+    5.5.3 Ferromagnetism
+
+
+Unit: Chapter Six - ELECTROMAGNETIC INDUCTION
+6.1 INTRODUCTION
+6.2 THE EXPERIMENTS OF FARADAY AND
+6.3 MAGNETIC FLUX
+6.4 FARADAY’S LAW OF INDUCTION
+6.5 LENZ’S LAW AND CONSERVATION OF ENERGY
+6.6 MOTIONAL ELECTROMOTIVE FORCE
+6.7 INDUCTANCE
+    6.7.1 Mutual inductance
+    6.7.2 Self-inductance
+6.8 AC GENERATOR
+
+
+Unit: Chapter Seven - ALTERNATING CURRENT
+7.1 INTRODUCTION
+7.2 AC VOLTAGE APPLIED TO A RESISTOR
+7.3 REPRESENTATION OF AC CURRENT AND VOLTAGE
+7.4 AC VOLTAGE APPLIED TO AN INDUCTOR
+7.5 AC VOLTAGE APPLIED TO A CAPACITOR
+7.6 AC VOLTAGE APPLIED TO A SERIES LCR CIRCUIT
+    7.6.1 Phasor-diagram solution
+    7.6.2 Resonance
+7.7 POWER IN AC CIRCUIT: THE POWER FACTOR
+7.8 TRANSFORMERS
+
+
+Unit: Chapter Eight - ELECTROMAGNETIC WAVES
+8.1 INTRODUCTION
+8.2 DISPLACEMENT CURRENT
+8.3 ELECTROMAGNETIC WAVES
+    8.3.1 Sources of electromagnetic waves
+    8.3.2 Nature of electromagnetic waves
+8.4 ELECTROMAGNETIC SPECTRUM
+    8.4.1 Radio waves
+    8.4.2 Microwaves
+    8.4.3 Infrared waves
+    8.4.4 Visible rays
+    8.4.5 Ultraviolet rays
+    8.4.6 X-rays
+    8.4.7 Gamma rays
+
+Unit: Chapter Nine - RAY OPTICS AND OPTICAL INSTRUMENTS
+9.1 INTRODUCTION
+9.2 REFLECTION OF LIGHT BY SPHERICAL MIRRORS
+    9.2.1 Sign convention
+    9.2.2 Focal length of spherical mirrors
+    9.2.3 The mirror equation
+9.3 REFRACTION
+9.4 TOTAL INTERNAL REFLECTION
+
+    9.4.1 Total internal reflection in nature and
+9.5 REFRACTION AT SPHERICAL SURFACES
+    9.5.1 Refraction at a spherical surface
+    9.5.2 Refraction by a lens
+    9.5.3 Power of a lens
+    9.5.4 Combination of thin lenses in contact
+9.6 REFRACTION THROUGH A PRISM
+9.7 OPTICAL INSTRUMENTS
+    9.7.1 The microscope
+    9.7.2 Telescope
+
+Unit: Chapter Ten - WAVE OPTICS
+10.1 INTRODUCTION
+10.2 HUYGENS PRINCIPLE
+10.3 REFRACTION AND REFLECTION OF
+    10.3.1 Refraction of a plane wave
+    10.3.2 Refraction at a rarer medium
+    10.3.3 Reflection of a plane wave by a plane surface
+10.4 COHERENT AND INCOHERENT
+10.5 INTERFERENCE OF LIGHT WAVES AND YOUNG’S
+10.6 DIFFRACTION
+    10.6.1 The single slit
+    10.6.2 Seeing the single slit diffraction pattern
+    10.6.2 Seeing the single slit diffraction pattern
+    10.6.2 Seeing the single slit diffraction pattern
+    10.6.2 Seeing the single slit diffraction pattern
+    10.6.2 Seeing the single slit diffraction pattern
+10.7 POLARISATION
+
+
+Unit: Chapter Eleven - DUAL NATURE OF RADIATION AND MATTER
+11.1 INTRODUCTION
+11.2 ELECTRON EMISSION
+11.3 PHOTOELECTRIC EFFECT
+    11.3.1 Hertz’s observations
+    11.3.2 Hallwachs’ and Lenard’s observations
+11.4 EXPERIMENTAL STUDY OF PHOTOELECTRIC
+    11.4.1 Effect of intensity of light on photocurrent
+    11.4.2 Effect of potential on photoelectric current
+    11.4.3 Effect of frequency of incident radiation on
+11.5 PHOTOELECTRIC EFFECT AND WAVE THEORY
+11.6 EINSTEIN’S PHOTOELECTRIC EQUATION: ENERGY
+11.7 PARTICLE NATURE OF LIGHT: THE PHOTON
+11.8 WAVE NATURE OF MATTER
+
+
+Unit: Chapter Twelve - ATOMS
+12.1 INTRODUCTION
+12.2 ALPHA
+    12.2.1 Alpha-particle trajectory
+    12.2.2 Electron orbits
+12.3 ATOMIC SPECTRA
+12.4 BOHR MODEL OF THE HYDROGEN
+    12.4.1 Energy levels
+12.5 THE LINE SPECTRA OF THE HYDROGEN ATOM
+12.6 DE BROGLIE’S EXPLANATION OF BOHR’S
+
+
+Unit: Chapter Thirteen - NUCLEI
+13.1 INTRODUCTION
+13.2 ATOMIC MASSES AND COMPOSITION OF NUCLEUS
+13.3 SIZE OF THE NUCLEUS
+13.4 MASS-ENERGY AND NUCLEAR BINDING ENERGY
+    13.4.1 Mass – Energy
+    13.4.2 Nuclear binding energy
+13.5 NUCLEAR FORCE
+13.6 RADIOACTIVITY
+13.7 NUCLEAR ENERGY
+    13.7.1 Fission
+    13.7.2 Nuclear fusion – energy generation in stars
+    13.7.3 Controlled thermonuclear fusion
+
+
+Unit: Chapter Fourteen - SEMICONDUCTOR ELECTRONICS: MATERIALS, DEVICES AND SIMPLE CIRCUITS
+14.1 INTRODUCTION
+14.2 CLASSIFICATION OF METALS, CONDUCTORS AND
+14.3 INTRINSIC SEMICONDUCTOR
+14.4 EXTRINSIC SEMICONDUCTOR
+14.5 p-n JUNCTION
+    14.5.1 p-n junction formation
+14.6 SEMICONDUCTOR DIODE
+    14.6.1 p-n junction diode under forward bias
+    14.6.2 p-n junction diode under reverse bias
+14.7 APPLICATION OF JUNCTION DIODE AS A RECTIFIER

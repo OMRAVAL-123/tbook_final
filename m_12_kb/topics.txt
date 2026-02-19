@@ -1,0 +1,177 @@
+1.1 Introduction
+RELATIONS AND FUNCTIONS
+1.2 Types of Relations
+1.3 Types of Functions
+1.4 Composition of Functions and Invertible Function
+Miscellaneous Examples
+Miscellaneous Exercise on Chapter 1
+Summary
+
+INVERSE TRIGONOMETRIC
+FUNCTIONS
+2.1 Introduction
+2.2 Basic Concepts
+2.3 Properties of Inverse Trigonometric Functions
+Miscellaneous Examples
+Miscellaneous Exercise on Chapter 2
+Summary
+
+MATRICES
+3.1 Introduction
+3.2 Matrix
+3.2.1 Order of a matrix
+3.3 Types of Matrices
+3.3.1 Equality of matrices
+3.4 Operations on Matrices
+3.4.1 Addition of matrices
+3.4.2 Multiplication of a matrix by a scalar
+3.4.3 Properties of matrix addition
+3.4.4 Properties of scalar multiplication of a matrix
+3.4.5 Multiplication of matrices
+3.4.6 Properties of multiplication of matrices
+3.5. Transpose of a Matrix
+3.5.1 Properties of transpose of the matrices
+3.6 Symmetric and Skew Symmetric Matrices
+3.7 Invertible Matrices
+Miscellaneous Examples
+Miscellaneous Exercise on Chapter 3
+Summary
+
+DETERMINANTS
+4.1 Introduction
+4.2 Determinant
+4.2.1 Determinant of a matrix of order one
+4.2.2 Determinant of a matrix of order two
+4.2.3 Determinant of a matrix of order 3 × 3
+4.3 Area of a Triangle
+4.4 Minors and Cofactors
+4.5 Adjoint and Inverse of a Matrix
+4.5.1 Adjoint of a matrix
+4.6 Applications of Determinants and Matrices
+4.6.1 Solution of system of linear equations using inverse of a matrix
+Miscellaneous Examples
+Miscellaneous Exercises on Chapter 4
+Summary
+
+CONTINUITY AND
+DIFFERENTIABILITY
+5.1 Introduction
+5.2 Continuity
+5.2.1 Algebra of continuous functions
+5.3. Differentiability
+5.3.1 Derivatives of composite functions
+5.3.2 Derivatives of implicit functions
+5.3.3 Derivatives of inverse trigonometric functions
+5.4 Exponential and Logarithmic Functions
+5.5. Logarithmic Differentiation
+5.6 Derivatives of Functions in Parametric Forms
+5.7 Second Order Derivative
+Miscellaneous Examples
+Miscellaneous Exercise on Chapter 5
+Summary
+
+APPLICATION OF
+DERIVATIVES
+6.1 Introduction
+6.2 Rate of Change of Quantities
+6.3 Increasing and Decreasing Functions
+6.4 Maxima and Minima
+6.4.1 Maximum and Minimum Values of a Function in a Closed Interval
+Miscellaneous Examples
+Miscellaneous Exercise on Chapter 6
+Summary
+
+INTEGRALS
+7.1 Introduction
+7.2 Integration as an Inverse Process of Differentiation
+7.2.1 Some properties of indefinite integral
+7.3 Methods of Integration
+7.3.1 Integration by substitution
+7.3.2 Integration using trigonometric identities
+7.4 Integrals of Some Particular Functions
+7.5 Integration by Partial Fractions
+7.6 Integration by Parts
+7.6.1 Integral of the type
+7.6.2 Integrals of some more types
+7.7 Definite Integral
+7.8 Fundamental Theorem of Calculus
+7.8.1 Area function
+7.8.2 First fundamental theorem of integral calculus
+7.8.3 Second fundamental theorem of integral calculus
+7.9 Evaluation of Definite Integrals by Substitution
+7.10 Some Properties of Definite Integrals
+Miscellaneous Examples
+Miscellaneous Exercise on Chapter 7
+Summary
+
+APPLICATION OF INTEGRALS
+8.1 Introduction
+8.2 Area under Simple Curves
+Miscellaneous Examples
+Miscellaneous Exercise on Chapter 8
+Summary
+
+DIFFERENTIAL EQUATIONS
+9.1 Introduction
+9.2 Basic Concepts
+9.2.1. Order of a differential equation
+9.2.2 Degree of a differential equation
+9.3. General and Particular Solutions of a Differential Equation
+9.4. Methods of Solving First Order, First Degree Differential Equations
+9.4.1 Differential equations with variables separable
+9.4.2 Homogeneous differential equations
+9.4.3 Linear differential equations
+Miscellaneous Examples
+Miscellaneous Exercise on Chapter 9
+Summary
+
+VECTOR ALGEBRA
+10.1 Introduction
+10.2 Some Basic Concepts
+10.3 Types of Vectors
+10.4 Addition of Vectors
+10.5 Multiplication of a Vector by a Scalar
+10.5.1 Components of a vector
+10.5.2 Vector joining two points
+10.5.3 Section formula
+10.6 Product of Two Vectors
+10.6.1 Scalar (or dot) product of two vectors
+10.6.2 Projection of a vector on a line
+10.6.3 Vector (or cross) product of two vectors 
+Miscellaneous Examples
+Miscellaneous Exercise on Chapter 10
+Summary
+
+THREE DIMENSIONAL
+GEOMETRY
+11.1 Introduction
+11.2 Direction Cosines and Direction Ratios of a Line
+11.2.1 Direction cosines of a line passing through two points
+11.3 Equation of a Line in Space
+11.3.1
+11.4 Angle between Two Lines
+11.5 Shortest Distance between Two Lines
+11.5.1 Distance between two skew lines
+11.5.2 Distance between parallel lines
+Miscellaneous Exercise on Chapter 11
+Summary
+
+LINEAR PROGRAMMING
+12.1 Introduction
+12.2 Linear Programming Problem and its Mathematical Formulation
+12.2.1 Mathematical formulation of the problem
+12.2.2 Graphical method of solving linear programming problems
+Summary
+
+PROBABILITY
+13.1 Introduction
+13.2 Conditional Probability
+13.2.1 Properties of conditional probability
+13.3 Multiplication Theorem on Probability
+13.4 Independent Events
+13.5 Bayes' Theorem
+13.5.1 Partition of a sample space
+13.5.2 Theorem of total probability
+Miscellaneous Examples
+Miscellaneous Exercise on Chapter 13
+Summary

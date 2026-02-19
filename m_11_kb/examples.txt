@@ -1,0 +1,1331 @@
+Chapter 1 - Example 1
+Question: Write the solution set of the equation x2 + x – 2 = 0 in roster form.
+First 1000 chars of Solution:
+ (x – 1) (x + 2) = 0, i. e., x = 1, – 2 Therefore, the solution set of the given equation can be written in roster form as {1, – 2}.
+--------------------------------------------------------------------------------
+
+Chapter 1 - Example 2
+Question: Write the set {x : x is a positive integer and x2 < 40} in the roster form. Reprint 2025-26 4 MATHEMATICS
+First 1000 chars of Solution:
+ is {1, 2, 3, 4, 5, 6}.
+--------------------------------------------------------------------------------
+
+Chapter 1 - Example 3
+Question: Write the set A = {1, 4, 9, 16, 25, . . . }in set-builder form.
+First 1000 chars of Solution:
+ A = {x : x is the square of a natural number} Alternatively, we can write A = {x : x = n2, where n ∈ N}
+--------------------------------------------------------------------------------
+
+Chapter 1 - Example 4
+Question: Write the set 1 2 3 4 5 6 { } 2 3 4 5 6 7 , , , , , in the set-builder form.
+First 1000 chars of Solution:
+ the denominator. Also, the numerator begin from 1 and do not exceed 6. Hence, in the set-builder form the given set is where is a natural number and 1 6 1 n x : x , n n n   = ≤ ≤   +  
+--------------------------------------------------------------------------------
+
+Chapter 1 - Example 5
+Question: Match each of the set on the left described in the roster form with the same set on the right described in the set-builder form : (i) {P, R, I, N, C, A, L} (a) { x : x is a positive integer and is a divisor of 18} (ii) { 0 } (b) { x : x is an integer and x2 – 9 = 0} (iii) {1, 2, 3, 6, 9, 18} (c) {x : x is an integer and x + 1= 1} (iv) {3, –3} (d) {x : x is a letter of the word PRINCIPAL}
+First 1000 chars of Solution:
+ are repeated, so (i) matches (d). Similarly, (ii) matches (c) as x + 1 = 1 implies x = 0. Also, 1, 2 ,3, 6, 9, 18 are all divisors of 18 and so (iii) matches (a). Finally, x2 – 9 = 0 implies x = 3, –3 and so (iv) matches (b). EXERCISE 1.1 1. Which of the following are sets ? Justify your answer. (i) The collection of all the months of a year beginning with the letter J. (ii) The collection of ten most talented writers of India. (iii) A team of eleven best-cricket batsmen of the world. (iv) The collection of all boys in your class. (v) The collection of all natural numbers less than 100. (vi) A collection of novels written by the writer Munshi Prem Chand. (vii) The collection of all even integers. Reprint 2025-26 SETS 5 (viii) The collection of questions in this Chapter. (ix) A collection of most dangerous animals of the world. 2. Let A = {1, 2, 3, 4, 5, 6}. Insert the appropriate symbol ∈ or ∉ in the blank spaces: (i) 5. . .A (ii) 8 . . . A (iii) 0. . .A (iv) 4. . . A (v) 2. . .A (vi)
+--------------------------------------------------------------------------------
+
+Chapter 1 - Example 6
+Question: State which of the following sets are finite or infinite : (i) {x : x ∈ N and (x – 1) (x –2) = 0} (ii) {x : x ∈ N and x2 = 4} (iii) {x : x ∈ N and 2x –1 = 0} (iv) {x : x ∈ N and x is prime} (v) {x : x ∈ N and x is odd}
+First 1000 chars of Solution:
+ (i) Given set = {1, 2}. Hence, it is finite. (ii) Given set = {2}. Hence, it is finite. (iii) Given set = φ. Hence, it is finite. (iv) The given set is the set of all prime numbers and since set of prime numbers is infinite. Hence the given set is infinite (v) Since there are infinite number of odd numbers, hence, the given set is infinite. 1.5 Equal Sets Given two sets A and B, if every element of A is also an element of B and if every element of B is also an element of A, then the sets A and B are said to be equal. Clearly, the two sets have exactly the same elements. Definition 3 Two sets A and B are said to be equal if they have exactly the same elements and we write A = B. Otherwise, the sets are said to be unequal and we write A ≠ B. We consider the following examples : (i) Let A = {1, 2, 3, 4} and B = {3, 1, 4, 2}. Then A = B. (ii) Let A be the set of prime numbers less than 6 and P the set of prime factors of 30. Then A and P are equal, since 2, 3 and 5 are the only prime fact
+--------------------------------------------------------------------------------
+
+Chapter 1 - Example 7
+Question: Find the pairs of equal sets, if any, give reasons: A = {0}, B = {x : x > 15 and x < 5}, C = {x : x – 5 = 0 }, D = {x: x2 = 25}, E = {x : x is an integral positive root of the equation x2 – 2x –15 = 0}.
+First 1000 chars of Solution:
+ follows that, A ≠ B, A ≠ C, A ≠ D, A ≠ E. Since B = φ but none of the other sets are empty. Therefore B ≠ C, B ≠ D and B ≠ E. Also C = {5} but –5 ∈ D, hence C ≠ D. Since E = {5}, C = E. Further, D = {–5, 5} and E = {5}, we find that, D ≠ E. Thus, the only pair of equal sets is C and E.
+--------------------------------------------------------------------------------
+
+Chapter 1 - Example 8
+Question: Which of the following pairs of sets are equal? Justify your answer. (i) X, the set of letters in “ALLOY” and B, the set of letters in “LOYAL”. (ii) A = {n : n ∈ Z and n2 ≤ 4} and B = {x : x ∈ R and x2 – 3x + 2 = 0}.
+First 1000 chars of Solution:
+ equal sets as repetition of elements in a set do not change a set. Thus, X = {A, L, O, Y} = B (ii) A = {–2, –1, 0, 1, 2}, B = {1, 2}. Since 0 ∈ A and 0 ∉ B, A and B are not equal sets. EXERCISE 1.2 1. Which of the following are examples of the null set (i) Set of odd natural numbers divisible by 2 (ii) Set of even prime numbers (iii) { x : x is a natural numbers, x < 5 and x > 7 } (iv) { y : y is a point common to any two parallel lines} 2. Which of the following sets are finite or infinite (i) The set of months of a year (ii) {1, 2, 3, . . .} (iii) {1, 2, 3, . . .99, 100} (iv) The set of positive integers greater than 100 (v) The set of prime numbers less than 99 3. State whether each of the following set is finite or infinite: (i) The set of lines which are parallel to the x-axis (ii) The set of letters in the English alphabet (iii) The set of numbers which are multiple of 5 Reprint 2025-26 SETS 9 (iv) The set of animals living on the earth (v) The set of circles passing through the
+--------------------------------------------------------------------------------
+
+Chapter 1 - Example 9
+Question: Consider the sets φ, A = { 1, 3 }, B = {1, 5, 9}, C = {1, 3, 5, 7, 9}. Insert the symbol ⊂ or ⊄ between each of the following pair of sets: (i) φ . . . B (ii) A . . . B (iii) A . . . C (iv) B . . . C
+First 1000 chars of Solution:
+ (i) φ ⊂ B as φ is a subset of every set. (ii) A ⊄ B as 3 ∈ A and 3 ∉ B (iii) A ⊂ C as 1, 3 ∈ A also belongs to C (iv) B ⊂ C as each element of B is also an element of C.
+--------------------------------------------------------------------------------
+
+Chapter 1 - Example 10
+Question: Let A = { a, e, i, o, u} and B = { a, b, c, d}. Is A a subset of B ? No. (Why?). Is B a subset of A? No. (Why?)
+First 1000 chars of Solution:
+
+--------------------------------------------------------------------------------
+
+Chapter 1 - Example 11
+Question: Let A, B and C be three sets. If A ∈ B and B ⊂ C, is it true that A ⊂ C?. If not, give an example.
+First 1000 chars of Solution:
+ and B ⊂ C. But A ⊄ C as 1 ∈ A and 1 ∉ C. Note that an element of a set can never be a subset of itself. 1.6.1 Subsets of set of real numbers As noted in Section 1.6, there are many important subsets of R. We give below the names of some of these subsets. The set of natural numbers N = {1, 2, 3, 4, 5, . . .} The set of integers Z = {. . ., –3, –2, –1, 0, 1, 2, 3, . . .} The set of rational numbers Q = { x : x = p q , p, q ∈ Z and q ≠ 0} Reprint 2025-26 SETS 11 which is read “ Q is the set of all numbers x such that x equals the quotient p q , where p and q are integers and q is not zero”. Members of Q include –5 (which can be expressed as 5 1 – ) , 7 5 , 1 3 2 (which can be expressed as 7 2 ) and 11 3 – . The set of irrational numbers, denoted by T, is composed of all other real numbers. Thus T = {x : x ∈ R and x ∉ Q}, i.e., all real numbers that are not rational. Members of T include 2 , 5 and π . Some of the obvious relations among these subsets are: N ⊂ Z ⊂ Q, Q ⊂ R, T ⊂ R, N ⊄ T. 1
+--------------------------------------------------------------------------------
+
+Chapter 1 - Example 12
+Question: Let A = { 2, 4, 6, 8} and B = { 6, 8, 10, 12}. Find A ∪ B.
+First 1000 chars of Solution:
+ Note that the common elements 6 and 8 have been taken only once while writing A ∪ B.
+--------------------------------------------------------------------------------
+
+Chapter 1 - Example 13
+Question: Let A = { a, e, i, o, u } and B = { a, i, u }. Show that A ∪ B = A
+First 1000 chars of Solution:
+ This example illustrates that union of sets A and its subset B is the set A itself, i.e., if B ⊂ A, then A ∪ B = A.
+--------------------------------------------------------------------------------
+
+Chapter 1 - Example 14
+Question: Let X = {Ram, Geeta, Akbar} be the set of students of Class XI, who are in school hockey team. Let Y = {Geeta, David, Ashok} be the set of students from Class XI who are in the school football team. Find X ∪ Y and interpret the set.
+First 1000 chars of Solution:
+ students from Class XI who are in the hockey team or the football team or both. Thus, we can define the union of two sets as follows: Definition 5 The union of two sets A and B is the set C which consists of all those elements which are either in A or in B (including those which are in both). In symbols, we write. A ∪ B = { x : x ∈A or x ∈B } The union of two sets can be represented by a Venn diagram as shown in Fig 1.4. The shaded portion in Fig 1.4 represents A ∪ B. Some Properties of the Operation of Union (i) A ∪ B = B ∪ A (Commutative law) (ii) ( A ∪ B ) ∪ C = A ∪ ( B ∪ C) (Associative law ) (iii) A ∪ φ = A (Law of identity element, φ is the identity of ∪) Fig 1.4 Reprint 2025-26 SETS 15 (iv) A ∪ A = A (Idempotent law) (v) U ∪ A = U (Law of U) 1.9.2 Intersection of sets The intersection of sets A and B is the set of all elements which are common to both A and B. The symbol ‘∩’ is used to denote the intersection. The intersection of two sets A and B is the set of all those element
+--------------------------------------------------------------------------------
+
+Chapter 1 - Example 15
+Question: Consider the sets A and B of Example 12. Find A ∩ B.
+First 1000 chars of Solution:
+ Hence A ∩ B = { 6, 8 }.
+--------------------------------------------------------------------------------
+
+Chapter 1 - Example 16
+Question: Consider the sets X and Y of Example 14. Find X ∩ Y.
+First 1000 chars of Solution:
+ X ∩ Y = {Geeta}.
+--------------------------------------------------------------------------------
+
+Chapter 1 - Example 17
+Question: Let A = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10} and B = { 2, 3, 5, 7 }. Find A ∩ B and hence show that A ∩ B = B.
+First 1000 chars of Solution:
+ note that B ⊂ A and that A ∩ B = B. Definition 6 The intersection of two sets A and B is the set of all those elements which belong to both A and B. Symbolically, we write A ∩ B = {x : x ∈ A and x ∈ B} The shaded portion in Fig 1.5 indicates the intersection of A and B. If A and B are two sets such that A ∩ B = φ, then A and B are called disjoint sets. For example, let A = { 2, 4, 6, 8 } and B = { 1, 3, 5, 7 }. Then A and B are disjoint sets, because there are no elements which are common to A and B. The disjoint sets can be represented by means of Venn diagram as shown in the Fig 1.6 In the above diagram, A and B are disjoint sets. Some Properties of Operation of Intersection (i) A ∩ B = B ∩ A (Commutative law). (ii) ( A ∩ B ) ∩ C = A ∩ ( B ∩ C ) (Associative law). (iii) φ ∩ A = φ, U ∩ A = A (Law of φ and U). (iv) A ∩ A = A (Idempotent law) Fig 1.5 A B U Fig 1.6 Reprint 2025-26 16 MATHEMATICS (v) A ∩ ( B ∪ C ) = ( A ∩ B ) ∪ ( A ∩ C ) (Distributive law ) i. e., ∩ distributes over ∪ Th
+--------------------------------------------------------------------------------
+
+Chapter 1 - Example 18
+Question: Let A = { 1, 2, 3, 4, 5, 6}, B = { 2, 4, 6, 8 }. Find A – B and B – A.
+First 1000 chars of Solution:
+ not to B and B – A = { 8 }, since the element 8 belongs to B and not to A. We note that A – B ≠ B – A. Reprint 2025-26 SETS 17 Fig 1.8 Fig 1.9
+--------------------------------------------------------------------------------
+
+Chapter 1 - Example 19
+Question: Let V = { a, e, i, o, u } and B = { a, i, k, u}. Find V – B and B – V
+First 1000 chars of Solution:
+ e, o belong to V but not to B and B – V = { k }, since the element k belongs to B but not to V. We note that V – B ≠ B – V. Using the set- builder notation, we can rewrite the definition of difference as A – B = { x : x ∈ A and x ∉ B } The difference of two sets A and B can be represented by Venn diagram as shown in Fig 1.8. The shaded portion represents the difference of the two sets A and B. Remark The sets A – B, A ∩ B and B – A are mutually disjoint sets, i.e., the intersection of any of these two sets is the null set as shown in Fig 1.9. EXERCISE 1.4 1. Find the union of each of the following pairs of sets : (i) X = {1, 3, 5} Y = {1, 2, 3} (ii) A = [ a, e, i, o, u} B = {a, b, c} (iii) A = {x : x is a natural number and multiple of 3} B = {x : x is a natural number less than 6} (iv) A = {x : x is a natural number and 1 < x ≤6 } B = {x : x is a natural number and 6 < x < 10 } (v) A = {1, 2, 3}, B = φ 2. Let A = { a, b }, B = {a, b, c}. Is A ⊂ B ? What is A ∪ B ? 3. If A and B are t
+--------------------------------------------------------------------------------
+
+Chapter 1 - Example 20
+Question: Let U = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10} and A = {1, 3, 5, 7, 9}. Find A′.
+First 1000 chars of Solution:
+ A. Hence A′ = { 2, 4, 6, 8,10 }.
+--------------------------------------------------------------------------------
+
+Chapter 1 - Example 21
+Question: Let U be universal set of all the students of Class XI of a coeducational school and A be the set of all girls in Class XI. Find A′.
+First 1000 chars of Solution:
+ ANote If A is a subset of the universal set U, then its complement A′ is also a subset of U. Again in Example 20 above, we have A′ = { 2, 4, 6, 8, 10 } Hence (A′ )′= {x : x ∈ U and x ∉ A′} = {1, 3, 5, 7, 9} = A It is clear from the definition of the complement that for any subset of the universal set U, we have ( A′)′ = A Now, we want to find the results for ( A ∪ B )′ and A′ ∩ B′ in the followng example.
+--------------------------------------------------------------------------------
+
+Chapter 1 - Example 22
+Question: Let U = {1, 2, 3, 4, 5, 6}, A = {2, 3} and B = {3, 4, 5}. Find A′, B′ , A′ ∩ B′, A ∪ B and hence show that ( A ∪ B )′ = A′ ∩ B′.
+First 1000 chars of Solution:
+ Also A ∪ B = { 2, 3, 4, 5 }, so that (A ∪ B)′ = { 1, 6 } ( A ∪ B )′ = { 1, 6 } = A′ ∩ B′ It can be shown that the above result is true in general. If A and B are any two subsets of the universal set U, then ( A ∪ B )′ = A′ ∩ B′. Similarly, ( A ∩ B )′ = A′ ∪ B′ . These two results are stated in words as follows : The complement of the union of two sets is the intersection of their complements and the complement of the intersection of two sets is the union of their complements. These are called De Morgan’s laws. These are named after the mathematician De Morgan. The complement A′ of a set A can be represented by a Venn diagram as shown in Fig 1.10. The shaded portion represents the complement of the set A. Fig 1.10 Reprint 2025-26 20 MATHEMATICS Some Properties of Complement Sets 1. Complement laws: (i) A ∪ A′ = U (ii) A ∩ A′ = φ 2. De Morgan’s law: (i) (A ∪ B)´ = A′ ∩ B′ (ii) (A ∩ B)′ = A′ ∪ B′ 3. Law of double complementation : (A′ )′ = A 4. Laws of empty set and universal set φ′ = U 
+--------------------------------------------------------------------------------
+
+Chapter 1 - Example 23
+Question: Show that the set of letters needed to spell “ CATARACT ” and the set of letters needed to spell “ TRACT” are equal.
+First 1000 chars of Solution:
+ X = { C, A, T, R } Reprint 2025-26 SETS 21 Let Y be the set of letters in “ TRACT”. Then Y = { T, R, A, C, T } = { T, R, A, C } Since every element in X is in Y and every element in Y is in X. It follows that X = Y.
+--------------------------------------------------------------------------------
+
+Chapter 1 - Example 24
+Question: List all the subsets of the set { –1, 0, 1 }.
+First 1000 chars of Solution:
+ set φ. The subsets of A having one element are { –1 }, { 0 }, { 1 }. The subsets of A having two elements are {–1, 0}, {–1, 1} ,{0, 1}. The subset of A having three elements of A is A itself. So, all the subsets of A are φ, {–1}, {0}, {1}, {–1, 0}, {–1, 1}, {0, 1} and {–1, 0, 1}.
+--------------------------------------------------------------------------------
+
+Chapter 1 - Example 25
+Question: Show that A ∪ B = A ∩ B implies A = B
+First 1000 chars of Solution:
+ Therefore, A ⊂ B. Similarly, if b ∈ B, then b ∈ A ∪ B. Since A ∪ B = A ∩ B, b ∈ A ∩ B. So, b ∈ A. Therefore, B ⊂ A. Thus, A = B Miscellaneous Exercise on Chapter 1 1. Decide, among the following sets, which sets are subsets of one and another: A = { x : x ∈ R and x satisfy x2 – 8x + 12 = 0 }, B = { 2, 4, 6 }, C = { 2, 4, 6, 8, . . . }, D = { 6 }. 2. In each of the following, determine whether the statement is true or false. If it is true, prove it. If it is false, give an example. (i) If x ∈ A and A ∈ B , then x ∈ B (ii) If A ⊂ B and B ∈ C , then A ∈ C (iii) If A ⊂ B and B ⊂ C , then A ⊂ C (iv) If A ⊄ B and B ⊄ C , then A ⊄ C (v) If x ∈ A and A ⊄ B , then x ∈ B (vi) If A ⊂ B and x ∉ B , then x ∉ A 3. Let A, B, and C be the sets such that A ∪ B = A ∪ C and A ∩ B = A ∩ C. Show that B = C. 4. Show that the following four conditions are equivalent : (i) A ⊂ B(ii) A – B = φ (iii) A ∪ B = B (iv) A ∩ B = A 5. Show that if A ⊂ B, then C – B ⊂ C – A. 6. Show that for any sets A and B, A = ( A 
+--------------------------------------------------------------------------------
+
+Chapter 2 - Example 1
+Question: If (x + 1, y – 2) = (3,1), find the values of x and y.
+First 1000 chars of Solution:
+ Therefore x + 1 = 3 and y – 2 = 1. Solving we get x = 2 and y = 3.
+--------------------------------------------------------------------------------
+
+Chapter 2 - Example 2
+Question: If P = {a, b, c} and Q = {r}, form the sets P × Q and Q × P. Are these two products equal?
+First 1000 chars of Solution:
+ P × Q = {(a, r), (b, r), (c, r)} and Q × P = {(r, a), (r, b), (r, c)} Since, by the definition of equality of ordered pairs, the pair (a, r) is not equal to the pair (r, a), we conclude that P × Q ≠ Q × P. However, the number of elements in each set will be the same.
+--------------------------------------------------------------------------------
+
+Chapter 2 - Example 3
+Question: Let A = {1,2,3}, B = {3,4} and C = {4,5,6}. Find (i) A × (B ∩ C) (ii) (A × B) ∩ (A × C) (iii) A × (B ∪ C) (iv) (A × B) ∪ (A × C)
+First 1000 chars of Solution:
+ Therefore, A × (B ∩ C) = {(1,4), (2,4), (3,4)}. (ii) Now (A × B) = {(1,3), (1,4), (2,3), (2,4), (3,3), (3,4)} and (A × C) = {(1,4), (1,5), (1,6), (2,4), (2,5), (2,6), (3,4), (3,5), (3,6)} Therefore, (A × B) ∩ (A × C) = {(1, 4), (2, 4), (3, 4)}. (iii) Since, (B ∪ C) = {3, 4, 5, 6}, we have A × (B ∪ C) = {(1,3), (1,4), (1,5), (1,6), (2,3), (2,4), (2,5), (2,6), (3,3), (3,4), (3,5), (3,6)}. (iv) Using the sets A × B and A × C from part (ii) above, we obtain (A × B) ∪ (A × C) = {(1,3), (1,4), (1,5), (1,6), (2,3), (2,4), (2,5), (2,6), (3,3), (3,4), (3,5), (3,6)}. Reprint 2025-26 RELATIONS AND FUNCTIONS 27
+--------------------------------------------------------------------------------
+
+Chapter 2 - Example 4
+Question: If P = {1, 2}, form the set P × P × P.
+First 1000 chars of Solution:
+ (2,2,2)}.
+--------------------------------------------------------------------------------
+
+Chapter 2 - Example 5
+Question: If R is the set of all real numbers, what do the cartesian products R × R and R × R × R represent?
+First 1000 chars of Solution:
+ which represents the coordinates of all the points in two dimensional space and the cartesian product R × R × R represents the set R × R × R ={(x, y, z) : x, y, z ∈ R} which represents the coordinates of all the points in three-dimensional space.
+--------------------------------------------------------------------------------
+
+Chapter 2 - Example 6
+Question: If A × B ={(p, q),(p, r), (m, q), (m, r)}, find A and B.
+First 1000 chars of Solution:
+ A = set of first elements = {p, m} B = set of second elements = {q, r}. EXERCISE 2.1 1. If 2 5 1 1 3 3 3 3 x ,y – ,     + =        , find the values of x and y. 2. If the set A has 3 elements and the set B = {3, 4, 5}, then find the number of elements in (A×B). 3. If G = {7, 8} and H = {5, 4, 2}, find G × H and H × G. 4. State whether each of the following statements are true or false. If the statement is false, rewrite the given statement correctly. (i) If P = {m, n} and Q = { n, m}, then P × Q = {(m, n),(n, m)}. (ii) If A and B are non-empty sets, then A × B is a non-empty set of ordered pairs (x, y) such that x ∈ A and y ∈ B. (iii) If A = {1, 2}, B = {3, 4}, then A × (B ∩ φ) = φ. 5. If A = {–1, 1}, find A × A × A. 6. If A × B = {(a, x),(a , y), (b, x), (b, y)}. Find A and B. 7. Let A = {1, 2}, B = {1, 2, 3, 4}, C = {5, 6} and D = {5, 6, 7, 8}. Verify that (i) A × (B ∩ C) = (A × B) ∩ (A × C). (ii) A × C is a subset of B × D. 8. Let A = {1, 2} and B = {3, 4}. Write A × B.
+--------------------------------------------------------------------------------
+
+Chapter 2 - Example 7
+Question: Let A = {1, 2, 3, 4, 5, 6}. Define a relation R from A to A by R = {(x, y) : y = x + 1 } (i) Depict this relation using an arrow diagram. (ii) Write down the domain, codomain and range of R.
+First 1000 chars of Solution:
+ (i) By the definition of the relation, R = {(1,2), (2,3), (3,4), (4,5), (5,6)}. Fig 2.4 Reprint 2025-26 RELATIONS AND FUNCTIONS 29 The corresponding arrow diagram is shown in Fig 2.5. (ii) We can see that the domain ={1, 2, 3, 4, 5,} Similarly, the range = {2, 3, 4, 5, 6} and the codomain = {1, 2, 3, 4, 5, 6}.
+--------------------------------------------------------------------------------
+
+Chapter 2 - Example 8
+Question: The Fig 2.6 shows a relation between the sets P and Q. Write this relation (i) in set-builder form, (ii) in roster form. What is its domain and range?
+First 1000 chars of Solution:
+ “x is the square of y”. (i) In set-builder form, R = {(x, y): x is the square of y, x ∈ P, y ∈ Q} (ii) In roster form, R = {(9, 3), (9, –3), (4, 2), (4, –2), (25, 5), (25, –5)} The domain of this relation is {4, 9, 25}. The range of this relation is {– 2, 2, –3, 3, –5, 5}. Note that the element 1 is not related to any element in set P. The set Q is the codomain of this relation. ANote The total number of relations that can be defined from a set A to a set B is the number of possible subsets of A × B. If n(A ) = p and n(B) = q, then n (A × B) = pq and the total number of relations is 2pq.
+--------------------------------------------------------------------------------
+
+Chapter 2 - Example 9
+Question: Let A = {1, 2} and B = {3, 4}. Find the number of relations from A to B.
+First 1000 chars of Solution:
+ A × B = {(1, 3), (1, 4), (2, 3), (2, 4)}. Since n (A×B ) = 4, the number of subsets of A×B is 24. Therefore, the number of relations from A into B will be 24. Remark A relation R from A to A is also stated as a relation on A. EXERCISE 2.2 1. Let A = {1, 2, 3,...,14}. Define a relation R from A to A by R = {(x, y) : 3x – y = 0, where x, y ∈ A}. Write down its domain, codomain and range. Fig 2.5 Fig 2.6 Reprint 2025-26 30 MATHEMATICS 2. Define a relation R on the set N of natural numbers by R = {(x, y) : y = x + 5, x is a natural number less than 4; x, y ∈N}. Depict this relationship using roster form. Write down the domain and the range. 3. A = {1, 2, 3, 5} and B = {4, 6, 9}. Define a relation R from A to B by R = {(x, y): the difference between x and y is odd; x ∈ A, y ∈ B}. Write R in roster form. 4. The Fig2.7 shows a relationship between the sets P and Q. Write this relation (i) in set-builder form (ii) roster form. What is its domain and range? 5. Let A = {1, 2, 3, 4, 6}. Let R be
+--------------------------------------------------------------------------------
+
+Chapter 2 - Example 10
+Question: Let N be the set of natural numbers and the relation R be defined on N such that R = {(x, y) : y = 2x, x, y ∈ N}. What is the domain, codomain and range of R? Is this relation a function?
+First 1000 chars of Solution:
+ The range is the set of even natural numbers. Since every natural number n has one and only one image, this relation is a function.
+--------------------------------------------------------------------------------
+
+Chapter 2 - Example 11
+Question: Examine each of the following relations given below and state in each case, giving reasons whether it is a function or not? (i) R = {(2,1),(3,1), (4,2)}, (ii) R = {(2,2),(2,4),(3,3), (4,4)} (iii) R = {(1,2),(2,3),(3,4), (4,5), (5,6), (6,7)}
+First 1000 chars of Solution:
+ Since 2, 3, 4 are the elements of domain of R having their unique images, this relation R is a function. (ii) Since the same first element 2 corresponds to two different images 2 and 4, this relation is not a function. (iii) Since every element has one and only one image, this relation is a function. Definition 6 A function which has either R or one of its subsets as its range is called a real valued function. Further, if its domain is also either R or a subset of R, it is called a real function.
+--------------------------------------------------------------------------------
+
+Chapter 2 - Example 12
+Question: Let N be the set of natural numbers. Define a real valued function f : Nà N by f (x) = 2x + 1. Using this definition, complete the table given below. x 1 2 3 4 5 6 7 y f (1) = ... f (2) = ... f (3) = ... f (4) = ... f (5) = ... f (6) = ... f (7) = ...
+First 1000 chars of Solution:
+ x 1 2 3 4 5 6 7 y f (1) = 3 f (2) = 5 f (3) = 7 f (4) = 9 f (5) = 11 f (6) = 13 f (7) =15 Reprint 2025-26 32 MATHEMATICS 2.4.1 Some functions and their graphs (i) Identity function Let R be the set of real numbers. Define the real valued function f : R → R by y = f(x) = x for each x ∈ R. Such a function is called the identity function. Here the domain and range of f are R. The graph is a straight line as shown in Fig 2.8. It passes through the origin. Fig 2.9 Fig 2.8 (ii) Constant function Define the function f: R → R by y = f (x) = c, x ∈ R where c is a constant and each x ∈ R. Here domain of f is R and its range is {c}. Reprint 2025-26 RELATIONS AND FUNCTIONS 33 The graph is a line parallel to x-axis. For example, if f(x)=3 for each x∈R, then its graph will be a line as shown in the Fig 2.9. (iii) Polynomial function A function f : R → R is said to be polynomial function if for each x in R, y = f (x) = a0 + a1x + a2x2 + ...+ an xn, where n is a non-negative integer and a0, a1, a2,..
+--------------------------------------------------------------------------------
+
+Chapter 2 - Example 13
+Question: Define the function f: R → R by y = f(x) = x2, x ∈ R. Complete the Table given below by using this definition. What is the domain and range of this function? Draw the graph of f. x – 4 –3 –2 –1 0 1 2 3 4 y = f(x) = x2
+First 1000 chars of Solution:
+ x – 4 –3 –2 –1 0 1 2 3 4 y = f (x) = x2 16 9 4 1 0 1 4 9 16 Domain of f = {x : x∈R}. Range of f = {x 2: x ∈ R}. The graph of f is given by Fig 2.10 Fig 2.10 Reprint 2025-26 34 MATHEMATICS
+--------------------------------------------------------------------------------
+
+Chapter 2 - Example 14
+Question: Draw the graph of the function f :R → R defined by f (x) = x3, x∈R.
+First 1000 chars of Solution:
+ f(0) = 0, f(1) = 1, f(–1) = –1, f(2) = 8, f(–2) = –8, f(3) = 27; f(–3) = –27, etc. Therefore, f = {(x,x3): x∈R}. The graph of f is given in Fig 2.11. Fig 2.11 (iv) Rational functions are functions of the type ( ) ( ) f x g x , where f(x) and g(x) are polynomial functions of x defined in a domain, where g(x) ≠ 0.
+--------------------------------------------------------------------------------
+
+Chapter 2 - Example 15
+Question: Define the real valued function f : R – {0} → R defined by 1 ( ) = f x x , x ∈ R –{0}. Complete the Table given below using this definition. What is the domain and range of this function? x –2 –1.5 –1 –0.5 0.25 0.5 1 1.5 2 y = 1 x ... ... ... ... ... ... ... ... ...
+First 1000 chars of Solution:
+ x –2 –1.5 –1 –0.5 0.25 0.5 1 1.5 2 y = 1 x – 0.5 – 0.67 –1 – 2 4 2 1 0.67 0.5 Reprint 2025-26 RELATIONS AND FUNCTIONS 35 The domain is all real numbers except 0 and its range is also all real numbers except 0. The graph of f is given in Fig 2.12. Fig 2.13 (v) The Modulus function The function f: R→R defined by f(x) = |x| for each x ∈R is called modulus function. For each non-negative value of x, f(x) is equal to x. But for negative values of x, the value of f(x) is the negative of the value of x, i.e., 0 ( ) 0 x,x f x x,x ≥  = − <  The graph of the modulus function is given in Fig 2.13. (vi) Signum function The function f:R→R defined by 1 if 0 ( ) 0 if 0 1 if 0 , x f x , x , x >   = =  − <  Fig 2.12 Reprint 2025-26 36 MATHEMATICS is called the signum function. The domain of the signum function is R and the range is the set {–1, 0, 1}. The graph of the signum function is given by the Fig 2.14. Fig 2.14 (vii) Greatest integer function The function f: R → R defined by f(x) = [x],
+--------------------------------------------------------------------------------
+
+Chapter 2 - Example 16
+Question: Let f(x) = x 2and g(x) = 2x + 1 be two real functions.Find (f + g) (x), (f –g) (x), (fg) (x), ( ) f x g       .
+First 1000 chars of Solution:
+ (f + g) (x) = x 2 + 2x + 1, (f –g) (x) = x 2 – 2x – 1, (fg) (x) = x 2 (2x + 1) = 2x 3 + x 2, ( ) f x g       = 2 2 1 x x + , x ≠ 1 2 −
+--------------------------------------------------------------------------------
+
+Chapter 2 - Example 17
+Question: Let f(x) = x and g(x) = x be two functions defined over the set of non- negative real numbers. Find (f + g) (x), (f – g) (x), (fg) (x) and f g       (x).
+First 1000 chars of Solution:
+ (f + g) (x) = x + x, (f – g) (x) = x – x , (fg) x = 3 2 x( x ) x = and ( ) f x g       1 2 0 – x x , x x = = ≠ Reprint 2025-26 38 MATHEMATICS EXERCISE 2.3 1. Which of the following relations are functions? Give reasons. If it is a function, determine its domain and range. (i) {(2,1), (5,1), (8,1), (11,1), (14,1), (17,1)} (ii) {(2,1), (4,2), (6,3), (8,4), (10,5), (12,6), (14,7)} (iii) {(1,3), (1,5), (2,5)}. 2. Find the domain and range of the following real functions: (i) f(x) = – x (ii) f(x) = 2 9 x − . 3. A function f is defined by f(x) = 2x –5. Write down the values of (i) f (0), (ii) f (7), (iii) f (–3). 4. The function ‘t’ which maps temperature in degree Celsius into temperature in degree Fahrenheit is defined by t(C) = 9C 5 + 32. Find (i) t(0) (ii) t(28) (iii) t(–10) (iv) The value of C, when t(C) = 212. 5. Find the range of each of the following functions. (i) f (x) = 2 – 3x, x ∈ R, x > 0. (ii) f (x) = x2 + 2, x is a real number. (iii) f (x) = x, x is a real number. Misce
+--------------------------------------------------------------------------------
+
+Chapter 2 - Example 18
+Question: Let R be the set of real numbers. Define the real function f: R→R by f(x) = x + 10 and sketch the graph of this function.
+First 1000 chars of Solution:
+ f(10) = 20, etc., and f(–1) = 9, f(–2) = 8, ..., f(–10) = 0 and so on. Therefore, shape of the graph of the given function assumes the form as shown in Fig 2.16. Remark The function f defined by f(x) = mx + c , x ∈ R, is called linear function, where m and c are constants. Above function is an example of a linear function. Fig 2.16 Reprint 2025-26 RELATIONS AND FUNCTIONS 39
+--------------------------------------------------------------------------------
+
+Chapter 2 - Example 19
+Question: Let R be a relation from Q to Q defined by R = {(a,b): a,b ∈ Q and a – b ∈ Z}. Show that (i) (a,a) ∈ R for all a ∈ Q (ii) (a,b) ∈ R implies that (b, a) ∈ R (iii) (a,b) ∈ R and (b,c) ∈ R implies that (a,c) ∈R
+First 1000 chars of Solution:
+ (i) Since, a – a = 0 ∈ Z, if follows that (a, a) ∈ R. (ii) (a,b) ∈ R implies that a – b ∈ Z. So, b – a ∈ Z. Therefore, (b, a) ∈ R (iii) (a, b) and (b, c) ∈ R implies that a – b ∈ Z. b – c ∈ Z. So, a – c = (a – b) + (b – c) ∈ Z. Therefore, (a,c) ∈ R
+--------------------------------------------------------------------------------
+
+Chapter 2 - Example 20
+Question: Let f = {(1,1), (2,3), (0, –1), (–1, –3)} be a linear function from Z into Z. Find f(x).
+First 1000 chars of Solution:
+ f (1) = m + c = 1 and f (0) = c = –1. This gives m = 2 and f(x) = 2x – 1.
+--------------------------------------------------------------------------------
+
+Chapter 2 - Example 21
+Question: Find the domain of the function 2 2 3 5 ( ) 5 4 x x f x x x + + = − +
+First 1000 chars of Solution:
+ 2 –5x + 4 = (x – 4) (x –1), the function f is defined for all real numbers except at x = 4 and x = 1. Hence the domain of f is R – {1, 4}.
+--------------------------------------------------------------------------------
+
+Chapter 2 - Example 22
+Question: The function f is defined by f (x) = 1 0 1 0 1 0 x, x , x x , x − <   =  + >  Draw the graph of f (x).
+First 1000 chars of Solution:
+ f(– 4) = 1 – (– 4)= 5; f(– 3) =1 – (– 3) = 4, f(– 2) = 1 – (– 2)= 3 f(–1) = 1 – (–1) = 2; etc, and f(1) = 2, f (2) = 3, f (3) = 4 f(4) = 5 and so on for f(x) = x + 1, x > 0. Thus, the graph of f is as shown in Fig 2.17 Fig 2.17 Reprint 2025-26 40 MATHEMATICS Miscellaneous Exercise on Chapter 2 1. The relation f is defined by 2 0 3 ( ) = 3 3 10 x , x f x x, x  ≤≤  ≤≤  The relation g is defined by 2 , 0 2 ( ) 3 , 2 10 x x g x x x  ≤ ≤  = ≤ ≤  Show that f is a function and g is not a function. 2. If f (x) = x 2, find (1 1) (1) (1 1 1) f . – f . – . 3. Find the domain of the function f (x) 2 2 2 1 8 12 x x x – x + + = + . 4. Find the domain and the range of the real function f defined by f (x) = ( 1) x − . 5. Find the domain and the range of the real function f defined by f (x) = –1 x . 6. Let 2 2 , : 1 x f x x x       = ∈    +       R be a function from R into R. Determine the range of f. 7. Let f, g : R→R be defined, respectively by f(x) = x + 1, g(x) = 2x – 3.
+--------------------------------------------------------------------------------
+
+Chapter 3 - Example 1
+Question: Convert 40° 20′ into radian measure.
+First 1000 chars of Solution:
+ Hence 40° 20′ = 40 1 3 degree = π 180 × 121 3 radian = 121π 540 radian. Therefore 40° 20′ = 121π 540 radian.
+--------------------------------------------------------------------------------
+
+Chapter 3 - Example 2
+Question: Convert 6 radians into degree measure.
+First 1000 chars of Solution:
+ Hence 6 radians = 180 π ×6 degree = 1080 7 22 × degree = 343 7 11degree = 343° + 7 60 11 × minute [as 1° = 60′] = 343° + 38′ + 2 11 minute [as 1′ = 60″] = 343° + 38′ + 10.9″ = 343°38′ 11″ approximately. Hence 6 radians = 343° 38′ 11″ approximately.
+--------------------------------------------------------------------------------
+
+Chapter 3 - Example 3
+Question: Find the radius of the circle in which a central angle of 60° intercepts an arc of length 37.4 cm (use 22 π 7 = ). Reprint 2025-26 48 MATHEMATICS
+First 1000 chars of Solution:
+ π radian = 180 3 Hence, by r = θ l , we have r = 37.4×3 37.4×3×7 = π 22 = 35.7 cm
+--------------------------------------------------------------------------------
+
+Chapter 3 - Example 4
+Question: The minute hand of a watch is 1.5 cm long. How far does its tip move in 40 minutes? (Use π = 3.14).
+First 1000 chars of Solution:
+ in 40 minutes, the minute hand turns through 2 3 of a revolution. Therefore, 2 θ = × 360° 3 or 4π 3 radian. Hence, the required distance travelled is given by l = r θ = 1.5 × 4π 3 cm = 2π cm = 2 ×3.14 cm = 6.28 cm.
+--------------------------------------------------------------------------------
+
+Chapter 3 - Example 5
+Question: If the arcs of the same lengths in two circles subtend angles 65°and 110° at the centre, find the ratio of their radii.
+First 1000 chars of Solution:
+ θ1 = 65° = π 65 180 × = 13π 36 radian and θ2 = 110° = π 110 180 × = 22π 36 radian Let l be the length of each of the arc. Then l = r1θ1 = r2θ2, which gives 13π 36 ×r1 = 22π 36 × r2 , i.e., 1 2 r r = 22 13 Hence r1 : r2 = 22 : 13. EXERCISE 3.1 1. Find the radian measures corresponding to the following degree measures: (i) 25° (ii) – 47°30′ (iii) 240° (iv) 520° Reprint 2025-26 TRIGONOMETRIC FUNCTIONS 49 2. Find the degree measures corresponding to the following radian measures (Use 22 π 7 = ). (i) 11 16 (ii) – 4 (iii) 5π 3 (iv) 7π 6 3. A wheel makes 360 revolutions in one minute. Through how many radians does it turn in one second? 4. Find the degree measure of the angle subtended at the centre of a circle of radius 100 cm by an arc of length 22 cm (Use 22 π 7 = ). 5. In a circle of diameter 40 cm, the length of a chord is 20 cm. Find the length of minor arc of the chord. 6. If in two circles, arcs of the same length subtend angles 60° and 75° at the centre, find the ratio of their radi
+--------------------------------------------------------------------------------
+
+Chapter 3 - Example 6
+Question: If cos x = – 3 5 , x lies in the third quadrant, find the values of other five trigonometric functions.
+First 1000 chars of Solution:
+ 3 5 − , we have sec x = 5 3 − Now sin2 x + cos2 x = 1, i.e., sin2 x = 1 – cos2 x or sin2 x = 1 – 9 25 = 16 25 Hence sin x = ± 4 5 Since x lies in third quadrant, sin x is negative. Therefore sin x = – 4 5 which also gives cosec x = – 5 4 Fig 3.12 Fig 3.13 Reprint 2025-26 56 MATHEMATICS Further, we have tan x = sin cos x x = 4 3 and cot x = cos sin x x = 3 4 .
+--------------------------------------------------------------------------------
+
+Chapter 3 - Example 7
+Question: If cot x = – 5 12 , x lies in second quadrant, find the values of other five trigonometric functions.
+First 1000 chars of Solution:
+ 12 , we have tan x = – 12 5 Now sec2 x = 1 + tan2 x = 1 + 144 25 = 169 25 Hence sec x = ± 13 5 Since x lies in second quadrant, sec x will be negative. Therefore sec x = – 13 5 , which also gives 5 cos 13 x = − Further, we have sin x = tan x cos x = (– 12 5 ) ×(– 5 13 ) = 12 13 and cosec x = 1 sin x = 13 12 .
+--------------------------------------------------------------------------------
+
+Chapter 3 - Example 8
+Question: Find the value of sin 31π 3 .
+First 1000 chars of Solution:
+ sin 31π 3 = sin (10π + π 3 ) = sin π 3 = 3 2 . Reprint 2025-26 TRIGONOMETRIC FUNCTIONS 57
+--------------------------------------------------------------------------------
+
+Chapter 3 - Example 9
+Question: Find the value of cos (–1710°).
+First 1000 chars of Solution:
+ Therefore, cos (–1710°) = cos (–1710° + 5 × 360°) = cos (–1710° + 1800°) = cos 90° = 0. EXERCISE 3.2 Find the values of other five trigonometric functions in Exercises 1 to 5. 1. cos x = – 1 2 , x lies in third quadrant. 2. sin x = 3 5, x lies in second quadrant. 3. cot x = 4 3 , x lies in third quadrant. 4. sec x = 13 5 , x lies in fourth quadrant. 5. tan x = – 5 12 , x lies in second quadrant. Find the values of the trigonometric functions in Exercises 6 to 10. 6. sin 765° 7. cosec (– 1410°) 8. tan 19π 3 9. sin (– 11π 3 ) 10. cot (– 15π 4 ) 3.4 Trigonometric Functions of Sum and Difference of Two Angles In this Section, we shall derive expressions for trigonometric functions of the sum and difference of two numbers (angles) and related expressions. The basic results in this connection are called trigonometric identities. We have seen that 1. sin (– x) = – sin x 2. cos (– x) = cos x We shall now prove some more results: Reprint 2025-26 58 MATHEMATICS 3. cos (x + y) = cos x cos y – si
+--------------------------------------------------------------------------------
+
+Chapter 3 - Example 10
+Question: Prove that 5 3sin sec 4sin cot 1 6 3 6 4 π π π π − =
+First 1000 chars of Solution:
+ L.H.S. = 5 3sin sec 4sin cot 6 3 6 4 π π π π − = 3 × 1 2 × 2 – 4 sin 6 π   π−    × 1 = 3 – 4 sin 6 π = 3 – 4 × 1 2 = 1 = R.H.S.
+--------------------------------------------------------------------------------
+
+Chapter 3 - Example 11
+Question: Find the value of sin 15°.
+First 1000 chars of Solution:
+ sin 15° = sin (45° – 30°) = sin 45° cos 30° – cos 45° sin 30° = 1 3 1 1 3 1 2 2 2 2 2 2 – × − × = .
+--------------------------------------------------------------------------------
+
+Chapter 3 - Example 12
+Question: Find the value of tan 13 12 π . Reprint 2025-26 TRIGONOMETRIC FUNCTIONS 65
+First 1000 chars of Solution:
+ tan 13 12 π = tan 12 π   π +     = tan tan 12 4 6 π π π   = −     = tan tan 4 6 1 tan tan 4 6 π π − π π + = 1 1 3 1 3 2 3 1 3 1 1 3 − − = = − + +
+--------------------------------------------------------------------------------
+
+Chapter 3 - Example 13
+Question: Prove that sin( ) tan tan sin( ) tan tan x y x y x y x y + + = − − .
+First 1000 chars of Solution:
+ L.H.S. sin( ) sin cos cos sin sin( ) sin cos cos sin x y x y x y x y x y x y + + = = − − Dividing the numerator and denominator by cos x cos y, we get sin( ) tan tan sin( ) tan tan x y x y x y x y + + = − − .
+--------------------------------------------------------------------------------
+
+Chapter 3 - Example 14
+Question: Show that tan 3 x tan 2 x tan x = tan 3x – tan 2 x – tan x
+First 1000 chars of Solution:
+ Therefore, tan 3x = tan (2x + x) or tan2 tan tan3 1– tan 2 tan x x x x x + = or tan 3x – tan 3x tan 2x tan x = tan 2x + tan x or tan 3x – tan 2x – tan x = tan 3x tan 2x tan x or tan 3x tan 2x tan x = tan 3x – tan 2x – tan x.
+--------------------------------------------------------------------------------
+
+Chapter 3 - Example 15
+Question: Prove that cos cos 2 cos 4 4 x x x π π     + + − =        
+First 1000 chars of Solution:
+ Reprint 2025-26 66 MATHEMATICS L.H.S. cos cos 4 4 x x π π     = + + −         ( ) 4 4 4 4 2cos cos 2 2 x x x – x π π π π     + + − + −     =                 = 2 cos 4 π cos x = 2 × 1 2 cos x = 2 cos x = R.H.S.
+--------------------------------------------------------------------------------
+
+Chapter 3 - Example 16
+Question: Prove that cos 7 cos 5 cot sin 7 – sin 5 x x x x x + =
+First 1000 chars of Solution:
+ L.H.S. = 7 5 7 5 2cos cos 2 2 7 5 7 5 2cos sin 2 2 x x x x x x x x + − + − = cos sin cot x x x = = R.H.S.
+--------------------------------------------------------------------------------
+
+Chapter 3 - Example 17
+Question: Prove that sin5 2sin3 sin tan cos5 cos x x x x x x − + = = −
+First 1000 chars of Solution:
+ L.H.S. sin5 2sin3 sin cos5 cos x x x x x − + = − sin5 sin 2sin3 cos5 cos x x x x x + − = − 2sin3 cos2 2sin3 – 2sin3 sin 2 x x x x x − = sin3 (cos2 1) sin3 sin 2 x x – x x − = 2 1 cos2 2sin sin 2 2sin cos x x x x x − = = = tan x = R.H.S. Reprint 2025-26 TRIGONOMETRIC FUNCTIONS 67 EXERCISE 3.3 Prove that: 1. sin2 π 6 + cos2 3 π – tan2 1 – 4 2 π = 2. 2sin2 6 π + cosec2 2 7 3 cos 6 3 2 π π = 3. 2 2 5 cot cosec 3tan 6 6 6 6 π π π + + = 4. 2 2 2 3 2sin 2cos 2sec 10 4 4 3 π π π + + = 5. Find the value of: (i) sin 75° (ii) tan 15° Prove the following: 6. cos cos sin sin sin( ) 4 4 4 4 x y x y x y π π π π         − − − − − = +                 7. 2 π tan 1 tan 4 π 1 tan tan 4 x x x x   +     +  =   −     −     8. 2 cos ( ) cos ( ) cot sin ( ) cos 2 x x x x x π + − = π   π − +     9. 3π 3π cos cos (2π ) cot cot (2π ) 1 2 2 x x x x       + + − + + =             10. sin (n + 1)x sin (n + 2)x + cos (n + 1)x cos (n + 2)x = cos x 11. 3
+--------------------------------------------------------------------------------
+
+Chapter 3 - Example 18
+Question: If sin x = 3 5 , cos y = −12 13 , where x and y both lie in second quadrant, find the value of sin (x + y).
+First 1000 chars of Solution:
+ sin (x + y) = sin x cos y + cos x sin y ... (1) Now cos2 x = 1 – sin2 x = 1 – 9 25 = 16 25 Therefore cos x = ± 4 5 . Since x lies in second quadrant, cos x is negative. Hence cos x = −4 5 Now sin2y = 1 – cos2y = 1 – 144 169 25 169 = i.e. sin y = ± 5 13. Since y lies in second quadrant, hence sin y is positive. Therefore, sin y = 5 13. Substituting the values of sin x, sin y, cos x and cos y in (1), we get sin( ) x y + = × −    + −    × 3 5 12 13 4 5 5 13 = 36 20 56 65 65 65 − − = − .
+--------------------------------------------------------------------------------
+
+Chapter 3 - Example 19
+Question: Prove that 9 5 cos 2 cos cos 3 cos sin 5 sin 2 2 2 x x x x x x − = .
+First 1000 chars of Solution:
+ Reprint 2025-26 TRIGONOMETRIC FUNCTIONS 69 L.H.S. = 1 9 2cos 2 cos 2cos cos 3 2 2 2 x x x x   −     = 1 9 9 cos 2 cos 2 cos 3 cos 3 2 2 2 2 2 x x x x x x x x           + + − − + − −                     = 1 2 5 2 3 2 15 2 3 2 cos cos cos cos x x x x + − −     = 1 2 5 2 15 2 cos cos x x −     = 5 15 5 15 1 2 2 2 2 2sin sin 2 2 2 x x x x       + −       −                     = − −    = sin sin sin sin 5 5 2 5 5 2 x x x x = R.H.S.
+--------------------------------------------------------------------------------
+
+Chapter 3 - Example 20
+Question: Find the value of tan π 8 .
+First 1000 chars of Solution:
+ π 8 x = . Then π 2 4 x = . Now tan tan tan 2 2 1 2 x x x = − or 2 π 2tan π 8 tan π 4 1 tan 8 = − Let y = tan π 8 . Then 1 = 2 1 2 y y − or y2 + 2y – 1 = 0 Therefore y = −± = −± 2 2 2 2 1 2 Reprint 2025-26 70 MATHEMATICS Since π 8 lies in the first quadrant, y = tan π 8 is positve. Hence π tan 2 1 8 = −.
+--------------------------------------------------------------------------------
+
+Chapter 3 - Example 21
+Question: If 3 3π tan = , π < < 4 2 x x , find the value of sin x 2 , cos x 2 and tan x 2 .
+First 1000 chars of Solution:
+ 3π π 2 x < < , cosx is negative. Also π 3π 2 2 4 x < < . Therefore, sin x 2 is positive and cos x 2 is negative. Now sec2 x = 1 + tan2 x = 1 9 16 25 16 + = Therefore cos2 x = 16 25 or cos x = 4 5 – (Why?) Now 2 2 2 sin x = 1 – cos x = 1 4 5 9 5 + = . Therefore sin2 x 2 = 9 10 or sin x 2 = 3 10 (Why?) Again 2cos2 x 2 = 1+ cos x = 1 4 5 1 5 − = Therefore cos2 x 2 = 1 10 or cos x 2 = − 1 10 (Why?) Reprint 2025-26 TRIGONOMETRIC FUNCTIONS 71 Hence tan x 2 = sin cos x x 2 2 3 10 10 1 = × −       = – 3.
+--------------------------------------------------------------------------------
+
+Chapter 3 - Example 22
+Question: Prove that cos2 x + cos2 2 π π 3 cos 3 3 2 x x     + + − =         .
+First 1000 chars of Solution:
+ L.H.S. = 2π 2π 1 cos 2 1 cos 2 1 cos 2 3 3 2 2 2 x x x     + + + −     +     + + . = 1 2π 2π 3 cos 2 cos 2 cos 2 2 3 3 x x x       + + + + −             = 1 2π 3 cos 2 2cos 2 cos 2 3 x x   + +     = 1 π 3 cos 2 2cos 2 cos π 2 3 x x     + + −         = 1 π 3 cos 2 2cos 2 cos 2 3 x x   + −     = [ ] 1 3 3 cos 2 cos 2 2 2 x x + − = = R.H.S. Miscellaneous Exercise on Chapter 3 Prove that: 1. 0 13 π 5 cos 13 π 3 cos 13 π 9 cos 13 π cos 2 = + + 2. (sin 3x + sin x) sin x + (cos 3x – cos x) cos x = 0 3. (cos x + cos y)2 + (sin x – sin y)2 = 4 cos2 2 x y + Reprint 2025-26 72 MATHEMATICS 4. (cosx – cos y)2 + (sinx – sin y)2 = 4 sin2 2 x y − 5. sin x + sin 3x + sin 5x + sin 7x = 4 cos x cos 2x sin 4x 6 . 6 . 6 . 6 . 6 . (sin7 sin5 ) (sin 9 sin3 ) tan 6 (cos7 cos5 ) (cos 9 cos3 ) x x x x x x x x x + + + = + + + 7. sin 3x + sin 2x – sin x = 4sin x cos x 2 cos 3 2 x Find sin x 2 , cos x 2 and tan x 2 in each of the following : 8. tanx = −4 3 , x
+--------------------------------------------------------------------------------
+
+Chapter 4 - Example 1
+Question: If 4x + i(3x – y) = 3 + i (– 6), where x and y are real numbers, then find the values of x and y.
+First 1000 chars of Solution:
+ 4x + i (3x – y) = 3 + i (–6) ... (1) Equating the real and the imaginary parts of (1), we get 4x = 3, 3x – y = – 6, which, on solving simultaneously, give 3 4 x = and 33 4 y = . 4.3 Algebra of Complex Numbers In this Section, we shall develop the algebra of complex numbers. 4.3.1 Addition of two complex numbers Let z1 = a + ib and z2 = c + id be any two complex numbers. Then, the sum z1 + z2 is defined as follows: z1 + z2 = (a + c) + i (b + d), which is again a complex number. For example, (2 + i3) + (– 6 +i5) = (2 – 6) + i (3 + 5) = – 4 + i 8 The addition of complex numbers satisfy the following properties: (i) The closure law The sum of two complex numbers is a complex number, i.e., z1 + z2 is a complex number for all complex numbers z1 and z2. (ii) The commutative law For any two complex numbers z1 and z2, z1 + z2 = z2 + z1 (iii) The associative law For any three complex numbers z1, z2, z3, (z1 + z2) + z3 = z1 + (z2 + z3). (iv) The existence of additive identity There exists the co
+--------------------------------------------------------------------------------
+
+Chapter 4 - Example 2
+Question: Express the following in the form of a + bi: (i) ( ) 1 5 8 i i   −     (ii) ( ) ( ) 2 i i − 3 1 8 i   −    
+First 1000 chars of Solution:
+ (i) ( ) 1 5 8 i i   −     = 2 5 8 i − = ( ) 5 1 8 − − = 5 8 = 5 0 8 i + (ii) ( ) ( ) 3 1 2 8 i i i   − −     = 5 1 2 8 8 8 i × × × × = ( ) 2 2 1 256 i 1 256 i i = . Reprint 2025-26 COMPLEX NUMBERS AND QUADRATIC EQUATIONS 81
+--------------------------------------------------------------------------------
+
+Chapter 4 - Example 3
+Question: Express (5 – 3i)3 in the form a + ib.
+First 1000 chars of Solution:
+ = 125 – 225i – 135 + 27i = – 10 – 198i.
+--------------------------------------------------------------------------------
+
+Chapter 4 - Example 4
+Question: Express ( )( ) 3 2 2 3 i − + − − in the form of a + ib
+First 1000 chars of Solution:
+ ) ( ) 3 2 2 3 i − + − − = ( ) ( ) 3 2 2 3 i i − + − = 2 6 3 2 6 2 i i i −+ + − = ( ) ( ) 6 2 3 1 2 2 i −+ + + 4.4 The Modulus and the Conjugate of a Complex Number Let z = a + ib be a complex number. Then, the modulus of z, denoted by | z |, is defined to be the non-negative real number 2 2 a b + , i.e., | z | = 2 2 a b + and the conjugate of z, denoted as z , is the complex number a – ib, i.e., z = a – ib. For example, 2 2 3 3 1 10 i + = + = , 2 2 2 5 2 ( 5) 29 i − = + − = , and 3 3 i i + = −, 2 5 2 5 i i − = + , 3 5 i − − = 3i – 5 Observe that the multiplicative inverse of the non-zero complex number z is given by z–1 = 1 a ib + = 2 2 2 2 a b i a b a b − + + + = 2 2 a ib a b − + = 2 z z or z 2 z z = Furthermore, the following results can easily be derived. For any two compex numbers z1 and z2 , we have (i) 1 2 1 2 z z z z = (ii) 1 1 2 2 z z z z = provided 2 0 z ≠ (iii) 1 2 1 2 z z z z = (iv) 1 2 1 2 z z z z ± = ± (v) 1 1 2 2 z z z z  =     provided z2 ≠ 0. Reprint 2025-26 82 M
+--------------------------------------------------------------------------------
+
+Chapter 4 - Example 5
+Question: Find the multiplicative inverse of 2 – 3i.
+First 1000 chars of Solution:
+ Let z = 2 – 3i Then z = 2 + 3i and 2 2 2 2 ( 3) 13 z = + − = Therefore, the multiplicative inverse of 2 3i − is given by z–1 2 2 3 2 3 13 13 13 z i i z + = = = + The above working can be reproduced in the following manner also, z–1 = 1 2 3 2 3 (2 3 )(2 3 ) i i i i + = − − + = 2 2 2 3 2 3 2 3 13 13 13 2 (3 ) i i i i + + = = + −
+--------------------------------------------------------------------------------
+
+Chapter 4 - Example 6
+Question: Express the following in the form a + ib (i) 5 2 1 2 i i + − (ii) i–35
+First 1000 chars of Solution:
+ 5 2 5 2 1 2 1 2 1 2 1 2 i i i i i i + + + = × − − + ( ) 2 5 5 2 2 2 1 2 i i i + + − = − = 3 6 2 3(1 2 2 ) 1 2 3 i i + + = + = 1 2 2i + . (ii) ( ) 35 35 17 2 1 1 1 i i i i i i i − = = = × − = 2 i i i = − EXERCISE 4.1 Express each of the complex number given in the Exercises 1 to 10 in the form a + ib. 1. ( ) 3 5 5 i i   −     2. i i 9 19 + 3. i −39 Reprint 2025-26 COMPLEX NUMBERS AND QUADRATIC EQUATIONS 83 Fig 4.1 4. 3(7 + i7) + i (7 + i7) 5. (1 – i) – ( –1 + i6) 6. 1 2 5 4 5 5 2 i i     + − +         7. 1 7 1 4 4 3 3 3 3 i i i         + + + −− +                 8. (1 – i)4 9. 3 1 3 3 i   +     10. 3 1 2 3i   −−     Find the multiplicative inverse of each of the complex numbers given in the Exercises 11 to 13. 11. 4 – 3i 12. 5 3i + 13. – i 14. Express the following expression in the form of a + ib : ( ) ( ) ( ) ( ) 3 5 3 5 3 2 3 2 i i i i + − + − − 4.5 Argand Plane and Polar Representation We already know that corresponding to each 
+--------------------------------------------------------------------------------
+
+Chapter 4 - Example 7
+Question: Find the conjugate of (3 2 )(2 3 ) (1 2 )(2 ) i i i i − + + − .
+First 1000 chars of Solution:
+ (3 2 )(2 3 ) (1 2 )(2 ) i i i i − + + − = 6 9 4 6 2 4 2 i i i i + − + −+ + = 12 5 4 3 4 3 4 3 i i i i + − × + − = 48 36 20 15 63 16 16 9 25 i i i − + + − = + = 63 16 25 25i − Therefore, conjugate of (3 2 )(2 3 ) 63 16 is (1 2 )(2 ) 25 25 i i i i i − + + + − .
+--------------------------------------------------------------------------------
+
+Chapter 4 - Example 8
+Question: If x + iy = a ib a ib + − , prove that x2 + y2 = 1.
+First 1000 chars of Solution:
+ x + iy = ( )( ) ( )( ) a ib a ib a ib a ib + + − + = 2 2 2 2 2 a b abi a b − + + = 2 2 2 2 2 2 2 a b ab i a b a b − + + + So that, x – iy = 2 2 2 2 2 2 2 a b ab i a b a b − − + + Therefore, x2 + y2 = (x + iy) (x – iy) = 2 2 2 2 2 2 2 2 2 2 2 ( ) 4 ( ) ( ) a b a b a b a b − + + + = 2 2 2 2 2 2 ( ) ( ) a b a b + + = 1 Miscellaneous Exercise on Chapter 4 1. Evaluate: 3 25 18 1 i i    +         . 2. For any two complex numbers z1 and z2, prove that Re (z1 z2) = Re z1 Re z2 – Imz1 Imz2 . Reprint 2025-26 86 MATHEMATICS 3. Reduce 1 2 3 4 1 4 1 5 i i i i −    −    − + +    to the standard form . 4. If a ib x iy c id − − = − prove that ( ) 2 2 2 2 2 2 2 a b x y c d + + = + . 5. If z1 = 2 – i, z2 = 1 + i, find 1 2 1 2 1 – 1 z z z z + + + . 6. If a + ib = 2 2 ( ) 2 1 x i x + + , prove that a2 + b2 = ( ) 2 2 2 2 ( 1) 2 1 x x + + . 7. Let z1 = 2 – i, z2 = –2 + i. Find (i) 1 2 1 Re z z z      , (ii) 1 1 1 Im z z       . 8. Find the real numbers x and y if (x – 
+--------------------------------------------------------------------------------
+
+Chapter 5 - Example 1
+Question: Solve 30 x < 200 when (i) x is a natural number, (ii) x is an integer.
+First 1000 chars of Solution:
+ or 30 200 30 30 x < (Rule 2), i.e., x < 20 / 3. (i) When x is a natural number, in this case the following values of x make the statement true. 1, 2, 3, 4, 5, 6. The solution set of the inequality is {1,2,3,4,5,6}. (ii) When x is an integer, the solutions of the given inequality are ..., – 3, –2, –1, 0, 1, 2, 3, 4, 5, 6 The solution set of the inequality is {...,–3, –2,–1, 0, 1, 2, 3, 4, 5, 6}
+--------------------------------------------------------------------------------
+
+Chapter 5 - Example 2
+Question: Solve 5x – 3 < 3x +1 when (i) x is an integer, (ii) x is a real number.
+First 1000 chars of Solution:
+ or 5x –3 + 3 < 3x +1 +3 (Rule 1) or 5x < 3x +4 or 5x – 3x < 3x + 4 – 3x (Rule 1) or 2x < 4 or x < 2 (Rule 2) (i) When x is an integer, the solutions of the given inequality are ..., – 4, – 3, – 2, – 1, 0, 1 (ii) When x is a real number, the solutions of the inequality are given by x < 2, i.e., all real numbers x which are less than 2. Therefore, the solution set of the inequality is x ∈ (– ∞, 2). We have considered solutions of inequalities in the set of natural numbers, set of integers and in the set of real numbers. Henceforth, unless stated otherwise, we shall solve the inequalities in this Chapter in the set of real numbers. Reprint 2025-26 LINEAR INEQUALITIES 93
+--------------------------------------------------------------------------------
+
+Chapter 5 - Example 3
+Question: Solve 4x + 3 < 6x +7.
+First 1000 chars of Solution:
+ 4x + 3 < 6x + 7 or 4x – 6x < 6x + 4 – 6x or – 2x < 4 or x > – 2 i.e., all the real numbers which are greater than –2, are the solutions of the given inequality. Hence, the solution set is (–2, ∞).
+--------------------------------------------------------------------------------
+
+Chapter 5 - Example 4
+Question: Solve 5 2 5 3 6 – x x – ≤ .
+First 1000 chars of Solution:
+ 5 2 5 3 6 – x x – ≤ or 2 (5 – 2x) ≤ x – 30. or 10 – 4x ≤ x – 30 or – 5x ≤ – 40, i.e., x ≥ 8 Thus, all real numbers x which are greater than or equal to 8 are the solutions of the given inequality, i.e., x ∈ [8, ∞).
+--------------------------------------------------------------------------------
+
+Chapter 5 - Example 5
+Question: Solve 7x + 3 < 5x + 9. Show the graph of the solutions on number line.
+First 1000 chars of Solution:
+ 2x < 6 or x < 3 The graphical representation of the solutions are given in Fig 5.1. Fig 5.1
+--------------------------------------------------------------------------------
+
+Chapter 5 - Example 6
+Question: Solve 3 4 1 1 2 4 x x − + ≥ −. Show the graph of the solutions on number line.
+First 1000 chars of Solution:
+ 3 4 1 1 2 4 x x − + ≥ − or 3 4 3 2 4 x x − − ≥ or 2 (3x – 4) ≥ (x – 3) Reprint 2025-26 94 MATHEMATICS or 6x – 8 ≥ x – 3 or 5x ≥ 5 or x ≥ 1 The graphical representation of solutions is given in Fig 5.2. Fig 5.2
+--------------------------------------------------------------------------------
+
+Chapter 5 - Example 7
+Question: The marks obtained by a student of Class XI in first and second terminal examination are 62 and 48, respectively. Find the minimum marks he should get in the annual examination to have an average of at least 60 marks.
+First 1000 chars of Solution:
+ 62 48 60 3 x + + ≥ or 110 + x ≥ 180 or x ≥ 70 Thus, the student must obtain a minimum of 70 marks to get an average of at least 60 marks.
+--------------------------------------------------------------------------------
+
+Chapter 5 - Example 8
+Question: Find all pairs of consecutive odd natural numbers, both of which are larger than 10, such that their sum is less than 40.
+First 1000 chars of Solution:
+ other one is x +2. Then, we should have x > 10 ... (1) and x + ( x + 2) < 40 ... (2) Solving (2), we get 2x + 2 < 40 i.e., x < 19 ... (3) From (1) and (3), we get 10 < x < 19 Since x is an odd number, x can take the values 11, 13, 15, and 17. So, the required possible pairs will be (11, 13), (13, 15), (15, 17), (17, 19) Reprint 2025-26 LINEAR INEQUALITIES 95 EXERCISE 5.1 1. Solve 24x < 100, when (i) x is a natural number. (ii) x is an integer. 2. Solve – 12x > 30, when (i) x is a natural number. (ii) x is an integer. 3. Solve 5x – 3 < 7, when (i) x is an integer. (ii) x is a real number. 4. Solve 3x + 8 >2, when (i) x is an integer. (ii) x is a real number. Solve the inequalities in Exercises 5 to 16 for real x. 5. 4x + 3 < 5x + 7 6. 3x – 7 > 5x – 1 7. 3(x – 1) ≤ 2 (x – 3) 8. 3 (2 – x) ≥ 2 (1 – x) 9. 11 2 3 x x x + + < 10. 1 3 2 x x > + 11. 3( 2) 5(2 ) 5 3 x x − − ≤ 12. 1 3 1 4 ( 6) 2 5 3 x x   + ≥ −     13. 2 (2x + 3) – 10 < 6 (x – 2) 14. 37 – (3x + 5) > 9x – 8 (x – 3) 15. (5 2
+--------------------------------------------------------------------------------
+
+Chapter 5 - Example 9
+Question: Solve – 8 ≤ 5x – 3 < 7.
+First 1000 chars of Solution:
+ will solve simultaneously. We have – 8 ≤ 5x –3 < 7 or –5 ≤ 5x < 10 or –1 ≤ x < 2
+--------------------------------------------------------------------------------
+
+Chapter 5 - Example 10
+Question: Solve – 5 ≤ 5 3 2 – x ≤ 8.
+First 1000 chars of Solution:
+ – 5 ≤ 5 3 2 – x ≤ 8 or –10 ≤ 5 – 3x ≤ 16 or – 15 ≤ – 3x ≤ 11 or 5 ≥ x ≥ – 11 3 which can be written as –11 3 ≤ x ≤ 5
+--------------------------------------------------------------------------------
+
+Chapter 5 - Example 11
+Question: Solve the system of inequalities: 3x – 7 < 5 + x ... (1) 11 – 5 x ≤ 1 ... (2) and represent the solutions on the number line.
+First 1000 chars of Solution:
+ 3x – 7 < 5 + x or x < 6 ... (3) Also, from inequality (2), we have 11 – 5 x ≤ 1 or – 5 x ≤ – 10 i.e., x ≥ 2 ... (4) Reprint 2025-26 LINEAR INEQUALITIES 97 If we draw the graph of inequalities (3) and (4) on the number line, we see that the values of x, which are common to both, are shown by bold line in Fig 5.3. Fig 5.3 Thus, solution of the system are real numbers x lying between 2 and 6 including 2, i.e., 2 ≤ x < 6
+--------------------------------------------------------------------------------
+
+Chapter 5 - Example 12
+Question: In an experiment, a solution of hydrochloric acid is to be kept between 30° and 35° Celsius. What is the range of temperature in degree Fahrenheit if conversion formula is given by C = 5 9 (F – 32), where C and F represent temperature in degree Celsius and degree Fahrenheit, respectively.
+First 1000 chars of Solution:
+ Putting C = 5 9 (F – 32), we get 30 < 5 9 (F – 32) < 35, or 9 5 × (30) < (F – 32) < 9 5 × (35) or 54 < (F – 32) < 63 or 86 < F < 95. Thus, the required range of temperature is between 86° F and 95° F.
+--------------------------------------------------------------------------------
+
+Chapter 5 - Example 13
+Question: A manufacturer has 600 litres of a 12% solution of acid. How many litres of a 30% acid solution must be added to it so that acid content in the resulting mixture will be more than 15% but less than 18%?
+First 1000 chars of Solution:
+ Total mixture = (x + 600) litres Therefore 30% x + 12% of 600 > 15% of (x + 600) and 30% x + 12% of 600 < 18% of (x + 600) or 30 100 x + 12 100 (600) > 15 100 (x + 600) Reprint 2025-26 98 MATHEMATICS and 30 100 x + 12 100 (600) < 18 100 (x + 600) or 30x + 7200 > 15x + 9000 and 30x + 7200 < 18x + 10800 or 15x > 1800 and 12x < 3600 or x > 120 and x < 300, i.e. 120 < x < 300 Thus, the number of litres of the 30% solution of acid will have to be more than 120 litres but less than 300 litres. Miscellaneous Exercise on Chapter 5 Solve the inequalities in Exercises 1 to 6. 1. 2 ≤ 3x – 4 ≤ 5 2. 6 ≤ – 3 (2x – 4) < 12 3. 7 3 4 18 2 x – ≤ − ≤ 4. 3 2 15 0 5 ( x ) − − < ≤ 5. 3 12 4 2 5 x − < − ≤ − 6. 3 11 7 11 2 ( x ) + ≤ ≤ . Solve the inequalities in Exercises 7 to 10 and represent the solution graphically on number line. 7. 5x + 1 > – 24, 5x – 1 < 24 8. 2 (x – 1) < x + 5, 3 (x + 2) > 2 – x 9. 3x – 7 > 2 (x – 6) , 6 – x > 11 – 2x 10. 5 (2x – 7) – 3 (2x + 3) ≤ 0 , 2x + 19 ≤ 6x + 47 . 11. A solutio
+--------------------------------------------------------------------------------
+
+Chapter 6 - Example 1
+Question: Find the number of 4 letter words, with or without meaning, which can be formed out of the letters of the word ROSE, where the repetition of the letters is not allowed.
+First 1000 chars of Solution:
+ by the 4 letters, keeping in mind that the repetition is not allowed. The first place can be filled in 4 different ways by anyone of the 4 letters R,O,S,E. Following which, the second place can be filled in by anyone of the remaining 3 letters in 3 different ways, following which the third place can be filled in 2 different ways; following which, the fourth place can be filled in 1 way. Thus, the number of ways in which the 4 places can be filled, by the multiplication principle, is 4 × 3 × 2 × 1 = 24. Hence, the required number of words is 24. Reprint 2025-26 PERMUTATIONS AND COMBINATIONS 103 ANote If the repetition of the letters was allowed, how many words can be formed? One can easily understand that each of the 4 vacant places can be filled in succession in 4 different ways. Hence, the required number of words = 4 × 4 × 4 × 4 = 256.
+--------------------------------------------------------------------------------
+
+Chapter 6 - Example 2
+Question: Given 4 flags of different colours, how many different signals can be generated, if a signal requires the use of 2 flags one below the other?
+First 1000 chars of Solution:
+ in succession by the 4 flags of different colours. The upper vacant place can be filled in 4 different ways by anyone of the 4 flags; following which, the lower vacant place can be filled in 3 different ways by anyone of the remaining 3 different flags. Hence, by the multiplication principle, the required number of signals = 4 × 3 = 12.
+--------------------------------------------------------------------------------
+
+Chapter 6 - Example 3
+Question: How many 2 digit even numbers can be formed from the digits 1, 2, 3, 4, 5 if the digits can be repeated?
+First 1000 chars of Solution:
+ in succession by the five given digits. Here, in this case, we start filling in unit’s place, because the options for this place are 2 and 4 only and this can be done in 2 ways; following which the ten’s place can be filled by any of the 5 digits in 5 different ways as the digits can be repeated. Therefore, by the multiplication principle, the required number of two digits even numbers is 2 × 5, i.e., 10.
+--------------------------------------------------------------------------------
+
+Chapter 6 - Example 4
+Question: Find the number of different signals that can be generated by arranging at least 2 flags in order (one below the other) on a vertical staff, if five different flags are available.
+First 1000 chars of Solution:
+ count the possible number of signals consisting of 2 flags, 3 flags, 4 flags and 5 flags separately and then add the respective numbers. There will be as many 2 flag signals as there are ways of filling in 2 vacant places in succession by the 5 flags available. By Multiplication rule, the number of ways is 5 × 4 = 20. Similarly, there will be as many 3 flag signals as there are ways of filling in 3 vacant places in succession by the 5 flags. Reprint 2025-26 104 MATHEMATICS The number of ways is 5 × 4 × 3 = 60. Continuing the same way, we find that The number of 4 flag signals = 5 × 4 × 3 × 2 = 120 and the number of 5 flag signals = 5 × 4 × 3 × 2 × 1 = 120 Therefore, the required no of signals = 20 + 60 + 120 + 120 = 320. EXERCISE 6.1 1. How many 3-digit numbers can be formed from the digits 1, 2, 3, 4 and 5 assuming that (i) repetition of the digits is allowed? (ii) repetition of the digits is not allowed? 2. How many 3-digit even numbers can be formed from the digits 1, 2, 3, 4, 5, 6
+--------------------------------------------------------------------------------
+
+Chapter 6 - Example 5
+Question: Evaluate (i) 5 ! (ii) 7 ! (iii) 7 ! – 5!
+First 1000 chars of Solution:
+ (i) 5 ! = 1 × 2 × 3 × 4 × 5 = 120 (ii) 7 ! = 1 × 2 × 3 × 4 × 5 × 6 ×7 = 5040 and (iii) 7 ! – 5! = 5040 – 120 = 4920.
+--------------------------------------------------------------------------------
+
+Chapter 6 - Example 6
+Question: Compute (i) 7! 5! (ii) ( ) 12! 10! (2!)
+First 1000 chars of Solution:
+ (i) We have 7! 5! = 7 6 5! 5! × × = 7 × 6 = 42 and (ii) ( ) ( ) 12! 10! 2! = ( ) ( ) ( ) 12 11 10! 10! 2 × × × = 6 × 11 = 66.
+--------------------------------------------------------------------------------
+
+Chapter 6 - Example 7
+Question: Evaluate ( ) ! ! ! n r n r − , when n = 5, r = 2.
+First 1000 chars of Solution:
+ We have to evaluate ( ) 5! 2! 5 2 ! − (since n = 5, r = 2) We have ( ) 5! 2! 5 2 ! − = 5! 5 4 10 2! 3! 2 × = = × .
+--------------------------------------------------------------------------------
+
+Chapter 6 - Example 8
+Question: If 1 1 8! 9! 10! x + = , find x.
+First 1000 chars of Solution:
+ 1 1 8! 9 8! 10 9 8! x + = × × × Therefore 1 1 9 10 9 x + = × or 10 9 10 9 x = × So x = 100. EXERCISE 6.2 1. Evaluate (i) 8 ! (ii) 4 ! – 3 ! Reprint 2025-26 PERMUTATIONS AND COMBINATIONS 107 2. Is 3 ! + 4 ! = 7 ! ? 3. Compute 8! 6! 2! × 4. If 1 1 6! 7! 8! x + = , find x 5. Evaluate ( ) ! ! n n r − , when (i) n = 6, r = 2 (ii) n = 9, r = 5. 6.3.3 Derivation of the formula for nPr ( ) ! P ! n r n n r − = , 0 ≤ r ≤ n Let us now go back to the stage where we had determined the following formula: nPr = n (n – 1) (n – 2) . . . (n – r + 1) Multiplying numerator and denomirator by (n – r) (n – r – 1) . . . 3 × 2 × 1, we get ( ) ( ) ( )( )( ) ( )( ) 1 2 1 1 3 2 1 P 1 3 2 1 n r n n n ... n r n r n r ... n r n r ... − − − + − − − × × = − −− × × = ( ) ! ! n n r − , Thus ( ) ! P ! n r n n r = − , where 0 < r ≤n This is a much more convenient expression for nPr than the previous one. In particular, when r = n, ! P ! 0! n n n n = = Counting permutations is merely counting the number of ways in which 
+--------------------------------------------------------------------------------
+
+Chapter 6 - Example 9
+Question: Find the number of permutations of the letters of the word ALLAHABAD.
+First 1000 chars of Solution:
+ all different. Therefore, the required number of arrangements = 9! 5 6 7 8 9 4!2! 2 × × × × = = 7560
+--------------------------------------------------------------------------------
+
+Chapter 6 - Example 10
+Question: How many 4-digit numbers can be formed by using the digits 1 to 9 if repetition of digits is not allowed?
+First 1000 chars of Solution:
+ Therefore, there will be as many 4 digit numbers as there are permutations of 9 different digits taken 4 at a time. Therefore, the required 4 digit numbers ( ) 9 4 9! 9! = P = = 9 – 4 ! 5! = 9 × 8 × 7 × 6 = 3024.
+--------------------------------------------------------------------------------
+
+Chapter 6 - Example 11
+Question: How many numbers lying between 100 and 1000 can be formed with the digits 0, 1, 2, 3, 4, 5, if the repetition of the digits is not allowed?
+First 1000 chars of Solution:
+ Reprint 2025-26 PERMUTATIONS AND COMBINATIONS 111 count the permutations of 6 digits taken 3 at a time. This number would be 6P3. But, these permutations will include those also where 0 is at the 100’s place. For example, 092, 042, . . ., etc are such numbers which are actually 2-digit numbers and hence the number of such numbers has to be subtracted from 6P3 to get the required number. To get the number of such numbers, we fix 0 at the 100’s place and rearrange the remaining 5 digits taking 2 at a time. This number is 5P2. So The required number 6 5 3 2 6! 5! = P P 3! 3! − = − = 4 × 5 × 6 – 4 ×5 = 100
+--------------------------------------------------------------------------------
+
+Chapter 6 - Example 12
+Question: Find the value of n such that (i) 5 3 P 42 P 4 n n , n = > (ii) 4 –1 4 P 5 = 3 P n n , n > 4
+First 1000 chars of Solution:
+ 5 3 P 42 P n n = or n (n – 1) (n – 2) (n – 3) (n – 4) = 42 n(n – 1) (n – 2) Since n > 4 so n(n – 1) (n – 2) ≠ 0 Therefore, by dividing both sides by n(n – 1) (n – 2), we get (n – 3 (n – 4) = 42 or n2 – 7n – 30 = 0 or n2 – 10n + 3n – 30 or (n – 10) (n + 3) = 0 or n – 10 = 0or n + 3 = 0 or n = 10 or n = – 3 As n cannot be negative, so n = 10. (ii) Given that 4 –1 4 P 5 3 P n n = Therefore 3n (n – 1) (n – 2) (n – 3) = 5(n – 1) (n – 2) (n – 3) (n – 4) or 3n = 5 (n – 4) [as (n – 1) (n – 2) (n – 3) ≠ 0, n > 4] or n = 10. Reprint 2025-26 112 MATHEMATICS
+--------------------------------------------------------------------------------
+
+Chapter 6 - Example 13
+Question: Find r, if 5 4Pr = 6 5Pr–1 .
+First 1000 chars of Solution:
+ 4 5 1 5 P 6 P r r− = or ( ) ( ) 4! 5! 5 6 4 ! 5 1 ! r r × = × − −+ or ( ) ( ) ( )( ) 5! 6 5! 4 ! 5 1 5 5 1 ! r r r r × = − − + − − − or (6 – r) (5 – r) = 6 or r2 – 11r + 24 = 0 or r2 – 8r – 3r + 24 = 0 or (r – 8) (r – 3) = 0 or r = 8 or r = 3. Hence r = 8, 3.
+--------------------------------------------------------------------------------
+
+Chapter 6 - Example 14
+Question: Find the number of different 8-letter arrangements that can be made from the letters of the word DAUGHTER so that (i) all vowels occur together (ii) all vowels do not occur together.
+First 1000 chars of Solution:
+ There are 8 different letters in the word DAUGHTER, in which there are 3 vowels, namely, A, U and E. Since the vowels have to occur together, we can for the time being, assume them as a single object (AUE). This single object together with 5 remaining letters (objects) will be counted as 6 objects. Then we count permutations of these 6 objects taken all at a time. This number would be 6P6 = 6!. Corresponding to each of these permutations, we shall have 3! permutations of the three vowels A, U, E taken all at a time . Hence, by the multiplication principle the required number of permutations = 6 ! × 3 ! = 4320. (ii) If we have to count those permutations in which all vowels are never together, we first have to find all possible arrangments of 8 letters taken all at a time, which can be done in 8! ways. Then, we have to subtract from this number, the number of permutations in which the vowels are always together. Therefore, the required number 8 ! – 6 ! × 3 ! = 6 ! (7×8 – 6) = 2 × 6 ! (
+--------------------------------------------------------------------------------
+
+Chapter 6 - Example 15
+Question: In how many ways can 4 red, 3 yellow and 2 green discs be arranged in a row if the discs of the same colour are indistinguishable ?
+First 1000 chars of Solution:
+ Reprint 2025-26 PERMUTATIONS AND COMBINATIONS 113 (red), 3 are of the second kind (yellow) and 2 are of the third kind (green). Therefore, the number of arrangements 9! =1260 4!3! 2! .
+--------------------------------------------------------------------------------
+
+Chapter 6 - Example 16
+Question: Find the number of arrangements of the letters of the word INDEPENDENCE. In how many of these arrangements, (i) do the words start with P (ii) do all the vowels always occur together (iii) do the vowels never occur together (iv) do the words begin with I and end in P?
+First 1000 chars of Solution:
+ appears 2 times and the rest are all different. Therefore The required number of arrangements 12! 1663200 3! 4! 2! = = (i) Let us fix P at the extreme left position, we, then, count the arrangements of the remaining 11 letters. Therefore, the required number of words starting with P 11! 138600 3! 2! 4! = = . (ii) There are 5 vowels in the given word, which are 4 Es and 1 I. Since, they have to always occur together, we treat them as a single object EEEEI for the time being. This single object together with 7 remaining objects will account for 8 objects. These 8 objects, in which there are 3Ns and 2 Ds, can be rearranged in 8! 3! 2! ways. Corresponding to each of these arrangements, the 5 vowels E, E, E, E and I can be rearranged in 5! 4! ways. Therefore, by multiplication principle, the required number of arrangements 8! 5! = 16800 3! 2! 4! × = (iii) The required number of arrangements = the total number of arrangements (without any restriction) – the number of arrangements where all 
+--------------------------------------------------------------------------------
+
+Chapter 6 - Example 17
+Question: If 9 8 C C n n = , find 17 C n .
+First 1000 chars of Solution:
+ 9 8 C C n n = i.e., ( ) ( ) ! ! 9! 9 ! 8 !8! n n n n = − − or 1 1 9 8 n = − or n – 8 = 9 or n = 17 Therefore 17 17 17 C C 1 n = = .
+--------------------------------------------------------------------------------
+
+Chapter 6 - Example 18
+Question: A committee of 3 persons is to be constituted from a group of 2 men and 3 women. In how many ways can this be done? How many of these committees would consist of 1 man and 2 women?
+First 1000 chars of Solution:
+ There will be as many committees as there are combinations of 5 different persons taken 3 at a time. Hence, the required number of ways = 5 3 5! 4 5 C 10 3! 2! 2 × = = = . Now, 1 man can be selected from 2 men in 2C1 ways and 2 women can be selected from 3 women in 3C2 ways. Therefore, the required number of committees Reprint 2025-26 118 MATHEMATICS = 2 3 1 2 2! 3! C C 6 1! 1! 2! 1! × = × = .
+--------------------------------------------------------------------------------
+
+Chapter 6 - Example 19
+Question: What is the number of ways of choosing 4 cards from a pack of 52 playing cards? In how many of these (i) four cards are of the same suit, (ii) four cards belong to four different suits, (iii) are face cards, (iv) two are red cards and two are black cards, (v) cards are of the same colour?
+First 1000 chars of Solution:
+ combinations of 52 different things, taken 4 at a time. Therefore The required number of ways = 52 4 52! 49 50 51 52 C 4! 48! 2 3 4 × × × = = × × = 270725 (i) There are four suits: diamond, club, spade, heart and there are 13 cards of each suit. Therefore, there are 13C4 ways of choosing 4 diamonds. Similarly, there are 13C4 ways of choosing 4 clubs, 13C4 ways of choosing 4 spades and 13C4 ways of choosing 4 hearts. Therefore The required number of ways = 13C4 + 13C4 + 13C4 + 13C4. = 13! 4 2860 4! 9! × = (ii) There are13 cards in each suit. Therefore, there are 13C1 ways of choosing 1 card from 13 cards of diamond, 13C1 ways of choosing 1 card from 13 cards of hearts, 13C1 ways of choosing 1 card from 13 cards of clubs, 13C1 ways of choosing 1 card from 13 cards of spades. Hence, by multiplication principle, the required number of ways = 13C1 × 13C1 × 13C1× 13C1 = 134 (iii) There are 12 face cards and 4 are to be selected out of these 12 cards. This can be done in 12C4 ways. Therefore
+--------------------------------------------------------------------------------
+
+Chapter 6 - Example 20
+Question: How many words, with or without meaning, each of 3 vowels and 2 consonants can be formed from the letters of the word INVOLUTE ?
+First 1000 chars of Solution:
+ consonants, namely, N, V, L and T. Reprint 2025-26 120 MATHEMATICS The number of ways of selecting 3 vowels out of 4 = 4C3 = 4. The number of ways of selecting 2 consonants out of 4 = 4C2 = 6. Therefore, the number of combinations of 3 vowels and 2 consonants is 4 × 6 = 24. Now, each of these 24 combinations has 5 letters which can be arranged among themselves in 5 ! ways. Therefore, the required number of different words is 24 × 5 ! = 2880.
+--------------------------------------------------------------------------------
+
+Chapter 6 - Example 21
+Question: A group consists of 4 girls and 7 boys. In how many ways can a team of 5 members be selected if the team has (i) no girl ? (ii) at least one boy and one girl ? (iii) at least 3 girls ?
+First 1000 chars of Solution:
+ selected. 5 boys out of 7 boys can be selected in 7C5 ways. Therefore, the required number of ways = 7 5 7! 6 7 C 21 5! 2! 2 × = = = (ii) Since, at least one boy and one girl are to be there in every team. Therefore, the team can consist of (a) 1 boy and 4 girls (b) 2 boys and 3 girls (c) 3 boys and 2 girls (d) 4 boys and 1 girl. 1 boy and 4 girls can be selected in 7C1 × 4C4 ways. 2 boys and 3 girls can be selected in 7C2 × 4C3 ways. 3 boys and 2 girls can be selected in 7C3 × 4C2 ways. 4 boys and 1 girl can be selected in 7C4 × 4C1 ways. Therefore, the required number of ways = 7C1 × 4C4 + 7C2 × 4C3 + 7C3 × 4C2 + 7C4 × 4C1 = 7 + 84 + 210 + 140 = 441 (iii) Since, the team has to consist of at least 3 girls, the team can consist of (a) 3 girls and 2 boys, or (b) 4 girls and 1 boy. Note that the team cannot have all 5 girls, because, the group has only 4 girls. 3 girls and 2 boys can be selected in 4C3 × 7C2 ways. 4 girls and 1 boy can be selected in 4C4 × 7C1 ways. Therefore, the requ
+--------------------------------------------------------------------------------
+
+Chapter 6 - Example 22
+Question: Find the number of words with or without meaning which can be made using all the letters of the word AGAIN. If these words are written as in a dictionary, what will be the 50th word?
+First 1000 chars of Solution:
+ the required number of words = 5! 60 2! = . To get the number of words starting with A, we fix the letter A at the extreme left position, we then rearrange the remaining 4 letters taken all at a time. There will be as many arrangements of these 4 letters taken 4 at a time as there are permutations of 4 different things taken 4 at a time. Hence, the number of words starting with A = 4! = 24. Then, starting with G, the number of words 4! 2! = = 12 as after placing G at the extreme left position, we are left with the letters A, A, I and N. Similarly, there are 12 words starting with the next letter I. Total number of words so far obtained = 24 + 12 + 12 =48. The 49th word is NAAGI. The 50th word is NAAIG.
+--------------------------------------------------------------------------------
+
+Chapter 6 - Example 23
+Question: How many numbers greater than 1000000 can be formed by using the digits 1, 2, 0, 2, 4, 2, 4?
+First 1000 chars of Solution:
+ 7. Therefore, the numbers to be counted will be 7-digit only. Also, the numbers have to be greater than 1000000, so they can begin either with 1, 2 or 4. The number of numbers beginning with 1 = 6! 4 5 6 3! 2! 2 × × = = 60, as when 1 is fixed at the extreme left position, the remaining digits to be rearranged will be 0, 2, 2, 2, 4, 4, in which there are 3, 2s and 2, 4s. Total numbers begining with 2 = 6! 3 4 5 6 2! 2! 2 × × × = = 180 and total numbers begining with 4 6! 4 5 6 3! = = × × = 120 Reprint 2025-26 122 MATHEMATICS Therefore, the required number of numbers = 60 + 180 + 120 = 360. Alternative Method The number of 7-digit arrangements, clearly, 7! 420 3! 2! = . But, this will include those numbers also, which have 0 at the extreme left position. The number of such arrangements 6! 3! 2! (by fixing 0 at the extreme left position) = 60. Therefore, the required number of numbers = 420 – 60 = 360. ANote If one or more than one digits given in the list is repeated, it will be underst
+--------------------------------------------------------------------------------
+
+Chapter 6 - Example 24
+Question: In how many ways can 5 girls and 3 boys be seated in a row so that no two boys are together?
+First 1000 chars of Solution:
+ arrangement, the three boys can be seated only at the cross marked places. × G × G × G × G × G ×. There are 6 cross marked places and the three boys can be seated in 6P3 ways. Hence, by multiplication principle, the total number of ways = 5! × 6P3 = 6! 5!× 3! = 4 × 5 × 2 × 3 × 4 × 5 × 6 = 14400. Miscellaneous Exercise on Chapter 6 1. How many words, with or without meaning, each of 2 vowels and 3 consonants can be formed from the letters of the word DAUGHTER ? 2. How many words, with or without meaning, can be formed using all the letters of the word EQUATION at a time so that the vowels and consonants occur together? 3. A committee of 7 has to be formed from 9 boys and 4 girls. In how many ways can this be done when the committee consists of: (i) exactly 3 girls ? (ii) atleast 3 girls ? (iii) atmost 3 girls ? 4. If the different permutations of all the letter of the word EXAMINATION are Reprint 2025-26 PERMUTATIONS AND COMBINATIONS 123 listed as in a dictionary, how many words are th
+--------------------------------------------------------------------------------
+
+Chapter 7 - Example 1
+Question: Expand 4 2 3 x x   +    , x ≠ 0
+First 1000 chars of Solution:
+ 4 2 3 x x + = 4C0(x2)4 + 4C1(x2)3       x 3 + 4C2(x2)2 2 3       x + 4C3(x2) 3 3       x + 4C4 4 3       x = x8 + 4.x6 . x 3 + 6.x4 . 2 9 x + 4.x2. 3 27 x + 4 81 x = x8 + 12x5 + 54x2 + 4 81 108 x x + .
+--------------------------------------------------------------------------------
+
+Chapter 7 - Example 2
+Question: Compute (98)5.
+First 1000 chars of Solution:
+ easier to calculate, and then use Binomial Theorem. Write 98 = 100 – 2 Therefore, (98)5 = (100 – 2)5 = 5C0 (100)5 – 5C1 (100)4.2 + 5C2 (100)322 – 5C3 (100)2 (2)3 + 5C4 (100) (2)4 – 5C5 (2)5 = 10000000000 – 5 × 100000000 × 2 + 10 × 1000000 × 4 – 10 ×10000 × 8 + 5 × 100 × 16 – 32 = 10040008000 – 1000800032 = 9039207968.
+--------------------------------------------------------------------------------
+
+Chapter 7 - Example 3
+Question: Which is larger (1.01)1000000 or 10,000?
+First 1000 chars of Solution:
+ have Reprint 2025-26 132 MATHEMATICS (1.01)1000000 = (1 + 0.01)1000000 = 1000000C0 + 1000000C1(0.01) + other positive terms = 1 + 1000000 × 0.01 + other positive terms = 1 + 10000 + other positive terms > 10000 Hence (1.01)1000000 > 10000
+--------------------------------------------------------------------------------
+
+Chapter 7 - Example 4
+Question: Using binomial theorem, prove that 6n–5n always leaves remainder 1 when divided by 25.
+First 1000 chars of Solution:
+ a = bq + r, then we say that b divides a with q as quotient and r as remainder. Thus, in order to show that 6n – 5n leaves remainder 1 when divided by 25, we prove that 6n – 5n = 25k + 1, where k is some natural number. We have (1 + a)n = nC0 + nC1a + nC2a2 + ... + nCnan For a = 5, we get (1 + 5)n = nC0 + nC15 + nC252 + ... + nCn5n i.e. (6)n = 1 + 5n + 52.nC2 + 53.nC3 + ... + 5n i.e. 6n – 5n = 1+52 (nC2 + nC35 + ... + 5n-2) or 6n – 5n = 1+ 25 (nC2 + 5 .nC3 + ... + 5n-2) or 6n – 5n = 25k+1 where k = nC2 + 5 .nC3 + ... + 5n–2. This shows that when divided by 25, 6n – 5n leaves remainder 1. EXERCISE 7.1 Expand each of the expressions in Exercises 1 to 5. 1. (1–2x)5 2. 5 2 2 x – x       3. (2x – 3)6 Reprint 2025-26 BINOMIAL THEOREM 133 4. 5 1 3 x x   +     5. 6 1      + x x Using binomial theorem, evaluate each of the following: 6. (96)3 7. (102)5 8. (101)4 9. (99)5 10. Using Binomial Theorem, indicate which number is larger (1.1)10000 or 1000. 11. Find (a + b)4 – (a – b
+--------------------------------------------------------------------------------
+
+Chapter 8 - Example 1
+Question: Write the first three terms in each of the following sequences defined by the following: (i) an = 2n + 5, (ii) an = 3 4 n − .
+First 1000 chars of Solution:
+ Substituting n = 1, 2, 3, we get a1 = 2(1) + 5 = 7, a2 = 9, a3 = 11 Therefore, the required terms are 7, 9 and 11. (ii) Here an = 3 4 n − . Thus, 1 2 3 1 3 1 1 0 4 2 4 a , a ,a − = = − = − = Reprint 2025-26 138 MATHEMATICS Hence, the first three terms are 1 1 2 4 – , – and 0.
+--------------------------------------------------------------------------------
+
+Chapter 8 - Example 2
+Question: What is the 20th term of the sequence defined by an = (n – 1) (2 – n) (3 + n) ?
+First 1000 chars of Solution:
+ a20 = (20 – 1) (2 – 20) (3 + 20) = 19 × (– 18) × (23) = – 7866.
+--------------------------------------------------------------------------------
+
+Chapter 8 - Example 3
+Question: Let the sequence an be defined as follows: a1 = 1, an = an – 1 + 2 for n ≥ 2. Find first five terms and write corresponding series.
+First 1000 chars of Solution:
+ a1 = 1, a2 = a1 + 2 = 1 + 2 = 3, a3 = a2 + 2 = 3 + 2 = 5, a4 = a3 + 2 = 5 + 2 = 7, a5 = a4 + 2 = 7 + 2 = 9. Hence, the first five terms of the sequence are 1,3,5,7 and 9. The corresponding series is 1 + 3 + 5 + 7 + 9 +... EXERCISE 8.1 Write the first five terms of each of the sequences in Exercises 1 to 6 whose nth terms are: 1. an = n (n + 2) 2. an = 1 n n+ 3. an = 2n 4. an = 2 3 6 n − 5. an = (–1)n–1 5n+1 6. an 2 5 4 n n + = . Find the indicated terms in each of the sequences in Exercises 7 to 10 whose nth terms are: 7. an = 4n – 3; a17, a24 8. an = 2 7 ; 2n n a 9. an = (–1)n – 1n3; a9 10. 20 ( – 2) ; 3 n n n a a n = + . Reprint 2025-26 SEQUENCES AND SERIES 139 Write the first five terms of each of the sequences in Exercises 11 to 13 and obtain the corresponding series: 11. a1 = 3, an = 3an – 1 + 2 for all n > 1 12. a1 = – 1, an = 1 na n −, n ≥ 2 13. a1 = a2 = 2, an = an – 1–1, n > 2 14. The Fibonacci sequence is defined by 1 = a1 = a2 and an = an – 1 + an – 2, n > 2. Find 1 n n a a
+--------------------------------------------------------------------------------
+
+Chapter 8 - Example 4
+Question: Find the 10th and nth terms of the G.P. 5, 25,125,… .
+First 1000 chars of Solution:
+ and an = arn–1 = 5(5)n–1 = 5n . Reprint 2025-26 SEQUENCES AND SERIES 141
+--------------------------------------------------------------------------------
+
+Chapter 8 - Example 5
+Question: Which term of the G.P., 2,8,32, ... up to n terms is 131072?
+First 1000 chars of Solution:
+ Therefore 131072 = an = 2(4)n – 1 or 65536 = 4n – 1 This gives 48 = 4n – 1. So that n – 1 = 8, i.e., n = 9. Hence, 131072 is the 9th term of the G.P.
+--------------------------------------------------------------------------------
+
+Chapter 8 - Example 6
+Question: In a G.P., the 3rd term is 24 and the 6th term is 192.Find the 10th term.
+First 1000 chars of Solution:
+ ar 3 2 24 = = ... (1) and a ar 6 5 192 = = ... (2) Dividing (2) by (1), we get r = 2. Substituting r = 2 in (1), we get a = 6. Hence a10 = 6 (2)9 = 3072.
+--------------------------------------------------------------------------------
+
+Chapter 8 - Example 7
+Question: Find the sum of first n terms and the sum of first 5 terms of the geometric series 2 4 1 3 9 ... + + +
+First 1000 chars of Solution:
+ 3 . Therefore Sn = 2 1 3 (1 ) 2 1 1 3 n n a r r     −       −     = − − = 2 3 1 3 n     −           In particular, 5 5 2 S 3 1 3     = −           = 211 3 243 × = 211 81 .
+--------------------------------------------------------------------------------
+
+Chapter 8 - Example 8
+Question: How many terms of the G.P. 3 3 3 2 4 , , ,... are needed to give the sum 3069 512 ?
+First 1000 chars of Solution:
+ 2 and 3069 S 512 n = Since (1 ) S 1 n n a – r r = − Reprint 2025-26 142 MATHEMATICS Therefore 1 3(1 ) 3069 1 2 6 1 1 512 2 1 2 n n −   = = −     − or 3069 3072 = 1 1 2n − or 1 2n = 3069 1 3072 − 3 1 3072 1024 = = or 2n = 1024 = 210, which gives n = 10.
+--------------------------------------------------------------------------------
+
+Chapter 8 - Example 9
+Question: The sum of first three terms of a G.P. is 13 12 and their product is – 1. Find the common ratio and the terms.
+First 1000 chars of Solution:
+ r , a, ar be the first three terms of the G.P. Then a ar a r + + = 13 12 ... (1) and ( ) ( ) 1 a a ar – r   =     ... (2) From (2), we get a3 = – 1, i.e., a = – 1 (considering only real roots) Substituting a = –1 in (1), we have 1 13 1 12 – – –r r = or 12r2 + 25r + 12 = 0. This is a quadratic in r, solving, we get 3 4 or 4 3 r – – = . Thus, the three terms of G.P. are : 4 3 –3 3 4 –4 , 1, for = and , 1, for = 3 4 4 4 3 3 – r – r , Example10 Find the sum of the sequence 7, 77, 777, 7777, ... to n terms. Sn = 7 + 77 + 777 + 7777 + ... to n terms Reprint 2025-26 SEQUENCES AND SERIES 143 = 7 [9 99 999 9999 to term] 9 ... n + + + + = 2 3 4 7 [(10 1) (10 1) (10 1) (10 1) terms] 9 ...n − + − + − + − + = 2 3 7 [(10 10 10 terms) (1+1+1+... terms)] 9 ...n – n + + + = 7 10(10 1) 7 10 (10 1) 9 10 1 9 9 n n n n     − − − = −     −     .
+--------------------------------------------------------------------------------
+
+Chapter 8 - Example 11
+Question: A person has 2 parents, 4 grandparents, 8 great grandparents, and so on. Find the number of his ancestors during the ten generations preceding his own.
+First 1000 chars of Solution:
+ Using the sum formula Sn = ( 1) 1 n a r r − − We have S10 = 2(210 – 1) = 2046 Hence, the number of ancestors preceding the person is 2046. 8.4.3 Geometric Mean (G .M.) The geometric mean of two positive numbers a and b is the number ab . Therefore, the geometric mean of 2 and 8 is 4. We observe that the three numbers 2,4,8 are consecutive terms of a G.P. This leads to a generalisation of the concept of geometric means of two numbers. Given any two positive numbers a and b, we can insert as many numbers as we like between them to make the resulting sequence in a G.P. Let G1, G2,…, Gn be n numbers between positive numbers a and b such that a,G1,G2,G3,…,Gn,b is a G.P. Thus, b being the (n + 2)th term,we have 1 n b ar + = , or 1 1 n b r a +   =     . Hence 1 1 1 G n b ar a a +   = =     , 2 1 2 2 G n b ar a a +   = =     , 3 1 3 3 G n b ar a a +   = =     , 1 G n n n n b ar a a +   = =     Reprint 2025-26 144 MATHEMATICS Example12 Insert three numbers between
+--------------------------------------------------------------------------------
+
+Chapter 8 - Example 13
+Question: If A.M. and G.M. of two positive numbers a and b are 10 and 8, respectively, find the numbers.
+First 1000 chars of Solution:
+ A.M. 10 2 a b + = = ... (1) and G.M. 8 ab = = ... (2) From (1) and (2), we get a + b = 20 ... (3) ab = 64 ... (4) Putting the value of a and b from (3), (4) in the identity (a – b)2 = (a + b)2 – 4ab, we get (a – b)2 = 400 – 256 = 144 or a – b = ± 12 ... (5) Reprint 2025-26 SEQUENCES AND SERIES 145 Solving (3) and (5), we obtain a = 4, b = 16 or a = 16, b = 4 Thus, the numbers a and b are 4, 16 or 16, 4 respectively. EXERCISE 8.2 1. Find the 20th and nth terms of the G.P. 5 5 5 2 4 8 , , , ... 2. Find the 12th term of a G.P. whose 8th term is 192 and the common ratio is 2. 3. The 5th, 8th and 11th terms of a G.P. are p, q and s, respectively. Show that q2 = ps. 4. The 4th term of a G.P. is square of its second term, and the first term is – 3. Determine its 7th term. 5. Which term of the following sequences: (a) 2 2 2 4 is128 ? , , ,... (b) 3 3 3 3 is729 ? , , ,... (c) 1 1 1 1 is 3 9 27 19683 , , ,... ? 6. For what values of x, the numbers 2 7 7 2 – , x, – are in G.P.? Find the sum to i
+--------------------------------------------------------------------------------
+
+Chapter 8 - Example 14
+Question: If a, b, c, d and p are different real numbers such that (a2 + b2 + c2)p2 – 2(ab + bc + cd) p + (b2 + c2 + d2) ≤ 0, then show that a, b, c and d are in G.P.
+First 1000 chars of Solution:
+ (a2 + b2 + c2) p2 – 2 (ab + bc + cd) p + (b2 + c2 + d2) ≤ 0 ... (1) But L.H.S. = (a2p2 – 2abp + b2) + (b2p2 – 2bcp + c2) + (c2p2 – 2cdp + d2), which gives (ap – b)2 + (bp – c)2 + (cp – d)2 ≥ 0 ... (2) Since the sum of squares of real numbers is non negative, therefore, from (1) and (2), we have, (ap – b)2 + (bp – c)2 + (cp – d)2 = 0 or ap – b = 0, bp – c = 0, cp – d = 0 This implies that b c d p a b c = = = Hence a, b, c and d are in G.P. Miscellaneous Exercise On Chapter 8 1. If f is a function satisfying f (x +y) = f(x) f(y) for all x, y ∈ N such that f(1) = 3 and 1 ( ) 120 n x f x = = ∑ , find the value of n. 2. The sum of some terms of G.P. is 315 whose first term and the common ratio are 5 and 2, respectively. Find the last term and the number of terms. 3. The first term of a G.P. is 1. The sum of the third term and fifth term is 90. Find the common ratio of G.P. 4. The sum of three numbers in G.P. is 56. If we subtract 1, 7, 21 from these numbers in that order, we obtain an arit
+--------------------------------------------------------------------------------
+
+Chapter 9 - Example 1
+Question: Find the slope of the lines: (a) Passing through the points (3, – 2) and (–1, 4), (b) Passing through the points (3, – 2) and (7, – 2), (c) Passing through the points (3, – 2) and (3, 4), (d) Making inclination of 60° with the positive direction of x-axis.
+First 1000 chars of Solution:
+ 4 ( 2) 6 3 1 3 4 2 m −− = = = − −− − . (b) The slope of the line through the points (3, – 2) and (7, – 2) is –2 – (–2) 0 = = = 0 7 – 3 4 m . (c) The slope of the line through the points (3, – 2) and (3, 4) is Fig 9. 5 Reprint 2025-26 156 MATHEMATICS 4 – (–2) 6 = = 3 – 3 0 m , which is not defined. (d) Here inclination of the line α = 60°. Therefore, slope of the line is m = tan 60° = 3 . 9.2.3 Angle between two lines When we think about more than one line in a plane, then we find that these lines are either intersecting or parallel. Here we will discuss the angle between two lines in terms of their slopes. Let L1 and L2 be two non-vertical lines with slopes m1 and m2, respectively. If α1 and α2 are the inclinations of lines L1 and L2, respectively. Then α tan and α tan 2 2 1 1 = = m m . We know that when two lines intersect each other, they make two pairs of vertically opposite angles such that sum of any two adjacent angles is 180°. Let θ and φ be the adjacent angles between the line
+--------------------------------------------------------------------------------
+
+Chapter 9 - Example 2
+Question: If the angle between two lines is π 4 and slope of one of the lines is 1 2 , find the slope of the other line.
+First 1000 chars of Solution:
+ is given by 2 1 1 2 tanθ 1 m m m m − = + ... (1) Let m1 = 2 1 , m2 = m and θ = π 4 . Now, putting these values in (1), we get 1 1 π 2 2 tan or 1 1 1 4 1 1 2 2 m m , m m − − = = + + which gives 1 1 2 2 1 or 1 1 1 1 1 2 2 m m – . m m − − = = + + Reprint 2025-26 158 MATHEMATICS Fig 9.7 1 Therefore 3 or 3 m m . = = − Hence, slope of the other line is 3 or 1 3 − . Fig 9.7 explains the reason of two answers.
+--------------------------------------------------------------------------------
+
+Chapter 9 - Example 3
+Question: Line through the points (–2, 6) and (4, 8) is perpendicular to the line through the points (8, 12) and (x, 24). Find the value of x.
+First 1000 chars of Solution:
+ ( ) 1 8 6 2 1 4 2 6 3 m − = = = −− Slope of the line through the points (8, 12) and (x, 24) is 2 24 12 12 8 8 m x x − = = − − Since two lines are perpendicular, m1 m2 = –1, which gives 1 12 1 or = 4 3 8 x x × = − − . EXERCISE 9.1 1. Draw a quadrilateral in the Cartesian plane, whose vertices are (– 4, 5), (0, 7), (5, – 5) and (– 4, –2). Also, find its area. 2. The base of an equilateral triangle with side 2a lies along the y-axis such that the mid-point of the base is at the origin. Find vertices of the triangle. Reprint 2025-26 STRAIGHT LINES 159 3. Find the distance between P (x1, y1) and Q (x2, y2) when : (i) PQ is parallel to the y-axis, (ii) PQ is parallel to the x-axis. 4. Find a point on the x-axis, which is equidistant from the points (7, 6) and (3, 4). 5. Find the slope of a line, which passes through the origin, and the mid-point of the line segment joining the points P (0, – 4) and B (8, 0). 6. Without using the Pythagoras theorem, show that the points (4, 4), (3, 5) and (–
+--------------------------------------------------------------------------------
+
+Chapter 9 - Example 4
+Question: Find the equations of the lines parallel to axes and passing through (– 2, 3).
+First 1000 chars of Solution:
+ Fig 9.9. The y-coordinate of every point on the line parallel to x-axis is 3, therefore, equation of the line parallel tox-axis and passing through (– 2, 3) is y = 3. Similarly, equation of the line parallel to y-axis and passing through (– 2, 3) is x = – 2. 9.3.2 Point-slope form Suppose that P0 (x0, y0) is a fixed point on a non-vertical line L, whose slope is m. Let P (x, y) be an arbitrary point on L (Fig 9.10). Then, by the definition, the slope of L is given by ( ) x x m y y x x y y m 0 0 0 0 , i.e. , − = − − − = ...(1) Since the point P0 (x0 , y0) along with all points (x, y) on L satisfies (1) and no other point in the plane satisfies (1). Equation (1) is indeed the equation for the given line L. Fig 9.8 Fig 9.10 Fig 9.9 Reprint 2025-26 STRAIGHT LINES 161 Thus, the point (x, y) lies on the line with slope m through the fixed point (x0, y0), if and only if, its coordinates satisfy the equation y – y0 = m (x – x0)
+--------------------------------------------------------------------------------
+
+Chapter 9 - Example 5
+Question: Find the equation of the line through (– 2, 3) with slope – 4.
+First 1000 chars of Solution:
+ By slope-intercept form formula (1) above, equation of the given line is y – 3 = – 4 (x + 2) or 4x + y + 5 = 0, which is the required equation. 9.3.3 Two-point form Let the line L passes through two given points P1 (x1, y1) and P2 (x2, y2). Let P (x, y) be a general point on L (Fig 9.11). The three points P1, P2 and P are collinear, therefore, we have slope of P1P = slope of P1P2 i.e., 1 2 1 2 1 1 1 1 2 1 2 1 or y y y y y y , y ( x ). y x x x x x x x − − − = − = − − − − Thus, equation of the line passing through the points (x1, y1) and (x2, y2) is given by ) ( 1 1 2 1 2 1 x x x x y y y y − − − = − ... (2)
+--------------------------------------------------------------------------------
+
+Chapter 9 - Example 6
+Question: Write the equation of the line through the points (1, –1) and (3, 5).
+First 1000 chars of Solution:
+ for the equation of the line, we have ( ) ( ) ( ) 5 – –1 – –1 = – 1 3 – 1 y x or –3x + y + 4 = 0, which is the required equation. 9.3.4 Slope-intercept form Sometimes a line is known to us with its slope and an intercept on one of the axes. We will now find equations of such lines. Fig 9.11 Reprint 2025-26 162 MATHEMATICS Fig 9.12 Case I Suppose a line L with slope m cuts the y-axis at a distance c from the origin (Fig 9.12). The distance c is called the y- intercept of the line L. Obviously, coordinates of the point where the line meet the y-axis are (0, c). Thus, L has slope m and passes through a fixed point (0, c). Therefore, by point-slope form, the equation of L is 0 or y c m( x ) y mx c −= − = + Thus, the point (x, y) on the line with slope m and y-intercept c lies on the line if and only if y = mx +c ...(3) Note that the value of c will be positive or negative according as the intercept is made on the positive or negative side of the y-axis, respectively. Case II Suppose line 
+--------------------------------------------------------------------------------
+
+Chapter 9 - Example 7
+Question: Write the equation of the lines for which tan θ = 2 1 , where θ is the inclination of the line and (i) y-intercept is 3 2 – (ii) x-intercept is 4.
+First 1000 chars of Solution:
+ 1 and y - intercept c = – 2 3 . Therefore, by slope-intercept form (3) above, the equation of the line is 0 3 2 or 2 3 2 1 = + − − = x y x y , which is the required equation. (ii) Here, we have m = tan θ = 2 1 and d = 4. Therefore, by slope-intercept form (4) above, the equation of the line is 0 4 2 or ) 4 ( 2 1 = + − − = x y x y , which is the required equation. Reprint 2025-26 STRAIGHT LINES 163 9.3.5 Intercept - form Suppose a line L makes x-intercept a and y-intercept b on the axes. Obviously L meets x-axis at the point (a, 0) and y-axis at the point (0, b) (Fig .9.13). By two-point form of the equation of the line, we have 0 0 ( ) or 0 b y x a ay bx ab a − − = − = − + − , i.e., 1 = + b y a x . Thus, equation of the line making intercepts a and b on x-and y-axis, respectively, is 1 = + b y a x ... (5)
+--------------------------------------------------------------------------------
+
+Chapter 9 - Example 8
+Question: Find the equation of the line, which makes intercepts –3 and 2 on the x- and y-axes respectively.
+First 1000 chars of Solution:
+ 1 or 2 3 6 0 3 2 x y x y + = − + = − . Any equation of the form Ax + By + C = 0, where A and B are not zero simultaneously is called general linear equation or general equation of a line. EXERCISE 9.2 In Exercises 1 to 8, find the equation of the line which satisfy the given conditions: 1. Write the equations for the x-and y-axes. 2. Passing through the point (– 4, 3) with slope 2 1 . 3. Passing through (0, 0) with slope m. 4. Passing through ( ) 3 2 ,2 and inclined with the x-axis at an angle of 75o. 5. Intersecting the x-axis at a distance of 3 units to the left of origin with slope –2. 6. Intersecting the y-axis at a distance of 2 units above the origin and making an angle of 30o with positive direction of the x-axis. Fig 9.13 Reprint 2025-26 164 MATHEMATICS 7. Passing through the points (–1, 1) and (2, – 4). 8. The vertices of ∆ PQR are P (2, 1), Q (–2, 3) and R (4, 5). Find equation of the median through the vertex R. 9. Find the equation of the line passing through (–3, 5) and p
+--------------------------------------------------------------------------------
+
+Chapter 9 - Example 9
+Question: Find the distance of the point (3, – 5) from the line 3x – 4y –26 = 0.
+First 1000 chars of Solution:
+ 3x – 4y –26 = 0 ... (1) Comparing (1) with general equation of line Ax + By + C = 0, we get A = 3, B = – 4 and C = – 26. Given point is (x1, y1) = (3, –5). The distance of the given point from given line is ( )( ) ( ) 1 1 2 2 2 2 3 3 4 5 26 A B C 3. 5 A B 3 4 . – – – x y d – + + + = = = + +
+--------------------------------------------------------------------------------
+
+Chapter 9 - Example 10
+Question: Find the distance between the parallel lines 3x – 4y +7 = 0 and 3x – 4y + 5 = 0
+First 1000 chars of Solution:
+ ( ) 2 2 7 5 2. 5 3 4 – d – = = + EXERCISE 9.3 1. Reduce the following equations into slope - intercept form and find their slopes and the y - intercepts. (i) x + 7y = 0, (ii) 6x + 3y – 5 = 0, (iii) y = 0. 2. Reduce the following equations into intercept form and find their intercepts on the axes. (i) 3x + 2y – 12 = 0, (ii) 4x – 3y = 6, (iii) 3y + 2 = 0. 3. Find the distance of the point (–1, 1) from the line 12(x + 6) = 5(y – 2). 4. Find the points on the x-axis, whose distances from the line 1 3 4 x y + = are 4 units. 5. Find the distance between parallel lines (i) 15x + 8y – 34 = 0 and 15x + 8y + 31 = 0 (ii) l (x + y) + p = 0 and l (x + y) – r = 0. 6. Find equation of the line parallel to the line 3 4 2 0 x y − + = and passing through the point (–2, 3). 7. Find equation of the line perpendicular to the line x – 7y + 5 = 0 and having x intercept 3. 8. Find angles between the lines .1 3 and 1 3 = + = + y x y x 9. The line through the points (h, 3) and (4, 1) intersects the line7 9 19 
+--------------------------------------------------------------------------------
+
+Chapter 9 - Example 11
+Question: If the lines 2 3 0 5 3 0 x y , x ky + − = + − = and 3 2 0 x y − − = are concurrent, find the value of k.
+First 1000 chars of Solution:
+ i.e., point of intersection of any two lines lies on the third line. Here given lines are 2x + y – 3 = 0 ... (1) 5x + ky – 3 = 0 ... (2) 3x – y – 2 = 0 ... (3) Solving (1) and (3) by cross-multiplication method, we get 1 = = or = 1, = 1 –2 – 3 –9 + 4 –2 – 3 x y x y . Therefore, the point of intersection of two lines is (1, 1). Since above three lines are concurrent, the point (1, 1) will satisfy equation (2) so that 5.1 + k .1 – 3 = 0 or k = – 2. Reprint 2025-26 STRAIGHT LINES 169
+--------------------------------------------------------------------------------
+
+Chapter 9 - Example 12
+Question: Find the distance of the line 4x – y = 0 from the point P (4, 1) measured along the line making an angle of 135° with the positive x-axis.
+First 1000 chars of Solution:
+ ... (1) In order to find the distance of the line (1) from the point P (4, 1) along another line, we have to find the point of intersection of both the lines. For this purpose, we will first find the equation of the second line (Fig 9.16). Slope of second line is tan 135° = –1. Equation of the line with slope – 1 through the point P (4, 1) is y – 1 = – 1 (x – 4) or x + y – 5 = 0 ... (2) Solving (1) and (2), we get x = 1 and y = 4 so that point of intersection of the two lines is Q (1, 4). Now, distance of line (1) from the point P (4, 1) along the line (2) = the distance between the points P (4, 1) and Q (1, 4). = ( ) ( ) 2 2 1 4 4 1 3 2 units. − + − =
+--------------------------------------------------------------------------------
+
+Chapter 9 - Example 13
+Question: Assuming that straight lines work as the plane mirror for a point, find the image of the point (1, 2) in the line x – 3y + 4 = 0.
+First 1000 chars of Solution:
+ x – 3y + 4 = 0 ... (1) Therefore, the line (1) is the perpendicular bisector of line segment PQ (Fig 9.17). Fig 9.16 (1, 4) Fig 9.17 Reprint 2025-26 170 MATHEMATICS Hence Slope of line PQ = 1 Slope of line 3 4 0 x y − − + = , so that 2 1 or 3 5 1 1 3 k h k h − − = + = − ... (2) and the mid-point of PQ, i.e., point       + + 2 2 , 2 1 k h will satisfy the equation (1) so that 3 3 or 0 4 2 2 3 2 1 − = − = +       + − + k h k h ... (3) Solving (2) and (3), we get h = 5 6 and k = 5 7 . Hence, the image of the point (1, 2) in the line (1) is 6 7 5 5 ,      .
+--------------------------------------------------------------------------------
+
+Chapter 9 - Example 14
+Question: Show that the area of the triangle formed by the lines y = m1x + c1, y = m2x + c2 and x = 0 is ( ) 2 1 2 1 2 2 c c m m – − .
+First 1000 chars of Solution:
+ y = m1 x + c1 ... (1) y = m2 x + c2 ... (2) x = 0 ... (3) We know that line y = mx + c meets the line x = 0 (y-axis) at the point (0, c). Therefore, two vertices of the triangle formed by lines (1) to (3) are P (0, c1) and Q (0, c2) (Fig 9.18). Third vertex can be obtained by solving equations (1) and (2). Solving (1) and (2), we get Fig 9.18 Reprint 2025-26 STRAIGHT LINES 171 ( ) ( ) ( ) ( ) 2 1 1 2 2 1 1 2 1 2 and c c m c m c x y m m m m − − = = − − Therefore, third vertex of the triangle is R ( ) ( ) ( ) ( ) 2 1 1 2 2 1 1 2 1 2 c c m c m c , m m m m   − −     − −  . Now, the area of the triangle is ( ) ( ) 2 1 2 1 2 2 1 2 1 1 2 2 1 2 2 1 1 1 2 1 2 1 2 1 2 1 0 0 2 2 c c m c m c c c m c m c c c c c m m m m m m m m     − − − = − + − + − =     − − − −     −
+--------------------------------------------------------------------------------
+
+Chapter 9 - Example 15
+Question: A line is such that its segment between the lines 5x – y + 4 = 0 and 3x + 4y – 4 = 0 is bisected at the point (1, 5). Obtain its equation.
+First 1000 chars of Solution:
+ 5x – y + 4 = 0 ... (1) 3x + 4y – 4 = 0 ... (2) Let the required line intersects the lines (1) and (2) at the points, (α1, β1) and (α2, β2), respectively (Fig 9.19). Therefore 5α1 – β1 + 4 = 0 and 3 α2 + 4 β2 – 4 = 0 or β1 = 5α1 + 4 and 2 2 4–3α β 4 = . We are given that the mid point of the segment of the required line between (α1, β1) and (α2, β2) is (1, 5). Therefore 1 1 2 2 β + β + α α = 1 and = 5 2 2 , or 2 1 2 1 4 – 3α 5α + 4 + 4 α + = 2 and = 5, α 2 or α1 + α2 = 2 and 20 α1 – 3 α2 = 20 ... (3) Solving equations in (3) for α1 and α2, we get Fig 9.19 Reprint 2025-26 172 MATHEMATICS 1 26 α = 23 and 2 20 = α 23 and hence, 23 222 4 23 26 .5 β1 = + = . Equation of the required line passing through (1, 5) and (α1, β1) is )1 ( 1 α 5 β 5 1 1 − − − = − x y or 222 5 23 5 ( 1) 26 1 23 y x − − = − − or 107x – 3y – 92 = 0, which is the equation of required line.
+--------------------------------------------------------------------------------
+
+Chapter 9 - Example 16
+Question: Show that the path of a moving point such that its distances from two lines 3x – 2y = 5 and 3x + 2y = 5 are equal is a straight line.
+First 1000 chars of Solution:
+ 3x – 2y = 5 … (1) and 3x + 2y = 5 … (2) Let (h, k) is any point, whose distances from the lines (1) and (2) are equal. Therefore 5 2 3 5 2 3 or 4 9 5 2 3 4 9 5 2 3 − + = − − + − + = + − − k h k h k h k h , which gives 3h – 2k – 5 = 3h + 2k – 5 or – (3h – 2k – 5) = 3h + 2k – 5. Solving these two relations we get k = 0 or h = 3 5 . Thus, the point (h, k) satisfies the equations y = 0 or x = 3 5 , which represent straight lines. Hence, path of the point equidistant from the lines (1) and (2) is a straight line. Miscellaneous Exercise on Chapter 9 1. Find the values of k for which the line (k–3) x – (4 – k2) y + k2 –7k + 6 = 0 is (a) Parallel to the x-axis, (b) Parallel to the y-axis, (c) Passing through the origin. 2. Find the equations of the lines, which cut-off intercepts on the axes whose sum and product are 1 and – 6, respectively. Reprint 2025-26 STRAIGHT LINES 173 3. What are the points on the y-axis whose distance from the line 1 3 4 x y + = is 4 units. 4. Find perpendicular dist
+--------------------------------------------------------------------------------
+
+Chapter 10 - Example 1
+Question: Find an equation of the circle with centre at (0,0) and radius r.
+First 1000 chars of Solution:
+
+--------------------------------------------------------------------------------
+
+Chapter 10 - Example 2
+Question: Find the equation of the circle with centre (–3, 2) and radius 4.
+First 1000 chars of Solution:
+ (x + 3)2 + (y –2)2 = 16
+--------------------------------------------------------------------------------
+
+Chapter 10 - Example 3
+Question: Find the centre and the radius of the circle x2 + y2 + 8x + 10y – 8 = 0
+First 1000 chars of Solution:
+ (x2 + 8x) + (y2 + 10y) = 8 Now, completing the squares within the parenthesis, we get (x2 + 8x + 16) + (y2 + 10y + 25) = 8 + 16 + 25 i.e. (x + 4)2 + (y + 5)2 = 49 i.e. {x – (– 4)}2 + {y – (–5)}2 = 72 Therefore, the given circle has centre at (– 4, –5) and radius 7. Fig 10. 11 Fig 10. 12 Reprint 2025-26 CONIC SECTIONS 181
+--------------------------------------------------------------------------------
+
+Chapter 10 - Example 4
+Question: Find the equation of the circle which passes through the points (2, – 2), and (3,4) and whose centre lies on the line x + y = 2.
+First 1000 chars of Solution:
+ Since the circle passes through (2, – 2) and (3,4), we have (2 – h)2 + (–2 – k)2 = r2 ... (1) and (3 – h)2 + (4 – k)2 = r2 ... (2) Also since the centre lies on the line x + y = 2, we have h + k = 2 ... (3) Solving the equations (1), (2) and (3), we get h = 0.7, k = 1.3 and r2 = 12.58 Hence, the equation of the required circle is (x – 0.7)2 + (y – 1.3)2 = 12.58. EXERCISE 10.1 In each of the following Exercises 1 to 5, find the equation of the circle with 1. centre (0,2) and radius 2 2. centre (–2,3) and radius 4 3. centre ( 4 1 , 2 1 ) and radius 12 1 4. centre (1,1) and radius 2 5. centre (–a, –b) and radius 2 2 b a − . In each of the following Exercises 6 to 9, find the centre and radius of the circles. 6. (x + 5)2 + (y – 3)2 = 36 7. x2 + y2 – 4x – 8y – 45 = 0 8. x2 + y2 – 8x + 10y – 12 = 0 9. 2x2 + 2y2 – x = 0 10. Find the equation of the circle passing through the points (4,1) and (6,5) and whose centre is on the line 4x + y = 16. 11. Find the equation of the circle passing throug
+--------------------------------------------------------------------------------
+
+Chapter 10 - Example 5
+Question: Find the coordinates of the focus, axis, the equation of the directrix and latus rectum of the parabola y2 = 8x.
+First 1000 chars of Solution:
+ axis of symmetry is along the x-axis. The coefficient of x is positive so the parabola opens to the right. Comparing with the given equation y2 = 4ax, we find that a = 2. Thus, the focus of the parabola is (2, 0) and the equation of the directrix of the parabola is x = – 2 (Fig 10.19). Length of the latus rectum is 4a = 4 × 2 = 8. Fig 10.19 Reprint 2025-26 186 MATHEMATICS
+--------------------------------------------------------------------------------
+
+Chapter 10 - Example 6
+Question: Find the equation of the parabola with focus (2,0) and directrix x = – 2.
+First 1000 chars of Solution:
+ parabola. Hence the equation of the parabola is of the form either y2 = 4ax or y2 = – 4ax. Since the directrix is x = – 2 and the focus is (2,0), the parabola is to be of the form y2 = 4ax with a = 2. Hence the required equation is y2 = 4(2)x = 8x
+--------------------------------------------------------------------------------
+
+Chapter 10 - Example 7
+Question: Find the equation of the parabola with vertex at (0, 0) and focus at (0, 2).
+First 1000 chars of Solution:
+ y-axis is the axis of the parabola. Therefore, equation of the parabola is of the form x2 = 4ay. thus, we have x2 = 4(2)y, i.e., x2 = 8y.
+--------------------------------------------------------------------------------
+
+Chapter 10 - Example 8
+Question: Find the equation of the parabola which is symmetric about the y-axis, and passes through the point (2,–3).
+First 1000 chars of Solution:
+ the equation is of the form x2 = 4ay or x2 = – 4ay, where the sign depends on whether the parabola opens upwards or downwards. But the parabola passes through (2,–3) which lies in the fourth quadrant, it must open downwards. Thus the equation is of the form x2 = – 4ay. Since the parabola passes through ( 2,–3), we have 22 = – 4a (–3), i.e., a = 1 3 Therefore, the equation of the parabola is x2 = 1 4 3   −    y, i.e., 3x2 = – 4y. EXERCISE 10.2 In each of the following Exercises 1 to 6, find the coordinates of the focus, axis of the parabola, the equation of the directrix and the length of the latus rectum. 1. y2 = 12x 2. x2 = 6y 3. y2 = – 8x 4. x2 = – 16y 5. y2 = 10x 6. x2 = – 9y In each of the Exercises 7 to 12, find the equation of the parabola that satisfies the given conditions: Reprint 2025-26 CONIC SECTIONS 187 Fig 10.20 Fig 10.21 Fig 10.22 We denote the length of the major axis by 2a, the length of the minor axis by 2b and the distance between the foci by 2c. Thus, the len
+--------------------------------------------------------------------------------
+
+Chapter 10 - Example 9
+Question: Find the coordinates of the foci, the vertices, the length of major axis, the minor axis, the eccentricity and the latus rectum of the ellipse 2 2 1 25 9 x y + =
+First 1000 chars of Solution:
+ 2 25 x is larger than the denominator of 2 9 y , the major Fig 10. 26 Reprint 2025-26 CONIC SECTIONS 193 axis is along the x-axis. Comparing the given equation with 2 2 2 2 1 x y a b + = , we get a = 5 and b = 3. Also 2 2 25 9 4 c a – b – = = = Therefore, the coordinates of the foci are (– 4,0) and (4,0), vertices are (– 5, 0) and (5, 0). Length of the major axis is 10 units length of the minor axis 2b is 6 units and the eccentricity is 4 5 and latus rectum is 2 2 18 5 b a = .
+--------------------------------------------------------------------------------
+
+Chapter 10 - Example 10
+Question: Find the coordinates of the foci, the vertices, the lengths of major and minor axes and the eccentricity of the ellipse 9x2 + 4y2 = 36.
+First 1000 chars of Solution:
+ 2 2 1 4 9 x y + = Since the denominator of 2 9 y is larger than the denominator of 2 4 x , the major axis is along the y-axis. Comparing the given equation with the standard equation 2 2 2 2 1 x y b a + = , we have b = 2 and a = 3. Also c = 2 2 a – b = 9 4 5 – = and 5 3 c e a = = Hence the foci are (0, 5 ) and (0, – 5 ), vertices are (0,3) and (0, –3), length of the major axis is 6 units, the length of the minor axis is 4 units and the eccentricity of the ellipse is 5 3 .
+--------------------------------------------------------------------------------
+
+Chapter 10 - Example 11
+Question: Find the equation of the ellipse whose vertices are (± 13, 0) and foci are (± 5, 0).
+First 1000 chars of Solution:
+ 2 2 2 2 1 x y a b + = , where a is the semi-major axis. Reprint 2025-26 194 MATHEMATICS Given that a = 13, c = ± 5. Therefore, from the relation c2 = a2 – b2, we get 25 = 169 – b2 , i.e., b = 12 Hence the equation of the ellipse is 2 2 1 169 144 x y + = .
+--------------------------------------------------------------------------------
+
+Chapter 10 - Example 12
+Question: Find the equation of the ellipse, whose length of the major axis is 20 and foci are (0, ± 5).
+First 1000 chars of Solution:
+ of the ellipse is of the form 2 2 2 2 1 x y b a + = . Given that a = semi-major axis 20 10 2 = = and the relation c2 = a2 – b2 gives 52 = 102 – b2 i.e., b2 = 75 Therefore, the equation of the ellipse is 2 2 1 75 100 x y + =
+--------------------------------------------------------------------------------
+
+Chapter 10 - Example 13
+Question: Find the equation of the ellipse, with major axis along the x-axis and passing through the points (4, 3) and (– 1,4).
+First 1000 chars of Solution:
+ 2 2 2 2 b y a x + = 1. Since the points (4, 3) and (–1, 4) lie on the ellipse, we have 1 9 16 2 2 = + b a ... (1) and 2 2 16 1 b a + = 1 ….(2) Solving equations (1) and (2), we find that 2 247 7 a = and 2 247 15 b = . Hence the required equation is Reprint 2025-26 CONIC SECTIONS 195 2 2 1 247 247 15 7 x y + =       , i.e., 7x2 + 15y2 = 247. EXERCISE 10.3 In each of the Exercises 1 to 9, find the coordinates of the foci, the vertices, the length of major axis, the minor axis, the eccentricity and the length of the latus rectum of the ellipse. 1. 2 2 1 36 16 x y + = 2. 2 2 1 4 25 x y + = 3. 2 2 1 16 9 x y + = 4. 2 2 1 25 100 x y + = 5. 2 2 1 49 36 x y + = 6. 400 100 2 2 y x + = 1 7. 36x2 + 4y2 = 144 8. 16x2 + y2 = 16 9. 4x2 + 9y2 = 36 In each of the following Exercises 10 to 20, find the equation for the ellipse that satisfies the given conditions: 10. Vertices (± 5, 0), foci (± 4, 0) 11. Vertices (0, ± 13), foci (0, ± 5) 12. Vertices (± 6, 0), foci (± 4, 0) 13. Ends of major axis
+--------------------------------------------------------------------------------
+
+Chapter 10 - Example 14
+Question: Find the coordinates of the foci and the vertices, the eccentricity,the length of the latus rectum of the hyperbolas: (i) 2 2 1 9 16 x y – = , (ii) y2 – 16x2 = 16
+First 1000 chars of Solution:
+ 2 2 1 9 16 x y – = with the standard equation 2 2 2 2 1 x y – a b = Here, a = 3, b = 4 and c = 2 2 9 16 5 a b + = + = Therefore, the coordinates of the foci are (± 5, 0) and that of vertices are (± 3, 0).Also, The eccentricity e = 5 3 c a = . The latus rectum 2 2 32 3 b a = = (ii) Dividing the equation by 16 on both sides, we have 2 2 1 16 1 y x – = Comparing the equation with the standard equation 2 2 2 2 1 y x – a b = , we find that a = 4, b = 1 and 2 2 16 1 17 c a b = + = + = . Reprint 2025-26 CONIC SECTIONS 201 Therefore, the coordinates of the foci are (0, ± 17 ) and that of the vertices are (0, ± 4). Also, The eccentricity 17 4 c e a = = . The latus rectum 2 2 1 2 b a = = .
+--------------------------------------------------------------------------------
+
+Chapter 10 - Example 15
+Question: Find the equation of the hyperbola with foci (0, ± 3) and vertices (0, ± 11 2 ).
+First 1000 chars of Solution:
+ 2 2 2 2 1 y x – a b = Since vertices are (0, ± 11 2 ), a = 11 2 Also, since foci are (0, ± 3); c = 3 and b2 = c2 – a2 = 25 4 . Therefore, the equation of the hyperbola is 2 2 11 25 4 4 y x –             = 1, i.e., 100 y2 – 44 x2 = 275.
+--------------------------------------------------------------------------------
+
+Chapter 10 - Example 16
+Question: Find the equation of the hyperbola where foci are (0, ±12) and the length of the latus rectum is 36.
+First 1000 chars of Solution:
+ Length of the latus rectum = 36 2 2 = a b or b2 = 18a Therefore c2 = a2 + b2; gives 144 = a2 + 18a i.e., a2 + 18a – 144 = 0, So a = – 24, 6. Since a cannot be negative, we take a = 6 and so b2 = 108. Therefore, the equation of the required hyperbola is 2 2 1 36 108 y x – = , i.e., 3y2 – x2 = 108 Reprint 2025-26 202 MATHEMATICS Fig 10.31 EXERCISE 10.4 In each of the Exercises 1 to 6, find the coordinates of the foci and the vertices, the eccentricity and the length of the latus rectum of the hyperbolas. 1. 2 2 1 16 9 x y – = 2. 2 2 1 9 27 y x – = 3. 9y2 – 4x2 = 36 4. 16x2 – 9y2 = 576 5. 5y2 – 9x2 = 36 6. 49y2 – 16x2 = 784. In each of the Exercises 7 to 15, find the equations of the hyperbola satisfying the given conditions. 7. Vertices (± 2, 0), foci (± 3, 0) 8. Vertices (0, ± 5), foci (0, ± 8) 9. Vertices (0, ± 3), foci (0, ± 5) 10. Foci (± 5, 0), the transverse axis is of length 8. 11. Foci (0, ±13), the conjugate axis is of length 24. 12. Foci (± 3 5 , 0), the latus rectum is of len
+--------------------------------------------------------------------------------
+
+Chapter 10 - Example 17
+Question: The focus of a parabolic mirror as shown in Fig 10.31 is at a distance of 5 cm from its vertex. If the mirror is 45 cm deep, find the distance AB (Fig 10.31).
+First 1000 chars of Solution:
+ vertex is 5 cm. We have, a = 5. If the origin is taken at the vertex and the axis of the mirror lies along the positive x-axis, the equation of the parabolic section is y2 = 4 (5) x = 20 x Note that x = 45. Thus y2 = 900 Therefore y = ± 30 Hence AB = 2y = 2 × 30 = 60 cm.
+--------------------------------------------------------------------------------
+
+Chapter 10 - Example 18
+Question: A beam is supported at its ends by supports which are 12 metres apart. Since the load is concentrated at its centre, there Reprint 2025-26 CONIC SECTIONS 203 is a deflection of 3 cm at the centre and the deflected beam is in the shape of a parabola. How far from the centre is the deflection 1 cm?
+First 1000 chars of Solution:
+ axis be chosen as shown in Fig 10.32. Fig 10.32 The equation of the parabola takes the form x2 = 4ay. Since it passes through 3 6 100 ,      , we have (6)2 = 4a 3 100      , i.e., a = 36 100 12 × = 300 m Let AB be the deflection of the beam which is 1 100 m. Coordinates of B are (x, 2 100 ). Therefore x2 = 4 × 300 × 2 100 = 24 i.e. x = 24 = 2 6 metres
+--------------------------------------------------------------------------------
+
+Chapter 10 - Example 19
+Question: A rod AB of length 15 cm rests in between two coordinate axes in such a way that the end point A lies on x-axis and end point B lies on y-axis. A point P(x, y) is taken on the rod in such a way that AP = 6 cm. Show that the locus of P is an ellipse.
+First 1000 chars of Solution:
+ OX as shown in Fig 10.33 and P (x, y) the point on it such that AP = 6 cm. Since AB = 15 cm, we have PB = 9 cm. From P draw PQ and PR perpendiculars on y-axis and x-axis, respectively. Fig 10.33 Reprint 2025-26 204 MATHEMATICS From ∆ PBQ, cos θ = 9 x From ∆ PRA, sin θ = 6 y Since cos2 θ + sin2 θ = 1 2 2 1 9 6 x y     + =         or 2 2 1 81 36 x y + = Thus the locus of P is an ellipse. Miscellaneous Exercise on Chapter 10 1. If a parabolic reflector is 20 cm in diameter and 5 cm deep, find the focus. 2. An arch is in the form of a parabola with its axis vertical. The arch is 10 m high and 5 m wide at the base. How wide is it 2 m from the vertex of the parabola? 3. The cable of a uniformly loaded suspension bridge hangs in the form of a parabola. The roadway which is horizontal and 100 m long is supported by vertical wires attached to the cable, the longest wire being 30 m and the shortest being 6 m. Find the length of a supporting wire attached to the roadway 18 m from the
+--------------------------------------------------------------------------------
+
+Chapter 11 - Example 1
+Question: In Fig 11.3, if P is (2,4,5), find the coordinates of F.
+First 1000 chars of Solution:
+ coordinates of F are (2,0,5).
+--------------------------------------------------------------------------------
+
+Chapter 11 - Example 2
+Question: Find the octant in which the points (–3,1,2) and (–3,1,– 2) lie.
+First 1000 chars of Solution:
+ (–3, 1, – 2) lies in octant VI. EXERCISE 11.1 1. A point is on the x-axis. What are its y-coordinate and z-coordinates? 2. A point is in the XZ-plane. What can you say about its y-coordinate? 3. Name the octants in which the following points lie: (1, 2, 3), (4, –2, 3), (4, –2, –5), (4, 2, –5), (– 4, 2, –5), (– 4, 2, 5), (–3, –1, 6) (– 2, – 4, –7). 4. Fill in the blanks: (i) The x-axis and y-axis taken together determine a plane known as_______. (ii) The coordinates of points in the XY-plane are of the form _______. (iii) Coordinate planes divide the space into ______ octants. 11.4 Distance between Two Points We have studied about the distance between two points in two-dimensional coordinate system. Let us now extend this study to three-dimensional system. Let P(x1, y1, z1) and Q ( x2, y2, z2) be two points referred to a system of rectangular axes OX, OY and OZ. Through the points P and Q draw planes parallel to the coordinate planes so as to form a rectangular parallelopiped with one 
+--------------------------------------------------------------------------------
+
+Chapter 11 - Example 3
+Question: Find the distance between the points P(1, –3, 4) and Q (– 4, 1, 2).
+First 1000 chars of Solution:
+ PQ = 2 2 2 ) 4 2 ( )3 1( )1 4 ( − + + + − − = 4 16 25 + + = 45 = 3 5 units
+--------------------------------------------------------------------------------
+
+Chapter 11 - Example 4
+Question: Show that the points P (–2, 3, 5), Q (1, 2, 3) and R (7, 0, –1) are collinear.
+First 1000 chars of Solution:
+ Now, PQ = 14 4 1 9 ) 5 3 ( ) 3 2 ( ) 2 1( 2 2 2 = + + = − + − + + QR = 14 2 56 16 4 36 )3 1 ( ) 2 0 ( )1 7 ( 2 2 2 = = + + = − − + − + − and PR = 14 3 126 36 9 81 ) 5 1 ( )3 0 ( ) 2 7 ( 2 2 2 = = + + = − − + − + + Thus, PQ + QR = PR. Hence, P, Q and R are collinear.
+--------------------------------------------------------------------------------
+
+Chapter 11 - Example 5
+Question: Are the points A (3, 6, 9), B (10, 20, 30) and C (25, – 41, 5), the vertices of a right angled triangle?
+First 1000 chars of Solution:
+ AB2 = (10 – 3)2 + (20 – 6)2 + (30 – 9)2 = 49 + 196 + 441 = 686 BC2 = (25 – 10)2 + (– 41 – 20)2 + (5 – 30)2 = 225 + 3721 + 625 = 4571 Reprint 2025-26 INTRODUCTION TO THREE DIMENSIONAL GEOMETRY 213 CA2 = (3 – 25)2 + (6 + 41)2 + (9 – 5)2 = 484 + 2209 + 16 = 2709 We find that CA2 + AB2 ≠ BC2. Hence, the triangle ABC is not a right angled triangle.
+--------------------------------------------------------------------------------
+
+Chapter 11 - Example 6
+Question: Find the equation of set of points P such that PA2 + PB2 = 2k2, where A and B are the points (3, 4, 5) and (–1, 3, –7), respectively.
+First 1000 chars of Solution:
+ Here PA2 = (x – 3)2 + (y – 4)2 + ( z – 5)2 PB2 = (x + 1)2 + (y – 3)2 + (z + 7)2 By the given condition PA2 + PB2 = 2k2, we have (x – 3)2 + (y – 4)2 + (z – 5)2 + (x + 1)2 + (y – 3)2 + (z + 7)2 = 2k2 i.e., 2x2 + 2y2 + 2z2 – 4x – 14y + 4z = 2k2 – 109. EXERCISE 11.2 1. Find the distance between the following pairs of points: (i) (2, 3, 5) and (4, 3, 1) (ii) (–3, 7, 2) and (2, 4, –1) (iii) (–1, 3, – 4) and (1, –3, 4) (iv) (2, –1, 3) and (–2, 1, 3). 2. Show that the points (–2, 3, 5), (1, 2, 3) and (7, 0, –1) are collinear. 3. Verify the following: (i) (0, 7, –10), (1, 6, – 6) and (4, 9, – 6) are the vertices of an isosceles triangle. (ii) (0, 7, 10), (–1, 6, 6) and (– 4, 9, 6) are the vertices of a right angled triangle. (iii) (–1, 2, 1), (1, –2, 5), (4, –7, 8) and (2, –3, 4) are the vertices of a parallelogram. 4. Find the equation of the set of points which are equidistant from the points (1, 2, 3) and (3, 2, –1). 5. Find the equation of the set of points P, the sum of whose distances fr
+--------------------------------------------------------------------------------
+
+Chapter 11 - Example 7
+Question: Show that the points A (1, 2, 3), B (–1, –2, –1), C (2, 3, 2) and D (4, 7, 6) are the vertices of a parallelogram ABCD, but it is not a rectangle.
+First 1000 chars of Solution:
+ Note that. Reprint 2025-26 214 MATHEMATICS AB = 2 2 2 ) 3 1 ( ) 2 2 ( )1 1 ( − − + − − + − − = 4 16 16 + + = 6 BC = 2 2 2 )1 2 ( ) 2 3 ( )1 2 ( + + + + + = 9 25 9 + + = 43 CD = 2 2 2 ) 2 6 ( ) 3 7 ( ) 2 4 ( − + − + − = 6 16 16 4 = + + DA = 2 2 2 ) 6 3 ( ) 7 2 ( ) 4 1( − + − + − = 43 9 25 9 = + + Since AB = CD and BC = AD, ABCD is a parallelogram. Now, it is required to prove that ABCD is not a rectangle. For this, we show that diagonals AC and BD are unequal. We have AC = 3 1 1 1 )3 2 ( ) 2 3 ( )1 2 ( 2 2 2 = + + = − + − + − BD = 155 49 81 25 )1 6 ( ) 2 7 ( )1 4 ( 2 2 2 = + + = + + + + + . Since AC ≠ BD, ABCD is not a rectangle. ANote We can also show that ABCD is a parallelogram, using the property that diagonals AC and BD bisect each other.
+--------------------------------------------------------------------------------
+
+Chapter 11 - Example 8
+Question: Find the equation of the set of the points P such that its distances from the points A (3, 4, –5) and B (– 2, 1, 4) are equal.
+First 1000 chars of Solution:
+ Now 2 2 2 2 2 2 ) 4 ( )1 ( ) 2 ( ) 5 ( ) 4 ( )3 ( − + − + + = + + − + − z y x z y x or 2 2 2 2 2 2 ) 4 ( )1 ( ) 2 ( ) 5 ( ) 4 ( )3 ( − + − + + = + + − + − z y x z y x or 10x+ 6y – 18z – 29 = 0.
+--------------------------------------------------------------------------------
+
+Chapter 11 - Example 9
+Question: The centroid of a triangle ABC is at the point (1, 1, 1). If the coordinates of A and B are (3, –5, 7) and (–1, 7, – 6), respectively, find the coordinates of the point C.
+First 1000 chars of Solution:
+ (1, 1, 1). Then Reprint 2025-26 INTRODUCTION TO THREE DIMENSIONAL GEOMETRY 215 x + − = 3 1 3 1, i.e., x = 1; y −+ = 5 7 3 1, i.e., y = 1; z + − = 7 6 3 1, i.e., z = 2. Hence, coordinates of C are (1, 1, 2). Miscellaneous Exercise on Chapter 11 1. Three vertices of a parallelogram ABCD are A(3, – 1, 2), B (1, 2, – 4) and C (– 1, 1, 2). Find the coordinates of the fourth vertex. 2. Find the lengths of the medians of the triangle with vertices A (0, 0, 6), B (0,4, 0) and (6, 0, 0). 3. If the origin is the centroid of the triangle PQR with vertices P (2a, 2, 6), Q (– 4, 3b, –10) and R(8, 14, 2c), then find the values of a, b and c. 4. If A and B be the points (3, 4, 5) and (–1, 3, –7), respectively, find the equation of the set of points P such that PA2 + PB2 = k2, where k is a constant. Summary ®In three dimensions, the coordinate axes of a rectangular Cartesian coordi- nate system are three mutually perpendicular lines. The axes are called the x, y and z-axes. ®The three planes determin
+--------------------------------------------------------------------------------
+
+Chapter 12 - Example 1
+Question: Find the limits: (i) 3 2 1 lim 1 x x x →  − +   (ii) ( ) 3 lim 1 x x x →  +   (iii) 2 10 1 lim 1 ... x x x x →−  + + + +  .
+First 1000 chars of Solution:
+ limits are the values of the function at the prescribed points. We have (i) 1 lim x→ [x3 – x2 + 1] = 13 – 12 + 1 = 1 (ii) ( ) ( ) ( ) 3 lim 1 3 3 1 3 4 12 x x x →  + = + = =   (iii) 2 10 1 lim 1 ... x x x x →−  + + + +   ( ) ( ) ( ) 2 10 1 1 1 ... 1 = + − + − + + − 1 1 1... 1 1 = −+ + = .
+--------------------------------------------------------------------------------
+
+Chapter 12 - Example 2
+Question: Find the limits: (i) 2 1 1 lim 100 x x x →   +   +   (ii) 3 2 2 2 4 4 lim 4 x x x x x →   − +   −   (iii) 2 3 2 2 4 lim 4 4 x x x x x →   −   − +   (iv) 3 2 2 2 2 lim 5 6 x x x x x →   −   − +   (v) 2 3 2 1 2 1 lim 3 2 x x x x x x x → −   −   − − +  .
+First 1000 chars of Solution:
+ evaluate these functions at the prescribed points. If this is of the form 0 0 , we try to rewrite the function cancelling the factors which are causing the limit to be of the form 0 0 . Reprint 2025-26 LIMITS AND DERIVATIVES 231 (i) We have 2 2 1 1 1 1 2 lim 100 1 100 101 x x x → + + = = + + (ii) Evaluating the function at 2, it is of the form 0 0 . Hence 3 2 2 2 4 4 lim 4 x x x x x → − + − = ( ) ( )( ) 2 2 2 lim 2 2 x x x x x → − + − = ( ) ( ) 2 2 lim as 2 2 x x x x x → − ≠ + = ( ) 2 2 2 0 0 2 2 4 − = = + . (iii) Evaluating the function at 2, we get it of the form 0 0 . Hence 2 3 2 2 4 lim 4 4 x x x x x → − − + = ( )( ) ( ) 2 2 2 2 lim 2 x x x x x → + − − = ( ) ( ) ( ) 2 2 2 2 4 lim 2 2 2 2 0 x x x x → + + = = − − which is not defined. (iv) Evaluating the function at 2, we get it of the form 0 0 . Hence 3 2 2 2 2 lim 5 6 x x x x x → − − + = ( ) ( )( ) 2 2 2 lim 2 3 x x x x x → − − − = ( ) ( ) 2 2 2 2 4 lim 4 3 2 3 1 x x x → = = = − − − − . Reprint 2025-26 232 MATHEMATICS (v) First, w
+--------------------------------------------------------------------------------
+
+Chapter 12 - Example 3
+Question: Evaluate: (i) 15 10 1 1 lim 1 x x x → − − (ii) 0 1 1 lim x x x → + −
+First 1000 chars of Solution:
+ 15 10 1 1 lim 1 x x x → − − = 15 10 1 1 1 lim 1 1 x x x x x →   − − ÷   − −   = 15 10 1 1 1 1 lim lim 1 1 x x x x x x → →     − − ÷     − −     = 15 (1)14 ÷ 10(1)9 (by the theorem above) = 15 ÷ 10 3 2 = (ii) Put y = 1 + x, so that 1 y → as 0. x → Then 0 1 1 lim x x x → + − = 1 1 lim –1 y y y → − = 1 1 2 2 1 1 lim 1 y y y → − − = 1 1 2 1 (1) 2 − (by the remark above) = 1 2 Reprint 2025-26 234 MATHEMATICS 12.4 Limits of Trigonometric Functions The following facts (stated as theorems) about functions in general come in handy in calculating limits of some trigonometric functions. Theorem 3 Let f and g be two real valued functions with the same domain such that f (x) ≤ g( x) for all x in the domain of definition, For some a, if both lim x a → f(x) and lim x a → g(x) exist, then lim x a → f(x) ≤ lim x a → g(x). This is illustrated in Fig 12.8. Theorem 4 (Sandwich Theorem) Let f, g and h be real functions such that f (x) ≤ g( x) ≤ h(x) for all x in the common domain of defi
+--------------------------------------------------------------------------------
+
+Chapter 12 - Example 4
+Question: Evaluate: (i) 0 sin4 lim sin2 x x x → (ii) 0 tan lim x x x →
+First 1000 chars of Solution:
+ 0 sin 4 lim sin 2 x x x → 0 sin4 2 lim . .2 4 sin2 x x x x x →   =     = 0 sin 4 sin 2 2.lim 4 2 x x x x x →     ÷         = 4 0 2 0 sin4 sin2 2. lim lim 4 2 x x x x x x → →     ÷         = 2.1.1 = 2 (as x → 0, 4x → 0 and 2x → 0) Reprint 2025-26 LIMITS AND DERIVATIVES 237 (ii) We have 0 tan lim x x x → = 0 sin lim cos x x x x → = 0 0 sin 1 lim . lim cos x x x x x → → = 1.1 = 1 A general rule that needs to be kept in mind while evaluating limits is the following. Say, given that the limit ( ) ( ) lim x a f x g x → exists and we want to evaluate this. First we check the value of f (a) and g(a). If both are 0, then we see if we can get the factor which is causing the terms to vanish, i.e., see if we can write f(x) = f1 (x) f2(x) so that f1 (a) = 0 and f2 (a) ≠ 0. Similarly, we write g(x) = g1 (x) g2(x), where g1(a) = 0 and g2(a) ≠ 0. Cancel out the common factors from f(x) and g(x) (if possible) and write ( ) ( ) ( ) ( ) f x p x g x q x = , where q(x) ≠ 0. T
+--------------------------------------------------------------------------------
+
+Chapter 12 - Example 5
+Question: Find the derivative at x = 2 of the function f(x) = 3x.
+First 1000 chars of Solution:
+ f′ (2) = ( ) ( ) 0 2 2 lim h f h f h → + − = ( ) ( ) 0 3 2 3 2 lim h h h → + − = 0 0 0 6 3 6 3 lim lim lim3 3 h h h h h h h → → → + − = = = . The derivative of the function 3x at x = 2 is 3.
+--------------------------------------------------------------------------------
+
+Chapter 12 - Example 6
+Question: Find the derivative of the function f(x) = 2x2 + 3x – 5 at x = –1. Also prove that f ′ (0) + 3f ′ ( –1) = 0.
+First 1000 chars of Solution:
+ ( ) ' 1 f − = ( ) ( ) 0 1 1 lim h f h f h → −+ − − = ( ) ( ) ( ) ( ) 2 2 0 2 1 3 1 5 2 1 3 1 5 lim h h h h →     −+ + −+ − − − + − −     = ( ) ( ) 2 0 0 2 lim lim 2 1 2 0 1 1 h h h h h h → → − = − = −= − and ( ) ' 0 f = ( ) ( ) 0 0 0 lim h f h f h → + − = ( ) ( ) ( ) ( ) 2 2 0 2 0 3 0 5 2 0 3 0 5 lim h h h h →     + + + − − + −     Reprint 2025-26 LIMITS AND DERIVATIVES 241 = ( ) ( ) 2 0 0 2 3 lim lim 2 3 2 0 3 3 h h h h h h → → + = + = + = Clearly ( ) ( ) ' 0 3 ' 1 0 f f + − = Remark At this stage note that evaluating derivative at a point involves effective use of various rules, limits are subjected to. The following illustrates this.
+--------------------------------------------------------------------------------
+
+Chapter 12 - Example 7
+Question: Find the derivative of sin x at x = 0.
+First 1000 chars of Solution:
+ f ′(0) = ( ) ( ) 0 0 0 lim h f h f h → + − = ( ) ( ) 0 sin 0 sin 0 lim h h h → + − = 0 sin lim 1 h h h → =
+--------------------------------------------------------------------------------
+
+Chapter 12 - Example 8
+Question: Find the derivative of f(x) = 3 at x = 0 and at x = 3.
+First 1000 chars of Solution:
+ that the derivative of the constant function must be zero at every point. This is indeed, supported by the following computation. ( ) ' 0 f = ( ) ( ) 0 0 0 0 0 3 3 0 lim lim lim 0 h h h f h f h h h → → → + − − = = = . Similarly ( ) ' 3 f = ( ) ( ) 0 0 3 3 3 3 lim lim 0 h h f h f h h → → + − − = = . We now present a geomet- ric interpretation of derivative of a function at a point. Let y = f(x) be a function and let P = (a, f(a)) and Q = (a + h, f(a + h) be two points close to each other on the graph of this function. The Fig 12.11 is now self explanatory. Fig 12.11 Reprint 2025-26 242 MATHEMATICS We know that ( ) ( ) ( ) 0 lim h f a h f a f a h → + − ′ = From the triangle PQR, it is clear that the ratio whose limit we are taking is precisely equal to tan(QPR) which is the slope of the chord PQ. In the limiting process, as h tends to 0, the point Q tends to P and we have ( ) ( ) 0 Q P QR lim lim PR h f a h f a h → → + − = This is equivalent to the fact that the chord PQ tends to the ta
+--------------------------------------------------------------------------------
+
+Chapter 12 - Example 9
+Question: Find the derivative of f(x) = 10x.
+First 1000 chars of Solution:
+ ( ) ( ) 0 lim h f x h f x h → + − Reprint 2025-26 LIMITS AND DERIVATIVES 243 = ( ) ( ) 0 10 10 lim h x h x h → + − = 0 10 lim h h h → = ( ) 0 lim 10 10 h→ = .
+--------------------------------------------------------------------------------
+
+Chapter 12 - Example 10
+Question: Find the derivative of f(x) = x2.
+First 1000 chars of Solution:
+ ( ) ( ) 0 lim h f x h f x h → + − = ( ) ( ) 2 2 0 lim h x h x h → + − = ( ) 0 lim 2 2 h h x x → + =
+--------------------------------------------------------------------------------
+
+Chapter 12 - Example 11
+Question: Find the derivative of the constant function f (x) = a for a fixed real number a.
+First 1000 chars of Solution:
+ ( ) ( ) 0 lim h f x h f x h → + − = 0 0 0 lim lim 0 h h a a h h → → − = = as 0 h ≠
+--------------------------------------------------------------------------------
+
+Chapter 12 - Example 12
+Question: Find the derivative of f(x) = 1 x
+First 1000 chars of Solution:
+ ( ) ( ) 0 lim h f x h f x h → + − = 0 1 1 – ( ) lim h x h x h → + = ( ) ( ) 0 1 lim h x x h h x x h →   − +   +     = ( ) 0 1 lim h h h x x h →   −   +     = ( ) 0 1 lim h x x h → − + = 2 1 x − Reprint 2025-26 244 MATHEMATICS 12.5.1 Algebra of derivative of functions Since the very definition of derivatives involve limits in a rather direct fashion, we expect the rules for derivatives to follow closely that of limits. We collect these in the following theorem. Theorem 5 Let f and g be two functions such that their derivatives are defined in a common domain. Then (i) Derivative of sum of two functions is sum of the derivatives of the functions. ( ) ( ) ( ) ( ) d d d f x g x f x g x dx dx dx   + = +   . (ii) Derivative of difference of two functions is difference of the derivatives of the functions. ( ) ( ) ( ) ( ) d d d f x g x f x g x dx dx dx   − = −   . (iii) Derivative of product of two functions is given by the following product rule. ( ) ( ) . ( ) . ( ) ( 
+--------------------------------------------------------------------------------
+
+Chapter 12 - Example 13
+Question: Compute the derivative of 6x100 – x55 + x.
+First 1000 chars of Solution:
+ above function is 99 54 600 55 1 x x − + . Reprint 2025-26 LIMITS AND DERIVATIVES 247
+--------------------------------------------------------------------------------
+
+Chapter 12 - Example 14
+Question: Find the derivative of f(x) = 1 + x + x2 + x3 +... + x50 at x = 1.
+First 1000 chars of Solution:
+ above function is 1 + 2x + 3x2 + . . . + 50x49. At x = 1 the value of this function equals 1 + 2(1) + 3(1)2 + .. . + 50(1)49 = 1 + 2 + 3 + . . . + 50 = ( )( ) 50 51 2 = 1275.
+--------------------------------------------------------------------------------
+
+Chapter 12 - Example 15
+Question: Find the derivative of f(x) = 1 x x +
+First 1000 chars of Solution:
+ quotient rule with u = x + 1 and v = x. Hence u′ = 1 and v′ = 1. Therefore ( ) 1 df x d x d u dx dx x dx v +     = =         ( ) ( ) 2 2 2 1 1 1 1 x x u v uv v x x − + ′ ′ − = = = −
+--------------------------------------------------------------------------------
+
+Chapter 12 - Example 16
+Question: Compute the derivative of sin x.
+First 1000 chars of Solution:
+ ( ) df x dx = ( ) ( ) ( ) ( ) 0 0 sin sin lim lim h h f x h f x x h x h h → → + − + − = = 0 2 2cos sin 2 2 lim h x h h h → +             (using formula for sin A – sin B) = 0 0 sin 2 limcos .lim cos .1 cos 2 2 h h h h x x x h → →   + = =     .
+--------------------------------------------------------------------------------
+
+Chapter 12 - Example 17
+Question: Compute the derivative of tan x.
+First 1000 chars of Solution:
+ ( ) df x dx = ( ) ( ) ( ) ( ) 0 0 tan tan lim lim h h f x h f x x h x h h → → + − + − = = ( ) ( ) 0 sin 1 sin lim cos cos h x h x h x h x →   + −   +     Reprint 2025-26 248 MATHEMATICS = ( ) ( ) ( ) 0 sin cos cos sin lim cos cos h x h x x h x h x h x →   + − +   +     = ( ) ( ) 0 sin lim cos cos h x h x h x h x → + − + (using formula for sin (A + B)) = ( ) 0 0 sin 1 lim .lim cos cos h h h h x h x → → + = 2 2 1 1. sec cos x x = .
+--------------------------------------------------------------------------------
+
+Chapter 12 - Example 18
+Question: Compute the derivative of f(x) = sin2 x.
+First 1000 chars of Solution:
+ ( ) ( ) sin sin df x d x x dx dx = ( ) ( ) sin sin sin sin x x x x ′ ′ = + ( ) ( ) cos sin sin cos x x x x = + 2sin cos sin 2 x x x = = . EXERCISE 12.2 1. Find the derivative of x2 – 2 at x = 10. 2. Find the derivative of x at x = 1. 3. Find the derivative of 99x at x = l00. 4. Find the derivative of the following functions from first principle. (i) 3 27 x − (ii) ( )( ) 1 2 x x − − (iii) 2 1 x (iv) 1 1 x x + − 5. For the function ( ) 100 99 2 . . . 1 100 99 2 x x x f x x = + + + + + . Reprint 2025-26 LIMITS AND DERIVATIVES 249 Prove that ( ) ( ) 1 100 0 f f ′ ′ = . 6. Find the derivative of 1 2 2 1 . . . n n n n n x ax a x a x a − − − + + + + + for some fixed real number a. 7. For some constants a and b, find the derivative of (i) ( ) ( ) x a x b − − (ii) ( ) 2 2 ax b + (iii) x a x b − − 8. Find the derivative of n n x a x a − − for some constant a. 9. Find the derivative of (i) 3 2 4 x − (ii) ( ) ( ) 3 5 3 1 1 x x x + − − (iii) ( ) 3 5 3 x x − + (iv) ( ) 5 9 3 6 x x− − (v) ( ) 4 5 3 
+--------------------------------------------------------------------------------
+
+Chapter 12 - Example 19
+Question: Find the derivative of f from the first principle, where f is given by (i) f (x) = 2 3 2 x x + − (ii) f (x) = 1 x x +
+First 1000 chars of Solution:
+ ( ) ( ) ( ) ( ) 0 0 2 3 2 3 2 2 lim lim h h x h x f x h f x x h x f x h h → → + + + − + − + − − ′ = = Reprint 2025-26 250 MATHEMATICS = ( )( ) ( )( ) ( )( ) 0 2 2 3 2 2 3 2 lim 2 2 h x h x x x h h x x h → + + − − + + − − + − = ( )( ) ( ) ( )( ) ( ) ( )( ) 0 2 3 2 2 2 2 3 2 2 3 lim 2 2 h x x h x x x h x h x x h → + − + − − + − − + − + − = ( ) ( ) ( ) 2 0 –7 7 lim 2 2 2 h x x h x → = − − + − − Again, note that the function f ′ is also not defined at x = 2. (ii) The function is not defined at x = 0. But, we have ( ) f x ′ = ( ) ( ) 0 0 1 1 lim lim h h x h x f x h f x x h x h h → →     + + − +     + − +     = = 0 1 1 1 lim h h h x h x →   + −   +   = ( ) ( ) 0 0 1 1 1 lim lim 1 h h x x h h h h x x h h x x h → →       − − + = −         + +           = ( ) 2 0 1 1 lim 1 1 h x x h x →   − = −   +     Again, note that the function f ′ is not defined at x = 0.
+--------------------------------------------------------------------------------
+
+Chapter 12 - Example 20
+Question: Find the derivative of f(x) from the first principle, where f(x) is (i) sin cos x x + (ii) sin x x
+First 1000 chars of Solution:
+ ( ) 'f x = ( ) ( ) f x h f x h + − = ( ) ( ) 0 sin cos sin cos lim h x h x h x x h → + + + − − = 0 sin cos cos sin cos cos sin sin sin cos lim h x h x h x h x h x x h → + + − − − Reprint 2025-26 LIMITS AND DERIVATIVES 251 = ( ) ( ) ( ) 0 sin cos sin sin cos 1 cos cos 1 lim h h x x x h x h h → − + − + − = ( ) ( ) 0 0 cos 1 sin lim cos sin limsin h h h h x x x h h → → − − + ( ) 0 cos 1 limcos h h x h → − + = cos sin x x − (ii) ( ) 'f x = ( ) ( ) ( ) ( ) 0 0 sin sin lim lim h h f x h f x x h x h x x h h → → + − + + − = = ( )( ) 0 sin cos sin cos sin lim h x h x h h x x x h → + + − = ( ) ( ) 0 sin cos 1 cos sin sin cos sin cos lim h x x h x x h h x h h x h → − + + + = ( ) 0 0 sin cos 1 sin lim lim cos h h x x h h x x h h → → − + ( ) 0 lim sin cos sin cos h x h h x → + + = cos sin x x x +
+--------------------------------------------------------------------------------
+
+Chapter 12 - Example 21
+Question: Compute derivative of (i) f(x) = sin 2x (ii) g(x) = cot x
+First 1000 chars of Solution:
+ ( ) df x dx = ( ) ( ) 2sin cos 2 sin cos d d x x x x dx dx = ( ) ( ) 2 sin cos sin cos x x x x   ′ ′ = +     ( ) ( ) 2 cos cos sin sin x x x x   = + −   ( ) 2 2 2 cos sin x x = − (ii) By definition, g(x) = cos cot sin x x x = . We use the quotient rule on this function wherever it is defined. cos (cot ) sin dg d d x x dx dx dx x   = =     Reprint 2025-26 252 MATHEMATICS = 2 (cos ) (sin ) (cos )(sin ) (sin ) x x x x x ′ ′ − = 2 ( sin )(sin ) (cos )(cos ) (sin ) x x x x x − − = 2 2 2 2 sin cos cosec sin x x x x + − =− Alternatively, this may be computed by noting that 1 cot tan x x = . Here, we use the fact that the derivative of tan x is sec2 x which we saw in Example 17 and also that the derivative of the constant function is 0. dg dx = 1 (cot ) tan d d x dx dx x   =     = 2 (1) (tan ) (1)(tan ) (tan ) x x x ′ ′ − = 2 2 (0)(tan ) (sec ) (tan ) x x x − = 2 2 2 sec cosec tan x x x − = −
+--------------------------------------------------------------------------------
+
+Chapter 12 - Example 22
+Question: Find the derivative of (i) 5 cos sin x x x − (ii) cos tan x x x +
+First 1000 chars of Solution:
+ 5 cos ( ) sin x x h x x − = . We use the quotient rule on this function wherever it is defined. 5 5 2 ( cos ) sin ( cos )(sin ) ( ) (sin ) x x x x x x h x x ′ ′ − − − ′ = Reprint 2025-26 LIMITS AND DERIVATIVES 253 = 4 5 2 (5 sin )sin ( cos )cos sin x x x x x x x + − − = 5 4 2 cos 5 sin 1 (sin ) x x x x x − + + (ii) We use quotient rule on the function cos tan x x x + wherever it is defined. ( ) h x ′ = 2 ( cos ) tan ( cos )(tan ) (tan ) x x x x x x x ′ ′ + − + = 2 2 (1 sin )tan ( cos )sec (tan ) x x x x x x − − + Miscellaneous Exercise on Chapter 12 1. Find the derivative of the following functions from first principle: (i) x − (ii) 1 ( )x − − (iii) sin (x + 1) (iv) cos (x – π 8 ) Find the derivative of the following functions (it is to be understood that a, b, c, d, p, q, r and s are fixed non-zero constants and m and n are integers): 2. (x + a) 3. (px + q) r s x   +     4. ( )( ) 2 ax b cx d + + 5. ax b cx d + + 6. 1 1 1 1 x x + − 7. 2 1 ax bx c + + 8. 2 ax b px qx r + + + 9. 
+--------------------------------------------------------------------------------
+
+Chapter 13 - Example 1
+Question: Find the mean deviation about the mean for the following data: 6, 7, 10, 12, 13, 4, 8, 12
+First 1000 chars of Solution:
+ Step 1 Mean of the given data is 6 7 10 12 13 4 8 12 72 9 8 8 x + + + + + + + = = = Step 2 The deviations of the respective observations from the mean ,x i.e., xi– x are 6 – 9, 7 – 9, 10 – 9, 12 – 9, 13 – 9, 4 – 9, 8 – 9, 12 – 9, or –3, –2, 1, 3, 4, –5, –1, 3 Step 3 The absolute values of the deviations, i.e., ix x − are 3, 2, 1, 3, 4, 5, 1, 3 Step 4 The required mean deviation about the mean is M.D. ( ) x = 8 1 8 i i x x = − ∑ = 3 2 1 3 4 5 1 3 22 2 75 8 8 . + + + + + + + = = ANote Instead of carrying out the steps every time, we can carry on calculation, step-wise without referring to steps.
+--------------------------------------------------------------------------------
+
+Chapter 13 - Example 2
+Question: Find the mean deviation about the mean for the following data : 12, 3, 18, 17, 4, 9, 17, 19, 20, 15, 8, 17, 2, 3, 16, 11, 3, 1, 0, 5
+First 1000 chars of Solution:
+ 20 1 1 20 i i x x = = ∑ = 20 200 = 10 Reprint 2025-26 262 MATHEMATICS The respective absolute values of the deviations from mean, i.e., x xi − are 2, 7, 8, 7, 6, 1, 7, 9, 10, 5, 2, 7, 8, 7, 6, 1, 7, 9, 10, 5 Therefore 20 1 124 i i x x = − = ∑ and M.D. ( x ) = 124 20 = 6.2
+--------------------------------------------------------------------------------
+
+Chapter 13 - Example 3
+Question: Find the mean deviation about the median for the following data: 3, 9, 5, 3, 12, 10, 18, 4, 7, 19, 21.
+First 1000 chars of Solution:
+ ascending order, we have 3, 3, 4, 5, 7, 9, 10, 12, 18, 19, 21 Now Median = th 11 1 2 +       or 6th observation = 9 The absolute values of the respective deviations from the median, i.e., M ix − are 6, 6, 5, 4, 2, 0, 1, 3, 9, 10, 12 Therefore 11 1 M 58 i i x = − = ∑ and ( ) 11 1 1 1 M.D. M M 58 5.27 11 11 i i x = = − = × = ∑ 13.4.2 Mean deviation for grouped data We know that data can be grouped into two ways : (a) Discrete frequency distribution, (b) Continuous frequency distribution. Let us discuss the method of finding mean deviation for both types of the data. (a) Discrete frequency distribution Let the given data consist of n distinct values x1, x2, ..., xn occurring with frequencies f1, f2 , ..., fn respectively. This data can be represented in the tabular form as given below, and is called discrete frequency distribution: x : x1 x2 x3 ... xn f : f1 f2 f3 ... fn Reprint 2025-26 STATISTICS 263 (i) Mean deviation about mean First of all we find the mean x of the given data b
+--------------------------------------------------------------------------------
+
+Chapter 13 - Example 4
+Question: Find mean deviation about the mean for the following data : xi 2 5 6 8 10 12 f i 2 8 10 7 8 5 Reprint 2025-26 264 MATHEMATICS
+First 1000 chars of Solution:
+ calculations. Table 13.1 xi f i fixi x xi − fi x xi − 2 2 4 5.5 11 5 8 40 2.5 20 6 10 60 1.5 15 8 7 56 0.5 3.5 10 8 80 2.5 20 12 5 60 4.5 22.5 40 300 92 40 N 6 1 = = ∑ = i if , 300 6 1 = ∑ = i i ix f , 92 6 1 = − ∑ = x x f i i i Therefore 6 1 1 1 300 7.5 N 40 i i i x f x = = = × = ∑ and 6 1 1 1 M. D. ( ) 92 2.3 N 40 i i i x f x x = = − = × = ∑
+--------------------------------------------------------------------------------
+
+Chapter 13 - Example 5
+Question: Find the mean deviation about the median for the following data: xi 3 6 9 12 13 15 21 22 f i 3 4 5 2 4 5 4 3
+First 1000 chars of Solution:
+ corresponding to cumulative frequencies to the given data, we get (Table 13.2). Table 13.2 xi 3 6 9 12 13 15 21 22 f i 3 4 5 2 4 5 4 3 c.f. 3 7 12 14 18 23 27 30 Now, N=30 which is even. Reprint 2025-26 STATISTICS 265 Median is the mean of the 15th and 16th observations. Both of these observations lie in the cumulative frequency 18, for which the corresponding observation is 13. th th 15 observation 16 observation 13 13 Therefore, Median M 13 2 2 + + = = = Now, absolute values of the deviations from median, i.e., M ix − are shown in Table 13.3. Table 13.3 M ix − 10 7 4 1 0 2 8 9 f i 3 4 5 2 4 5 4 3 fi M ix − 30 28 20 2 0 10 32 27 We have 8 8 1 1 30 and M 149 i i i i i f f x = = = − = ∑ ∑ Therefore 8 1 1 M. D. (M) M N i i i f x = = − ∑ = 1 149 30 × = 4.97. (b) Continuous frequency distribution A continuous frequency distribution is a series in which the data are classified into different class-intervals without gaps alongwith their respective frequencies. For example, marks obtained by
+--------------------------------------------------------------------------------
+
+Chapter 13 - Example 6
+Question: Find the mean deviation about the mean for the following data. Marks obtained 10-20 20-30 30-40 40-50 50-60 60-70 70-80 Number of students 2 3 8 14 8 3 2
+First 1000 chars of Solution:
+ Table 13.4 Marks Number of Mid-points fixi x xi − fi x xi − obtained students f i xi 10-20 2 15 30 30 60 20-30 3 25 75 20 60 30-40 8 35 280 10 80 40-50 14 45 630 0 0 50-60 8 55 440 10 80 60-70 3 65 195 20 60 70-80 2 75 150 30 60 40 1800 400 Here 7 7 7 1 1 1 N 40, 1800, 400 i i i i i i i i f f x f x x = = = = = = − = ∑ ∑ ∑ Therefore 7 1 1 1800 45 N 40 i i i x f x = = = = ∑ and ( ) 7 1 1 1 M.D. 400 10 N 40 i i i x f x x = = − = × = ∑ Shortcut method for calculating mean deviation about mean We can avoid the tedious calculations of computing x by following step-deviation method. Recall that in this method, we take an assumed mean which is in the middle or just close to it in the data. Then deviations of the observations (or mid-points of classes) are taken from the Reprint 2025-26 STATISTICS 267 assumed mean. This is nothing but the shifting of origin from zero to the assumed mean on the number line, as shown in Fig 13.3 If there is a common factor of all the deviations, we divide them b
+--------------------------------------------------------------------------------
+
+Chapter 13 - Example 7
+Question: Calculate the mean deviation about median for the following data : Class 0-10 10-20 20-30 30-40 40-50 50-60 Frequency 6 7 15 16 4 2
+First 1000 chars of Solution:
+ Table 13.6 Class Frequency Cumulative Mid-points Med. xi − fi Med. xi − f i (c.f.) xi 0-10 6 6 5 23 138 10-20 7 13 15 13 91 20-30 15 28 25 3 45 30-40 16 44 35 7 112 40-50 4 48 45 17 68 50-60 2 50 55 27 54 50 508 Reprint 2025-26 270 MATHEMATICS The class interval containing th N 2 or 25th item is 20-30. Therefore, 20–30 is the median class. We know that Median = N C 2 l h f − + × Here l = 20, C = 13, f = 15, h = 10 and N = 50 Therefore, Median 25 13 20 10 15 − = + × = 20 + 8 = 28 Thus, Mean deviation about median is given by M.D. (M) = 6 1 1 M N i i i f x = − ∑ = 1 508 50 × = 10.16 EXERCISE 13.1 Find the mean deviation about the mean for the data in Exercises 1 and 2. 1. 4, 7, 8, 9, 10, 12, 13, 17 2. 38, 70, 48, 40, 42, 55, 63, 46, 54, 44 Find the mean deviation about the median for the data in Exercises 3 and 4. 3. 13, 17, 16, 14, 11, 13, 10, 16, 11, 18, 12, 17 4. 36, 72, 46, 42, 60, 45, 53, 46, 51, 49 Find the mean deviation about the mean for the data in Exercises 5 and 6. 5. xi 5 1
+--------------------------------------------------------------------------------
+
+Chapter 13 - Example 8
+Question: Find the variance of the following data: 6, 8, 10, 12, 14, 16, 18, 20, 22, 24
+First 1000 chars of Solution:
+ calculated by step-deviation method taking 14 as assumed mean. The number of observations is n = 10 Table 13.7 xi 14 2 i i x d − = (xi– x ) 6 –4 –9 81 8 –3 –7 49 10 –2 –5 25 12 –1 –3 9 14 0 –1 1 16 1 1 1 18 2 3 9 20 3 5 25 22 4 7 49 24 5 9 81 5 330 Reprint 2025-26 STATISTICS 275 Therefore Mean x = assumed mean + h n d n i i × ∑ =1 = 5 14 2 15 10 + × = and Variance ( 2 σ ) = 10 2 1 1 ) i i ( x x n = − ∑ = 1 330 10 × = 33 Thus Standard deviation (σ ) = 33 5 74 . = 13.5.2 Standard deviation of a discrete frequency distribution Let the given discrete frequency distribution be x : x1, x2, x3 ,. . . , xn f : f1, f2, f3 ,. . . , fn In this case standard deviation ( ) 2 1 1 ( ) N n i i i f x x σ = = − ∑ ... (2) where 1 N n i i f = =∑ . Let us take up following example.
+--------------------------------------------------------------------------------
+
+Chapter 13 - Example 9
+Question: Find the variance and standard deviation for the following data: xi 4 8 11 17 20 24 32 f i 3 5 9 5 4 3 1
+First 1000 chars of Solution:
+ Table 13.8 xi f i fi xi xi – x 2) ( x xi − fi 2) ( x xi − 4 3 12 –10 100 300 8 5 40 –6 36 180 11 9 99 –3 9 81 17 5 85 3 9 45 20 4 80 6 36 144 24 3 72 10 100 300 32 1 32 18 324 324 30 420 1374 Reprint 2025-26 276 MATHEMATICS N = 30, ( ) 7 7 2 1 1 420, 1374 i i i i i i f x f x x = = = − = ∑ ∑ Therefore 7 1 1 420 14 N 30 i i i f x x = = = × = ∑ Hence variance 2 ( ) σ = 7 2 1 1 ( ) N i i i f x x = − ∑ = 1 30 × 1374 = 45.8 and Standard deviation 8. 45 ) ( = σ = 6.77 13.5.3 Standard deviation of a continuous frequency distribution The given continuous frequency distribution can be represented as a discrete frequency distribution by replacing each class by its mid-point. Then, the standard deviation is calculated by the technique adopted in the case of a discrete frequency distribution. If there is a frequency distribution of n classes each class defined by its mid-point xi with frequency fi, the standard deviation will be obtained by the formula 2 1 1 ( ) N n i i i f x x σ = = − ∑ , where x
+--------------------------------------------------------------------------------
+
+Chapter 13 - Example 10
+Question: Calculate the mean, variance and standard deviation for the following distribution : Class 30-40 40-50 50-60 60-70 70-80 80-90 90-100 Frequency 3 7 12 15 8 3 2
+First 1000 chars of Solution:
+ Table 13.9 Class Frequency Mid-point fixi (xi– x )2 fi(xi– x )2 (fi) (xi) 30-40 3 35 105 729 2187 40-50 7 45 315 289 2023 50-60 12 55 660 49 588 60-70 15 65 975 9 135 70-80 8 75 600 169 1352 80-90 3 85 255 529 1587 90-100 2 95 190 1089 2178 50 3100 10050 Reprint 2025-26 278 MATHEMATICS Thus 7 1 1 3100 Mean 62 N 50 i i i x f x = = = = ∑ Variance ( ) 2 σ = 7 2 1 1 ( ) N i i i f x x = − ∑ = 1 10050 50 × = 201 and Standard deviation ( ) 201 14 18 . σ = =
+--------------------------------------------------------------------------------
+
+Chapter 13 - Example 11
+Question: Find the standard deviation for the following data : xi 3 8 13 18 23 f i 7 10 15 10 6
+First 1000 chars of Solution:
+ Table 13.10 xi f i fixi xi 2 fixi 2 3 7 21 9 63 8 10 80 64 640 13 15 195 169 2535 18 10 180 324 3240 23 6 138 529 3174 48 614 9652 Now, by formula (3), we have σ = ( ) 2 2 1 N N i i i i f x f x − ∑ ∑ = 2 1 48 9652 (614) 48 × − = 1 463296 376996 48 − Reprint 2025-26 STATISTICS 279 = 1 293 77 48 . × = 6.12 Therefore, Standard deviation (σ ) = 6.12 13.5.4. Shortcut method to find variance and standard deviation Sometimes the values of xi in a discrete distribution or the mid points xi of different classes in a continuous distribution are large and so the calculation of mean and variance becomes tedious and time consuming. By using step-deviation method, it is possible to simplify the procedure. Let the assumed mean be ‘A’ and the scale be reduced to h 1 times (h being the width of class-intervals). Let the step-deviations or the new values be yi. i.e. A i i x y h − = or xi = A + hyi ... (1) We know that 1 N n i i i f x x = = ∑ ... (2) Replacing xi from (1) in (2), we get x = 1 A ) N n i 
+--------------------------------------------------------------------------------
+
+Chapter 13 - Example 13
+Question: The variance of 20 observations is 5. If each observation is multiplied by 2, find the new variance of the resulting observations.
+First 1000 chars of Solution:
+ variance = 5 and n = 20. We know that Variance ( ) 2 20 2 1 1 ( ) i i x x n σ = = − ∑ , i.e., 20 2 1 1 5 ( ) 20 i i x x = = − ∑ or 20 2 1 ( ) i i x x = − ∑ = 100 ... (1) If each observation is multiplied by 2, and the new resulting observations are yi , then yi = 2xi i.e., xi = iy 2 1 Reprint 2025-26 STATISTICS 283 Therefore 20 20 1 1 1 1 2 20 i i i i y y x n = = = = ∑ ∑ = 20 1 1 2 20 i i . x =∑ i.e. y = 2 x or x = y 2 1 Substituting the values of xi and x in (1), we get 2 20 1 1 1 100 2 2 i i y y =   − =     ∑ , i.e., ∑ = = − 20 1 2 400 ) ( i i y y Thus the variance of new observations = 2 1 400 20 2 5 20 × = = × ANote The reader may note that if each observation is multiplied by a constant k, the variance of the resulting observations becomes k2 times the original variance. Example14 The mean of 5 observations is 4.4 and their variance is 8.24. If three of the observations are 1, 2 and 6, find the other two observations. Therefore, the series is 1, 2, 6, x, y. Now Mean x = 4.4
+--------------------------------------------------------------------------------
+
+Chapter 13 - Example 15
+Question: If each of the observation x1, x2, ...,xn is increased by ‘a’, where a is a negative or positive number, show that the variance remains unchanged.
+First 1000 chars of Solution:
+ 2 1 σ = 2 1 1 ( ) n i i x x n = − ∑ If ‘a is added to each observation, the new observations will be yi = xi + a ... (1) Let the mean of the new observations be y . Then y = 1 1 1 1 ( ) n n i i i i y x a n n = = = + ∑ ∑ = 1 1 1 n n i i i x a n = =   +     ∑ ∑ = a x n na x n n i i + = + ∑ =1 1 i.e. y = x + a ... (2) Thus, the variance of the new observations 2 2 σ = 2 1 1 ( ) n i i y y n = − ∑ = 2) ( 1 1 a x a x n n i i − − + ∑ = [Using (1) and (2)] = 2 1 1 ( ) n i i x x n = − ∑ = 2 1 σ Thus, the variance of the new observations is same as that of the original observations. ANote We may note that adding (or subtracting) a positive number to (or from) each observation of a group does not affect the variance.
+--------------------------------------------------------------------------------
+
+Chapter 13 - Example 16
+Question: The mean and standard deviation of 100 observations were calculated as 40 and 5.1, respectively by a student who took by mistake 50 instead of 40 for one observation. What are the correct mean and standard deviation? Reprint 2025-26 STATISTICS 285
+First 1000 chars of Solution:
+ Incorrect mean ( x ) = 40, Incorrect standard deviation (σ) = 5.1 We know that ∑ = = n i ix n x 1 1 i.e. 100 1 1 40 100 i i x = = ∑ or 100 1 i i x =∑ = 4000 i.e. Incorrect sum of observations = 4000 Thus the correct sum of observations = Incorrect sum – 50 + 40 = 4000 – 50 + 40 = 3990 Hence Correct mean = correct sum 3990 100 100 = = 39.9 Also Standard deviation σ = 2 2 2 1 1 1 1 n n i i i i x x n n = =   −     ∑ ∑ = ( ) 2 1 2 1 x x n n i i − ∑ = i.e. 5.1 = 2 2 1 1 Incorrect (40) 100 n i i x = × − ∑ or 26.01 = 2 1 1 Incorrect 100 n i i x = × ∑ – 1600 Therefore Incorrect 2 1 n i i x =∑ = 100 (26.01 + 1600) = 162601 Now Correct 2 1 n i i x =∑ = Incorrect ∑ = n i ix 1 2 – (50)2 + (40)2 = 162601 – 2500 + 1600 = 161701 Therefore Correct standard deviation Reprint 2025-26 286 MATHEMATICS = 2 2 Correct (Correct mean) ix n − ∑ = 2 161701 (39 9) 100 . − = 1617 01 1592 01 . . − = 25 = 5 Miscellaneous Exercise On Chapter 13 1. The mean and variance of eight observations are 9 and 9.25, res
+--------------------------------------------------------------------------------
+
+Chapter 14 - Example 1
+Question: Consider the experiment of rolling a die. Let A be the event ‘getting a prime number’, B be the event ‘getting an odd number’. Write the sets representing the events (i) Aor B (ii) A and B (iii) A but not B (iv) ‘not A’.
+First 1000 chars of Solution:
+ S = {1, 2, 3, 4, 5, 6}, A = {2, 3, 5} and B = {1, 3, 5} Obviously (i) ‘A or B’ = A ∪ B = {1, 2, 3, 5} (ii) ‘A and B’ = A ∩ B = {3,5} (iii) ‘A but not B’ = A – B = {2} (iv) ‘not A’ = A′ = {1,4,6} 14.1.4 Mutually exclusive events In the experiment of rolling a die, a sample space is S = {1, 2, 3, 4, 5, 6}. Consider events, A ‘an odd number appears’ and B ‘an even number appears’ Clearly the event A excludes the event B and vice versa. In other words, there is no outcome which ensures the occurrence of events A and B simultaneously. Here A = {1, 3, 5} and B = {2, 4, 6} Clearly A ∩ B = φ, i.e., A and B are disjoint sets. In general, two events A and B are called mutually exclusive events if the occurrence of any one of them excludes the occurrence of the other event, i.e., if they can not occur simultaneously. In this case the sets A and B are disjoint. Reprint 2025-26 PROBABILITY 293 Again in the experiment of rolling a die, consider the events A ‘an odd number appears’ and event B ‘a nu
+--------------------------------------------------------------------------------
+
+Chapter 14 - Example 2
+Question: Two dice are thrown and the sum of the numbers which come up on the dice is noted. Let us consider the following events associated with this experiment A: ‘the sum is even’. B: ‘the sum is a multiple of 3’. C: ‘the sum is less than 4’. D: ‘the sum is greater than 11’. Which pairs of these events are mutually exclusive? Reprint 2025-26 294 MATHEMATICS
+First 1000 chars of Solution:
+ Then A = {(1, 1), (1, 3), (1, 5), (2, 2), (2, 4), (2, 6), (3, 1), (3, 3), (3, 5), (4, 2), (4, 4), (4, 6), (5, 1), (5, 3), (5, 5), (6, 2), (6, 4), (6, 6)} B = {(1, 2), (2, 1), (1, 5), (5, 1), (3, 3), (2, 4), (4, 2), (3, 6), (6, 3), (4, 5), (5, 4), (6, 6)} C = {(1, 1), (2, 1), (1, 2)} and D = {(6, 6)} We find that A ∩ B = {(1, 5), (2, 4), (3, 3), (4, 2), (5, 1), (6, 6)} ≠ φ Therefore, A and B are not mutually exclusive events. Similarly A ∩ C ≠ φ, A ∩ D ≠ φ, B ∩ C ≠ φ and B ∩ D ≠ φ. Thus, the pairs of events, (A, C), (A, D), (B, C), (B, D) are not mutually exclusive events. Also C ∩ D = φ and so C and D are mutually exclusive events.
+--------------------------------------------------------------------------------
+
+Chapter 14 - Example 3
+Question: A coin is tossed three times, consider the following events. A: ‘No head appears’, B: ‘Exactly one head appears’ and C: ‘Atleast two heads appear’. Do they form a set of mutually exclusive and exhaustive events?
+First 1000 chars of Solution:
+ S = {HHH, HHT, HTH, THH, HTT, THT, TTH, TTT} and A = {TTT}, B = {HTT, THT, TTH}, C = {HHT, HTH, THH, HHH} Now A ∪ B ∪ C = {TTT, HTT, THT, TTH, HHT, HTH, THH, HHH} = S Therefore, A, B and C are exhaustive events. Also, A ∩ B = φ, A ∩ C = φ and B ∩ C = φ Therefore, the events are pair-wise disjoint, i.e., they are mutually exclusive. Hence, A, B and C form a set of mutually exclusive and exhaustive events. EXERCISE 14.1 1. A die is rolled. Let E be the event “die shows 4” and F be the event “die shows even number”. Are E and F mutually exclusive? 2. A die is thrown. Describe the following events: (i) A: a number less than 7 (ii) B: a number greater than 7 (iii) C: a multiple of 3 (iv) D: a number less than 4 (v) E: an even number greater than 4 (vi) F: a number not less than 3 Also find A ∪ B, A ∩ B, B ∪ C, E ∩ F, D ∩ E, A – C, D – E, E ∩ F′, F′ Reprint 2025-26 PROBABILITY 295 3. An experiment involves rolling a pair of dice and recording the numbers that come up. Describe the following
+--------------------------------------------------------------------------------
+
+Chapter 14 - Example 4
+Question: Let a sample space be S = {ω1, ω2,..., ω6}.Which of the following assignments of probabilities to each outcome are valid? Outcomes ω 1 ω 2 ω 3 ω 4 ω 5 ω 6 (a) 6 1 6 1 6 1 6 1 6 1 6 1 (b) 1 0 0 0 0 0 (c) 8 1 3 2 3 1 3 1 4 1 − 3 1 − (d) 12 1 12 1 6 1 6 1 6 1 2 3 (e) 0.1 0.2 0.3 0.4 0.5 0.6
+First 1000 chars of Solution:
+ Condition (ii): Sum of probabilities = 1 6 1 6 1 6 1 6 1 6 1 6 1 = + + + + + Therefore, the assignment is valid (b) Condition (i): Each of the number p(ωi) is either 0 or 1. Condition (ii) Sum of the probabilities = 1 + 0 + 0 + 0 + 0 + 0 = 1 Therefore, the assignment is valid (c) Condition (i) Two of the probabilities p(ω5) and p(ω6) are negative, the assignment is not valid (d) Since p(ω6) = 3 2 > 1, the assignment is not valid Reprint 2025-26 298 MATHEMATICS (e) Since, sum of probabilities = 0.1 + 0.2 + 0.3 + 0.4 + 0.5 + 0.6 = 2.1, the assignment is not valid. 14.2.1 Probability of an event Let S be a sample space associated with the experiment ‘examining three consecutive pens produced by a machine and classified as Good (non-defective) and bad (defective)’. We may get 0, 1, 2 or 3 defective pens as result of this examination. A sample space associated with this experiment is S = {BBB, BBG, BGB, GBB, BGG, GBG, GGB, GGG}, where B stands for a defective or bad pen and G for a non – d
+--------------------------------------------------------------------------------
+
+Chapter 14 - Example 5
+Question: One card is drawn from a well shuffled deck of 52 cards. If each outcome is equally likely, calculate the probability that the card will be (i) a diamond (ii) not an ace (iii) a black card (i.e., a club or, a spade) (iv) not a diamond (v) not a black card.
+First 1000 chars of Solution:
+ possible outcomes is 52. (i) Let A be the event 'the card drawn is a diamond' Clearly the number of elements in set A is 13. Therefore, P(A) = 13 1 52 4 = i.e. probability of a diamond card = 1 4 (ii) We assume that the event ‘Card drawn is an ace’ is B Therefore ‘Card drawn is not an ace’ should be B′. We know that P(B′) = 1 – P(B) = 13 12 13 1 1 52 4 1 = − = − (iii) Let C denote the event ‘card drawn is black card’ Therefore, number of elements in the set C = 26 i.e. P(C) = 2 1 52 26 = Reprint 2025-26 PROBABILITY 303 Thus, probability of a black card = 2 1 . (iv) We assumed in (i) above that A is the event ‘card drawn is a diamond’, so the event ‘card drawn is not a diamond’ may be denoted as A' or ‘not A’ Now P(not A) = 1 – P(A) = 4 3 4 1 1 = − (v) The event ‘card drawn is not a black card’ may be denoted as C′ or ‘not C’. We know that P(not C) = 1 – P(C) = 2 1 2 1 1 = − Therefore, probability of not a black card = 2 1
+--------------------------------------------------------------------------------
+
+Chapter 14 - Example 6
+Question: A bag contains 9 discs of which 4 are red, 3 are blue and 2 are yellow. The discs are similar in shape and size. A disc is drawn at random from the bag. Calculate the probability that it will be (i) red, (ii) yellow, (iii) blue, (iv) not blue, (v) either red or blue.
+First 1000 chars of Solution:
+ Let the events A, B, C be defined as A: ‘the disc drawn is red’ B: ‘the disc drawn is yellow’ C: ‘the disc drawn is blue’. (i) The number of red discs = 4, i.e., n (A) = 4 Hence P(A) = 9 4 (ii) The number of yellow discs = 2, i.e., n (B) = 2 Therefore, P(B) = 9 2 (iii) The number of blue discs = 3, i.e., n(C) = 3 Therefore, P(C) = 3 1 9 3 = (iv) Clearly the event ‘not blue’ is ‘not C’. We know that P(not C) = 1 – P(C) Reprint 2025-26 304 MATHEMATICS Therefore P(not C) = 3 2 3 1 1 = − (v) The event ‘either red or blue’ may be described by the set ‘A or C’ Since, A and C are mutually exclusive events, we have P(A or C) = P (A ∪ C) = P(A) + P(C) = 9 7 3 1 9 4 = +
+--------------------------------------------------------------------------------
+
+Chapter 14 - Example 7
+Question: Two students Anil and Ashima appeared in an examination. The probability that Anil will qualify the examination is 0.05 and that Ashima will qualify the examination is 0.10. The probability that both will qualify the examination is 0.02. Find the probability that (a) Both Anil and Ashima will not qualify the examination. (b) Atleast one of them will not qualify the examination and (c) Only one of them will qualify the examination.
+First 1000 chars of Solution:
+ respectively. Given that P(E) = 0.05, P(F) = 0.10 and P(E ∩ F) = 0.02. Then (a) The event ‘both Anil and Ashima will not qualify the examination’ may be expressed as E´ ∩ F´. Since, E´ is ‘not E’, i.e., Anil will not qualify the examination and F´ is ‘not F’, i.e., Ashima will not qualify the examination. Also E´ ∩ F´ = (E ∪ F)´ (by Demorgan's Law) Now P(E ∪ F) = P(E) + P(F) – P(E ∩ F) or P(E ∪ F) = 0.05 + 0.10 – 0.02 = 0.13 Therefore P(E´ ∩ F´) = P(E ∪ F)´ = 1 – P(E ∪ F) = 1 – 0.13 = 0.87 (b) P (atleast one of them will not qualify) = 1 – P(both of them will qualify) = 1 – 0.02 = 0.98 (c) The event only one of them will qualify the examination is same as the event either (Anil will qualify, and Ashima will not qualify) or (Anil will not qualify and Ashima Reprint 2025-26 PROBABILITY 305 will qualify) i.e., E ∩ F´ or E´ ∩ F, where E ∩ F´ and E´ ∩ F are mutually exclusive. Therefore, P(only one of them will qualify) = P(E ∩ F´ or E´ ∩ F) = P(E ∩ F´) + P(E´ ∩ F) = P (E) – P(E ∩ F) + P(F
+--------------------------------------------------------------------------------
+
+Chapter 14 - Example 8
+Question: A committee of two persons is selected from two men and two women. What is the probability that the committee will have (a) no man? (b) one man? (c) two men?
+First 1000 chars of Solution:
+ be selected in 4 2 C ways. (a) No men in the committee of two means there will be two women in the committee. Out of two women, two can be selected in 2 2 C 1 = way. Therefore ( ) 2 2 4 2 C 1 2 1 1 P no man 4 3 6 C × × = = = × (b) One man in the committee means that there is one woman. One man out of 2 can be selected in 2 1 C ways and one woman out of 2 can be selected in 2 1 C ways. Together they can be selected in 2 2 1 1 C C × ways. Therefore ( ) 2 2 1 1 4 2 C C 2 2 2 P One man 2 3 3 C × × = = = × (c) Two men can be selected in 2 2 C way. Hence ( ) 2 2 4 4 2 2 C 1 1 P Two men 6 C C = = = EXERCISE 14.2 1. Which of the following can not be valid assignment of probabilities for outcomes of sample Space S = { } 1 2 3 4 5 6 7 , , , , , , ω ω ω ω ω ω ω Reprint 2025-26 306 MATHEMATICS Assignment ω 1 ω 2 ω 3 ω 4 ω 5 ω 6 ω 7 (a) 0.1 0.01 0.05 0.03 0.01 0.2 0.6 (b) 7 1 7 1 7 1 7 1 7 1 7 1 7 1 (c) 0.1 0.2 0.3 0.4 0.5 0.6 0.7 (d) – 0.1 0.2 0.3 0.4 – 0.2 0.1 0.3 (e) 14 1 14 2 14 3 14 4 14 5 14
+--------------------------------------------------------------------------------
+
+Chapter 14 - Example 9
+Question: On her vacations Veena visits four cities (A, B, C and D) in a random order. What is the probability that she visits (i) A before B? (ii) A before B and B before C? (iii) A first and B last? (iv) A either first or second? (v) A just before B?
+First 1000 chars of Solution:
+ B, C, or D is 4! i.e., 24.Therefore, n (S) = 24. Since the number of elements in the sample space of the experiment is 24 all of these outcomes are considered to be equally likely. A sample space for the experiment is S = {ABCD, ABDC, ACBD, ACDB, ADBC, ADCB BACD, BADC, BDAC, BDCA, BCAD, BCDA CABD, CADB, CBDA, CBAD, CDAB, CDBA DABC, DACB, DBCA, DBAC, DCAB, DCBA} (i) Let the event ‘she visits A before B’ be denoted by E Therefore,E = {ABCD, CABD, DABC, ABDC, CADB, DACB ACBD, ACDB, ADBC, CDAB, DCAB, ADCB} Thus ( ) ( ) ( ) E 12 1 P E S 24 2 n n = = = (ii) Let the event ‘Veena visits A before B and B before C’ be denoted by F. Here F = {ABCD, DABC, ABDC, ADBC} Therefore, ( ) ( ) ( ) F 4 1 P F S 24 6 n n = = = Students are advised to find the probability in case of (iii), (iv) and (v). Reprint 2025-26 PROBABILITY 309
+--------------------------------------------------------------------------------
+
+Chapter 14 - Example 10
+Question: Find the probability that when a hand of 7 cards is drawn from a well shuffled deck of 52 cards, it contains (i) all Kings (ii) 3 Kings (iii) atleast 3 Kings.
+First 1000 chars of Solution:
+ 7 C (i) Number of hands with 4 Kings = 4 48 4 3 C C × (other 3 cards must be chosen from the rest 48 cards) Hence P (a hand will have 4 Kings) = 4 48 4 3 52 7 C C 1 7735 C × = (ii) Number of hands with 3 Kings and 4 non-King cards = 4 48 3 4 C C × Therefore P (3 Kings) = 4 48 3 4 52 7 C C 9 1547 C × = (iii) P(atleast 3 King) = P(3 Kings or 4 Kings) = P(3 Kings) + P(4 Kings) = 9 1 46 1547 7735 7735 + =
+--------------------------------------------------------------------------------
+
+Chapter 14 - Example 11
+Question: If A, B, C are three events associated with a random experiment, prove that ( ) P A B C ∪ ∪ = ( ) ( ) ( ) ( ) ( ) P A P B +P C P A B P A C + − ∩ − ∩ – P ( B ∩ C) + P ( A ∩ B ∩ C)
+First 1000 chars of Solution:
+ P (A ∪ B ∪ C ) = P (A ∪ E ) = ( ) ( ) ( ) P A P E P A E + − ∩ ... (1) Now ( ) ( ) P E P B C = ∪ ( ) ( ) ( ) P B P C P B C = + − ∩ ... (2) Also ( ) A E A B C ∩ = ∩ ∪ = ( ) ( ) A B A C ∩ ∪ ∩ [using distribution property of intersection of sets over the union]. Thus ( ) ( ) ( ) P A E P A B P A C ∩ = ∩ + ∩ – ( ) ( ) P A B A C   ∩ ∩ ∩   Reprint 2025-26 310 MATHEMATICS = ( ) ( ) P A B P A C ∩ + ∩ – [ ] P A B C ∩ ∩ ... (3) Using (2) and (3) in (1), we get [ ] ( ) ( ) ( ) ( ) P A B C P A P B P C P B C ∪ ∪ = + + − ∩ – ( ) ( ) ( ) P A B P A C P A B C ∩ − ∩ + ∩ ∩
+--------------------------------------------------------------------------------
+
+Chapter 14 - Example 12
+Question: In a relay race there are five teams A, B, C, D and E. (a) What is the probability that A, B and C finish first, second and third, respectively. (b) What is the probability that A, B and C are first three to finish (in any order) (Assume that all finishing orders are equally likely)
+First 1000 chars of Solution:
+ three places, we will have 5 3P , i.e., ( ) 5! 5 3 ! − = 5 × 4 × 3 = 60 sample points, each with a probability of 1 60 . (a) A, B and C finish first, second and third, respectively. There is only one finishing order for this, i.e., ABC. Thus P(A, B and C finish first, second and third respectively) = 1 60 . (b) A, B and C are the first three finishers. There will be 3! arrangements for A, B and C. Therefore, the sample points corresponding to this event will be 3! in number. So P (A, B and C are first three to finish) 3! 6 1 60 60 10 = = = Miscellaneous Exercise on Chapter 14 1. A box contains 10 red marbles, 20 blue marbles and 30 green marbles. 5 marbles are drawn from the box, what is the probability that (i) all will be blue? (ii) atleast one will be green? 2. 4 cards are drawn from a well – shuffled deck of 52 cards. What is the probability of obtaining 3 diamonds and one spade? Reprint 2025-26 PROBABILITY 311 3. A die has two faces each with number ‘1’, three faces each with num
+--------------------------------------------------------------------------------

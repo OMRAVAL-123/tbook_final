@@ -1,0 +1,1109 @@
+Some Basic Concepts of Chemistry
+================================
+
+Exercise 1.1
+Calculate the molar mass of the following: (i) H O (ii) CO (iii) CH
+
+Exercise 1.2
+Calculate the mass per cent of different elements present in sodium sulphate (Na SO ).
+
+Exercise 1.3
+Determine the empirical formula of an oxide of iron, which has 69.9% iron and 30.1% dioxygen by mass.
+
+Exercise 1.4
+Calculate the amount of carbon dioxide that could be produced when (i) 1 mole of carbon is burnt in air. (ii) 1 mole of carbon is burnt in 16 g of dioxygen. (iii) 2 moles of carbon are burnt in 16 g of dioxygen.
+
+Exercise 1.5
+Calculate the mass of sodium acetate (CH COONa) required to make 500 mL of 0.375 molar aqueous solution. Molar mass of sodium acetate is 82.0245 g mol –1 .
+
+Exercise 1.6
+Calculate the concentration of nitric acid in moles per litre in a sample which has a density, 1.41 g mL –1 and the mass per cent of nitric acid in it being 69%.
+
+Exercise 1.7
+How much copper can be obtained from 100 g of copper sulphate (CuSO )?
+
+Exercise 1.8
+Determine the molecular formula of an oxide of iron, in which the mass per cent of iron and oxygen are 69.9 and 30.1, respectively.
+
+Exercise 1.9
+Calculate the atomic mass (average) of chlorine using the following data: % Natural Abundance Molar Mass Cl 75.77 34.9689 Cl 24.23 36.9659
+
+Exercise 1.10
+In three moles of ethane (C H ), calculate the following: (i) Number of moles of carbon atoms. (ii) Number of moles of hydrogen atoms. (iii) Number of molecules of ethane.
+
+Exercise 1.11
+What is the concentration of sugar (C H O ) in mol L –1 if its 20 g are dissolved in enough water to make a final volume up to 2L?
+
+Exercise 1.12
+If the density of methanol is 0.793 kg L –1 , what is its volume needed for making 2.5 L of its 0.25 M solution?
+
+Exercise 1.13
+Pressure is determined as force per unit area of the surface. The SI unit of pressure, pascal is as shown below: 1Pa = 1N m –2 If mass of air at sea level is 1034 g cm –2 , calculate the pressure in pascal.
+
+Exercise 1.14
+What is the SI unit of mass? How is it defined?
+
+Exercise 1.15
+Match the following prefixes with their multiples: Prefixes Multiples (i) micro (ii) deca (iii) mega –6 (iv) giga –15 (v) femto
+
+Exercise 1.16
+What do you mean by significant figures?
+
+Exercise 1.17
+A sample of drinking water was found to be severely contaminated with chloroform, CHCl , supposed to be carcinogenic in nature. The level of contamination was 15 ppm (by mass). (i) Express this in per cent by mass. (ii) Determine the molality of chloroform in the water sample.
+
+Exercise 1.18
+Express the following in the scientific notation: (i) 0.0048 (ii) 234,000 (iii) (iv) 500.0 (v) 6.0012
+
+Exercise 1.19
+How many significant figures are present in the following? (i) 0.0025 (ii) (iii) (iv) 126,000 (v) 500.0 (vi) 2.0034
+
+Exercise 1.20
+Round up the following upto three significant figures: (i) 34.216 (ii) 10.4107 (iii) 0.04597 (iv)
+
+Exercise 1.21
+The following data are obtained when dinitrogen and dioxygen react together to form different compounds: Mass of dinitrogen Mass of dioxygen (i) 14 g 16 g (ii) 14 g 32 g (iii) 28 g 32 g (iv) 28 g 80 g (a) Which law of chemical combination is obeyed by the above experimental data? Give its statement. (b) Fill in the blanks in the following conversions: (i) 1 km = ...................... mm = ...................... pm (ii) 1 mg = ...................... kg = ...................... ng (iii) 1 mL = ...................... L = ...................... dm
+
+Exercise 1.22
+If the speed of light is 3.0 × 10 m s –1 , calculate the distance covered by light in 2.00 ns.
+
+Exercise 1.23
+In a reaction A + B  AB Identify the limiting reagent, if any, in the following reaction mixtures. (i) 300 atoms of A + 200 molecules of B (ii) 2 mol A + 3 mol B (iii) 100 atoms of A + 100 molecules of B (iv) 5 mol A + 2.5 mol B (v) 2.5 mol A + 5 mol B
+
+Exercise 1.24
+Dinitrogen and dihydrogen react with each other to produce ammonia according to the following chemical equation: N (g) + H (g)  2NH (g) (i) Calculate the mass of ammonia produced if 2.00 × 10 g dinitrogen reacts with 1.00 × 10 g of dihydrogen. (ii) Will any of the two reactants remain unreacted? (iii) If yes, which one and what would be its mass?
+
+Exercise 1.25
+How are 0.50 mol Na CO and 0.50 M Na CO different?
+
+Exercise 1.26
+If 10 volumes of dihydrogen gas reacts with five volumes of dioxygen gas, how many volumes of water vapour would be produced?
+
+Exercise 1.27
+Convert the following into basic units: (i) 28.7 pm (ii) 15.15 pm (iii) 25365 mg
+
+Exercise 1.28
+Which one of the following will have the largest number of atoms? (i) 1 g Au (s) (ii) 1 g Na (s) (iii) 1 g Li (s) (iv) 1 g of Cl (g)
+
+Exercise 1.29
+Calculate the molarity of a solution of ethanol in water, in which the mole fraction of ethanol is 0.040 (assume the density of water to be one).
+
+Exercise 1.30
+What will be the mass of one C atom in g?
+
+Exercise 1.31
+How many significant figures should be present in the answer of the following calculations? (i) 0.02856 298.15 0.112 × × 0 5785 . (ii) 5 × 5.364 (iii) 0.0125 + 0.7864 + 0.0215
+
+Exercise 1.32
+Use the data given in the following table to calculate the molar mass of naturally occuring argon isotopes: Isotope Isotopic molar mass Abundance Ar 35.96755 g mol –1 0.337% Ar 37.96272 g mol –1 0.063% Ar 39.9624 g mol –1 99.600%
+
+Exercise 1.33
+Calculate the number of atoms in each of the following (i) 52 moles of Ar (ii) 52 u of He (iii) 52 g of He.
+
+Exercise 1.34
+A welding fuel gas contains carbon and hydrogen only. Burning a small sample of it in oxygen gives 3.38 g carbon dioxide, 0.690 g of water and no other products. A volume of 10.0 L (measured at STP) of this welding gas is found to weigh 11.6 g. Calculate (i) empirical formula, (ii) molar mass of the gas, and (iii) molecular formula.
+
+Exercise 1.35
+Calcium carbonate reacts with aqueous HCl to give CaCl and CO according to the reaction, CaCO (s) + 2 HCl (aq) → CaCl (aq) + CO (g) + H O(l) What mass of CaCO is required to react completely with 25 mL of 0.75 M HCl?
+
+Exercise 1.36
+Chlorine is prepared in the laboratory by treating manganese dioxide (MnO ) with aqueous hydrochloric acid according to the reaction 4 HCl (aq) + MnO (s) → 2H O (l) + MnCl (aq) + Cl (g) How many grams of HCl react with 5.0 g of manganese dioxide? The rich diversity of chemical behaviour of different elements can be traced to the differences in the internal structure of atoms of these elements. Unit 2 structure of atom
+
+
+Structure of Atom
+=================
+
+Exercise 2.1
+(i) Calculate the number of electrons which will together weigh one gram. (ii) Calculate the mass and charge of one mole of electrons.
+
+Exercise 2.2
+(i) Calculate the total number of electrons present in one mole of methane. (ii) Find (a) the total number and (b) the total mass of neutrons in 7 mg of 14C. (Assume that mass of a neutron = 1.675 × 10–27 kg). (iii) Find (a) the total number and (b) the total mass of protons in 34 mg of NH at STP. Will the answer change if the temperature and pressure are changed ?
+
+Exercise 2.3
+How many neutrons and protons are there in the following nuclei ? C O Mg Fe Sr , , , ,
+
+Exercise 2.4
+Write the complete symbol for the atom with the given atomic number (Z) and atomic mass (A) (i) Z = 17, A = 35. (ii) Z = 92, A = 233. (iii) Z = 4, A = 9.
+
+Exercise 2.5
+Yellow light emitted from a sodium lamp has a wavelength ( λ ) of 580 nm. Calculate the frequency ( ν ) and wavenumber ( ) of the yellow light.
+
+Exercise 2.6
+Find energy of each of the photons which (i) correspond to light of frequency 3×1015 Hz. (ii) have wavelength of 0.50 Å.
+
+Exercise 2.7
+Calculate the wavelength, frequency and wavenumber of a light wave whose period is 2.0 × 10 –10 s.
+
+Exercise 2.8
+What is the number of photons of light with a wavelength of 4000 pm that provide 1J of energy?
+
+Exercise 2.9
+A photon of wavelength 4 × –7 m strikes on metal surface, the work function of the metal being 2.13 eV. Calculate (i) the energy of the photon (eV), (ii) the kinetic energy of the emission, and (iii) the velocity of the photoelectron (1 eV= 1.6020 × 10 –19 J).
+
+Exercise 2.10
+Electromagnetic radiation of wavelength 242 nm is just sufficient to ionise the sodium atom. Calculate the ionisation energy of sodium in kJ mol –1 .
+
+Exercise 2.11
+A 25 watt bulb emits monochromatic yellow light of wavelength of 0.57 µ m. Calculate the rate of emission of quanta per second.
+
+Exercise 2.12
+Electrons are emitted with zero velocity from a metal surface when it is exposed to radiation of wavelength 6800 Å. Calculate threshold frequency ( ν ) and work function (W ) of the metal.
+
+Exercise 2.13
+What is the wavelength of light emitted when the electron in a hydrogen atom undergoes transition from an energy level with n = 4 to an energy level with n = 2?
+
+Exercise 2.14
+How much energy is required to ionise a H atom if the electron occupies n = 5 orbit? Compare your answer with the ionization enthalpy of H atom (energy required to remove the electron from n =1 orbit).
+
+Exercise 2.15
+What is the maximum number of emission lines when the excited electron of a H atom in n = 6 drops to the ground state?
+
+Exercise 2.16
+(i) The energy associated with the first orbit in the hydrogen atom is –2.18 × 10 –18 J atom –1 . What is the energy associated with the fifth orbit? (ii) Calculate the radius of Bohr’s fifth orbit for hydrogen atom.
+
+Exercise 2.17
+Calculate the wavenumber for the longest wavelength transition in the Balmer series of atomic hydrogen.
+
+Exercise 2.18
+What is the energy in joules, required to shift the electron of the hydrogen atom from the first Bohr orbit to the fifth Bohr orbit and what is the wavelength of the light emitted when the electron returns to the ground state? The ground state electron energy is –2.18 × –11 ergs.
+
+Exercise 2.19
+The electron energy in hydrogen atom is given by E n = (–2.18 × –18 )/ n J. Calculate the energy required to remove an electron completely from the n = 2 orbit. What is the longest wavelength of light in cm that can be used to cause this transition?
+
+Exercise 2.20
+Calculate the wavelength of an electron moving with a velocity of 2.05 × m s –1 .
+
+Exercise 2.21
+The mass of an electron is 9.1 × –31 kg. If its K.E. is 3.0 × –25 J, calculate its wavelength.
+
+Exercise 2.22
+Which of the following are isoelectronic species i.e., those having the same number of electrons? Na + , K + , Mg 2+ , Ca 2+ , S 2– , Ar.
+
+Exercise 2.23
+(i) Write the electronic configurations of the following ions: (a) H– (b) Na+ (c) O2– (d) F– (ii) What are the atomic numbers of elements whose outermost electrons are represented by (a) 3s1 (b) 2p3 and (c) 3p5 ? (iii) Which atoms are indicated by the following configurations ? (a) [He] 2 s (b) [Ne] 3 s p (c) [Ar] 4 s d .
+
+Exercise 2.24
+What is the lowest value of n that allows g orbitals to exist?
+
+Exercise 2.25
+An electron is in one of the 3 d orbitals. Give the possible values of n , l and m l for this electron.
+
+Exercise 2.26
+An atom of an element contains 29 electrons and 35 neutrons. Deduce (i) the number of protons and (ii) the electronic configuration of the element.
+
+Exercise 2.27
+Give the number of electrons in the species
+
+Exercise 2.28
+(i) An atomic orbital has n = 3. What are the possible values of l and ml ? (ii) List the quantum numbers ( ml and l ) of electrons for 3d orbital. (iii) Which of the following orbitals are possible? p , 2 s , 2 p and 3 f
+
+Exercise 2.29
+Using s , p , d notations, describe the orbital with the following quantum numbers. (a) n =1, l =0; (b) n = 3; l =1 (c) n = 4; l =2; (d) n =4; l =3.
+
+Exercise 2.30
+Explain, giving reasons, which of the following sets of quantum numbers are not possible. (a) n = 0, l = 0, m l = 0, m s = + ½ (b) n = 1, l = 0, ml = 0, ms = – ½ (c) n = 1, l = 1, m l = 0, m s = + ½ (d) n = 2, l = 1, m l = 0, m s = – ½ (e) n = 3, l = 3, ml = –3, ms = + ½ (f) n = 3, l = 1, m l = 0, m s = + ½
+
+Exercise 2.31
+How many electrons in an atom may have the following quantum numbers? (a) n = 4, m s = – ½ (b) n = 3, l = 0
+
+Exercise 2.32
+Show that the circumference of the Bohr orbit for the hydrogen atom is an integral multiple of the de Broglie wavelength associated with the electron revolving around the orbit.
+
+Exercise 2.33
+What transition in the hydrogen spectrum would have the same wavelength as the Balmer transition n = 4 to n = 2 of He + spectrum ?
+
+Exercise 2.34
+Calculate the energy required for the process He + (g)  He 2+ (g) + e – The ionization energy for the H atom in the ground state is 2.18 × –18 J atom –1
+
+Exercise 2.35
+If the diameter of a carbon atom is 0.15 nm, calculate the number of carbon atoms which can be placed side by side in a straight line across length of scale of length 20 cm long.
+
+Exercise 2.36
+2 ×10 atoms of carbon are arranged side by side. Calculate the radius of carbon atom if the length of this arrangement is 2.4 cm.
+
+Exercise 2.37
+The diameter of zinc atom is 2.6 Å. Calculate (a) radius of zinc atom in pm and (b) number of atoms present in a length of 1.6 cm if the zinc atoms are arranged side by side lengthwise.
+
+Exercise 2.38
+A certain particle carries 2.5 × 10 –16 C of static electric charge. Calculate the number of electrons present in it.
+
+Exercise 2.39
+In Milikan’s experiment, static electric charge on the oil drops has been obtained by shining X-rays. If the static electric charge on the oil drop is –1.282 × 10 –18 C, calculate the number of electrons present on it.
+
+Exercise 2.40
+In Rutherford’s experiment, generally the thin foil of heavy atoms, like gold, platinum etc. have been used to be bombarded by the α -particles. If the thin foil of light atoms like aluminium etc. is used, what difference would be observed from the above results ?
+
+Exercise 2.41
+Symbols Br and Br can be written, whereas symbols Br and Br are not acceptable. Answer briefly.
+
+Exercise 2.42
+An element with mass number 81 contains 31.7% more neutrons as compared to protons. Assign the atomic symbol.
+
+Exercise 2.43
+An ion with mass number 37 possesses one unit of negative charge. If the ion conatins 11.1% more neutrons than the electrons, find the symbol of the ion.
+
+Exercise 2.44
+An ion with mass number 56 contains 3 units of positive charge and 30.4% more neutrons than electrons. Assign the symbol to this ion.
+
+Exercise 2.45
+Arrange the following type of radiations in increasing order of frequency: (a) radiation from microwave oven (b) amber light from traffic signal (c) radiation from FM radio (d) cosmic rays from outer space and (e) X-rays.
+
+Exercise 2.46
+Nitrogen laser produces a radiation at a wavelength of 337.1 nm. If the number of photons emitted is 5.6 × 10 , calculate the power of this laser.
+
+Exercise 2.47
+Neon gas is generally used in the sign boards. If it emits strongly at 616 nm, calculate (a) the frequency of emission, (b) distance traveled by this radiation in 30 s (c) energy of quantum and (d) number of quanta present if it produces 2 J of energy.
+
+Exercise 2.48
+In astronomical observations, signals observed from the distant stars are generally weak. If the photon detector receives a total of 3.15 × 10 –18 J from the radiations of 600 nm, calculate the number of photons received by the detector.
+
+Exercise 2.49
+Lifetimes of the molecules in the excited states are often measured by using pulsed radiation source of duration nearly in the nano second range. If the radiation source has the duration of 2 ns and the number of photons emitted during the pulse source is 2.5 × 10 , calculate the energy of the source.
+
+Exercise 2.50
+The longest wavelength doublet absorption transition is observed at 589 and 589.6 nm. Calcualte the frequency of each transition and energy difference between two excited states.
+
+Exercise 2.51
+The work function for caesium atom is 1.9 eV. Calculate (a) the threshold wavelength and (b) the threshold frequency of the radiation. If the caesium element is irradiated with a wavelength 500 nm, calculate the kinetic energy and the velocity of the ejected photoelectron.
+
+Exercise 2.52
+Following results are observed when sodium metal is irradiated with different wavelengths. Calculate (a) threshold wavelength and, (b) Planck’s constant. λ (nm) v × 10 –5 (cm s –1 )
+
+Exercise 2.55
+4.35 5.35
+
+Exercise 2.53
+The ejection of the photoelectron from the silver metal in the photoelectric effect experiment can be stopped by applying the voltage of 0.35 V when the radiation 256.7 nm is used. Calculate the work function for silver metal.
+
+Exercise 2.54
+If the photon of the wavelength 150 pm strikes an atom and one of tis inner bound electrons is ejected out with a velocity of 1.5 × 10 m s –1 , calculate the energy with which it is bound to the nucleus.
+
+Exercise 2.55
+Emission transitions in the Paschen series end at orbit n = 3 and start from orbit n and can be represeted as v = 3.29 × 10 (Hz) [1/3 – 1/n ] Calculate the value of n if the transition is observed at 1285 nm. Find the region of the spectrum.
+
+Exercise 2.56
+Calculate the wavelength for the emission transition if it starts from the orbit having radius 1.3225 nm and ends at 211.6 pm. Name the series to which this transition belongs and the region of the spectrum.
+
+Exercise 2.57
+Dual behaviour of matter proposed by de Broglie led to the discovery of electron microscope often used for the highly magnified images of biological molecules and other type of material. If the velocity of the electron in this microscope is 1.6 × 10 ms –1 , calculate de Broglie wavelength associated with this electron.
+
+Exercise 2.58
+Similar to electron diffraction, neutron diffraction microscope is also used for the determination of the structure of molecules. If the wavelength used here is 800 pm, calculate the characteristic velocity associated with the neutron.
+
+Exercise 2.59
+If the velocity of the electron in Bohr’s first orbit is 2.19 × 10 ms –1 , calculate the de Broglie wavelength associated with it.
+
+Exercise 2.60
+The velocity associated with a proton moving in a potential difference of 1000 V is 4.37 × 10 ms –1 . If the hockey ball of mass 0.1 kg is moving with this velocity, calcualte the wavelength associated with this velocity.
+
+Exercise 2.61
+If the position of the electron is measured within an accuracy of + 0.002 nm, calculate the uncertainty in the momentum of the electron. Suppose the momentum of the electron is h /4 π m × 0.05 nm, is there any problem in defining this value.
+
+Exercise 2.62
+The quantum numbers of six electrons are given below. Arrange them in order of increasing energies. If any of these combination(s) has/have the same energy lists: 1. n = 4, l = 2, m l = –2 , m s = –1/2 2. n = 3, l = 2, m l = 1 , m s = +1/2 3. n = 4, l = 1, m l = 0 , m s = +1/2 4. n = 3, l = 2, m l = –2 , m s = –1/2 5. n = 3, l = 1, m l = –1 , m s = +1/2 6. n = 4, l = 1, m l = 0 , m s = +1/2
+
+Exercise 2.63
+The bromine atom possesses 35 electrons. It contains 6 electrons in 2 p orbital, 6 electrons in 3 p orbital and 5 electron in 4 p orbital. Which of these electron experiences the lowest effective nuclear charge ?
+
+Exercise 2.64
+Among the following pairs of orbitals which orbital will experience the larger effective nuclear charge? (i) 2 s and 3 s , (ii) 4 d and 4 f , (iii) 3 d and 3 p .
+
+Exercise 2.65
+The unpaired electrons in Al and Si are present in 3 p orbital. Which electrons will experience more effective nuclear charge from the nucleus ?
+
+Exercise 2.66
+Indicate the number of unpaired electrons in : (a) P, (b) Si, (c) Cr, (d) Fe and (e) Kr.
+
+Exercise 2.67
+(a) How many subshells are associated with n = 4 ? (b) How many electrons will be present in the subshells having m s value of –1/2 for n = 4 ? The Periodic Table is arguably the most important concept in chemistry, both in principle and in practice. It is the everyday support for students, it suggests new avenues of research to professionals, and it provides a succinct organization of the whole of chemistry. It is a remarkable demonstration of the fact that the chemical elements are not a random cluster of entities but instead display trends and lie together in families. An awareness of the Periodic Table is essential to anyone who wishes to disentangle the world and see how it is built up from the fundamental building blocks of the chemistry, the chemical elements. Glenn T. Seaborg Unit 3 Classification of Elements and Periodicity in Properties
+
+
+Classification of Elements and Periodicity in Properties
+========================================================
+
+Exercise 3.1
+What is the basic theme of organisation in the periodic table?
+
+Exercise 3.2
+Which important property did Mendeleev use to classify the elements in his periodic table and did he stick to that?
+
+Exercise 3.3
+What is the basic difference in approach between the Mendeleev’s Periodic Law and the Modern Periodic Law?
+
+Exercise 3.4
+On the basis of quantum numbers, justify that the sixth period of the periodic table should have 32 elements.
+
+Exercise 3.5
+In terms of period and group where would you locate the element with Z =114?
+
+Exercise 3.6
+Write the atomic number of the element present in the third period and seventeenth group of the periodic table.
+
+Exercise 3.7
+Which element do you think would have been named by (i) Lawrence Berkeley Laboratory (ii) Seaborg’s group?
+
+Exercise 3.8
+Why do elements in the same group have similar physical and chemical properties?
+
+Exercise 3.9
+What does atomic radius and ionic radius really mean to you?
+
+Exercise 3.10
+How do atomic radius vary in a period and in a group? How do you explain the variation?
+
+Exercise 3.11
+What do you understand by isoelectronic species? Name a species that will be isoelectronic with each of the following atoms or ions. (i) F – (ii) Ar (iii) Mg 2+ (iv) Rb +
+
+Exercise 3.12
+Consider the following species : N 3– , O 2– , F – , Na + , Mg 2+ and Al 3+ (a) What is common in them? (b) Arrange them in the order of increasing ionic radii.
+
+Exercise 3.13
+Explain why cation are smaller and anions larger in radii than their parent atoms?
+
+Exercise 3.14
+What is the significance of the terms — ‘isolated gaseous atom’ and ‘ground state’ while defining the ionization enthalpy and electron gain enthalpy? Hint : Requirements for comparison purposes.
+
+Exercise 3.15
+Energy of an electron in the ground state of the hydrogen atom is –2.18 × –18 J. Calculate the ionization enthalpy of atomic hydrogen in terms of J mol –1 . Hint: Apply the idea of mole concept to derive the answer.
+
+Exercise 3.16
+Among the second period elements the actual ionization enthalpies are in the order Li < B < Be < C < O < N < F < Ne. Explain why (i) Be has higher ∆ i H than B (ii) O has lower ∆ i H than N and F?
+
+Exercise 3.17
+How would you explain the fact that the first ionization enthalpy of sodium is lower than that of magnesium but its second ionization enthalpy is higher than that of magnesium?
+
+Exercise 3.18
+What are the various factors due to which the ionization enthalpy of the main group elements tends to decrease down a group?
+
+Exercise 3.19
+The first ionization enthalpy values (in kJ mol –1 ) of group 13 elements are : B Al Ga In Tl How would you explain this deviation from the general trend ?
+
+Exercise 3.20
+Which of the following pairs of elements would have a more negative electron gain enthalpy? (i) O or F (ii) F or Cl
+
+Exercise 3.21
+Would you expect the second electron gain enthalpy of O as positive, more negative or less negative than the first? Justify your answer.
+
+Exercise 3.22
+What is the basic difference between the terms electron gain enthalpy and electronegativity?
+
+Exercise 3.23
+How would you react to the statement that the electronegativity of N on Pauling scale is 3.0 in all the nitrogen compounds?
+
+Exercise 3.24
+Describe the theory associated with the radius of an atom as it (a) gains an electron (b) loses an electron
+
+Exercise 3.25
+Would you expect the first ionization enthalpies for two isotopes of the same element to be the same or different? Justify your answer.
+
+Exercise 3.26
+What are the major differences between metals and non-metals?
+
+Exercise 3.27
+Use the periodic table to answer the following questions. (a) Identify an element with five electrons in the outer subshell. (b) Identify an element that would tend to lose two electrons. (c) Identify an element that would tend to gain two electrons. (d) Identify the group having metal, non-metal, liquid as well as gas at the room temperature.
+
+Exercise 3.28
+The increasing order of reactivity among group 1 elements is Li < Na < K < Rb <Cs whereas that among group 17 elements is F > CI > Br > I. Explain.
+
+Exercise 3.29
+Write the general outer electronic configuration of s-, p-, d- and f- block elements.
+
+Exercise 3.30
+Assign the position of the element having outer electronic configuration (i) ns np for n =3 (ii) ( n -1) d ns for n =4, and (iii) ( n -2) f ( n -1) d ns for n =6, in the periodic table.
+
+Exercise 3.31
+The first ( ∆ i H ) and the second ( ∆ i H ) ionization enthalpies (in kJ mol –1 ) and the ( ∆ eg H ) electron gain enthalpy (in kJ mol –1 ) of a few elements are given below: Elements ∆ H ∆ H ∆ eg H I –60 II –48 III –328 IV –295 V +48 VI –40 Which of the above elements is likely to be : (a) the least reactive element. (b) the most reactive metal. (c) the most reactive non-metal. (d) the least reactive non-metal. (e) the metal which can form a stable binary halide of the formula MX (X=halogen). (f) the metal which can form a predominantly stable covalent halide of the formula MX (X=halogen)?
+
+Exercise 3.32
+Predict the formulas of the stable binary compounds that would be formed by the combination of the following pairs of elements. (a) Lithium and oxygen (b) Magnesium and nitrogen (c) Aluminium and iodine (d) Silicon and oxygen (e) Phosphorus and fluorine (f) Element 71 and fluorine
+
+Exercise 3.33
+In the modern periodic table, the period indicates the value of : (a) atomic number (b) atomic mass (c) principal quantum number (d) azimuthal quantum number.
+
+Exercise 3.34
+Which of the following statements related to the modern periodic table is incorrect? (a) The p -block has 6 columns, because a maximum of 6 electrons can occupy all the orbitals in a p -shell. (b) The d -block has 8 columns, because a maximum of 8 electrons can occupy all the orbitals in a d -subshell. (c) Each block contains a number of columns equal to the number of electrons that can occupy that subshell. (d) The block indicates value of azimuthal quantum number ( l ) for the last subshell that received electrons in building up the electronic configuration.
+
+Exercise 3.35
+Anything that influences the valence electrons will affect the chemistry of the element. Which one of the following factors does not affect the valence shell? (a) Valence principal quantum number ( n ) (b) Nuclear charge ( Z ) (c) Nuclear mass (d) Number of core electrons.
+
+Exercise 3.36
+The size of isoelectronic species — F – , Ne and Na + is affected by (a) nuclear charge ( Z ) (b) valence principal quantum number ( n ) (c) electron-electron interaction in the outer orbitals (d) none of the factors because their size is the same.
+
+Exercise 3.37
+Which one of the following statements is incorrect in relation to ionization enthalpy? (a) Ionization enthalpy increases for each successive electron. (b) The greatest increase in ionization enthalpy is experienced on removal of electron from core noble gas configuration. (c) End of valence electrons is marked by a big jump in ionization enthalpy. (d) Removal of electron from orbitals bearing lower n value is easier than from orbital having higher n value.
+
+Exercise 3.38
+Considering the elements B, Al, Mg, and K, the correct order of their metallic character is : (a) B > Al > Mg > K (b) Al > Mg > B > K (c) Mg > Al > K > B (d) K > Mg > Al > B
+
+Exercise 3.39
+Considering the elements B, C, N, F, and Si, the correct order of their non-metallic character is : (a) B > C > Si > N > F (b) Si > C > B > N > F (c) F > N > C > B > Si (d) F > N > C > Si > B
+
+Exercise 3.40
+Considering the elements F, Cl, O and N, the correct order of their chemical reactivity in terms of oxidizing property is : (a) F > Cl > O > N (b) F > O > Cl > N (c) Cl > F > O > N (d) O > F > N > Cl Scientists are constantly discovering new compounds, orderly arranging the facts about them, trying to explain with the existing knowledge, organising to modify the earlier views or evolve theories for explaining the newly observed facts. Unit 4
+
+
+Chemical Bonding And Molecular Structure
+========================================
+
+Exercise 4.1
+Explain the formation of a chemical bond.
+
+Exercise 4.2
+Write Lewis dot symbols for atoms of the following elements : Mg, Na, B, O, N, Br.
+
+Exercise 4.3
+Write Lewis symbols for the following atoms and ions: S and S 2– ; Al and Al 3+ ; H and H –
+
+Exercise 4.4
+Draw the Lewis structures for the following molecules and ions : H S, SiCl , BeF , CO − , HCOOH
+
+Exercise 4.5
+Define octet rule. Write its significance and limitations.
+
+Exercise 4.6
+Write the favourable factors for the formation of ionic bond.
+
+Exercise 4.7
+Discuss the shape of the following molecules using the VSEPR model: BeCl , BCl , SiCl , AsF , H S, PH
+
+Exercise 4.8
+Although geometries of NH and H O molecules are distorted tetrahedral, bond angle in water is less than that of ammonia. Discuss.
+
+Exercise 4.9
+How do you express the bond strength in terms of bond order ?
+
+Exercise 4.10
+Define the bond length.
+
+Exercise 4.11
+Explain the important aspects of resonance with reference to the CO − ion.
+
+Exercise 4.12
+H PO can be represented by structures 1 and 2 shown below. Can these two structures be taken as the canonical forms of the resonance hybrid representing H PO ? If not, give reasons for the same.
+
+Exercise 4.13
+Write the resonance structures for SO , NO and NO − .
+
+Exercise 4.14
+Use Lewis symbols to show electron transfer between the following atoms to form cations and anions : (a) K and S (b) Ca and O (c) Al and N.
+
+Exercise 4.15
+Although both CO and H O are triatomic molecules, the shape of H O molecule is bent while that of CO is linear. Explain this on the basis of dipole moment.
+
+Exercise 4.16
+Write the significance/applications of dipole moment.
+
+Exercise 4.17
+Define electronegativity. How does it differ from electron gain enthalpy ?
+
+Exercise 4.18
+Explain with the help of suitable example polar covalent bond.
+
+Exercise 4.19
+Arrange the bonds in order of increasing ionic character in the molecules: LiF, K O, N , SO and ClF .
+
+Exercise 4.20
+The skeletal structure of CH COOH as shown below is correct, but some of the bonds are shown incorrectly. Write the correct Lewis structure for acetic acid.
+
+Exercise 4.21
+Apart from tetrahedral geometry, another possible geometry for CH is square planar with the four H atoms at the corners of the square and the C atom at its centre. Explain why CH is not square planar ?
+
+Exercise 4.22
+Explain why BeH molecule has a zero dipole moment although the Be–H bonds are polar.
+
+Exercise 4.23
+Which out of NH and NF has higher dipole moment and why ?
+
+Exercise 4.24
+What is meant by hybridisation of atomic orbitals? Describe the shapes of sp , sp , sp hybrid orbitals.
+
+Exercise 4.25
+Describe the change in hybridisation (if any) of the Al atom in the following reaction. AlCl Cl AlCl    
+
+Exercise 4.26
+Is there any change in the hybridisation of B and N atoms as a result of the following reaction?
+
+Exercise 4.27
+Draw diagrams showing the formation of a double bond and a triple bond between carbon atoms in C H and C H molecules.
+
+Exercise 4.28
+What is the total number of sigma and pi bonds in the following molecules? (a) C H (b) C H
+
+Exercise 4.29
+Considering x-axis as the internuclear axis which out of the following will not form a sigma bond and why? (a) 1 s and 1 s (b) 1 s and 2 p x ; (c) 2 p y and 2 p y (d) 1 s and 2 s .
+
+Exercise 4.30
+Which hybrid orbitals are used by carbon atoms in the following molecules? CH –CH ; (b) CH –CH=CH ; (c) CH -CH -OH; (d) CH -CHO (e) CH COOH
+
+Exercise 4.31
+What do you understand by bond pairs and lone pairs of electrons? Illustrate by giving one exmaple of each type.
+
+Exercise 4.32
+Distinguish between a sigma and a pi bond.
+
+Exercise 4.33
+Explain the formation of H molecule on the basis of valence bond theory.
+
+Exercise 4.34
+Write the important conditions required for the linear combination of atomic orbitals to form molecular orbitals.
+
+Exercise 4.35
+Use molecular orbital theory to explain why the Be molecule does not exist.
+
+Exercise 4.36
+Compare the relative stability of the following species and indicate their magnetic properties; (superoxide), O − (peroxide)
+
+Exercise 4.37
+Write the significance of a plus and a minus sign shown in representing the orbitals.
+
+Exercise 4.38
+Describe the hybridisation in case of PCl . Why are the axial bonds longer as compared to equatorial bonds?
+
+Exercise 4.39
+Define hydrogen bond. Is it weaker or stronger than the van der Waals forces?
+
+Exercise 4.40
+What is meant by the term bond order? Calculate the bond order of : N , O , O + and O – . Thermodynamics It is the only physical theory of universal content concerning which I am convinced that, within the framework of the applicability of its basic concepts, it will never be overthrown. Albert Einstein Chemical energy stored by molecules can be released as heat during chemical reactions when a fuel like methane, cooking gas or coal burns in air. The chemical energy may also be used to do mechanical work when a fuel burns in an engine or to provide electrical energy through a galvanic cell like dry cell. Thus, various forms of energy are interrelated and under certain conditions, these may be transformed from one form into another. The study of these energy transformations forms the subject matter of thermodynamics. The laws of thermodynamics deal with energy changes of macroscopic systems involving a large number of molecules rather than microscopic systems containing a few molecules. Thermodynamics is not concerned about how and at what rate these energy
+
+
+Thermodynamics
+==============
+
+Exercise 5.1
+Choose the correct answer. A thermodynamic state function is a quantity (i) used to determine heat changes (ii) whose value is independent of path (iii) used to determine pressure volume work (iv) whose value depends on temperature only.
+
+Exercise 5.2
+For the process to occur under adiabatic conditions, the correct condition is: (i) ∆ T = 0 (ii) ∆ p = 0 (iii) q = 0 (iv) w = 0
+
+Exercise 5.3
+The enthalpies of all elements in their standard states are: (i) unity (ii) zero (iii) < 0 (iv) different for each element
+
+Exercise 5.4
+∆ U  of combustion of methane is – X kJ mol –1 . The value of ∆ H  is (i) = ∆ U  (ii) > ∆ U  (iii) < ∆ U  (iv) = 0
+
+Exercise 5.5
+The enthalpy of combustion of methane, graphite and dihydrogen at 298 K are, –890.3 kJ mol –1 –393.5 kJ mol –1 , and –285.8 kJ mol –1 respectively. Enthalpy of formation of CH (g) will be (i) –74.8 kJ mol –1 (ii) –52.27 kJ mol –1 (iii) +74.8 kJ mol –1 (iv) +52.26 kJ mol –1 .
+
+Exercise 5.6
+A reaction, A + B → C + D + q is found to have a positive entropy change. The reaction will be (i) possible at high temperature (ii) possible only at low temperature (iii) not possible at any temperature (v) possible at any temperature
+
+Exercise 5.7
+In a process, 701 J of heat is absorbed by a system and 394 J of work is done by the system. What is the change in internal energy for the process?
+
+Exercise 5.8
+The reaction of cyanamide, NH CN (s), with dioxygen was carried out in a bomb calorimeter, and ∆ U was found to be –742.7 kJ mol –1 at 298 K. Calculate enthalpy change for the reaction at 298 K. NH CN(g) + O (g) → N (g) + CO (g) + H O(l)
+
+Exercise 5.9
+Calculate the number of kJ of heat necessary to raise the temperature of 60.0 g of aluminium from 35°C to 55°C. Molar heat capacity of Al is 24 J mol –1 K –1 .
+
+Exercise 5.10
+Calculate the enthalpy change on freezing of 1.0 mol of water at10.0°C to ice at –10.0°C. ∆ fus H = 6.03 kJ mol –1 at 0°C. C p [H O(l)] = 75.3 J mol –1 K –1 C p [H O(s)] = 36.8 J mol –1 K –1
+
+Exercise 5.11
+Enthalpy of combustion of carbon to CO is –393.5 kJ mol –1 . Calculate the heat released upon formation of 35.2 g of CO from carbon and dioxygen gas.
+
+Exercise 5.12
+Enthalpies of formation of CO(g), CO (g), N O(g) and N O (g) are –110, – 393, 81 and 9.7 kJ mol –1 respectively. Find the value of ∆ r H for the reaction: N O (g) + 3CO(g) → N O(g) + 3CO (g)
+
+Exercise 5.13
+Given N (g) + 3H (g) → 2NH (g); ∆ r H  = –92.4 kJ mol –1 What is the standard enthalpy of formation of NH gas?
+
+Exercise 5.14
+Calculate the standard enthalpy of formation of CH OH(l) from the following data: CH OH (l) + O (g) → CO (g) + 2H O(l) ; ∆ r H  = –726 kJ mol –1 C(graphite) + O (g) → CO (g) ; ∆ c H  = –393 kJ mol –1 H (g) + O (g) → H O(l); ∆ f H  = –286 kJ mol –1 .
+
+Exercise 5.15
+Calculate the enthalpy change for the process CCl (g) → C(g) + 4 Cl(g) and calculate bond enthalpy of C – Cl in CCl (g). ∆ vap H  (CCl ) = 30.5 kJ mol –1 . ∆ f H  (CCl ) = –135.5 kJ mol –1 . ∆ a H  (C) = 715.0 kJ mol –1 , where ∆ a H  is enthalpy of atomisation ∆ a H  (Cl ) = 242 kJ mol –1
+
+Exercise 5.16
+For an isolated system, ∆ U = 0, what will be ∆ S ?
+
+Exercise 5.17
+For the reaction at 298 K, 2A + B → C ∆ H = 400 kJ mol –1 and ∆ S = 0.2 kJ K –1 mol –1 At what temperature will the reaction become spontaneous considering ∆ H and ∆ S to be constant over the temperature range.
+
+Exercise 5.18
+For the reaction, 2 Cl(g) → Cl (g), what are the signs of ∆ H and ∆ S ?
+
+Exercise 5.19
+For the reaction 2 A(g) + B(g) → 2D(g) ∆ U  = –10.5 kJ and ∆ S  = –44.1 JK –1 . Calculate ∆ G  for the reaction, and predict whether the reaction may occur spontaneously.
+
+Exercise 5.20
+The equilibrium constant for a reaction is 10. What will be the value of ∆ G  ? R = 8.314 JK –1 mol –1 , T = 300 K.
+
+Exercise 5.21
+Comment on the thermodynamic stability of NO(g), given N (g) + O (g) → NO(g); ∆ r H  = 90 kJ mol –1 NO(g) + O (g) → NO (g): ∆ r H  = –74 kJ mol –1
+
+Exercise 5.22
+Calculate the entropy change in surroundings when 1.00 mol of H O(l) is formed under standard conditions. ∆ f H  = –286 kJ mol –1 . Unit 6 Equilibrium Chemical equilibria are important in numerous biological and environmental processes. For example, equilibria involving O molecules and the protein hemoglobin play a crucial role in the transport and delivery of O from our lungs to our muscles. Similar equilibria involving CO molecules and hemoglobin account for the toxicity of CO. When a liquid evaporates in a closed container, molecules with relatively higher kinetic energy escape the liquid surface into the vapour phase and number of liquid molecules from the vapour phase strike the liquid surface and are retained in the liquid phase. It gives rise to a constant vapour pressure because of an equilibrium in which the number of molecules leaving the liquid equals the number returning to liquid from the vapour. We say that the system has reached equilibrium state at this stage. However, this is not static equilibrium and there is a lot of
+
+Exercise 5.0
+0.1 M NaOH solution Tomato juice ~4.2 Lime water 10.5 Soft drinks and vinegar ~3.0 Milk of magnesia Lemon juice ~2.2 Egg white, sea water 7.8 Gastric juice ~1.2 Human blood 7.4 1M HCl solution ~0 Milk 6.8 Concentrated HCl ~–1.0 Human Saliva 6.4 The pH scale for the hydrogen ion concentration has been so useful that besides p K w , it has been extended to other species and quantities. Thus, we have: p K a = –log ( K a ) (6.31) Knowing the ionization constant, K a of an acid and its initial concentration, c, it is possible to calculate the equilibrium concentration of all species and also the degree of ionization of the acid and the pH of the solution. A general step-wise approach can be adopted to evaluate the pH of the weak electrolyte as follows: Step 1 . The species present before dissociation are identified as Brönsted-Lowry acids/bases. Step 2. Balanced equations for all possible reactions i.e., with a species acting both as acid as well as base are written. Step 3. The reaction with the higher K a is
+
+
+Equilibrium
+===========
+
+Exercise 6.1
+A liquid is in equilibrium with its vapour in a sealed container at a fixed temperature. The volume of the container is suddenly increased. a) What is the initial effect of the change on vapour pressure? b) How do rates of evaporation and condensation change initially? c) What happens when equilibrium is restored finally and what will be the final vapour pressure?
+
+Exercise 6.2
+What is K c for the following equilibrium when the equilibrium concentration of each substance is: [SO ]= 0.60M, [O ] = 0.82M and [SO ] = 1.90M ? 2SO (g) + O (g) 2SO (g)
+
+Exercise 6.3
+At a certain temperature and total pressure of 10 Pa, iodine vapour contains 40% by volume of I atoms I (g) 2I (g) Calculate K p for the equilibrium.
+
+Exercise 6.4
+Write the expression for the equilibrium constant, K c for each of the following reactions: (i) 2NOCl (g) 2NO (g) + Cl (g) (ii) 2Cu(NO ) (s) 2CuO (s) + 4NO (g) + O (g) (iii) CH COOC H (aq) + H O(l) CH COOH (aq) + C H OH (aq) (iv) Fe 3+ (aq) + 3OH – (aq) Fe(OH) (s) (v) I (s) + 5F 2IF
+
+Exercise 6.5
+Find out the value of K c for each of the following equilibria from the value of K p : (i) 2NOCl (g) 2NO (g) + Cl (g); K p = 1.8 × 10 –2 at 500 K (ii) CaCO (s) CaO(s) + CO (g); K p = 167 at 1073 K
+
+Exercise 6.6
+For the following equilibrium, K c = 6.3 × 10 at 1000 K NO (g) + O (g) NO (g) + O (g) Both the forward and reverse reactions in the equilibrium are elementary bimolecular reactions. What is K c , for the reverse reaction?
+
+Exercise 6.7
+Explain why pure liquids and solids can be ignored while writing the equilibrium constant expression?
+
+Exercise 6.8
+Reaction between N and O 2– takes place as follows: 2N (g) + O (g) 2N O (g) If a mixture of 0.482 mol N and 0.933 mol of O is placed in a 10 L reaction vessel and allowed to form N O at a temperature for which K c = 2.0 × 10 –37 , determine the composition of equilibrium mixture.
+
+Exercise 6.9
+Nitric oxide reacts with Br and gives nitrosyl bromide as per reaction given below: 2NO (g) + Br (g) 2NOBr (g) When 0.087 mol of NO and 0.0437 mol of Br are mixed in a closed container at constant temperature, 0.0518 mol of NOBr is obtained at equilibrium. Calculate equilibrium amount of NO and Br . 6.10 At 450K, K p = 2.0 × 10 /bar for the given reaction at equilibrium. 2SO (g) + O (g) 2SO (g) What is K c at this temperature ? 6.11 A sample of HI(g) is placed in flask at a pressure of 0.2 atm. At equilibrium the partial pressure of HI(g) is 0.04 atm. What is K p for the given equilibrium ? 2HI (g) H (g) + I (g) 6.12 A mixture of 1.57 mol of N , 1.92 mol of H and 8.13 mol of NH is introduced into a 20 L reaction vessel at 500 K. At this temperature, the equilibrium constant, K c for the reaction N (g) + 3H (g) 2NH (g) is 1.7 × 10 . Is the reaction mixture at equilibrium? If not, what is the direction of the net reaction? 6.13 The equilibrium constant expression for a gas reaction is, K c          NH
+
+Exercise 6.24
+Calculate a) ∆ G  and b) the equilibrium constant for the formation of NO from NO and O at 298K NO (g) + ½ O (g) NO (g) where ∆ f G  (NO ) = 52.0 kJ/mol ∆ f G  (NO) = 87.0 kJ/mol ∆ f G  (O ) = 0 kJ/mol
+
+Exercise 6.25
+Does the number of moles of reaction products increase, decrease or remain same when each of the following equilibria is subjected to a decrease in pressure by increasing the volume? (a) PCl5 (g) PCl3 (g) + Cl2 (g) (b) CaO (s) + CO2 (g) CaCO3 (s) (c) 3Fe (s) + 4H O (g) Fe O (s) + 4H (g)
+
+Exercise 6.26
+Which of the following reactions will get affected by increasing the pressure? Also, mention whether change will cause the reaction to go into forward or backward direction. (i) COCl (g) CO (g) + Cl (g) (ii) CH4 (g) + 2S2 (g) CS2 (g) + 2H2S (g) (iii) CO2 (g) + C (s) 2CO (g) (iv) 2H2 (g) + CO (g) CH3OH (g) (v) CaCO3 (s) CaO (s) + CO2 (g) (vi) 4 NH (g) + 5O (g) 4NO (g) + 6H O(g)
+
+Exercise 6.27
+The equilibrium constant for the following reaction is 1.6 ×10 at 1024K H (g) + Br (g) 2HBr(g) Find the equilibrium pressure of all gases if 10.0 bar of HBr is introduced into a sealed container at 1024K.
+
+Exercise 6.28
+Dihydrogen gas is obtained from natural gas by partial oxidation with steam as per following endothermic reaction: CH (g) + H O (g) CO (g) + 3H (g) (a) Write as expression for Kp for the above reaction. (b) How will the values of Kp and composition of equilibrium mixture be affected by (i) increasing the pressure (ii) increasing the temperature (iii) using a catalyst?
+
+Exercise 6.29
+Describe the effect of: a) addition of H2 b) addition of CH3OH c) removal of CO d) removal of CH OH on the equilibrium of the reaction: 2H (g) + CO (g) CH OH (g)
+
+Exercise 6.30
+At 473 K, equilibrium constant K c for decomposition of phosphorus pentachloride, PCl is 8.3 ×10 -3 . If decomposition is depicted as, PCl (g) PCl (g) + Cl (g) ∆ r H  = 124.0 kJ mol –1 a) write an expression for Kc for the reaction. b) what is the value of Kc for the reverse reaction at the same temperature? c) what would be the effect on K c if (i) more PCl is added (ii) pressure is increased (iii) the temperature is increased ?
+
+Exercise 6.31
+Dihydrogen gas used in Haber’s process is produced by reacting methane from natural gas with high temperature steam. The first stage of two stage reaction involves the formation of CO and H . In second stage, CO formed in first stage is reacted with more steam in water gas shift reaction, CO (g) + H O (g) CO (g) + H (g) If a reaction vessel at 400°C is charged with an equimolar mixture of CO and steam such that p co = p H2O = 4.0 bar, what will be the partial pressure of H at equilibrium? K p = 10.1 at 400°C
+
+Exercise 6.32
+Predict which of the following reaction will have appreciable concentration of reactants and products: a) Cl2 (g) 2Cl (g) Kc = 5 ×10–39 b) Cl2 (g) + 2NO (g) 2NOCl (g) Kc = 3.7 × 108 c) Cl2 (g) + 2NO (g) 2NO Cl (g) K c = 1.8
+
+Exercise 6.33
+The value of K c for the reaction 3O (g) 2O (g) is 2.0 ×10 –50 at 25°C. If the equilibrium concentration of O in air at 25°C is 1.6 ×10 –2 , what is the concentration of O ?
+
+Exercise 6.34
+The reaction, CO(g) + 3H (g) CH (g) + H O(g) is at equilibrium at 1300 K in a 1L flask. It also contain 0.30 mol of CO, 0.10 mol of H and 0.02 mol of H O and an unknown amount of CH in the flask. Determine the concentration of CH in the mixture. The equilibrium constant, K c for the reaction at the given temperature is 3.90.
+
+Exercise 6.35
+What is meant by the conjugate acid-base pair? Find the conjugate acid/base for the following species: HNO , CN – , HClO 4, F – , OH – , CO , and S 2–
+
+Exercise 6.36
+Which of the followings are Lewis acids? H O, BF , H + , and NH +
+
+Exercise 6.37
+What will be the conjugate bases for the Br ö nsted acids: HF, H SO and HCO – ?
+
+Exercise 6.38
+Write the conjugate acids for the following Br ö nsted bases: NH – , NH and HCOO – .
+
+Exercise 6.39
+The species: H O, HCO – , HSO – and NH can act both as Br ö nsted acids and bases. For each case give the corresponding conjugate acid and base.
+
+Exercise 6.40
+Classify the following species into Lewis acids and Lewis bases and show how these act as Lewis acid/base: (a) OH – (b) F – (c) H + (d) BCl .
+
+Exercise 6.41
+The concentration of hydrogen ion in a sample of soft drink is 3.8 × 10 –3 M. What is its pH?
+
+Exercise 6.42
+The pH of a sample of vinegar is 3.76. Calculate the concentration of hydrogen ion in it.
+
+Exercise 6.43
+The ionization constant of HF, HCOOH and HCN at 298K are 6.8 × 10 –4 , 1.8 × 10 –4 and 4.8 × 10 –9 respectively. Calculate the ionization constants of the corresponding conjugate base.
+
+Exercise 6.44
+The ionization constant of phenol is 1.0 × 10 –10 . What is the concentration of phenolate ion in 0.05 M solution of phenol? What will be its degree of ionization if the solution is also 0.01M in sodium phenolate?
+
+Exercise 6.45
+The first ionization constant of H S is 9.1 × 10 –8 . Calculate the concentration of HS – ion in its 0.1M solution. How will this concentration be affected if the solution is 0.1M in HCl also? If the second dissociation constant of H S is 1.2 × 10 –13 , calculate the concentration of S 2– under both conditions.
+
+Exercise 6.46
+The ionization constant of acetic acid is 1.74 × 10 –5 . Calculate the degree of dissociation of acetic acid in its 0.05 M solution. Calculate the concentration of acetate ion in the solution and its pH.
+
+Exercise 6.47
+It has been found that the pH of a 0.01M solution of an organic acid is 4.15. Calculate the concentration of the anion, the ionization constant of the acid and its p K a .
+
+Exercise 6.48
+Assuming complete dissociation, calculate the pH of the following solutions: (a) 0.003 M HCl (b) 0.005 M NaOH (c) 0.002 M HBr (d) 0.002 M KOH
+
+Exercise 6.49
+Calculate the pH of the following solutions: a) 2 g of TlOH dissolved in water to give 2 litre of solution. b) 0.3 g of Ca(OH) dissolved in water to give 500 mL of solution. c) 0.3 g of NaOH dissolved in water to give 200 mL of solution. d) 1mL of 13.6 M HCl is diluted with water to give 1 litre of solution.
+
+Exercise 6.50
+The degree of ionization of a 0.1M bromoacetic acid solution is 0.132. Calculate the pH of the solution and the pK a of bromoacetic acid.
+
+Exercise 6.51
+The pH of 0.005M codeine (C H NO ) solution is 9.95. Calculate its ionization constant and p K b . 6.52 What is the pH of 0.001M aniline solution? The ionization constant of aniline can be taken from Table 6.7. Calculate the degree of ionization of aniline in the solution. Also calculate the ionization constant of the conjugate acid of aniline.
+
+Exercise 6.53
+Calculate the degree of ionization of 0.05M acetic acid if its p K a value is 4.74. How is the degree of dissociation affected when its solution also contains (a) 0.01M (b) 0.1M in HCl ?
+
+Exercise 6.54
+The ionization constant of dimethylamine is 5.4 × 10 –4 . Calculate its degree of ionization in its 0.02M solution. What percentage of dimethylamine is ionized if the solution is also 0.1M in NaOH?
+
+Exercise 6.55
+Calculate the hydrogen ion concentration in the following biological fluids whose pH are given below: (a) Human muscle-fluid, 6.83 (b) Human stomach fluid, 1.2 (c) Human blood, 7.38 (d) Human saliva, 6.4.
+
+Exercise 6.56
+The pH of milk, black coffee, tomato juice, lemon juice and egg white are 6.8, 5.0, 4.2, 2.2 and 7.8 respectively. Calculate corresponding hydrogen ion concentration in each.
+
+Exercise 6.57
+If 0.561 g of KOH is dissolved in water to give 200 mL of solution at 298 K. Calculate the concentrations of potassium, hydrogen and hydroxyl ions. What is its pH?
+
+Exercise 6.58
+The solubility of Sr(OH) at 298 K is 19.23 g/L of solution. Calculate the concentrations of strontium and hydroxyl ions and the pH of the solution.
+
+Exercise 6.59
+The ionization constant of propanoic acid is 1.32 × 10 –5 . Calculate the degree of ionization of the acid in its 0.05M solution and also its pH. What will be its degree of ionization if the solution is 0.01M in HCl also?
+
+Exercise 6.60
+The pH of 0.1M solution of cyanic acid (HCNO) is 2.34. Calculate the ionization constant of the acid and its degree of ionization in the solution.
+
+Exercise 6.61
+The ionization constant of nitrous acid is 4.5 × 10 –4 . Calculate the pH of 0.04 M sodium nitrite solution and also its degree of hydrolysis.
+
+Exercise 6.62
+A 0.02M solution of pyridinium hydrochloride has pH = 3.44. Calculate the ionization constant of pyridine.
+
+Exercise 6.63
+Predict if the solutions of the following salts are neutral, acidic or basic: NaCl, KBr, NaCN, NH NO , NaNO and KF
+
+Exercise 6.64
+The ionization constant of chloroacetic acid is 1.35 × 10 –3 . What will be the pH of 0.1M acid and its 0.1M sodium salt solution?
+
+Exercise 6.65
+Ionic product of water at 310 K is 2.7 × 10 –14 . What is the pH of neutral water at this temperature?
+
+Exercise 6.66
+Calculate the pH of the resultant mixtures: a) 10 mL of 0.2M Ca(OH) + 25 mL of 0.1M HCl b) 10 mL of 0.01M H SO + 10 mL of 0.01M Ca(OH) c) 10 mL of 0.1M H SO + 10 mL of 0.1M KOH
+
+Exercise 6.67
+Determine the solubilities of silver chromate, barium chromate, ferric hydroxide, lead chloride and mercurous iodide at 298K from their solubility product constants given in Table 6.9. Determine also the molarities of individual ions.
+
+Exercise 6.68
+The solubility product constant of Ag CrO and AgBr are 1.1 × 10 –12 and 5.0 × 10 –13 respectively. Calculate the ratio of the molarities of their saturated solutions.
+
+Exercise 6.69
+Equal volumes of 0.002 M solutions of sodium iodate and cupric chlorate are mixed together. Will it lead to precipitation of copper iodate? (For cupric iodate K sp = 7.4 × 10 –8 ).
+
+Exercise 6.70
+The ionization constant of benzoic acid is 6.46 × 10 –5 and K sp for silver benzoate is 2.5 × 10 –13 . How many times is silver benzoate more soluble in a buffer of pH 3.19 compared to its solubility in pure water?
+
+Exercise 6.71
+What is the maximum concentration of equimolar solutions of ferrous sulphate and sodium sulphide so that when mixed in equal volumes, there is no precipitation of iron sulphide? (For iron sulphide, K sp = 6.3 × 10 –18 ).
+
+Exercise 6.72
+What is the minimum volume of water required to dissolve 1g of calcium sulphate at 298 K? (For calcium sulphate, K sp is 9.1 × 10 –6 ).
+
+Exercise 6.73
+The concentration of sulphide ion in 0.1M HCl solution saturated with hydrogen sulphide is 1.0 × 10 –19 M. If 10 mL of this is added to 5 mL of 0.04 M solution of the following: FeSO , MnCl , ZnCl and CdCl . in which of these solutions precipitation will take place? Chemistry deals with varieties of matter and change of one kind of matter into the other. Transformation of matter from one kind into another occurs through the various types of reactions. One important category of such reactions is Redox Reactions . A number of phenomena, both physical as well as biological, are concerned with redox reactions. These reactions find extensive use in pharmaceutical, biological, industrial, metallurgical and agricultural areas. The importance of these reactions is apparent from the fact that burning of different types of fuels for obtaining energy for domestic, transport and other commercial purposes, electrochemical processes for extraction of highly reactive metals and non-metals, manufacturing of chemical compounds like caustic
+
+
+Redox Reactions
+===============
+
+Exercise 7.1
+Assign oxidation number to the underlined elements in each of the following species: (a) NaH PO (b) NaHSO (c) H P O (d) K MnO (e) CaO (f) NaBH (g) H S O (h) KAl(SO ) .12 H O
+
+Exercise 7.2
+What are the oxidation number of the underlined elements in each of the following and how do you rationalise your results ? (a) KI (b) H S O (c) Fe O (d) CH CH OH (e) CH COOH
+
+Exercise 7.3
+Justify that the following reactions are redox reactions: (a) CuO(s) + H (g) → Cu(s) + H O(g) (b) Fe O (s) + 3CO(g) → 2Fe(s) + 3CO (g) (c) 4BCl (g) + 3LiAlH (s) → 2B H (g) + 3LiCl(s) + 3 AlCl (s) (d) 2K(s) + F (g) → 2K + F – (s) (e) 4 NH (g) + 5 O (g) → 4NO(g) + 6H O(g)
+
+Exercise 7.4
+Fluorine reacts with ice and results in the change: H O(s) + F (g) → HF(g) + HOF(g) Justify that this reaction is a redox reaction.
+
+Exercise 7.5
+Calculate the oxidation number of sulphur, chromium and nitrogen in H SO , Cr O 2– and NO – . Suggest structure of these compounds. Count for the fallacy.
+
+Exercise 7.6
+Write formulas for the following compounds: (a) Mercury(II) chloride (b) Nickel(II) sulphate (c) Tin(IV) oxide (d) Thallium(I) sulphate (e) Iron(III) sulphate ( f ) Chromium(III) oxide
+
+Exercise 7.7
+Suggest a list of the substances where carbon can exhibit oxidation states from –4 to +4 and nitrogen from –3 to +5.
+
+Exercise 7.8
+While sulphur dioxide and hydrogen peroxide can act as oxidising as well as reducing agents in their reactions, ozone and nitric acid act only as oxidants. Why ?
+
+Exercise 7.9
+Consider the reactions: (a) 6 CO (g) + 6H O(l) → C H O (aq) + 6O (g) (b) O (g) + H O (l) → H O(l) + 2O (g) Why it is more appropriate to write these reactions as : (a) 6CO (g) + 12H O(l) → C H O (aq) + 6H O(l) + 6O (g) (b) O (g) + H O (l) → H O(l) + O (g) + O (g) Also suggest a technique to investigate the path of the above (a) and (b) redox reactions.
+
+Exercise 7.10
+The compound AgF is unstable compound. However, if formed, the compound acts as a very strong oxidising agent. Why ?
+
+Exercise 7.11
+Whenever a reaction between an oxidising agent and a reducing agent is carried out, a compound of lower oxidation state is formed if the reducing agent is in excess and a compound of higher oxidation state is formed if the oxidising agent is in excess. Justify this statement giving three illustrations.
+
+Exercise 7.12
+How do you count for the following observations ? (a) Though alkaline potassium permanganate and acidic potassium permanganate both are used as oxidants, yet in the manufacture of benzoic acid from toluene we use alcoholic potassium permanganate as an oxidant. Why ? Write a balanced redox equation for the reaction. (b) When concentrated sulphuric acid is added to an inorganic mixture containing chloride, we get colourless pungent smelling gas HCl, but if the mixture contains bromide then we get red vapour of bromine. Why ?
+
+Exercise 7.13
+Identify the substance oxidised reduced, oxidising agent and reducing agent for each of the following reactions: (a) 2AgBr (s) + C H O (aq) → 2Ag(s) + 2HBr (aq) + C H O (aq) (b) HCHO(l) + 2[Ag (NH ) ] + (aq) + 3OH – (aq) → 2Ag(s) + HCOO – (aq) + 4NH (aq) + 2H2O(l) (c) HCHO (l) + 2 Cu 2+ (aq) + 5 OH – (aq) → Cu2O(s) + HCOO – (aq) + 3H O(l) (d) N H (l) + 2H O (l) → N (g) + 4H O(l) (e) Pb(s) + PbO (s) + 2H SO (aq) → 2PbSO (s) + 2H O(l)
+
+Exercise 7.14
+Consider the reactions : 2 S O 2– (aq) + I (s) → S O 2– (aq) + 2I – (aq) S O 2– (aq) + 2Br (l) + 5 H O(l) → 2SO 2– (aq) + 4Br – (aq) + 10H + (aq) Why does the same reductant, thiosulphate react differently with iodine and bromine ?
+
+Exercise 7.15
+Justify giving reactions that among halogens, fluorine is the best oxidant and among hydrohalic compounds, hydroiodic acid is the best reductant.
+
+Exercise 7.16
+Why does the following reaction occur ? XeO 4– (aq) + 2F – (aq) + 6H + (aq) → XeO (g)+ F (g) + 3H O(l) What conclusion about the compound Na XeO (of which XeO 4– is a part) can be drawn from the reaction.
+
+Exercise 7.17
+Consider the reactions: (a) H PO (aq) + 4 AgNO (aq) + 2 H O(l) → H PO (aq) + 4Ag(s) + 4HNO (aq) (b) H PO (aq) + 2CuSO (aq) + 2 H O(l) → H PO (aq) + 2Cu(s) + H SO (aq) (c) C H CHO(l) + 2[Ag (NH ) ] + (aq) + 3OH – (aq) → C H COO – (aq) + 2Ag(s) + 4NH (aq) + 2 H O(l) (d) C H CHO(l) + 2Cu 2+ (aq) + 5OH – (aq) → No change observed. What inference do you draw about the behaviour of Ag + and Cu 2+ from these reactions ?
+
+Exercise 7.18
+Balance the following redox reactions by ion – electron method : (a) MnO – (aq) + I – (aq) → MnO (s) + I (s) (in basic medium) (b) MnO – (aq) + SO (g) → Mn 2+ (aq) + HSO – (aq) (in acidic solution) (c) H O (aq) + Fe 2+ (aq) → Fe 3+ (aq) + H O (l) (in acidic solution) (d) Cr O 2– + SO (g) → Cr 3+ (aq) + SO 2– (aq) (in acidic solution)
+
+Exercise 7.19
+Balance the following equations in basic medium by ion-electron method and oxidation number methods and identify the oxidising agent and the reducing agent. (a) P (s) + OH – (aq) → PH (g) + HPO – (aq) (b) N H (l) + ClO – (aq) → NO(g) + Cl – (g) (c) Cl O (g) + H O (aq) → ClO – (aq) + O (g) + H +
+
+Exercise 7.20
+What sorts of informations can you draw from the following reaction ? (CN) (g) + 2OH – (aq) → CN – (aq) + CNO – (aq) + H O(l)
+
+Exercise 7.21
+The Mn 3+ ion is unstable in solution and undergoes disproportionation to give Mn 2+ , MnO , and H + ion. Write a balanced ionic equation for the reaction.
+
+Exercise 7.22
+Consider the elements : Cs, Ne, I and F (a) Identify the element that exhibits only negative oxidation state. (b) Identify the element that exhibits only postive oxidation state. (c) Identify the element that exhibits both positive and negative oxidation states. (d) Identify the element which exhibits neither the negative nor does the positive oxidation state.
+
+Exercise 7.23
+Chlorine is used to purify drinking water. Excess of chlorine is harmful. The excess of chlorine is removed by treating with sulphur dioxide. Present a balanced equation for this redox change taking place in water.
+
+Exercise 7.24
+Refer to the periodic table given in your book and now answer the following questions: (a) Select the possible non metals that can show disproportionation reaction. (b) Select three metals that can show disproportionation reaction.
+
+Exercise 7.25
+In Ostwald’s process for the manufacture of nitric acid, the first step involves the oxidation of ammonia gas by oxygen gas to give nitric oxide gas and steam. What is the maximum weight of nitric oxide that can be obtained starting only with 10.00 g. of ammonia and 20.00 g of oxygen ?
+
+Exercise 7.26
+Using the standard electrode potentials given in the Table 8.1, predict if the reaction between the following is feasible: (a) Fe 3+ (aq) and I – (aq) (b) Ag + (aq) and Cu(s) (c) Fe 3+ (aq) and Cu(s) (d) Ag(s) and Fe 3+ (aq) (e) Br (aq) and Fe 2+ (aq).
+
+Exercise 7.27
+Predict the products of electrolysis in each of the following: (i) An aqueous solution of AgNO with silver electrodes (ii) An aqueous solution AgNO with platinum electrodes (iii) A dilute solution of H SO with platinum electrodes (iv) An aqueous solution of CuCl with platinum electrodes.
+
+Exercise 7.28
+Arrange the following metals in the order in which they displace each other from the solution of their salts. Al, Cu, Fe, Mg and Zn.
+
+Exercise 7.29
+Given the standard electrode potentials, K + /K = –2.93V, Ag + /Ag = 0.80V, Hg 2+ /Hg = 0.79V Mg 2+ /Mg = –2.37V. Cr 3+ /Cr = –0.74V arrange these metals in their increasing order of reducing power.
+
+Exercise 7.30
+Depict the galvanic cell in which the reaction Zn(s) + 2Ag + (aq) → Zn 2+ (aq) +2Ag(s) takes place, Further show: (i) which of the electrode is negatively charged, (ii) the carriers of the current in the cell, and (iii) individual reaction at each electrode. Organic Chemistry – Some Basic Principles and Techniques
+
+
+Organic Chemistry – Some Basic Principles and Techniques
+========================================================
+
+Exercise 8.1
+What are hybridisation states of each carbon atom in the following compounds ? CH =C=O, CH CH=CH , (CH ) CO, CH =CHCN, C H
+
+Exercise 8.2
+Indicate the σ and π bonds in the following molecules : C H , C H , CH Cl , CH =C=CH , CH NO , HCONHCH
+
+Exercise 8.3
+Write bond line formulas for : Isopropyl alcohol, 2,3-Dimethylbutanal, Heptan-4-one.
+
+Exercise 8.4
+Give the IUPAC names of the following compounds : (a) (b) (c) (d) (e) (f) Cl CHCH OH
+
+Exercise 8.5
+Which of the following represents the correct IUPAC name for the compounds concer ned ? (a) 2,2-Dimethylpentane or 2-Dimethylpentane (b) 2,4,7-Trimethyloctane or 2,5,7-Trimethyloctane (c) 2-Chloro-4-methylpentane or 4-Chloro-2-methylpentane (d) But-3-yn-1-ol or But-4-ol-1-yne.
+
+Exercise 8.6
+Draw formulas for the first five members of each homologous series beginning with the following compounds. (a) H–COOH (b) CH COCH (c) H–CH=CH
+
+Exercise 8.7
+Give condensed and bond line structural formulas and identify the functional group(s) present, if any, for : (a) 2,2,4-Trimethylpentane (b) 2-Hydroxy-1,2,3-propanetricarboxylic acid (c) Hexanedial
+
+Exercise 8.8
+Identify the functional groups in the following compounds (a) (b) (c)
+
+Exercise 8.9
+Which of the two: O NCH CH O – or CH CH O – is expected to be more stable and why?
+
+Exercise 8.10
+Explain why alkyl groups act as electron donors when attached to a π system.
+
+Exercise 8.11
+Draw the resonance structures for the following compounds. Show the electron shift using curved-arrow notation. (a) C H OH (b) C H NO (c) CH CH=CHCHO (d) C H –CHO (e) C H –C + H (f) CH CH=CH C + H
+
+Exercise 8.12
+What are electrophiles and nucleophiles ? Explain with examples.
+
+Exercise 8.13
+Identify the reagents shown in bold in the following equations as nucleophiles or electrophiles: (a) CH COOH + HO – → CH COO – +H O (b) CH COCH + C – N → (CH ) C(CN)(OH) (c) C H + CH C + O → C H COCH
+
+Exercise 8.14
+Classify the following reactions in one of the reaction type studied in this unit. (a) CH CH Br + HS – → CH CH SH + Br – (b) (CH ) C = CH + HCI → (CH ) CIC – CH (c) CH CH Br + HO – → CH = CH + H O + Br – (d) (CH ) C– CH OH + HBr → (CH ) CBrCH CH CH + H O
+
+Exercise 8.15
+What is the relationship between the members of following pairs of structures ? Are they structural or geometrical isomers or resonance contributors ? (a) (b) (c)
+
+Exercise 8.16
+For the following bond cleavages, use curved-arrows to show the electron flow and classify each as homolysis or heterolysis. Identify reactive intermediate produced as free radical, carbocation and carbanion. (a) (b) (c) (d)
+
+Exercise 8.17
+Explain the terms Inductive and Electromeric effects. Which electron displacement effect explains the following correct orders of acidity of the carboxylic acids? (a) Cl CCOOH > Cl CHCOOH > ClCH COOH (b) CH CH COOH > (CH ) CHCOOH > (CH ) C.COOH
+
+Exercise 8.18
+Give a brief description of the principles of the following techniques taking an example in each case. (a) Crystallisation (b) Distillation (c) Chromatography
+
+Exercise 8.19
+Describe the method, which can be used to separate two compounds with different solubilities in a solvent S.
+
+Exercise 8.20
+What is the difference between distillation, distillation under reduced pressure and steam distillation ?
+
+Exercise 8.21
+Discuss the chemistry of Lassaigne’s test.
+
+Exercise 8.22
+Differentiate between the principle of estimation of nitrogen in an organic compound by (i) Dumas method and (ii) Kjeldahl’s method.
+
+Exercise 8.23
+Discuss the principle of estimation of halogens, sulphur and phosphorus present in an organic compound.
+
+Exercise 8.24
+Explain the principle of paper chromatography.
+
+Exercise 8.25
+Why is nitric acid added to sodium extract before adding silver nitrate for testing halogens?
+
+Exercise 8.26
+Explain the reason for the fusion of an organic compound with metallic sodium for testing nitrogen, sulphur and halogens.
+
+Exercise 8.27
+Name a suitable technique of separation of the components from a mixture of calcium sulphate and camphor.
+
+Exercise 8.28
+Explain, why an organic liquid vaporises at a temperature below its boiling point in its steam distillation ?
+
+Exercise 8.29
+Will CCl give white precipitate of AgCl on heating it with silver nitrate? Give reason for your answer.
+
+Exercise 8.30
+Why is a solution of potassium hydroxide used to absorb carbon dioxide evolved during the estimation of carbon present in an organic compound?
+
+Exercise 8.31
+Why is it necessary to use acetic acid and not sulphuric acid for acidification of sodium extract for testing sulphur by lead acetate test?
+
+Exercise 8.32
+An organic compound contains 69% carbon and 4.8% hydrogen, the remainder being oxygen. Calculate the masses of carbon dioxide and water produced when 0.20 g of this substance is subjected to complete combustion.
+
+Exercise 8.33
+A sample of 0.50 g of an organic compound was treated according to Kjeldahl’s method. The ammonia evolved was absorbed in 50 ml of 0.5 M H SO . The residual acid required 60 mL of 0.5 M solution of NaOH for neutralisation. Find the percentage composition of nitrogen in the compound.
+
+Exercise 8.34
+0.3780 g of an organic chloro compound gave 0.5740 g of silver chloride in Carius estimation. Calculate the percentage of chlorine present in the compound.
+
+Exercise 8.35
+In the estimation of sulphur by Carius method, 0.468 g of an organic sulphur compound afforded 0.668 g of barium sulphate. Find out the percentage of sulphur in the given compound.
+
+Exercise 8.36
+In the organic compound CH = CH – CH – CH – C ≡ CH, the pair of hydridised orbitals involved in the formation of: C – C bond is: (a) sp – sp (b) sp – sp (c) sp – sp (d) sp – sp
+
+Exercise 8.37
+In the Lassaigne’s test for nitrogen in an organic compound, the Prussian blue colour is obtained due to the formation of: (a) Na [Fe(CN) ] (b) Fe [Fe(CN) ] (c) Fe [Fe(CN) ] (d) Fe [Fe(CN) ]
+
+Exercise 8.38
+Which of the following carbocation is most stable ? (a) (CH ) C. C + ­ H (b) (CH ) C + ­ (c) CH CH C + ­ H (d) CH C + ­ H CH CH
+
+Exercise 8.39
+The best and latest technique for isolation, purification and separation of organic compounds is: (a) Crystallisation (b) Distillation (c) Sublimation (d) Chromatography
+
+Exercise 8.40
+The reaction: CH CH I + KOH(aq) → CH CH OH + KI is classified as : (a) electrophilic substitution (b) nucleophilic substitution (c) elimination (d) addition Unit 9
+
+
+Hydrocarbons
+============
+
+Exercise 9.1
+How do you account for the formation of ethane during chlorination of methane ?
+
+Exercise 9.2
+Write IUPAC names of the following compounds : (a) CH CH=C(CH ) (b) CH =CH-C ≡ C-CH (c) (d) –CH –CH –CH=CH (e) (f) CH (CH ) CH (CH ) CH CH –CH (CH ) (g) CH – CH = CH – CH – CH = CH – CH – CH – CH = CH | C H
+
+Exercise 9.3
+For the following compounds, write structural formulas and IUPAC names for all possible isomers having the number of double or triple bond as indicated : (a) C H (one double bond) (b) C H (one triple bond)
+
+Exercise 9.4
+Write IUPAC names of the products obtained by the ozonolysis of the following compounds : (i) Pent-2-ene (ii) 3,4-Dimethylhept-3-ene (iii) 2-Ethylbut-1-ene (iv) 1-Phenylbut-1-ene
+
+Exercise 9.5
+An alkene ‘A’ on ozonolysis gives a mixture of ethanal and pentan-3-one. Write structure and IUPAC name of ‘A’.
+
+Exercise 9.6
+An alkene ‘A’ contains three C – C, eight C – H σ bonds and one C – C π bond. ‘A’ on ozonolysis gives two moles of an aldehyde of molar mass 44 u. Write IUPAC name of ‘A’.
+
+Exercise 9.7
+Propanal and pentan-3-one are the ozonolysis products of an alkene? What is the structural formula of the alkene?
+
+Exercise 9.8
+Write chemical equations for combustion reaction of the following hydrocarbons: (i) Butane (ii) Pentene (iii) Hexyne (iv) Toluene
+
+Exercise 9.9
+Draw the cis and trans structures of hex-2-ene. Which isomer will have higher b.p. and why? 9.10 Why is benzene extra ordinarily stable though it contains three double bonds?
+
+Exercise 9.11
+What are the necessary conditions for any system to be aromatic?
+
+Exercise 9.12
+Explain why the following systems are not aromatic? (i) (ii) (iii) 9.13 How will you convert benzene into (i) p -nitrobromobenzene (ii) m - nitrochlorobenzene (iii) p - nitrotoluene (iv) acetophenone?
+
+Exercise 9.14
+In the alkane H C – CH – C(CH ) – CH – CH(CH ) , identify 1°,2°,3° carbon atoms and give the number of H atoms bonded to each one of these.
+
+Exercise 9.15
+What effect does branching of an alkane chain has on its boiling point?
+
+Exercise 9.16
+Addition of HBr to propene yields 2-bromopropane, while in the presence of benzoyl peroxide, the same reaction yields 1-bromopropane. Explain and give mechanism.
+
+Exercise 9.17
+Write down the products of ozonolysis of 1,2-dimethylbenzene ( o -xylene). How does the result support Kekulé structure for benzene?
+
+Exercise 9.18
+Arrange benzene, n -hexane and ethyne in decreasing order of acidic behaviour. Also give reason for this behaviour.
+
+Exercise 9.19
+Why does benzene undergo electrophilic substitution reactions easily and nucleophilic substitutions with difficulty?
+
+Exercise 9.20
+How would you convert the following compounds into benzene? (i) Ethyne (ii) Ethene (iii) Hexane
+
+Exercise 9.21
+Write structures of all the alkenes which on hydrogenation give 2-methylbutane.
+
+Exercise 9.22
+Arrange the following set of compounds in order of their decreasing relative reactivity with an electrophile, E + (a) Chlorobenzene, 2,4-dinitrochlorobenzene, p -nitrochlorobenzene (b) Toluene, p -H C – C H – NO , p -O N – C H – NO .
+
+Exercise 9.23
+Out of benzene, m –dinitrobenzene and toluene which will undergo nitration most easily and why?
+
+Exercise 9.24
+Suggest the name of a Lewis acid other than anhydrous aluminium chloride which can be used during ethylation of benzene.
+
+Exercise 9.25
+Why is Wurtz reaction not preferred for the preparation of alkanes containing odd number of carbon atoms? Illustrate your answer by taking one example.
+

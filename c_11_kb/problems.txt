@@ -1,0 +1,774 @@
+Problem 1.1
+Q: Calculate the molecular mass of glucose (C 6 H 12 O 6 ) molecule.
+First 1000 chars of Solution:
+Molecular mass of glucose (C 6 H 12 O 6 ) = 6 (12.011 u) + 12 (1.008 u) + 6 (16.00 u) = (72.066 u) + (12.096 u) + (96.00 u) = 180.162 u 1.8 Mole concept and Molar Masses Atoms and molecules are extremely small in size and their numbers in even a small amount of any substance is really very large. To handle such large numbers, a unit of convenient magnitude is required. Just as we denote one dozen for 12 items, score for 20 items, gross for 144 items, we use the idea of mole to count entities at the microscopic level (i.e., atoms, molecules, particles, electrons, ions, etc). In SI system, mole (symbol, mol) was introduced as seventh base quantity for the amount of a substance. The mole, symbol mol, is the SI unit of amount of substance. One mole contains exactly 6.02214076 × 10 23 elementary entities. This number is the fixed numerical value of the Avogadro constant, N A , when expressed in the unit mol –1 and is called the Avogadro number. The amount of substance, symbol n , of a syste
+--------------------------------------------------------------------------------
+
+Problem 1.2
+Q: A compound contains 4.07% hydrogen, 24.27% carbon and 71.65% chlorine. Its molar mass is 98.96 g. What are its empirical and molecular formulas?
+First 1000 chars of Solution:
+Step 1. Conversion of mass per cent to grams Since we are having mass per cent, it is convenient to use 100 g of the compound as the starting material. Thus, in the 100 g sample of the above compound, 4.07g hydrogen, 24.27g carbon and 71.65g chlorine are present. Step 2. Convert into number moles of each element Divide the masses obtained above by respective atomic masses of various elements. This gives the number of moles of constituent elements in the compound Moles of hydrogen = 4.07 g 1.008g = 4.04 Moles of carbon = 24.27 g g 12 01 2 021 . . = Moles of chlorine = 71.65g g 35 453 2 021 . . = Reprint 2025-26 20 chemistry Step 3. Divide each of the mole values obtained above by the smallest number amongst them Since 2.021 is smallest value, division by it gives a ratio of 2:1:1 for H:C:Cl. In case the ratios are not whole numbers, then they may be converted into whole number by multiplying by the suitable coefficient. Step 4. Write down the empirical formula by mentioning the numbers 
+--------------------------------------------------------------------------------
+
+Problem 1.3
+Q: Calculate the amount of water (g) produced by the combustion of 16 g of methane.
+First 1000 chars of Solution:
+The balanced equation for the combustion of methane is : CH 4 ( g ) + 2O 2 ( g ) → CO 2 ( g ) + 2H 2 O ( g ) (i) 16 g of CH 4 corresponds to one mole. (ii) From the above equation, 1 mol of CH 4 (g) gives 2 mol of H 2 O (g). 2 mol of water (H 2 O) = 2×(2+16) = 2×18 = 36 g 1 mol H 2 O = 18 g H 2 O ⇒ 18g H O 2 1mol H O 2 18g H O 1mol H O 2 Hence, 2 mol H 2 O× 2 = 2×18 g H 2 O = 36 g H 2 O
+--------------------------------------------------------------------------------
+
+Problem 1.4
+Q: How many moles of methane are required to produce 22g CO 2 (g) after combustion?
+First 1000 chars of Solution:
+According to the chemical equation, CH 4 ( g ) + 2O 2 ( g ) → CO 2 ( g ) + 2H 2 O ( g ) 44g CO 2 (g) is obtained from 16 g CH 4 (g). [ ∴ 1 mol CO 2 (g) is obtained from 1 mol of CH 4 (g)] Number of moles of CO 2 (g) gCO g   = 22 g CO 2 (g) × 1 molCO g 2 44 2 = 0.5 mol CO 2 (g) Hence, 0.5 mol CO 2 (g) would be obtained from 0.5 mol CH 4 (g) or 0.5 mol of CH 4 (g) would be required to produce 22 g CO 2 (g).
+--------------------------------------------------------------------------------
+
+Problem 1.5
+Q: 50.0 kg of N 2 (g) and 10.0 kg of H 2 (g) are mixed to produce NH 3 (g). Calculate the amount of NH 3 (g) formed. Identify the limiting reagent in the production of NH 3 in this situation.
+First 1000 chars of Solution:
+A balanced equation for the above reaction is written as follows : Calculation of moles : Number of moles of N 2 = 50 0 1000 1 28 0 2 2 2 . . kg N g N kg N mol N g N × × 2 1 2 = 17.86×10 2 mol Number of moles of H 2 = 10 00 1000 1 1 2 016 2 2 2 . . kg H g H kg H mol H g H × × = 1 2 = 4.96 × 10 3 mol According to the above equation, 1 mol N 2 (g) requires 3 mol H 2 (g), for the reaction. Hence, for 17.86×10 2 mol of N 2 , the moles of H 2 (g) required would be 2 .     mol N mol H g mol N g = 5.36 × 10 3 mol H 2 But we have only 4.96×10 3 mol H 2 . Hence, dihydrogen is the limiting reagent in this case. So, NH 3 (g) would be formed only from that amount of available dihydrogen i.e., 4.96 × 10 3 mol 17 86 10 3 1 2 2 2 Since 3 mol H 2 (g) gives 2 mol NH 3 (g)   4.96 ×10 3 mol H 2 (g) × 2 mol NH g 3 3 mol H g 2 = 3.30 × 10 3 mol NH 3 (g) 3.30 × 10 3 mol NH 3 (g) is obtained. If they are to be converted to grams, it is done as follows : 1 mol NH 3 (g) = 17.0 g NH 3 (g) . g NH g mol
+--------------------------------------------------------------------------------
+
+Problem 1.6
+Q: A solution is prepared by adding 2 g of a substance A to 18 g of water. Calculate the mass per cent of the solute.
+First 1000 chars of Solution:
+2. Mole Fraction It is the ratio of number of moles of a particular component to the total number of moles of the solution. If a substance ‘A’ dissolves in substance ‘B’ and their number of moles are n A and n B , respectively, then the mole fractions of A and B are given as: 3. Molarity It is the most widely used unit and is denoted by M. It is defined as the number of moles of the solute in 1 litre of the solution. Thus, Molarity (M) = No. of moles of solute of solution in litres Volume Suppose, we have 1 M solution of a substance, say NaOH, and we want to prepare a 0.2 M solution from it. 1 M NaOH means 1 mol of NaOH present in 1 litre of the solution. For 0.2 M solution, we require 0.2 moles of NaOH dissolved in 1 litre solution. Hence, for making 0.2M solution from 1M solution, we have to take that volume of 1M NaOH solution, which contains 0.2 mol of NaOH and dilute the solution with water to 1 litre. Now, how much volume of concentrated (1M) NaOH solution be taken, which contain
+--------------------------------------------------------------------------------
+
+Problem 1.7
+Q: Calculate the molarity of NaOH in the solution prepared by dissolving its 4 g in enough water to form 250 mL of the solution.
+First 1000 chars of Solution:
+Since molarity (M) Note that molarity of a solution depends upon temperature because volume of a solution is temperature dependent. 4. Molality It is defined as the number of moles of solute present in 1 kg of solvent. It is denoted by m. Thus, Molality (m) = No. of moles of solute Mass of solvent in kg Chemistry, as we understand it today is not a very old discipline. People in ancient India, already had the knowledge of many scientific phenomenon much before the advent of modern science. They applied the knowledge in various walks of life. The study of chemistry is very important as its domain encompasses every sphere of life. Chemists study the properties and structure of substances and the changes undergone by them. All substances contain matter, which can exist in three states – solid, liquid or gas. The constituent particles are held in different ways in these states of matter and they exhibit their characteristic properties. Matter can also be classified into elements, compounds
+--------------------------------------------------------------------------------
+
+Problem 1.8
+Q: The density of 3 M solution of NaCl is 1.25 g mL –1 . Calculate the molality of the solution.
+First 1000 chars of Solution:
+M = 3 mol L –1 Mass of NaCl in 1 L solution = 3 × 58.5 = 175.5 g Mass of 1L solution = 1000 × 1.25 = 1250 g (since density = 1.25 g mL –1 ) Mass of water in solution = 1250 –75.5 = 1074.5 g Molality = No. of moles of solute of solvent in kg Mass = 3 mol 1 0745 . kg = 2.79 m Often in a chemistry laboratory, a solution of a desired concentration is prepared by diluting a solution of known higher concentration. The solution of higher concentration is also known as stock solution. Note that the molality of a solution does not change with temperature since mass remains unaffected with temperature. Summary Reprint 2025-26 25 Some Basic Concepts of Chemistry and the Metric Systems are widely used. The scientific community, however, has agreed to have a uniform and common system throughout the world, which is abbreviated as SI units (International System of Units). Since measurements involve recording of data, which are always associated with a certain amount of uncertainty, the proper handlin
+--------------------------------------------------------------------------------
+
+Problem 2.1
+Q: Calculate the number of protons, neutrons and electrons in 80 35 Br .
+First 1000 chars of Solution:
+In this case, 80 35 Br , Z = 35, A = 80, species is neutral Number of protons = number of electrons = Z = 35 Number of neutrons = 80 – 35 = 45, (equation 2.4)
+--------------------------------------------------------------------------------
+
+Problem 2.2
+Q: The number of electrons, protons and neutrons in a species are equal to 18, 16 and 16 respectively. Assign the proper symbol to the species.
+First 1000 chars of Solution:
+The atomic number is equal to number of protons = 16. The element is sulphur (S). Atomic mass number = number of protons + number of neutrons = 16 + 16 = 32 Species is not neutral as the number of protons is not equal to electrons. It is anion (negatively charged) with charge equal to excess electrons = 18 – 16 = 2. Symbol is . Note : Before using the notation A Z X, find out whether the species is a neutral atom, a cation or an anion. If it is a neutral atom, equation (2.3) is valid, i.e., number of protons = number of electrons = atomic number. If the species is an ion, determine whether the number of protons are larger (cation, positive ion) or smaller (anion, negative ion) than the number of electrons. Number of neutrons is always given by A–Z, whether the species is neutral or ion. 2.2.5 Drawbacks of Rutherford Model As you have learnt above, Rutherford nuclear model of an atom is like a small scale solar system with the nucleus playing the role * Classical mechanics is a theoreti
+--------------------------------------------------------------------------------
+
+Problem 2.3
+Q: The Vividh Bharati station of All India Radio, Delhi, broadcasts on a frequency of 1,368 kHz (kilo hertz). Calculate the wavelength of the electromagnetic radiation emitted by transmitter. Which part of the electromagnetic spectrum does it belong to?
+First 1000 chars of Solution:
+The wavelength, λ , is equal to c/ ν , where c is the speed of electromagnetic radiation in vacuum and ν is the frequency. Substituting the given values, we have  c v This is a characteristic radiowave wavelength.
+--------------------------------------------------------------------------------
+
+Problem 2.4
+Q: The wavelength range of the visible spectrum extends from violet (400 nm) to red (750 nm). Express these wavelengths in frequencies (Hz). (1nm = 10 –9 m)
+First 1000 chars of Solution:
+Using equation 2.5, frequency of violet light = 7.50 × 10 14 Hz * Diffraction is the bending of wave around an obstacle. ** Interference is the combination of two waves of the same or different frequencies to give a wave whose distribution at each point in space is the algebraic or vector sum of disturbances at that point resulting from each interfering wave. Frequency of red light ν = = 4.00 × 10 14 Hz The range of visible spectrum is from 4.0 × 10 14 to 7.5 × 10 14 Hz in terms of frequency units.
+--------------------------------------------------------------------------------
+
+Problem 2.5
+Q: Calculate (a) wavenumber and (b) frequency of yellow radiation having wavelength 5800 Å.
+First 1000 chars of Solution:
+(a) Calculation of wavenumber ( ) λ =5800Å = 5800 × 10 –8 cm = 5800 × 10 –10 m (b) Calculation of the frequency ( ν ) 2.3.2 Particle Nature of Electromagnetic Radiation: Planck’s Quantum Theory Some of the experimental phenomenon such as diffraction * and interference ** can be explained by the wave nature of the electromagnetic radiation. However, following are some of the observations which could not be explained with the help of even the electromagentic theory of 19th century physics (known as classical physics): (i) the nature of emission of radiation from hot bodies (black-body radiation) (ii) ejection of electrons from metal surface when radiation strikes it (photoelectric effect) (iii) variation of heat capacity of solids as a function of temperature Reprint 2025-26 40 chemistry (iv) Line spectra of atoms with special reference to hydrogen. These phenomena indicate that the system can take energy only in discrete amounts. All possible energies cannot be taken up or radiated. It 
+--------------------------------------------------------------------------------
+
+Problem 2.6
+Q: Calculate energy of one mole of photons of radiation whose frequency is 5 × 10 14 Hz.
+First 1000 chars of Solution:
+Energy ( E ) of one photon is given by the expression E = h ν h = 6.626 ×10 –34 J s ν = 5×10 14 s –1 (given) E = (6.626 ×10 –34 J s) × (5 ×10 14 s –1 ) = 3.313 ×10 –19 J Energy of one mole of photons = (3.313 ×10 –19 J) × (6.022 × 10 23 mol –1 ) = 199.51 kJ mol –1
+--------------------------------------------------------------------------------
+
+Problem 2.7
+Q: A 100 watt bulb emits monochromatic light of wavelength 400 nm. Calculate the number of photons emitted per second by the bulb.
+First 1000 chars of Solution:
+Power of the bulb = 100 watt = 100 J s –1 Energy of one photon E = h ν = h c/ λ   = 6.626 10 J s 3 10 m s 34 8 1      400 10 9 m = 4.969 × 10 –19 J Number of photons emitted  1 100 4 969 10 2 012 10 19 20 1 J s      . . J s
+--------------------------------------------------------------------------------
+
+Problem 2.8
+Q: When electromagnetic radiation of wavelength 300 nm falls on the surface of sodium, electrons are emitted with a kinetic energy of 1.68 × 10 5 J mol –1 . What is the minimum energy needed to remove an electron from sodium? What is the maximum wavelength that will cause a photoelectron to be emitted?
+First 1000 chars of Solution:
+The energy ( E ) of a 300 nm photon is given by = 6.626 × 10 –19 J The energy of one mole of photons = 6.626 × 10 –19 J × 6.022 × 10 23 mol –1 = 3.99 × 10 5 J mol –1 The minimum energy needed to remove one mole of electrons from sodium = (3.99 –1.68) 10 5 J mol –1 = 2.31 × 10 5 J mol –1 The minimum energy for one electron This corresponds to the wavelength h = c E 34 8 1 = 6.626 10 J s 3.0 10 m s 3.84 10 J 19 = 517 nm (This corresponds to green light)
+--------------------------------------------------------------------------------
+
+Problem 2.9
+Q: The threshold frequency ν 0 for a metal is 7.0 × 10 14 s –1 . Calculate the kinetic energy of an electron emitted when radiation of frequency ν =1.0 × 10 15 s –1 hits the metal.
+First 1000 chars of Solution:
+According to Einstein’s equation Kinetic energy = ½ m e v 2 = h ( ν – ν 0 ) = (6.626 × 10 –34 J s) (1.0 × 10 15 s –1 – 7.0 × 10 14 s –1 ) = (6.626 × 10 –34 J s) (10.0 × 10 14 s –1 – 7.0 × 10 14 s –1 ) = (6.626 × 10 –34 J s) × (3.0 × 10 14 s –1 ) = 1.988 × 10 –19 J Reprint 2025-26 44 chemistry 2.3.3 Evidence for the quantized* Electronic Energy Levels: Atomic spectra The speed of light depends upon the nature of the medium through which it passes. As a result, the beam of light is deviated or refracted from its original path as it passes from one medium to another. It is observed that when a ray of white light is passed through a prism, the wave with shorter wavelength bends more than the one with a longer wavelength. Since ordinary white light consists of waves with all the wavelengths in the visible range, a ray of white light is spread out into a series of coloured bands called spectrum . The light of red colour which has longest wavelength is deviated the least while the violet ligh
+--------------------------------------------------------------------------------
+
+Problem 2.10
+Q: What are the frequency and wavelength of a photon emitted during a transition from n = 5 state to the n = 2 state in the hydrogen atom?
+First 1000 chars of Solution:
+Since n i = 5 and n f = 2, this transition gives rise to a spectral line in the visible region of the Balmer series. From equation (2.17) 2 18 10 1 5 1 2           E = 18 . J 2 2    19 = . J 4 58 10 It is an emission energy The frequency of the photon (taking energy in terms of magnitude) is given by = 6.91×10 14 Hz
+--------------------------------------------------------------------------------
+
+Problem 2.11
+Q: Calculate the energy associated with the first orbit of He + . What is the radius of this orbit?
+First 1000 chars of Solution:
+E Z n n J    ( . ) 2 18 10 18 2 2 atom –1 For He + , n = 1, Z = 2   ( . )( ) . J J 2 18 2 18 10 2 1 8 72 10     18 2 E 1 The radius of the orbit is given by equation (2.15) n n Z = ( . ) 0 0529 2 r nm Since n = 1, and Z = 2 2 r nm nm n = = ( . ) . 0 0529 1 2 0 02645 2.4.2 Limitations of Bohr’s Model Bohr’s model of the hydrogen atom was no doubt an improvement over Rutherford’s nuclear model, as it could account for the stability and line spectra of hydrogen atom and hydrogen like ions (for example, He + , Li 2+ , Be 3+ , and so on). However, Bohr’s model was too simple to account for the following points. i) It fails to account for the finer details (doublet, that is two closely spaced lines) of the hydrogen atom spectrum observed by using sophisticated spectroscopic techniques. This model is also unable to explain the spectrum of atoms other than hydrogen, for example, helium atom which possesses only two electrons. Further, Bohr’s theory was also unable to explain the sp
+--------------------------------------------------------------------------------
+
+Problem 2.12
+Q: What will be the wavelength of a ball of mass 0.1 kg moving with a velocity of 10 m s –1 ?
+First 1000 chars of Solution:
+According to de Brogile equation (2.22)     34  h m v Js kg m s ( . ) ( . )( ) 6 626 10 0 1 10 1 = 6.626 × 10 –34 m (J = kg m 2 s –2 )
+--------------------------------------------------------------------------------
+
+Problem 2.13
+Q: The mass of an electron is 9.1 × 10 –31 kg. If its K.E. is 3.0 × 10 –25 J, calculate its wavelength.
+First 1000 chars of Solution:
+Since K.E. = ½ m v 2 1 2 . . . . / / 1 2 25 2 2 m                v K E kg m s kg = = 2 2 3 0 10 9 1 10  31 = 812 m s –1 34 Js 6 626 10 . h m v kg m s 9 1 10 812 ( . )( ) 1 31 = 8967 × 10 –10 m = 896.7 nm
+--------------------------------------------------------------------------------
+
+Problem 2.14
+Q: Calculate the mass of a photon with wavelength 3.6 Å.
+First 1000 chars of Solution:
+λ = 3.6 Å = 3.6 × 10 –10 m Velocity of photon = velocity of light 34 10 8 1 = 6.135 × 10 –29 kg 2.5.2 Heisenberg’s Uncertainty Principle Werner Heisenberg a German physicist in 1927, stated uncertainty principle which is the consequence of dual behaviour of matter and radiation. It states that it is impossible to determine simultaneously, the exact position and exact momentum (or velocity) of an electron. Mathematically, it can be given as in equation (2.23). Reprint 2025-26   51 structure of atom where ∆ x is the uncertainty in position and ∆ p x (or ∆ v x ) is the uncertainty in momentum (or velocity) of the particle. If the position of the electron is known with high degree of accuracy ( ∆ x is small), then the velocity of the electron will be uncertain [ ∆ (v x ) is large]. On the other hand, if the velocity of the electron is known precisely ( ∆ (v x ) is small), then the position of the electron will be uncertain ( ∆ x will be large). Thus, if we carry out some physical measure
+--------------------------------------------------------------------------------
+
+Problem 2.15
+Q: A microscope using suitable photons is employed to locate an electron in an atom within a distance of 0.1 Å. What is the uncertainty involved in the measurement of its velocity?
+First 1000 chars of Solution:
+∆ x ∆ p = or ∆ x m ∆ v = 0.579×10 7 m s –1 (1J = 1 kg m 2 s –2 ) = 5.79×10 6 m s –1
+--------------------------------------------------------------------------------
+
+Problem 2.16
+Q: A golf ball has a mass of 40g, and a speed of 45 m/s. If the speed can be measured within accuracy of 2%, calculate the uncertainty in the position.
+First 1000 chars of Solution:
+The uncertainty in the speed is 2%, i.e., Using the equation (2.22) = 1.46×10 –33 m This is nearly ~ 10 18 times smaller than the diameter of a typical atomic nucleus. As mentioned earlier for large particles, the uncertainty principle sets no meaningful limit to the precision of measurements. Reasons for the Failure of the Bohr Model One can now understand the reasons for the failure of the Bohr model. In Bohr model, an electron is regarded as a charged particle moving in well defined circular orbits about the nucleus. The wave character of the electron is not considered in Bohr model. Further, an orbit is a clearly defined path and this path can completely be defined only if both the position and the velocity of the electron are known exactly at the same time. This is not possible according to the Heisenberg uncertainty principle. Bohr model of the hydrogen atom, therefore, not only ignores dual behaviour of matter but also contradicts Heisenberg uncertainty principle . Reprint 2025-
+--------------------------------------------------------------------------------
+
+Problem 2.17
+Q: What is the total number of orbitals associated with the principal quantum number n = 3 ?
+First 1000 chars of Solution:
+For n = 3, the possible values of l are 0, 1 and 2. Thus there is one 3 s orbital ( n = 3, l = 0 and m l = 0); there are three 3 p orbitals ( n = 3, l = 1 and m l = –1, 0, +1); there are five 3 d orbitals ( n = 3, l = 2 and m l = –2, –1, 0, +1+, +2). Therefore, the total number of orbitals is 1+3+5 = 9 The same value can also be obtained by using the relation; number of orbitals = n 2 , i.e. 3 2 = 9.
+--------------------------------------------------------------------------------
+
+Problem 2.18
+Q: Using s , p , d , f notations, describe the orbital with the following quantum numbers (a) n = 2, l = 1, (b) n = 4, l = 0, (c) n = 5, l = 3, (d) n = 3, l = 2
+First 1000 chars of Solution:
+n l orbital a) 2 1 2 p b) 4 0 4 s c) 5 3 5 f d) 3 2 3 d 2.6.2 Shapes of Atomic Orbitals The orbital wave function or ψ for an electron in an atom has no physical meaning. It is simply a mathematical function of the coordinates of the electron. However, for different orbitals the plots of corresponding wave functions as a function of r (the distance from the nucleus) are different. Fig. 2.12(a), gives such plots for 1 s ( n = 1, l = 0) and 2 s ( n = 2, l = 0) orbitals. Fig. 2.12 The plots of (a) the orbital wave function ψ(r); (b) the variation of probability density ψ 2 (r) as a function of distance r of the electron from the nucleus for 1s and 2s orbitals. According to the German physicist, Max Born, the square of the wave function (i.e., ψ 2 ) at a point gives the probability density of the electron at that point. The variation of ψ 2 as a function of r for 1 s and 2 s orbitals is given in Fig. 2.12(b). Here again, you may note that the curves for 1 s and 2 s orbitals are different. 
+--------------------------------------------------------------------------------
+
+Problem 3.1
+Q: What would be the IUPAC name and symbol for the element with atomic number 120?
+First 1000 chars of Solution:
+From Table 3.4, the roots for 1, 2 and 0 are un, bi and nil, respectively. Hence, the symbol and the name respectively are Ubn and unbinilium. 3.5 ELECTRONIC CONFIGURATIONS OF ELEMENTS AND THE PERIODIC TABLE In the preceding unit we have learnt that an electron in an atom is characterised by a set of four quantum numbers, and the principal quantum number ( n ) defines the main energy level known as shell . We have also studied about the filling of electrons into different subshells, also referred to as orbitals ( s, p, d, f ) in an atom. The distribution of electrons into orbitals of an atom is called its electronic configuration . An element’s location in the Periodic Table reflects the quantum numbers of the last orbital filled. In this section we will observe a direct connection between the electronic configurations of the elements and the long form of the Periodic Table. (a) Electronic Configurations in Periods The period indicates the value of n for the outermost or valence shell.
+--------------------------------------------------------------------------------
+
+Problem 3.2
+Q: How would you justify the presence of 18 elements in the 5 th period of the Periodic Table?
+First 1000 chars of Solution:
+When n = 5, l = 0, 1, 2, 3. The order in which the energy of the available orbitals 4 d , 5 s and 5 p increases is 5 s < 4 d < 5 p . The total number of orbitals available are 9. The maximum number of electrons that can be accommodated is 18; and therefore 18 elements are there in the 5 th period. (b) Groupwise Electronic Configurations Elements in the same vertical column or group have similar valence shell electronic configurations, the same number of electrons in the outer orbitals, and similar properties. For example, the Group 1 elements (alkali metals) all have ns 1 valence shell electronic configuration as shown below. Atomic number Symbol Electronic configuration 1 s 2 2 s 1 (or) [He]2 s 1 Li Na K Rb Cs Fr 3 11 19 37 55 87 1 s 2 2 s 2 2 p 6 3 s 1 (or) [Ne]3 s 1 1 s 2 2 s 2 2 p 6 3 s 2 3 p 6 4 s 1 (or) [Ar]4 s 1 1 s 2 2 s 2 2 p 6 3 s 2 3 p 6 3 d 10 4 s 2 4 p 6 5 s 1 (or) [Kr]5 s 1 1 s 2 2 s 2 2 p 6 3 s 2 3 p 6 3 d 10 4 s 2 4 p 6 4 d 10 5 s 2 5 p 6 6 s 1 (or) [Xe]6 s 1 [Rn]7 s 1 
+--------------------------------------------------------------------------------
+
+Problem 3.3
+Q: The elements Z = 117 and 120 have not yet been discovered. In which family/group would you place these elements and also give the electronic configuration in each case.
+First 1000 chars of Solution:
+We see from Fig. 3.2, that element with Z = 117, would belong to the halogen family (Group 17) and the electronic configuration would be [Rn] 5 f 14 6 d 10 7 s 2 7 p 5 . The element with Z = 120, will be placed in Group 2 (alkaline earth metals), and will have the electronic configuration [Uuo]8 s 2 . 85 Classification of Elements and Periodicity in Properties 3.6.5 Metals, Non-metals and Metalloids In addition to displaying the classification of elements into s- , p- , d- , and f- blocks , Fig. 3.3 shows another broad classification of elements based on their properties. The elements can be divided into Metals and Non-Metals . Metals comprise more than 78% of all known elements and appear on the left side of the Periodic Table . Metals are usually solids at room temperature [mercury is an exception; gallium and caesium also have very low melting points (303K and 302K, respectively)]. Metals usually have high melting and boiling points. They are good conductors of heat and electricity.
+--------------------------------------------------------------------------------
+
+Problem 3.4
+Q: Considering the atomic number and position in the periodic table, arrange the following elements in the increasing order of metallic character : Si, Be, Mg, Na, P.
+First 1000 chars of Solution:
+Metallic character increases down a group and decreases along a period as we move from left to right. Hence the order of increasing metallic character is: P < Si < Be < Mg < Na. 3.7 PERIODIC TRENDS IN PROPERTIES OF ELEMENTS There are many observable patterns in the physical and chemical properties of elements as we descend in a group or move across a period in the Periodic Table. For example, within a period, chemical reactivity tends to be high in Group 1 metals, lower in elements towards the middle of the table, and increases to a maximum in the Group 17 non-metals. Likewise within a group of representative metals (say alkali metals) reactivity increases on moving down the group, whereas within a group of non-metals (say halogens), reactivity decreases down the group. But why do the properties of elements follow these trends? And how can we explain periodicity? To answer these questions, we must look into the theories of atomic structure and properties of the atom. In this section we
+--------------------------------------------------------------------------------
+
+Problem 3.5
+Q: Which of the following species will have the largest and the smallest size? Mg, Mg 2+ , Al, Al 3+ .
+First 1000 chars of Solution:
+Atomic radii decrease across a period. Cations are smaller than their parent atoms. Among isoelectronic species, the one with the larger positive nuclear charge will have a smaller radius. Hence the largest species is Mg; the smallest one is Al 3+ . (c) Ionization Enthalpy A quantitative measure of the tendency of an element to lose electron is given by its Ionization Enthalpy . It represents the energy required to remove an electron from an isolated gaseous atom (X) in its ground state. 88 chemistry In other words, the first ionization enthalpy for an element X is the enthalpy change ( ∆ i H ) for the reaction depicted in equation 3.1. X(g) → X + (g) + e – (3.1) The ionization enthalpy is expressed in units of kJ mol –1 . We can define the second ionization enthalpy as the energy required to remove the second most loosely bound electron; it is the energy required to carry out the reaction shown in equation 3.2. X + (g) → X 2+ (g) + e – (3.2) Energy is always required to remove electro
+--------------------------------------------------------------------------------
+
+Problem 3.6
+Q: The first ionization enthalpy ( ∆ i H ) values of the third period elements, Na, Mg and Si are respectively 496, 737 and 786 kJ mol –1 . Predict whether the first ∆ i H value for Al will be more close to 575 or 760 kJ mol –1 ? Justify your answer.
+First 1000 chars of Solution:
+It will be more close to 575 kJ mol –1 . The value for Al should be lower than that of Mg because of effective shielding of 3 p electrons from the nucleus by 3 s -electrons. (d) Electron Gain Enthalpy When an electron is added to a neutral gaseous atom (X) to convert it into a negative ion, the enthalpy change accompanying the process is defined as the Electron Gain Enthalpy ( ∆ eg H ). Electron gain enthalpy provides a measure of the ease with which an atom adds an electron to form anion as represented by equation 3.3. X(g) + e – → X – (g) (3.3) Depending on the element, the process of adding an electron to the atom can be either endothermic or exothermic. For many elements energy is released when an electron is added to the atom and the electron gain enthalpy is negative. For example, group 17 elements (the halogens) have very high 90 chemistry Table 3.7 Electron Gain Enthalpies * / (kJ mol –1 ) of Some Main Group Elements Group 1 ∆ eg H Group 16 ∆ eg H Group 17 ∆ eg H Group 0 ∆ eg H
+--------------------------------------------------------------------------------
+
+Problem 3.7
+Q: Which of the following will have the most negative electron gain enthalpy and which the least negative? P, S, Cl, F. Explain your answer.
+First 1000 chars of Solution:
+Electron gain enthalpy generally becomes more negative across a period as we move from left to right. Within a group, electron gain enthalpy becomes less negative down a group. However, adding an electron to the 2 p- orbital leads to greater repulsion than adding an electron to the larger 3 p- orbital. Hence the element with most negative electron gain enthalpy is chlorine; the one with the least negative electron gain enthalpy is phosphorus. (e) Electronegativity A qualitative measure of the ability of an atom in a chemical compound to attract shared electrons to itself is called electronegativity . Unlike ionization enthalpy and electron gain enthalpy, it is not a measureable quantity. However, a number of numerical scales of electronegativity of elements viz., Pauling scale, Mulliken-Jaffe scale, Allred-Rochow scale have been developed. The one which is the most widely used is the Pauling scale. Linus Pauling, an American scientist, in 1922 assigned arbitrarily a value of 4.0 to flu
+--------------------------------------------------------------------------------
+
+Problem 3.8
+Q: Using the Periodic Table, predict the formulas of compounds which might be formed by the following pairs of elements; (a) silicon and bromine (b) aluminium and sulphur.
+First 1000 chars of Solution:
+(a) Silicon is group 14 element with a valence of 4; bromine belongs to the halogen family with a valence of 1. Hence the formula of the compound formed would be SiBr 4 . (b) Aluminium belongs to group 13 with a valence of 3; sulphur belongs to group 16 elements with a valence of 2. Hence, the formula of the compound formed would be Al 2 S 3 . Some periodic trends observed in the valence of elements (hydrides and oxides) are shown in Table 3.9. Other such periodic trends which occur in the chemical behaviour of the elements are discussed elsewhere in 93 Classification of Elements and Periodicity in Properties Table 3.9 Periodic Trends in Valence of Elements as shown by the Formulas of Their Compounds Group 1 2 13 14 15 16 17 Formula of hydride LiH CaH 2 B 2 H 6 AlH 3 NaH KH Formula Li 2 O MgO of oxide CaO SrO Na 2 O K 2 O BaO this book. There are many elements which exhibit variable valence. This is particularly characteristic of transition elements and actinoids, which we shall study 
+--------------------------------------------------------------------------------
+
+Problem 3.9
+Q: Are the oxidation state and covalency of Al in [AlCl(H 2 O) 5 ] 2+ same ?
+First 1000 chars of Solution:
+No. The oxidation state of Al is +3 and the covalency is 6. 3.7.3 Periodic Trends and Chemical Reactivity We have observed the periodic trends in certain fundamental properties such as atomic and ionic radii, ionization enthalpy, electron gain enthalpy and valence. We know by now that the periodicity is related to electronic configuration. That is, all chemical and physical properties are a manifestation of the electronic configuration of elements. We shall now try to explore relationships between these fundamental properties of elements with their chemical reactivity. The atomic and ionic radii, as we know, generally decrease in a period from left to right. As a consequence, the ionization enthalpies generally increase (with some exceptions as outlined in section 3.7.1(a)) and electron gain enthalpies become more negative across a period. In other words, the ionization enthalpy of the extreme left element in a period is the least and the electron gain enthalpy of the element on the ex
+--------------------------------------------------------------------------------
+
+Problem 3.10
+Q: Show by a chemical reaction with water that Na 2 O is a basic oxide and Cl 2 O 7 is an acidic oxide.
+First 1000 chars of Solution:
+Na 2 O with water forms a strong base whereas Cl 2 O 7 forms strong acid. Na 2 O + H 2 O → 2NaOH Cl 2 O 7 + H 2 O → 2HClO 4 Their basic or acidic nature can be qualitatively tested with litmus paper. Among transition metals (3 d series), the change in atomic radii is much smaller as compared to those of representative elements across the period. The change in atomic radii is still smaller among inner-transition metals (4 f series). The ionization enthalpies are intermediate between those of s- and p- blocks. As a consequence, they are less electropositive than group 1 and 2 metals. 95 Classification of Elements and Periodicity in Properties In a group, the increase in atomic and ionic radii with increase in atomic number generally results in a gradual decrease in ionization enthalpies and a regular decrease (with exception in some third period elements as shown in section 3.7.1(d)) in electron gain enthalpies in the case of main group elements. Thus, the metallic character In this Unit
+--------------------------------------------------------------------------------
+
+Problem 4.1
+Q: Write the Lewis dot structure of CO molecule.
+First 1000 chars of Solution:
+Step 1. Count the total number of valence electrons of carbon and oxygen atoms. The outer (valence) shell configurations of carbon and oxygen atoms are: 2 s 2 2 p 2 and 2 s 2 2 p 4 , respectively. The valence electrons available are 4 + 6 =10. Step 2. The skeletal structure of CO is written as: C O Step 3. Draw a single bond (one shared electron pair) between C and O and complete the octet on O, the remaining two electrons are the lone pair on C. This does not complete the octet on carbon and hence we have to resort to multiple bonding (in this case a triple bond) between C and O atoms. This satisfies the octet rule condition for both atoms.
+--------------------------------------------------------------------------------
+
+Problem 4.2
+Q: Write the Lewis structure of the nitrite ion, NO 2 – .
+First 1000 chars of Solution:
+Step 1. Count the total number of valence electrons of the nitrogen atom, the oxygen atoms and the additional one negative charge (equal to one electron). N(2 s 2 2 p 3 ), O (2 s 2 2 p 4 ) 5 + (2 × 6) +1 = 18 electrons Step 2. The skeletal structure of NO 2 – is written as : O N O Step 3. Draw a single bond (one shared electron pair) between the nitrogen and each of the oxygen atoms completing the octets on oxygen atoms. This, however, does not complete the octet on nitrogen if the remaining two electrons constitute lone pair on it. Hence we have to resort to multiple bonding between nitrogen and one of the oxygen atoms (in this case a double bond). This leads to the following Lewis dot structures. 4.1.4 Formal Charge Lewis dot structures, in general, do not represent the actual shapes of the molecules. In case of polyatomic ions, the net charge is possessed by the ion as a whole and not by a particular atom. It is, however, feasible to assign a formal charge on each atom. The formal c
+--------------------------------------------------------------------------------
+
+Problem 4.3
+Q: Explain the structure of CO 3 2– ion in terms of resonance.
+First 1000 chars of Solution:
+The single Lewis structure based on the presence of two single bonds and one double bond between carbon and oxygen atoms is inadequate to represent the molecule accurately as it represents unequal bonds. According to the experimental findings, all carbon to oxygen bonds in CO 3 2– are equivalent. Therefore the carbonate ion is best described as a resonance hybrid of the canonical forms I, II, and III shown below. Fig. 4.4 Resonance in CO 3 2– , I, II and III represent the three canonical forms.
+--------------------------------------------------------------------------------
+
+Problem 4.4
+Q: Explain the structure of CO 2 molecule.
+First 1000 chars of Solution:
+The experimentally determined carbon to oxygen bond length in CO 2 is 115 pm. The lengths of a normal carbon to oxygen double bond (C=O) and carbon to oxygen triple bond (C ≡ O) are 121 pm and 110 pm respectively. The carbon-oxygen bond lengths in CO 2 (115 pm) lie between the values for C = O and C ≡ O. Obviously, a single Lewis structure cannot depict this position and it becomes necessary to write more than one Lewis structures and to consider that the structure of CO 2 is best described as a hybrid of the canonical or resonance forms I, II and III. Fig. 4.5 Resonance in CO 2 molecule, I, II and III represent the three canonical forms. In general, it may be stated that • Resonance stabilizes the molecule as the energy of the resonance hybrid is less than the energy of any single cannonical structure; and, • R e s o n a n c e a v e r a g e s t h e b o n d characteristics as a whole. Thus the energy of the O 3 resonance hybrid is lower than either of the two cannonical froms I and II 
+--------------------------------------------------------------------------------
+
+Problem 5.1
+Q: Express the change in internal energy of a system when (i) No heat is absorbed by the system from the surroundings, but work (w) is done on the system. What type of wall does the system have ? (ii) No work is done on the system, but q amount of heat is taken out from the system and given to the surroundings. What type of wall does the system have? (iii) w amount of work is done by the system and q amount of heat is supplied to the system. What type of system would it be?
+First 1000 chars of Solution:
+(i) ∆ U = w ad , wall is adiabatic (ii) ∆ U = – q , thermally conducting walls (iii) ∆ U = q – w, closed system. 5.2 Applications Many chemical reactions involve the generation of gases capable of doing mechanical work or the generation of heat. It is important for us to quantify these changes and relate them to the changes in the internal energy. Let us see how! 5.2.1 Work First of all, let us concentrate on the nature of work a system can do. We will consider only mechanical work i.e., pressure-volume work. For understanding pressure-volume work, let us consider a cylinder which contains one mole of an ideal gas fitted with a frictionless piston. Total volume of the gas is V i and pressure of the gas inside is p . If external pressure is p ex which is greater than p , piston is moved inward till the pressure Fig. 5.5 (a) Work done on an ideal gas in a cylinder when it is compressed by a constant external pressure, p ex (in single step) is equal to the shaded area. Reprint 2025-26 THE
+--------------------------------------------------------------------------------
+
+Problem 5.2
+Q: Two litres of an ideal gas at a pressure of 10 atm expands isothermally at 25 °C into a vacuum until its total volume is 10 litres. How much heat is absorbed and how much work is done in the expansion ?
+First 1000 chars of Solution:
+We have q = – w = p ex (10 – 2) = 0(8) = 0 No work is done; no heat is absorbed.
+--------------------------------------------------------------------------------
+
+Problem 5.3
+Q: Consider the same expansion, but this time against a constant external pressure of 1 atm.
+First 1000 chars of Solution:
+We have q = – w = p ex (8) = 8 litre-atm
+--------------------------------------------------------------------------------
+
+Problem 5.4
+Q: Consider the expansion given in problem 5.2, for 1 mol of an ideal gas conducted reversibly.
+First 1000 chars of Solution:
+We have q = – w = 2.303 nRT log V V = 2.303 × 1 × 0.8206 × 298 × log 10 Reprint 2025-26 f s 2 THERMODYNAMICS 143 = 2.303 x 0.8206 x 298 x log 5 = 2.303 x 0.8206 x 298 x 0.6990 = 393.66 L atm 5.2.2 Enthalpy, H (a) A Useful New State Function We know that the heat absorbed at constant volume is equal to change in the internal energy i.e., ∆ U = q V . But most of chemical reactions are carried out not at constant volume, but in flasks or test tubes under constant atmospheric pressure. We need to define another state function which may be suitable under these conditions. We may write equation (5.1) as ∆ U = q p – p ∆ V at constant pressure, where q p is heat absorbed by the system and – p ∆ V represent expansion work done by the system. Let us represent the initial state by subscript 1 and final state by 2 We can rewrite the above equation as U 2 – U 1 = q p – p ( V 2 – V 1 ) On rearranging, we get q p = ( U 2 + pV 2 ) – ( U 1 + pV 1 ) (5.6) Now we can define another thermodynamic function
+--------------------------------------------------------------------------------
+
+Problem 5.5
+Q: If water vapour is assumed to be a perfect gas, molar enthalpy change for vapourisation of 1 mol of water at 1bar and 100°C is 41kJ mol –1 . Calculate the internal energy change, when Reprint 2025-26 chemIstry 144 1 mol of water is vapourised at 1 bar pressure and 100°C.
+First 1000 chars of Solution:
+(i) The change H 2 O ( l ) → H 2 O (g) ∆ H = ∆ U + ∆ ng R T or ∆ U = ∆ H – ∆ n g R T , substituting the values, we get ∆ U = 41.00 kJ mol –1 – 1 × 8.3 J mol –1 K –1 × 373 K = 41.00 kJ mol -1 – 3.096 kJ mol -1 = 37.904 kJ mol –1 (b) Extensive and Intensive Properties In thermodynamics, a distinction is made between extensive properties and intensive properties. An extensive property is a property whose value depends on the quantity or size of matter present in the system. For example, mass, volume, internal energy, enthalpy, heat capacity, etc. are extensive properties. Those properties which do not depend on the quantity or size of matter present are known as intensive properties . For example temperature, density, pressure etc. are intensive properties. A molar property, χ m , is the value of an extensive property χ of the system for 1 mol of the substance. If n is the amount of matter,   m  n is independent of the amount of matter. Other examples are molar volume, V m and molar he
+--------------------------------------------------------------------------------
+
+Problem 5.6
+Q: 1g of graphite is burnt in a bomb calorimeter in excess of oxygen at 298 K and 1 atmospheric pressure according to the equation C (graphite) + O 2 (g) → CO 2 (g) During the reaction, temperature rises from 298 K to 299 K. If the heat capacity of the bomb calorimeter is 20.7kJ/K, what is the enthalpy change for the above reaction at 298 K and 1 atm?
+First 1000 chars of Solution:
+Suppose q is the quantity of heat from the reaction mixture and C V is the heat capacity of the calorimeter, then the quantity of heat absorbed by the calorimeter. q = C V × ∆ T Quantity of heat from the reaction will have the same magnitude but opposite sign because the heat lost by the system (reaction mixture) is equal to the heat gained by the calorimeter. q = – C V × ∆ T = – 20.7 kJ/K × (299 – 298) K = – 20.7 kJ (Here, negative sign indicates the exothermic nature of the reaction) Thus, ∆ U for the combustion of the 1g of graphite = – 20.7 kJK –1 For combustion of 1 mol of graphite,     1 . . g kJ g = mol 12 0 20 7 1 = – 2.48 ×10 2 kJ mol –1 , Since ∆ n g = 0, ∆ H = ∆ U = – 2.48 ×10 2 kJ mol –1 5.4 Enthalpy change, ∆ r H of a reaction – Reaction Enthalpy In a chemical reaction, reactants are converted into products and is represented by, Reactants → Products The enthalpy change accompanying a reaction is called the reaction enthalpy . The enthalpy change of a chemical reactio
+--------------------------------------------------------------------------------
+
+Problem 5.7
+Q: A swimmer coming out from a pool is covered with a film of water weighing about 18g. How much heat must be supplied to evaporate this water at 298 K ? Calculate the internal energy of vaporisation at 298K. ∆ vap H  for water at 298K= 44.01kJ mol –1
+First 1000 chars of Solution:
+We can represent the process of evaporation as → vaporisation 2 2 H O(1) H O(g) 1mol 1mol No. of moles in 18 g H 2 O(l) is –1 18g = =1 mol 18g mol Heat supplied to evaporate18g water at 298 K = n × ∆ vap H  = (1 mol) × (44.01 kJ mol –1 ) = 44.01 kJ (assuming steam behaving as an ideal gas). ∆ vap U = ∆ vap H  – p ∆ V = ∆ vap H  – ∆ n g RT ∆ vap H V – ∆ n g R T = 44.01 kJ –(1)(8.314 JK –1 mol –1 )(298K)(10 –3 kJ J –1 ) ∆ vap U V = 44.01 kJ – 2.48kJ = 41.53 kJ
+--------------------------------------------------------------------------------
+
+Problem 5.8
+Q: Assuming the water vapour to be a perfect gas, calculate the internal energy change when 1 mol of water at 100°C and 1 bar pressure is converted to ice at 0°C. Given the enthalpy of fusion of ice is 6.00 kJ mol -1 heat capacity of water is 4.2 J/g°C The change take place as follows: Step - 1 1 mol H 2 O (l, 100°C)  1 mol (l, 0°C) Enthalpy change ∆ H 1 Step - 2 1 mol H 2 O (l, 0°C)  1 mol H 2 O( S, 0°C) Enthalpy change ∆ H 2 Total enthalpy change will be - ∆ H = ∆ H 1 + ∆ H 2 ∆ H 1 = - (18 x 4.2 x 100) J mol -1 = - 7560 J mol -1 = - 7.56 k J mol -1 ∆ H 2 = - 6.00 kJ mol -1 Reprint 2025-26 THERMODYNAMICS 149 Table 5.2 Standard Molar Enthalpies of Formation ( ∆ f H  ) at 298K of a Few Selected Substances Therefore, ∆ H = - 7.56 kJ mol -1 + (-6.00 kJ mol -1 ) = -13.56 kJ mol -1 There is negligible change in the volume during the change form liquid to solid state. Therefore, p ∆ v = ∆ ng RT = 0 ∆ H = ∆ U = - 13.56kJ mol -1 (c) Standard Enthalpy of Formation The standard enthalpy change for the formation of one mole of a compound from its elements in their most stable states of aggregation (also known as reference states) is called Standard Molar Enthalpy of Formation. Its symbol is ∆ f H  , where the subscript ‘ f ’ indicates that one mole of the compound in question has been formed in its standard state from its elements in their most stable states of aggregation. The reference state of an element is its most stable state of aggregation at 25°C and 1 bar pressure. For example, the reference state of dihydrogen is H 2 gas and those of dioxygen, carbon and sulphur are O 2 gas, C graphite and S rhombic respectively. Some reactions with standard molar enthalpies of formation are as follows. Reprint 2025-26 chemIstry 150 H 2 (g) + ½O 2 (g) → H 2 O(1); ∆ f H  = –285.8 kJ mol –1 C (graphite, s) + 2H 2 (g) → Ch 4 (g) ; ∆ f H  = –74.81 kJ mol –1 2C (graphite, s)+3H 2 (g)+ ½O 2 (g) → C 2 H 5 OH(1); ∆ f H  = – 277.7kJ mol –1 It is important to understand that a standard molar enthalpy of formation, ∆ f H  , is just a special case of ∆ r H  , where one mole of a compound is formed from its constituent elements, as in the above three equations, where 1 mol of each, water, methane and ethanol is formed. In contrast, the enthalpy change for an exothermic reaction: CaO(s) + CO 2 (g) → CaCo 3 (s); ∆ r H  = – 178.3kJ mol –1 is not an enthalpy of formation of calcium carbonate, since calcium carbonate has been formed from other compounds, and not from its constituent elements. Also, for the reaction given below, enthalpy change is not standard enthalpy of formation, ∆ f H  for HBr(g). H 2 (g) + Br 2 ( l ) → 2HBr(g); ∆ r H  = – 178.3kJ mol –1 Here two moles, instead of one mole of the product is formed from the elements, i.e., ∆ r H  = 2 ∆ f H  Therefore, by dividing all coefficients in the balanced equation by 2, expression for enthalpy of formation of HBr (g) is written as ½H 2 (g) + ½Br 2 (1) → HBr(g); ∆ f H  = – 36.4 kJ mol –1 Standard enthalpies of formation of some common substances are given in Table 5.2. By convention, standard enthalpy for formation, ∆ f H  , of an element in reference state, i.e., its most stable state of aggregation is taken as zero. Suppose, you are a chemical engineer and want to know how much heat is required to decompose calcium carbonate to lime and carbon dioxide, with all the substances in their standard state. CaCO 3 (s) → CaO(s) + CO 2 (g); ∆ r H  = ? Here, we can make use of standard enthalpy of formation and calculate the enthalpy change for the reaction. The following general equation can be used for the enthalpy change calculation. i ∑ a i ∆ f H  (products) – i ∑ b i ∆ f H  (reactants) (5.15) where a and b represent the coefficients of the products and reactants in the balanced equation. Let us apply the above equation for decomposition of calcium carbonate. Here, coefficients ‘a’ and ‘b’ are 1 each. Therefore, ∆ r H  = ∆ f H  = [CaO(s)]+ ∆ f H  [CO 2 (g)] – ∆ f H  = [CaCO 3 (s)] =1 (–635.1 kJ mol –1 ) + 1(–393.5 kJ mol –1 ) –1(–1206.9 kJ mol –1 ) = 178.3 kJ mol –1 ∆ r H  = Thus, the decomposition of CaCO 3 (s) is an endothermic process and you have to heat it for getting the desired products. (d) Thermochemical Equations A balanced chemical equation together with the value of its ∆ r H is called a thermochemical equation. We specify the physical state (alongwith allotropic state) of the substance in an equation. For example: C 2 H 5 OH( l ) + 3O 2 (g) → 2CO 2 (g) + 3H 2 O( l ); ∆ r H  = – 1367 kJ mol –1 The above equation describes the combustion of liquid ethanol at constant temperature and pressure. The negative sign of enthalpy change indicates that this is an exothermic reaction. It would be necessary to remember the following conventions regarding thermo- chemical equations. 1. The coefficients in a balanced thermo- chemical equation refer to the number of moles (never molecules) of reactants and products involved in the reaction. 2. The numerical value of ∆ r H  refers to the number of moles of substances specified by an equation. Standard enthalpy change ∆ r H  will have units as kJ mol –1 . Reprint 2025-26 THERMODYNAMICS 151 To illustrate the concept, let us consider the calculation of heat of reaction for the following reaction : Fe O s H g Fe s H O l 2 3 2 2 3 2 3        , From the Table (5.2) of standard enthalpy of formation ( ∆ f H  ), we find : ∆ f H  (H 2 O, l ) = –285.83 kJ mol –1 ; ∆ f H  (Fe 2 O 3 ,s) = – 824.2 kJ mol –1 ; Also ∆ f H  (Fe, s) = 0 and ∆ f H  (H 2 , g) = 0 as per convention Then, ∆ f H 1  = 3(–285.83 kJ mol –1 ) – 1(– 824.2 kJ mol –1 ) = (–857.5 + 824.2) kJ mol –1 = –33.3 kJ mol –1 Note that the coefficients used in these calculations are pure numbers, which are equal to the respective stoichiometric coefficients. The unit for ∆ r H  is kJ mol –1 , which means per mole of reaction . Once we balance the chemical equation in a particular way, as above, this defines the mole of reaction . If we had balanced the equation differently, for example, 1 2 3 2 3 2 2 3 2 2 Fe O s H g Fe s H O l        then this amount of reaction would be one mole of reaction and ∆ r H  would be ∆ f H 2  = 3 2 (–285.83 kJ mol –1 ) – 1 2 (–824.2 kJ mol –1 ) = (– 428.7 + 412.1) kJ mol –1 = –16.6 kJ mol –1 = ½ ∆ r H 1  It shows that enthalpy is an extensive quantity. 3. When a chemical equation is reversed, the value of ∆ r H  is reversed in sign. For example N 2 (g) + 3H 2 (g) → 2NH 3 (g); ∆ r H  = – 91.8 kJ. mol –1 2NH 3 (g) → N 2 (g) + 3H 2 (g); ∆ r H  = + 91.8 kJ mol –1 (e) Hess’s Law of Constant Heat Summation We know that enthalpy is a state function, therefore the change in enthalpy is independent of the path between initial state (reactants) and final state (products). In other words, enthalpy change for a reaction is the same whether it occurs in one step or in a series of steps. This may be stated as follows in the form of Hess’s Law. If a reaction takes place in several steps then its standard reaction enthalpy is the sum of the standard enthalpies of the intermediate reactions into which the overall reaction may be divided at the same temperature. Let us understand the importance of this law with the help of an example. Consider the enthalpy change for the reaction C (graphite,s) + O 2 (g) → CO (g); ∆ r H  = ? Although CO(g) is the major product, some CO 2 gas is always produced in this reaction. Therefore, we cannot measure enthalpy change for the above reaction directly. However, if we can find some other reactions involving related species, it is possible to calculate the enthalpy change for the above reaction. Let us consider the following reactions: C (graphite,s) + O 2 (g) → CO 2 (g); ∆ r H  = – 393.5 kJ mol –1 (i) CO (g) + 1 2 O 2 (g) → CO 2 (g) ∆ r H  = – 283.0 kJ mol –1 (ii) We can combine the above two reactions in such a way so as to obtain the desired reaction. To get one mole of CO(g) on the right, we reverse equation (ii). In this, heat is absorbed instead of being released, so we change sign of ∆ r H  value CO 2 (g) → CO (g) + O 2 (g); ∆ r H  = + 283.0 kJ mol –1 (iii) Reprint 2025-26 chemIstry 152 Adding equation (i) and (iii), we get the desired equation, C graphite s O g CO g , ;       1 2 2 for which ∆ r H  = (– 393.5 + 283.0) = – 110.5 kJ mol –1 In general, if enthalpy of an overall reaction A → B along one route is ∆ r H and ∆ r H 1 , ∆ r H 2 , ∆ r H 3 ..... representing enthalpies of reactions leading to same product, B along another route, then we have ∆ r H = ∆ r H 1 + ∆ r H 2 + ∆ r H 3 ... (5.16) It can be represented as: ∆ r H A B ∆ r H 3 ∆ H 1 C D ∆ r H 2 5.5 Enthalpies for different types of reactions It is convenient to give name to enthalpies specifying the types of reactions. (a) Standard Enthalpy of Combustion (symbol : ∆ c H  ) Combustion reactions are exothermic in nature. These are important in industry, rocketry, and other walks of life. Standard enthalpy of combustion is defined as the enthalpy change per mole (or per unit amount) of a substance, when it undergoes combustion and all the reactants and products being in their standard states at the specified temperature. Cooking gas in cylinders contains mostly butane (C 4 H 10 ). During complete combustion of one mole of butane, 2658 kJ of heat is released. We can write the thermochemical reactions for this as: C H g O g CO g H O 4 10 2 2 2 13 2 4 5 1 ( ) ( ) ( ) ( );    ∆ C H  = – 2658.0 kJ mol –1 Similarly, combustion of glucose gives out 2802.0 kJ/mol of heat, for which the overall equation is : C H O g O g CO g H O 6 12 6 2 2 2 6 6 6 1 ( ) ( ) ( ) ( );    ∆ C H  = – 2802.0 kJ mol –1 Our body also generates energy from food by the same overall process as combustion, although the final products are produced after a series of complex bio-chemical reactions involving enzymes.
+First 1000 chars of Solution:
+
+--------------------------------------------------------------------------------
+
+Problem 5.9
+Q: The combustion of one mole of benzene takes place at 298 K and 1 atm. After combustion, CO 2 (g) and H 2 O (1) are produced and 3267.0 kJ of heat is liberated. Calculate the standard enthalpy of formation, ∆ f H  of benzene. Standard enthalpies of formation of CO 2 (g) and H 2 O(l) are –393.5 kJ mol –1 and – 285.83 kJ mol –1 respectively.
+First 1000 chars of Solution:
+The formation reaction of benezene is given by : 6 3 2 6 6 C graphite H g C H l       ; ∆ f H  = ? ... (i) The enthalpy of combustion of 1 mol of benzene is : C H l O CO g H O l 6 6 2 2 2 15 2 6 3       ; ∆ C H  = – 3267 kJ mol –1 ... (ii) The enthalpy of formation of 1 mol of CO 2 (g) : C graphite O g CO g       2 2 ; ∆ f H  = – 393.5 kJ mol –1 ... (iii) The enthalpy of formation of 1 mol of H 2 O(l) is : H g O g H O l 2 2 2 1 2      ; ∆ C H  = – 285.83 kJ mol –1 ... (iv) multiplying eqn. (iii) by 6 and eqn. (iv) by 3 we get: Reprint 2025-26 THERMODYNAMICS 153 6 6 6 2 2 C graphite O g CO g       ; ∆ f H  = – 2361 kJ mol –1 3 3 2 3 1 2 2 2 H g O g H O      ; ∆ f H  = – 857.49 kJ mol –1 Summing up the above two equations : 6 3 15 2 6         C graphite H g O g CO g 2 2 2   ; 3 ∆ f H  = – 3218.49 kJ mol –1 ... (v) Reversing equation (ii); 6 3 15 2 2 2 6 6 2 CO g H O l C H l O       ; ∆ f H  = – 3267.0 kJ mol 
+--------------------------------------------------------------------------------
+
+Problem 5.10
+Q: Predict in which of the following, entropy increases/decreases : (i) A liquid crystallizes into a solid. (ii) Temperature of a crystalline solid is raised from 0 K to 115 K. CO g H O g          iii NaHCO s Na CO s 2 3 2 3 2 2 (iv) H g H g 2 2   
+First 1000 chars of Solution:
+(i) After freezing, the molecules attain an ordered state and therefore, entropy decreases. (ii) At 0 K, the contituent particles are static and entropy is minimum. If temperature is raised to 115 K, these begin to move and oscillate Reprint 2025-26 chemIstry 160 about their equilibrium positions in the lattice and system becomes more disordered, therefore entropy increases. (iii) Reactant, NaHCO 3 is a solid and it has low entropy. Among products there are one solid and two gases. Therefore, the products represent a condition of higher entropy. (iv) Here one molecule gives two atoms i.e., number of particles increases leading to more disordered state. Two moles of H atoms have higher entropy than one mole of dihydrogen molecule.
+--------------------------------------------------------------------------------
+
+Problem 5.11
+Q: For oxidation of iron, 4 3 2 2 2 3 Fe s O g Fe O s      entropy change is – 549.4 JK –1 mol –1 at 298 K. Inspite of negative entropy change of this reaction, why is the reaction spontaneous? ( ∆ r H  for this reaction is –1648 × 10 3 J mol –1 )
+First 1000 chars of Solution:
+One decides the spontaneity of a reaction by considering    S S S total sys surr    . For calculating ∆ S surr , we have to consider the heat absorbed by the surroundings which is equal to – ∆ r H  . At temperature T, entropy change of the surroundings is       1648 10 3 1 J mol 298 K = 5530 JK –1 mol –1 Thus, total entropy change for this reaction  r total S   1 1 – – 5530 1 1 JK mol    – – . 549 4 JK mol = 4980.6 JK –1 mol –1 This shows that the above reaction is spontaneous. (c) Gibbs Energy and Spontaneity We have seen that for a system, it is the total entropy change, ∆ S total which decides the spontaneity of the process. But most of the chemical reactions fall into the category of either closed systems or open systems. Therefore, for most of the chemical reactions there are changes in both enthalpy and entropy. It is clear from the discussion in previous sections that neither decrease in enthalpy nor increase in entropy alone can determine the direction of sp
+--------------------------------------------------------------------------------
+
+Problem 5.12
+Q: Calculate ∆ r G  for conversion of oxygen to ozone, 3/2 O 2 (g) → O 3 (g) at 298 K. if K p for this conversion is 2.47 × 10 –29 .
+First 1000 chars of Solution:
+We know ∆ r G  = – 2.303 R T log K p and R = 8.314 JK –1 mol –1 Therefore, ∆ r G  = – 2.303 (8.314 J K –1 mol –1 ) × (298 K) (log 2.47 × 10 –29 ) = 163000 J mol –1 = 163 kJ mol –1 .
+--------------------------------------------------------------------------------
+
+Problem 5.13
+Q: Find out the value of equilibrium constant for the following reaction at 298 K. Standard Gibbs energy change, ∆ r G  at the given temperature is –13.6 kJ mol –1 .
+First 1000 chars of Solution:
+We know, log K = 3        –1 – . 13 6 10 J mol = –1 –1 . . 2 303 8 314 298 JK mol K = 2.38 Hence K = antilog 2.38 = 2.4 × 10 2 .
+--------------------------------------------------------------------------------
+
+Problem 5.14
+Q: At 60°C, dinitrogen tetroxide is 50 per cent dissociated. Calculate the standard free energy change at this temperature and at one atmosphere.
+First 1000 chars of Solution:
+N 2 O 4 (g) 2NO 2 (g) If N 2 O 4 is 50% dissociated, the mole fraction of both the substances is given by 2 0 5 1 0 5       . . : . . x x N O NO 2 4 2 1 0 5 1 0 5 p p N O NO 2 4 2 0 5 1 5 1 . .    atm, 1 1 5 1  atm. . The equilibrium constant K p is given by 2 4    2 p 2 1 5 1 5 0 5 . ( . ) ( . ) NO K p = 2 p N O = 1.33 atm. Since ∆ r G  = –R T ln K p ∆ r G  = (– 8.314 JK –1 mol –1 ) × (333 K) × (2.303) × (0.1239) = – 763.8 kJ mol –1 Reprint 2025-26 chemIstry 164 Thermodynamics deals with energy changes in chemical or physical processes and enables us to study these changes quantitatively and to make useful predictions. For these purposes, we divide the universe into the system and the surroundings. Chemical or physical processes lead to evolution or absorption of heat ( q ), part of which may be converted into work (w). These quantities are related through the first law of thermodynamics via ∆ U = q + w. ∆ U , change in internal energy, depends on initial and final stat
+--------------------------------------------------------------------------------
+
+Problem 6.1
+Q: The following concentrations were obtained for the formation of NH 3 from N 2 and H 2 at equilibrium at 500K. [N 2 ] = 1.5 × 10 –2 M. [H 2 ] = 3.0 ×10 –2 M and [NH 3 ] = 1.2 ×10 –2 M. Calculate equilibrium constant.
+First 1000 chars of Solution:
+The equilibrium constant for the reaction, N 2 (g) + 3H 2 (g) 2NH 3 (g) can be written as,          2 NH g 3 K c = 3 N g H g 2 2    2 2  2 1 2 10  . =    . 3 0 10 2 3 .     1 5 10 = 0.355 × 10 3 = 3.55 × 10 2
+--------------------------------------------------------------------------------
+
+Problem 6.2
+Q: At equilibrium, the concentrations of N 2 =3.0 × 10 –3 M, O 2 = 4.2 × 10 –3 M and NO= 2.8 × 10 –3 M in a sealed vessel at 800K. What will be K c for the reaction N 2 (g) + O 2 (g) 2NO(g)
+First 1000 chars of Solution:
+For the reaction equilibrium constant, K c can be written as, 2 K c = NO N O 2 2 2 = 2.8 10 M –3 3 3 3 0 10 4 2 10 M M . . = 0.622 6.4 HOMOGENEOUS EQUILIBRIA In a homogeneous system, all the reactants and products are in the same phase. For example, in the gaseous reaction, N 2 (g) + 3H 2 (g) 2NH 3 (g), reactants and products are in the homogeneous phase. Similarly, for the reactions, CH 3 COOC 2 H 5 (aq) + H 2 O (l) CH 3 COOH (aq) + C 2 H 5 OH (aq) and, Fe 3+ (aq) + SCN – (aq) Fe(SCN) 2+ (aq) all the reactants and products are in homogeneous solution phase. We shall now consider equilibrium constant for some homogeneous reactions. n ) 6.4.1 Equilibrium Constant in Gaseous Systems So far we have expressed equilibrium constant of the reactions in terms of molar concentration of the reactants and products, and used symbol, K c for it. For reactions involving gases, however, it is usually more convenient to express the equilibrium constant in terms of partial pressure. The ideal gas equat
+--------------------------------------------------------------------------------
+
+Problem 6.3
+Q: PCl 5 , PCl 3 and Cl 2 are at equilibrium at 500 K and having concentration 1.59M PCl 3 , 1.59M Cl 2 and 1.41 M PCl 5 . Reprint 2025-26 179 EQUILIBRIUM Calculate K c for the reaction, PCl 5 PCl 3 + Cl 2
+First 1000 chars of Solution:
+The equilibrium constant K c for the above reaction can be written as, PCl              3 2 2 1 59 1 41 1 79 . . . K c PCl Cl 5
+--------------------------------------------------------------------------------
+
+Problem 6.4
+Q: The value of K c = 4.24 at 800K for the reaction, CO (g) + H 2 O (g) CO 2 (g) + H 2 (g) Calculate equilibrium concentrations of CO 2 , H 2 , CO and H 2 O at 800 K, if only CO and H 2 O are present initially at concentrations of 0.10M each.
+First 1000 chars of Solution:
+For the reaction, CO (g) + H 2 O (g) CO 2 (g) + H 2 (g) Initial concentration: 0.1M 0.1M 0 0 Let x mole per litre of each of the product be formed. At equilibrium: (0.1-x) M (0.1-x) M x M x M where x is the amount of CO 2 and H 2 at equilibrium. Hence, equilibrium constant can be written as, K c = x 2 / (0.1-x) 2 = 4.24 x 2 = 4.24(0.01 + x 2 -0.2x) x 2 = 0.0424 + 4.24x 2 -0.848x 3.24x 2 – 0.848x + 0.0424 = 0 a = 3.24, b = – 0.848, c = 0.0424 (for quadratic equation ax 2 + bx + c = 0, a       2 4 x b b ac 2 x = 0.848± √ (0.848) 2 – 4(3.24)(0.0424)/ (3.24×2) x = (0.848 ± 0.4118)/ 6.48 x 1 = (0.848 – 0.4118)/6.48 = 0.067 x 2 = (0.848 + 0.4118)/6.48 = 0.194 the value 0.194 should be neglected because it will give concentration of the reactant which is more than initial concentration. Hence the equilibrium concentrations are, [CO 2 ] = [H 2- ] = x = 0.067 M [CO] = [H 2 O] = 0.1 – 0.067 = 0.033 M
+--------------------------------------------------------------------------------
+
+Problem 6.5
+Q: For the equilibrium, 2NOCl(g) 2NO(g) + Cl 2 (g) the value of the equilibrium constant, K c is 3.75 × 10 –6 at 1069 K. Calculate the K p for the reaction at this temperature?
+First 1000 chars of Solution:
+We know that, K p = K c (R T ) ∆ n For the above reaction, ∆ n = (2+1) – 2 = 1 K p = 3.75 ×10 –6 (0.0831 × 1069) K p = 0.033 6.5 HETEROGENEOUS EQUILIBRIA Equilibrium in a system having more than one phase is called heterogeneous equilibrium. The equilibrium between water vapour and liquid water in a closed container is an example of heterogeneous equilibrium. H 2 O(l) H 2 O(g) In this example, there is a gas phase and a liquid phase. In the same way, equilibrium between a solid and its saturated solution, Ca(OH) 2 (s) + (aq) Ca 2+ (aq) + 2OH – (aq) is a heterogeneous equilibrium. Heterogeneous equilibria often involve pure solids or liquids. We can simplify equilibrium expressions for the heterogeneous equilibria involving a pure liquid or a pure solid, as the molar concentration of a pure solid or liquid is constant (i.e., independent of the amount present). In other words if a substance ‘X’ is involved, then [X(s)] and [X(l)] are constant, whatever the amount of ‘X’ is taken. Contrar
+--------------------------------------------------------------------------------
+
+Problem 6.6
+Q: The value of K p for the reaction, CO 2 (g) + C (s) 2CO (g) is 3.0 at 1000 K. If initially P CO2 = 0.48 bar and P CO = 0 bar and pure graphite is present, calculate the equilibrium partial pressures of CO and CO 2 .
+First 1000 chars of Solution:
+For the reaction, let ‘x’ be the decrease in pressure of CO 2 , then CO 2 (g) + C(s) 2CO(g) Initial pressure: 0.48 bar 0 Reprint 2025-26 181 EQUILIBRIUM At equilibrium: (0.48 – x)bar 2x bar 2 K p = p p CO CO 2 K p = (2x) 2 /(0.48 – x) = 3 4x 2 = 3(0.48 – x) 4x 2 = 1.44 – x 4x 2 + 3x – 1.44 = 0 a = 4, b = 3, c = –1.44 a       2 4 x b b ac 2 = [–3 ± √ (3) 2 – 4(4)(–1.44)]/2 × 4 = (–3 ± 5.66)/8 = (–3 + 5.66)/8 (as value of x cannot be negative hence we neglect that value) x = 2.66/8 = 0.33 The equilibrium partial pressures are, p CO2 = 2x = 2 × 0.33 = 0.66 bar p CO2 = 0.48 – x = 0.48 – 0.33 = 0.15 bar 6.6 APPLICATIONS OF EQUILIBRIUM CONSTANTS Before considering the applications of equilibrium constants, let us summarise the important features of equilibrium constants as follows: 1. Expression for equilibrium constant is applicable only when concentrations of the reactants and products have attained constant value at equilibrium state. 2. The value of equilibrium constant is independ
+--------------------------------------------------------------------------------
+
+Problem 6.7
+Q: The value of K c for the reaction 2A B + C is 2 × 10 –3 . At a given time, the composition of reaction mixture is [A] = [B] = [C] = 3 × 10 –4 M. In which direction the reaction will proceed? Reprint 2025-26 183 EQUILIBRIUM
+First 1000 chars of Solution:
+For the reaction the reaction quotient Q c is given by, Q c = [B][C]/ [A] 2 as [A] = [B] = [C] = 3 × 10 –4 M Q c = (3 ×10 –4 )(3 × 10 –4 ) / (3 ×10 –4 ) 2 = 1 as Q c > K c so the reaction will proceed in the reverse direction. 6.6.3 Calculating Equilibrium Concentrations In case of a problem in which we know the initial concentrations but do not know any of the equilibrium concentrations, the following three steps shall be followed: Step 1. Write the balanced equation for the reaction. Step 2. Under the balanced equation, make a table that lists for each substance involved in the reaction: (a) the initial concentration, (b) the change in concentration on going to equilibrium, and (c) the equilibrium concentration. In constructing the table, define x as the concentration (mol/L) of one of the substances that reacts on going to equilibrium, then use the stoichiometry of the reaction to determine the concentrations of the other substances in terms of x. Step 3. Substitute the equilibrium 
+--------------------------------------------------------------------------------
+
+Problem 6.8
+Q: 13.8g of N 2 O 4 was placed in a 1L reaction vessel at 400K and allowed to attain equilibrium N 2 O 4 (g)  2NO 2 (g) The total pressure at equilbrium was found to be 9.15 bar. Calculate K c , K p and partial pressure at equilibrium.
+First 1000 chars of Solution:
+We know pV = n R T Total volume ( V ) = 1 L Molecular mass of N 2 O 4 = 92 g Number of moles = 13.8g/92 g = 0.15 of the gas ( n ) Gas constant (R) = 0.083 bar L mol –1 K –1 Temperature ( T ) = 400 K pV = n R T p × 1L = 0.15 mol × 0.083 bar L mol –1 K –1 × 400 K p = 4.98 bar N 2 O 4 2NO 2 Initial pressure: 4.98 bar 0 At equilibrium: (4.98 – x) bar 2x bar Hence, p total at equilibrium = p N2O4 + p NO2 9.15 = (4.98 – x) + 2x 9.15 = 4.98 + x x = 9.15 – 4.98 = 4.17 bar Partial pressures at equilibrium are, p N2O4 = 4.98 – 4.17 = 0.81bar p NO2 = 2x = 2 × 4.17 = 8.34 bar 2   / = (8.34) 2 /0.81 = 85.87 K p p p NO N O = 2 2 4 K p = K c (R T ) ∆ n 85.87 = K c (0.083 × 400) 1 K c = 2.586 = 2.6
+--------------------------------------------------------------------------------
+
+Problem 6.9
+Q: 3.00 mol of PCl 5 kept in 1L closed reaction vessel was allowed to attain equilibrium at 380K. Calculate composition of the mixture at equilibrium. K c = 1.80
+First 1000 chars of Solution:
+PCl 5 PCl 3 + Cl 2 Initial concentration: 3.0 0 0 Reprint 2025-26 184 chemistry Let x mol per litre of PCl 5 be dissociated, At equilibrium: (3-x) x x K c = [PCl 3 ][Cl 2 ]/[PCl 5 ] 1.8 = x 2 / (3 – x) x 2 + 1.8x – 5.4 = 0 x = [–1.8 ± √ (1.8) 2 – 4(–5.4)]/2 x = [–1.8 ± √ 3.24 + 21.6]/2 x = [–1.8 ± 4.98]/2 x = [–1.8 + 4.98]/2 = 1.59 [PCl 5 ] = 3.0 – x = 3 –1.59 = 1.41 M [PCl 3 ] = [Cl 2 ] = x = 1.59 M 6.7 Relationship between Equilibrium Constant K , Reaction Quotient Q and Gibbs Energy G The value of K c for a reaction does not depend on the rate of the reaction. However, as you have studied in Unit 5, it is directly related to the thermodynamics of the reaction and in particular, to the change in Gibbs energy, ∆ G . If, • ∆ G is negative, then the reaction is spontaneous and proceeds in the forward direction. • ∆ G is positive, then reaction is considered non-spontaneous. Instead, as reverse reaction would have a negative ∆ G , the products of the forward reaction shall be converted t
+--------------------------------------------------------------------------------
+
+Problem 6.10
+Q: The value of ∆ G  for the phosphorylation of glucose in glycolysis is 13.8 kJ/mol. Find the value of K c at 298 K.
+First 1000 chars of Solution:
+∆ G  = 13.8 kJ/mol = 13.8 × 10 3 J/mol Also, ∆ G  = – RT ln K c Hence, ln K c = –13.8 × 10 3 J/mol (8.314 J mol –1 K –1 × 298 K) ln K c = – 5.569 K c = e –5.569 K c = 3.81 × 10 –3
+--------------------------------------------------------------------------------
+
+Problem 6.11
+Q: Hydrolysis of sucrose gives, Sucrose + H 2 O Glucose + Fructose Equilibrium constant K c for the reaction is 2 ×10 13 at 300K. Calculate ∆ G  at 300K.
+First 1000 chars of Solution:
+∆ G  = – R T ln K c ∆ G  = – 8.314J mol –1 K –1 × 300K × ln(2×10 13 ) ∆ G  = – 7.64 ×10 4 J mol –1 6.8 FACTORS AFFECTING EQUILIBRIA One of the principal goals of chemical synthesis is to maximise the conversion of the Reprint 2025-26 185 EQUILIBRIUM reactants to products while minimising the expenditure of energy. This implies maximum yield of products at mild temperature and pressure conditions. If it does not happen, then the experimental conditions need to be adjusted. For example, in the Haber process for the synthesis of ammonia from N 2 and H 2 , the choice of experimental conditions is of real economic importance. Annual world production of ammonia is about hundred million tones, primarily for use as fertilisers. Equilibrium constant, K c is independent of initial concentrations. But if a system at equilibrium is subjected to a change in the concentration of one or more of the reacting substances, then the system is no longer at equilibrium; and net reaction takes place in so
+--------------------------------------------------------------------------------
+
+Problem 6.12
+Q: What will be the conjugate bases for the following Brönsted acids: HF, H 2 SO 4 and HCO 3 – ?
+First 1000 chars of Solution:
+The conjugate bases should have one proton less in each case and therefore the corresponding conjugate bases are: F – , HSO 4 – and CO 3 2– respectively.
+--------------------------------------------------------------------------------
+
+Problem 6.13
+Q: Write the conjugate acids for the following Brönsted bases: NH 2 – , NH 3 and HCOO – .
+First 1000 chars of Solution:
+The conjugate acid should have one extra proton in each case and therefore the corresponding conjugate acids are: NH 3 , NH 4 + and HCOOH respectively.
+--------------------------------------------------------------------------------
+
+Problem 6.14
+Q: The species: H 2 O, HCO 3 – , HSO 4 – and NH 3 can act both as Bronsted acids and bases. For each case give the corresponding conjugate acid and conjugate base.
+First 1000 chars of Solution:
+The answer is given in the following Table: Species Conjugate Conjugate acid base H 2 O H 3 O + OH – HCO 3 – H 2 CO 3 CO 3 2– HSO 4 – H 2 SO 4 SO 4 2– NH 3 NH 4 + NH 2 – Reprint 2025-26 192 chemistry 6.10.3 Lewis Acids and Bases G.N. Lewis in 1923 defined an acid as a species which accepts electron pair and base which donates an electron pair . As far as bases are concerned, there is not much difference between Brönsted-Lowry and Lewis concepts, as the base provides a lone pair in both the cases. However, in Lewis concept many acids do not have proton. A typical example is reaction of electron deficient species BF 3 with NH 3 . BF 3 does not have a proton but still acts as an acid and reacts with NH 3 by accepting its lone pair of electrons. The reaction can be represented by, BF 3 + :NH 3 → BF 3 :NH 3 Electron deficient species like AlCl 3 , Co 3+ , Mg 2+ , etc. can act as Lewis acids while species like H 2 O, NH 3 , OH – etc. which can donate a pair of electrons, can act as Lewis bas
+--------------------------------------------------------------------------------
+
+Problem 6.15
+Q: Classify the following species into Lewis acids and Lewis bases and show how these act as such: (a) HO – (b) F – (c) H + (d) BCl 3
+First 1000 chars of Solution:
+(a) Hydroxyl ion is a Lewis base as it can donate an electron lone pair (:OH – ). (b) Flouride ion acts as a Lewis base as it can donate any one of its four electron lone pairs. (c) A proton is a Lewis acid as it can accept a lone pair of electrons from bases like hydroxyl ion and fluoride ion. (d) BCl 3 acts as a Lewis acid as it can accept a lone pair of electrons from species like ammonia or amine molecules. 6.11 IONIZATION OF ACIDS AND BASES Arrhenius concept of acids and bases becomes useful in case of ionization of acids and bases as mostly ionizations in chemical and biological systems occur in aqueous medium. Strong acids like perchloric acid (HClO 4 ), hydrochloric acid (HCl), hydrobromic acid (HBr), hyrdoiodic acid (HI), nitric acid (HNO 3 ) and sulphuric acid (H 2 SO 4 ) are termed strong because they are almost completely dissociated into their constituent ions in an aqueous medium, thereby acting as proton (H + ) donors. Similarly, strong bases like lithium hydroxide (LiOH
+--------------------------------------------------------------------------------
+
+Problem 6.16
+Q: The concentration of hydrogen ion in a sample of soft drink is 3.8 × 10 –3 M. what is its pH ?
+First 1000 chars of Solution:
+pH = – log[3.8 × 10 –3 ] = – {log[3.8] + log[10 –3 ]} = – {(0.58) + (– 3.0)} = – { – 2.42} = 2.42 Therefore, the pH of the soft drink is 2.42 and it can be inferred that it is acidic.
+--------------------------------------------------------------------------------
+
+Problem 6.17
+Q: Calculate pH of a 1.0 × 10 –8 M solution of HCl. Reprint 2025-26 195 EQUILIBRIUM Table 6.5 The pH of Some Common Substances Name of the Fluid pH Name of the Fluid pH Saturated solution of NaOH ~15 Black Coffee 5.0 0.1 M NaOH solution 13 Tomato juice ~4.2 Lime water 10.5 Soft drinks and vinegar ~3.0 Milk of magnesia 10 Lemon juice ~2.2 Egg white, sea water 7.8 Gastric juice ~1.2 Human blood 7.4 1M HCl solution ~0 Milk 6.8 Concentrated HCl ~–1.0 Human Saliva 6.4
+First 1000 chars of Solution:
+2H 2 O (l) H 3 O + (aq) + OH – (aq) K w = [OH – ][H 3 O + ] = 10 –14 Let, x = [OH – ] = [H 3 O + ] from H 2 O. The H 3 O + concentration is generated (i) from the ionization of HCl dissolved i.e., HCl(aq) + H 2 O(l) H 3 O + (aq) + Cl – (aq), and (ii) from ionization of H 2 O. In these very dilute solutions, both sources of H 3 O + must be considered: [H 3 O + ] = 10 –8 + x K w = (10 –8 + x)(x) = 10 –14 or x 2 + 10 –8 x – 10 –14 = 0 [OH – ] = x = 9.5 × 10 –8 So, pOH = 7.02 and pH = 6.98 6.11.3 Ionization Constants of Weak Acids Consider a weak acid HX that is partially ionized in the aqueous solution. The equilibrium can be expressed by: HX(aq) + H 2 O(l) H 3 O + (aq) + X – (aq) Initial concentration (M) c 0 0 Let α be the extent of ionization Change (M) -c α +c α +c α Equilibrium concentration (M) c-c α c α c α Here, c = initial concentration of the undissociated acid, HX at time, t = 0. α = extent up to which HX is ionized into ions. Using these notations, we can derive the equilibriu
+--------------------------------------------------------------------------------
+
+Problem 6.18
+Q: The ionization constant of HF is 3.2 × 10 –4 . Calculate the degree of dissociation of HF in its 0.02 M solution. Calculate the concentration of all species present (H 3 O + , F – and HF) in the solution and its pH.
+First 1000 chars of Solution:
+The following proton transfer reactions are possible: 1) HF + H 2 O H 3 O + + F – K a = 3.2 × 10 –4 2) H 2 O + H 2 O H 3 O + + OH – K w = 1.0 × 10 –14 As K a >> K w , [1] is the principle reaction. HF + H 2 O H 3 O + + F – Initial concentration (M) 0.02 0 0 Change (M) –0.02 α +0.02 α +0.02 α Equilibrium concentration (M) 0.02 – 0.02 α 0.02 α 0.02 α Substituting equilibrium concentrations in the equilibrium reaction for principal reaction gives: K a = (0.02 α ) 2 / (0.02 – 0.02 α ) = 0.02 α 2 / (1 – α ) = 3.2 × 10 –4 We obtain the following quadratic equation: α 2 + 1.6 × 10 –2 α – 1.6 × 10 –2 = 0 The quadratic equation in α can be solved and the two values of the roots are: α = + 0.12 and – 0.12 The negative root is not acceptable and hence, α = 0.12 This means that the degree of ionization, α = 0.12, then equilibrium concentrations of other species viz., HF, F – and H 3 O + are given by: [H 3 O + ] = [F – ] = c α = 0.02 × 0.12 = 2.4 × 10 –3 M [HF] = c(1 – α ) = 0.02 (1 – 0.12) = 17.6 
+--------------------------------------------------------------------------------
+
+Problem 6.19
+Q: The pH of 0.1M monobasic acid is 4.50. Calculate the concentration of species H + , A – Reprint 2025-26 197 EQUILIBRIUM and HA at equilibrium. Also, determine the value of K a and p K a of the monobasic acid.
+First 1000 chars of Solution:
+pH = – log [H + ] Therefore, [H + ] = 10 –pH = 10 –4.50 = 3.16 × 10 –5 [H + ] = [A – ] = 3.16 × 10 –5 Thus, K a = [H + ][A - ] / [HA] [HA] eqlbm = 0.1 – (3.16 × 10 -5 )  0.1 K a = (3.16 × 10 –5 ) 2 / 0.1 = 1.0 × 10 –8 p K a = – log(10 –8 ) = 8 Alternatively, “Percent dissociation” is another useful method for measure of strength of a weak acid and is given as: Percent dissociation = [HA] dissociated /[HA] initial × 100% (6.32)
+--------------------------------------------------------------------------------
+
+Problem 6.20
+Q: Calculate the pH of 0.08M solution of hypochlorous acid, HOCl. The ionization constant of the acid is 2.5 × 10 –5 . Determine the percent dissociation of HOCl.
+First 1000 chars of Solution:
+HOCl(aq) + H 2 O (l) H 3 O + (aq) + ClO – (aq) Initial concentration (M) 0.08 0 0 Change to reach equilibrium concentration (M) – x + x +x equilibrium concentartion (M) 0.08 – x x x K a = {[H 3 O + ][ClO – ] / [HOCl]} = x 2 / (0.08 –x) As x << 0.08, therefore 0.08 – x  0.08 x 2 / 0.08 = 2.5 × 10 –5 x 2 = 2.0 × 10 –6 , thus, x = 1.41 × 10 –3 [H + ] = 1.41 × 10 –3 M. Therefore, Percent dissociation = {[HOCl] dissociated / [HOCl] initial }× 100 = 1.41 × 10 –3 × 10 2 / 0.08 = 1.76 %. pH = –log(1.41 × 10 –3 ) = 2.85. 6.11.4 Ionization of Weak Bases The ionization of base MOH can be represented by equation: MOH(aq) M + (aq) + OH – (aq) In a weak base there is partial ionization of MOH into M + and OH – , the case is similar to that of acid-dissociation equilibrium. The equilibrium constant for base ionization is called base ionization constant and is represented by K b . It can be expressed in terms of concentration in molarity of various species in equilibrium by the following equation: K 
+--------------------------------------------------------------------------------
+
+Problem 6.21
+Q: The pH of 0.004M hydrazine solution is 9.7. Calculate its ionization constant K b and p K b .
+First 1000 chars of Solution:
+NH 2 NH 2 + H 2 O NH 2 NH 3 + + OH – From the pH we can calculate the hydrogen ion concentration. Knowing hydrogen ion concentration and the ionic product of water we can calculate the concentration of hydroxyl ions. Thus we have: [H + ] = antilog (–pH) = antilog (–9.7) = 1.67 ×10 –10 [OH – ] = K w / [H + ] = 1 × 10 –14 / 1.67 × 10 –10 = 5.98 × 10 –5 The concentration of the corresponding hydrazinium ion is also the same as that of hydroxyl ion. The concentration of both these ions is very small so the concentration of the undissociated base can be taken equal to 0.004M. Thus, K b = [NH 2 NH 3 + ][OH – ] / [NH 2 NH 2 ] = (5.98 × 10 –5 ) 2 / 0.004 = 8.96 × 10 –7 p K b = –log K b = –log(8.96 × 10 –7 ) = 6.04.
+--------------------------------------------------------------------------------
+
+Problem 6.22
+Q: Calculate the pH of the solution in which 0.2M NH 4 Cl and 0.1M NH 3 are present. The pK b of ammonia solution is 4.75.
+First 1000 chars of Solution:
+NH 3 + H 2 O NH 4 + + OH – The ionization constant of NH 3 , K b = antilog (–p K b ) i.e. K b = 10 –4.75 = 1.77 × 10 –5 M NH 3 + H 2 O NH 4 + + OH – Initial concentration (M) 0.10 0.20 0 Change to reach equilibrium (M) –x +x +x At equilibrium (M) 0.10 – x 0.20 + x x K b = [NH 4 + ][OH – ] / [NH 3 ] = (0.20 + x)(x) / (0.1 – x) = 1.77 × 10 –5 As K b is small, we can neglect x in comparison to 0.1M and 0.2M. Thus, [OH – ] = x = 0.88 × 10 –5 Therefore, [H + ] = 1.12 × 10 –9 pH = – log[H + ] = 8.95. 6.11.5 Relation between K a and K b As seen earlier in this chapter, K a and K b represent the strength of an acid and a base, respectively. In case of a conjugate acid-base pair, they are related in a simple manner so that if one is known, the other can be deduced. Considering the example of NH 4 + and NH 3 we see, NH 4 + (aq) + H 2 O(l) H 3 O + (aq) + NH 3 (aq) K a = [H 3 O + ][ NH 3 ] / [NH 4 + ] = 5.6 × 10 –10 NH 3 (aq) + H 2 O(l) NH 4 + (aq) + OH – (aq) K b =[ NH 4 + ][ OH – ] / NH 3 = 1.8 
+--------------------------------------------------------------------------------
+
+Problem 6.23
+Q: Determine the degree of ionization and pH of a 0.05M of ammonia solution. The ionization constant of ammonia can be taken from Table 6.7. Also, calculate the ionization constant of the conjugate acid of ammonia.
+First 1000 chars of Solution:
+The ionization of NH 3 in water is represented by equation: NH 3 + H 2 O NH 4 + + OH – We use equation (6.33) to calculate hydroxyl ion concentration, [OH – ] = c α = 0.05 α K b = 0.05 α 2 / (1 – α ) The value of α is small, therefore the quadratic equation can be simplified by neglecting α in comparison to 1 in the denominator on right hand side of the equation, Thus, K b = c α 2 or α = √ (1.77 × 10 –5 / 0.05) = 0.018. [OH – ] = c α = 0.05 × 0.018 = 9.4 × 10 –4 M. [H + ] = K w / [OH – ] = 10 –14 / (9.4 × 10 –4 ) = 1.06 × 10 –11 pH = –log(1.06 × 10 –11 ) = 10.97. Now, using the relation for conjugate acid-base pair, K a × K b = K w using the value of K b of NH 3 from Table 6.7. We can determine the concentration of conjugate acid NH 4 + K a = K w / K b = 10 –14 / 1.77 × 10 –5 = 5.64 × 10 –10 . 6.11.6 Di- and Polybasic Acids and Di- and Polyacidic Bases Some of the acids like oxalic acid, sulphuric acid and phosphoric acids have more than one ionizable proton per molecule of the acid. S
+--------------------------------------------------------------------------------
+
+Problem 6.24
+Q: Calculate the pH of a 0.10M ammonia solution. Calculate the pH after 50.0 mL of this solution is treated with 25.0 mL of 0.10M HCl. The dissociation constant of ammonia, K b = 1.77 × 10 –5
+First 1000 chars of Solution:
+NH 3 + H 2 O → NH 4 + + OH – K b = [NH 4 + ][OH – ] / [NH 3 ] = 1.77 × 10 –5 Before neutralization, [NH 4 + ] = [OH – ] = x [NH 3 ] = 0.10 – x  0.10 x 2 / 0.10 = 1.77 × 10 –5 Thus, x = 1.33 × 10 –3 = [OH – ] Therefore, [H + ] = K w / [OH – ] = 10 –14 / (1.33 × 10 –3 ) = 7.51 × 10 –12 pH = –log (7.5 × 10 –12 ) = 11.12 On addition of 25 mL of 0.1M HCl solution (i.e., 2.5 mmol of HCl) to 50 mL of 0.1M ammonia solution (i.e., 5 mmol of NH 3 ), 2.5 mmol of ammonia molecules are neutralized. The resulting 75 mL solution contains the remaining unneutralized 2.5 mmol of NH 3 molecules and 2.5 mmol of NH 4 + . NH 3 + HCl → NH 4 + + Cl – 2.5 2.5 0 0 At equilibrium 0 0 2.5 2.5 The resulting 75 mL of solution contains 2.5 mmol of NH 4 + ions (i.e., 0.033 M) and 2.5 mmol (i.e., 0.033 M ) of uneutralised NH 3 molecules. This NH 3 exists in the following equilibrium: NH 4 OH   NH 4 + + OH – 0.033M – y y y where, y = [OH – ] = [NH 4 + ] The final 75 mL solution after neutralisation already conta
+--------------------------------------------------------------------------------
+
+Problem 6.25
+Q: The p K a of acetic acid and p K b of ammonium hydroxide are 4.76 and 4.75 respectively. Calculate the pH of ammonium acetate solution.
+First 1000 chars of Solution:
+pH = 7 + ½ [p K a – p K b ] = 7 + ½ [4.76 – 4.75] = 7 + ½ [0.01] = 7 + 0.005 = 7.005 6.12 BUFFER SOLUTIONS Many body fluids e.g., blood or urine have definite pH and any deviation in their pH indicates malfunctioning of the body. The control of pH is also very important in many chemical and biochemical processes. Many medical and cosmetic formulations require that these be kept and administered at a particular pH. The solutions which resist change in pH on dilution or with the addition of small amounts of acid or Buffer Reprint 2025-26 203 EQUILIBRIUM solutions of known pH can be prepared from the knowledge of p K a of the acid or p K b of base and by controlling the ratio of the salt and acid or salt and base. A mixture of acetic acid and sodium acetate acts as buffer solution around pH 4.75 and a mixture of ammonium chloride and ammonium hydroxide acts as a buffer around pH 9.25. You will learn more about buffer solutions in higher classes. 6.12.1 Designing Buffer Solution Knowledge 
+--------------------------------------------------------------------------------
+
+Problem 6.26
+Q: Calculate the solubility of A 2 X 3 in pure water, assuming that neither kind of ion reacts with water. The solubility product of A 2 X 3 , K sp = 1.1 × 10 –23 .
+First 1000 chars of Solution:
+A 2 X 3 → 2A 3+ + 3X 2– K sp = [A 3+ ] 2 [X 2– ] 3 = 1.1 × 10 –23 If S = solubility of A 2 X 3 , then [A 3+ ] = 2S; [X 2– ] = 3S therefore, K sp = (2S) 2 (3S) 3 = 108S 5 = 1.1 × 10 –23 thus, S 5 = 1 × 10 –25 S = 1.0 × 10 –5 mol/L.
+--------------------------------------------------------------------------------
+
+Problem 6.27
+Q: The values of K sp of two sparingly soluble salts Ni(OH) 2 and AgCN are 2.0 × 10 –15 and 6 × 0 –17 respectively. Which salt is more soluble? Explain.
+First 1000 chars of Solution:
+AgCN Ag + + CN – Table 6.9 The Solubility Product Constants, K sp of Some Common Ionic Salts at 298K. Reprint 2025-26 206 chemistry K sp = [Ag + ][CN – ] = 6 × 10 –17 Ni(OH) 2 Ni 2+ + 2OH – K sp = [Ni 2+ ][OH – ] 2 = 2 × 10 –15 Let [Ag + ] = S 1 , then [CN - ] = S 1 Let [Ni 2+ ] = S 2 , then [OH – ] = 2S 2 S 1 2 = 6 × 10 –17 , S 1 = 7.8 × 10 –9 (S 2 )(2S 2 ) 2 = 2 × 10 –15 , S 2 = 0.58 × 10 –4 Ni(OH) 2 is more soluble than AgCN. 6.13.2 Common Ion Effect on Solubility of Ionic Salts It is expected from Le Chatelier’s principle that if we increase the concentration of any one of the ions, it should combine with the ion of its opposite charge and some of the salt will be precipitated till once again K sp = Q sp . Similarly, if the concentration of one of the ions is decreased, more salt will dissolve to increase the concentration of both the ions till once again K sp = Q sp . This is applicable even to soluble salts like sodium chloride except that due to higher concentrations of the ions
+--------------------------------------------------------------------------------
+
+Problem 6.28
+Q: Calculate the molar solubility of Ni(OH) 2 in 0.10 M NaOH. The ionic product of Ni(OH) 2 is 2.0 × 10 –15 .
+First 1000 chars of Solution:
+Let the solubility of Ni(OH) 2 be equal to S. Dissolution of S mol/L of Ni(OH) 2 provides S mol/L of Ni 2+ and 2S mol/L of OH – , but the total concentration of OH – = (0.10 + 2S) mol/L because the solution already contains 0.10 mol/L of OH – from NaOH. K sp = 2.0 × 10 –15 = [Ni 2+ ] [OH – ] 2 = (S) (0.10 + 2S) 2 As K sp is small, 2S << 0.10, thus, (0.10 + 2S) ≈ 0.10 Hence, 2.0 × 10 –15 = S (0.10) 2 S = 2.0 × 10 –13 M = [Ni 2+ ] The solubility of salts of weak acids like phosphates increases at lower pH. This is because at lower pH the concentration of the anion decreases due to its protonation. This in turn increase the solubility of the salt so that K sp = Q sp . We have to satisfy two equilibria simultaneously i.e., K sp = [M + ] [X – ], [X – ] / [HX] = K a /[H + ] Taking inverse of both side and adding 1 we get          H HX 1 1 K  X a              HX H H K a  K X a Now, again taking inverse, we get [X – ] / {[X – ] + [HX]} = f = K a /( K a + [H +
+--------------------------------------------------------------------------------
+
+Problem 7.1
+Q: In the reactions given below, identify the species undergoing oxidation and reduction: (i) H 2 S (g) + Cl 2 (g) → 2 HCl (g) + S (s) (ii) 3Fe 3 O 4 (s) + 8 Al (s) → 9 Fe (s) + 4Al 2 O 3 (s) (iii) 2 Na (s) + H 2 (g) → 2 NaH (s)
+First 1000 chars of Solution:
+(i) H 2 S is oxidised because a more electronegative element, chlorine is added to hydrogen (or a more electropositive element, hydrogen has been removed from S). Chlorine is reduced due to addition of hydrogen to it. (ii) Aluminium is oxidised because oxygen is added to it. Ferrous ferric oxide Reprint 2025-26 237 redox reactions (Fe 3 O 4 ) is reduced because oxygen has been removed from it. (iii) With the careful application of the concept of electronegativity only we may infer that sodium is oxidised and hydrogen is reduced. Reaction (iii) chosen here prompts us to think in terms of another way to define redox reactions. 7.2 REDOX REACTIONS IN TERMS OF ELECTRON TRANSFER REACTIONS We have already learnt that the reactions 2Na(s) + Cl 2 (g) → 2NaCl (s) (7.12) 4Na(s) + O 2 (g) → 2Na 2 O(s) (7.13) 2Na(s) + S(s) → Na 2 S(s) (7.14) are redox reactions because in each of these reactions sodium is oxidised due to the addition of either oxygen or more electronegative element to sodium. Simu
+--------------------------------------------------------------------------------
+
+Problem 7.2
+Q: Justify that the reaction: 2 Na(s) + H 2 (g) → 2 NaH (s) is a redox change.
+First 1000 chars of Solution:
+Since in the above reaction the compound formed is an ionic compound, which may also be represented as Na + H – (s), this suggests that one half reaction in this process is : 2 Na (s) → 2 Na + (g) + 2e – Reprint 2025-26 238 chemistry and the other half reaction is: H 2 (g) + 2e – → 2 H – (g) This splitting of the reaction under examination into two half reactions automatically reveals that here sodium is oxidised and hydrogen is reduced, therefore, the complete reaction is a redox change. 7.2.1 Competitive Electron Transfer Reactions Place a strip of metallic zinc in an aqueous solution of copper nitrate as shown in Fig. 7.1, for about one hour. You may notice that the strip becomes coated with reddish metallic copper and the blue colour of the solution disappears. Formation of Zn 2+ ions among the products can easily be judged when the blue colour of the solution due to Cu 2+ has disappeared. If hydrogen sulphide gas is passed through the colourless solution containing Zn 2+ ions, app
+--------------------------------------------------------------------------------
+
+Problem 7.3
+Q: Using Stock notation, represent the following compounds :HAuCl 4 , Tl 2 O, FeO, Fe 2 O 3 , CuI, CuO, MnO and MnO 2 .
+First 1000 chars of Solution:
+By applying various rules of calculating the oxidation number of the desired element in a compound, the oxidation number of each metallic element in its compound is as follows: HAuCl 4 → Au has 3 Tl 2 O → Tl has 1 FeO → Fe has 2 Fe 2 O 3 → Fe has 3 CuI → Cu has 1 CuO → Cu has 2 MnO → Mn has 2 MnO 2 → Mn has 4 Therefore, these compounds may be represented as: HAu(III)Cl 4 , Tl 2 (I)O, Fe(II)O, Fe 2 (III)O 3 , Cu(I)I, Cu(II)O, Mn(II)O, Mn(IV)O 2. The idea of oxidation number has been invariably applied to define oxidation, reduction, oxidising agent (oxidant), reducing agent (reductant) and the redox reaction. To summarise, we may say that: Oxidation: An increase in the oxidation number of the element in the given substance. Reduction : A decrease in the oxidation number of the element in the given substance. Oxidising agent: A reagent which can increase the oxidation number of an element in a given substance. These reagents are called as oxidants also. Reducing agent: A reagent which lo
+--------------------------------------------------------------------------------
+
+Problem 7.4
+Q: Justify that the reaction: 2Cu 2 O(s) + Cu 2 S(s) → 6Cu(s) + SO 2 (g) is a redox reaction. Identify the species oxidised/reduced, which acts as an oxidant and which acts as a reductant.
+First 1000 chars of Solution:
+Let us assign oxidation number to each of the species in the reaction under examination. This results into: +1 –2 +1 –2 0 +4 –2 2Cu 2 O(s) + Cu 2 S(s) → 6Cu(s) + SO 2 We therefore, conclude that in this reaction copper is reduced from +1 state to zero oxidation state and sulphur is oxidised from –2 state to +4 state. The above reaction is thus a redox reaction . Reprint 2025-26 242 chemistry Further, Cu 2 O helps sulphur in Cu 2 S to increase its oxidation number, therefore, Cu(I) is an oxidant; and sulphur of Cu 2 S helps copper both in Cu 2 S itself and Cu 2 O to decrease its oxidation number; therefore, sulphur of Cu 2 S is reductant. 7.3.1 Types of Redox Reactions 1. Combination reactions A combination reaction may be denoted in the manner: A + B → C Either A and B or both A and B must be in the elemental form for such a reaction to be a redox reaction. All combustion reactions, which make use of elemental dioxygen, as well as other reactions involving elements other than dioxygen,
+--------------------------------------------------------------------------------
+
+Problem 7.5
+Q: Which of the following species, do not show disproportionation reaction and why ? ClO – , ClO 2 – , ClO 3 – and ClO 4 – Also write reaction for each of the species that disproportionates.
+First 1000 chars of Solution:
+Among the oxoanions of chlorine listed above, ClO 4 – does not disproportionate because in this oxoanion chlorine is present in its highest oxidation state that is, +7. The disproportionation reactions for the other three oxoanions of chlorine are as follows: +1 –1 +5 3ClO – → 2Cl – + ClO – 3 +3 +5 –1 6 ClO 2 – 4ClO 3 – + 2Cl – +5 –1 +7 4ClO – 3 → Cl – + 3 ClO 4 –
+--------------------------------------------------------------------------------
+
+Problem 7.6
+Q: Suggest a scheme of classification of the following redox reactions (a) N 2 (g) + O 2 (g) → 2 NO (g) (b) 2Pb(NO 3 ) 2 (s) → 2PbO(s) + 4 NO 2 (g) + O 2 (g) (c) NaH(s) + H 2 O(l) → NaOH(aq) + H 2 (g) (d) 2NO 2 (g) + 2OH – (aq) → NO 2 – (aq) + NO 3 – (aq)+H 2 O(l) Reprint 2025-26 245 redox reactions
+First 1000 chars of Solution:
+In reaction (a), the compound nitric oxide is formed by the combination of the elemental substances, nitrogen and oxygen; therefore, this is an example of combination redox reactions. The reaction (b) involves the breaking down of lead nitrate into three components; therefore, this is categorised under decomposition redox reaction. In The Paradox of Fractional Oxidation Number Sometimes, we come across with certain compounds in which the oxidation number of a particular element in the compound is in fraction. Examples are: C 3 O 2 [where oxidation number of carbon is (4/3)], Br 3 O 8 [where oxidation number of bromine is (16/3)] and Na 2 S 4 O 6 (where oxidation number of sulphur is 2.5). We know that the idea of fractional oxidation number is unconvincing to us, because electrons are never shared/transferred in fraction. Actually this fractional oxidation state is the average oxidation state of the element under examination and the structural parameters reveal that the element for who
+--------------------------------------------------------------------------------
+
+Problem 7.7
+Q: Why do the following reactions proceed differently ? Pb 3 O 4 + 8HCl → 3PbCl 2 + Cl 2 + 4H 2 O and Pb 3 O 4 + 4HNO 3 → 2Pb(NO 3 ) 2 + PbO 2 + 2H 2 O
+First 1000 chars of Solution:
+Pb 3 O 4 is actually a stoichiometric mixture of 2 mol of PbO and 1 mol of PbO 2 . In PbO 2 , lead is present in +4 oxidation state, whereas the stable oxidation state of lead in PbO is +2. PbO 2 thus can act as an oxidant (oxidising agent) and, therefore, can oxidise Cl – ion of HCl into chlorine. We may also keep in mind that PbO is a basic oxide. Therefore, the reaction Pb 3 O 4 + 8HCl → 3PbCl 2 + Cl 2 + 4H 2 O can be splitted into two reactions namely: 2PbO + 4HCl → 2PbCl 2 + 2H 2 O (acid-base reaction) +4 –1 +2 0 PbO 2 + 4HCl → PbCl 2 + Cl 2 +2H 2 O (redox reaction) Since HNO 3 itself is an oxidising agent therefore, it is unlikely that the reaction may occur between PbO 2 and HNO 3 . However, the acid-base reaction occurs between PbO and HNO 3 as: 2PbO + 4HNO 3 → 2Pb(NO 3 ) 2 + 2H 2 O It is the passive nature of PbO 2 against HNO 3 that makes the reaction different from the one that follows with HCl. 7.3.2 Balancing of Redox Reactions Two methods are used to balance chemical equa
+--------------------------------------------------------------------------------
+
+Problem 7.8
+Q: Write the net ionic equation for the reaction of potassium dichromate(VI), K 2 Cr 2 O 7 with sodium sulphite, Na 2 SO 3 , in an acid solution to give chromium(III) ion and the sulphate ion. Reprint 2025-26 247 redox reactions
+First 1000 chars of Solution:
+Step 1: The skeletal ionic equation is: Cr 2 O 7 2– (aq) + SO 3 2– (aq) → Cr 3+ (aq) + SO 4 2– (aq) Step 2: Assign oxidation numbers for Cr and S +6 –2 +4 –2 +3 +6 –2 Cr 2 O 7 2– (aq) + SO 3 2– (aq) → Cr(aq)+SO 4 2– (aq) This indicates that the dichromate ion is the oxidant and the sulphite ion is the reductant. Step 3: Calculate the increase and decrease of oxidation number, and make them equal: from step-2 we can notice that there is change in oxidation state of chromium and sulphur. Oxidation state of chromium changes form +6 to +3. There is decrease of +3 in oxidation state of chromium on right hand side of the equation. Oxidation state of sulphur changes from +4 to +6. There is an increase of +2 in the oxidation state of sulphur on right hand side. To make the increase and decrease of oxidation state equal, place numeral 2 before cromium ion on right hand side and numeral 3 before sulphate ion on right hand side and balance the chromium and sulphur atoms on both the sides of the e
+--------------------------------------------------------------------------------
+
+Problem 7.9
+Q: Permanganate ion reacts with bromide ion in basic medium to give manganese dioxide and bromate ion. Write the balanced ionic equation for the reaction.
+First 1000 chars of Solution:
+Step 1: The skeletal ionic equation is : MnO 4 – (aq) + Br – (aq) → MnO 2 (s) + BrO 3 – (aq) Step 2: Assign oxidation numbers for Mn and Br +7 –1 +4 +5 MnO 4 – (aq) + Br – (aq) → MnO 2 (s) + BrO 3 – (aq) this indicates that permanganate ion is the oxidant and bromide ion is the reductant. Step 3: Calculate the increase and decrease of oxidation number, and make the increase equal to the decrease. +7 –1 +4 +5 2MnO 4 – (aq)+Br – (aq) → 2MnO 2 (s)+BrO 3 – (aq) Step 4: As the reaction occurs in the basic medium, and the ionic charges are not equal on both sides, add 2 OH – ions on the right to make ionic charges equal. 2MnO 4 – (aq) + Br – (aq) → 2MnO 2 (s) + BrO 3 – (aq) + 2OH – (aq) Step 5: Finally, count the hydrogen atoms and add appropriate number of water molecules (i.e. one H 2 O molecule) on the left side to achieve balanced redox change. 2MnO 4 – (aq) + Br – (aq) + H 2 O(l) → 2MnO 2 (s) + BrO 3 – (aq) + 2OH – (aq) (b) Half Reaction Method: In this method, the two half equations ar
+--------------------------------------------------------------------------------
+
+Problem 7.10
+Q: Permanganate(VII) ion, MnO 4 – in basic solution oxidises iodide ion, I – to produce molecular iodine (I 2 ) and manganese (IV) oxide (MnO 2 ). Write a balanced ionic equation to represent this redox reaction.
+First 1000 chars of Solution:
+Step 1: First we write the skeletal ionic equation, which is MnO 4 – (aq) + I – (aq) → MnO 2 (s) + I 2 (s) Step 2: The two half-reactions are: –1 0 Oxidation half : I – (aq) → I 2 (s) +7 +4 Reduction half: MnO 4 – (aq) → MnO 2 (s) Step 3: To balance the I atoms in the oxidation half reaction, we rewrite it as: 2I – (aq) → I 2 (s) Step 4: To balance the O atoms in the reduction half reaction, we add two water molecules on the right: MnO 4 – (aq) → MnO 2 (s) + 2 H 2 O (l) To balance the H atoms, we add four H + ions on the left: MnO 4 – (aq) + 4 H + (aq) → MnO 2 (s) + 2H 2 O (l) As the reaction takes place in a basic solution, therefore, for four H + ions, we add four OH – ions to both sides of the equation: MnO 4 – (aq) + 4H + (aq) + 4OH – (aq) → MnO 2 (s) + 2 H 2 O(l) + 4OH – (aq) Replacing the H + and OH – ions with water, Reprint 2025-26 249 redox reactions the resultant equation is: MnO 4 – (aq) + 2H 2 O (l) → MnO 2 (s) + 4 OH – (aq) Step 5 : In this step we balance the charges of t
+--------------------------------------------------------------------------------
+
+Problem 8.1
+Q: How many σ and π bonds are present in each of the following molecules? (a) HC ≡ CCH=CHCH 3 (b) CH 2 =C=CHCH 3
+First 1000 chars of Solution:
+(a) σ C – C : 4; σ C–H : 6; π C=C :1; π C ≡ C:2 (b) σ C – C : 3; σ C–H : 6; π C=C : 2. Problem 8 .2 What is the type of hybridisation of each carbon in the following compounds? (a) CH 3 Cl, (b) (CH 3 ) 2 CO, (c) CH 3 CN, (d) HCONH 2 , (e) CH 3 CH=CHCN (a) sp 3 , (b) sp 3 , sp 2 , (c) sp 3 , sp , (d) sp 2 , (e) sp 3 , sp 2 , sp 2 , sp
+--------------------------------------------------------------------------------
+
+Problem 8.3
+Q: Write the state of hybridisation of carbon in the following compounds and shapes of each of the molecules. (a) H 2 C=O, (b) CH 3 F, (c) HC ≡ N.
+First 1000 chars of Solution:
+(a) sp 2 hybridised carbon, trigonal planar; (b) sp 3 hybridised carbon, tetrahedral; (c) sp hybridised carbon, linear. Reprint 2025-26 258 chemistry 8.3 STRUCTURAL RepresenTATIONS OF organic COMPOUNDs 8.3.1 Complete, Condensed and Bond-line Structural Formulas Structures of organic compounds are represented in several ways. The Lewis structure or dot structure, dash structure, condensed structure and bond line structural formulas are some of the specific types. The Lewis structures, however, can be simplified by representing the two-electron covalent bond by a dash (–). Such a structural formula focuses on the electrons involved in bond formation. A single dash represents a single bond, double dash is used for double bond and a triple dash represents triple bond. Lone- pairs of electrons on heteroatoms ( e.g ., oxygen, nitrogen, sulphur, halogens etc.) may or may not be shown. Thus, ethane (C 2 H 6 ), ethene (C 2 H 4 ), ethyne (C 2 H 2 ) and methanol (CH 3 OH) can be represented by th
+--------------------------------------------------------------------------------
+
+Problem 8.4
+Q: Expand each of the following condensed formulas into their complete structural formulas. (a) CH 3 CH 2 COCH 2 CH 3 (b) CH 3 CH=CH(CH 2 ) 3 CH 3
+First 1000 chars of Solution:
+(a) (b)
+--------------------------------------------------------------------------------
+
+Problem 8.5
+Q: For each of the following compounds, write a condensed formula and also their bond-line formula. (a) HOCH 2 CH 2 CH 2 CH(CH 3 )CH(CH 3 )CH 3 (b)
+First 1000 chars of Solution:
+Condensed formula: (a) HO(CH 2 ) 3 CH(CH 3 )CH(CH 3 ) 2 (b) HOCH(CN) 2 Bond-line formula: (a) (b)
+--------------------------------------------------------------------------------
+
+Problem 8.6
+Q: Expand each of the following bond-line formulas to show all the atoms including carbon and hydrogen (a) (b) (c) (d)
+First 1000 chars of Solution:
+Reprint 2025-26 260 chemistry 8.3.2 Three-Dimensional Representation of Organic Molecules The three-dimensional (3-D) structure of organic molecules can be represented on paper by using certain conventions. For example, by using solid ( ) and dashed ( ) wedge formula, the 3-D image of a molecule from a two-dimensional picture can be perceived. In these formulas the solid-wedge is used to indicate a bond projecting out of the plane of paper, towards the observer. The dashed-wedge is used to depict the bond projecting out of the plane of the paper and away from the observer. Wedges are shown in such a way that the broad end of the wedge is towards the observer. The bonds lying in plane of the paper are depicted by using a normal line (—). 3-D representation of methane molecule on paper has been shown in Fig. 8.1 Fig. 8.1 Wedge-and-dash representation of CH 4 Molecular Models Molecular models are physical devices that are used for a better visualisation and perception of three-dimensional
+--------------------------------------------------------------------------------
+
+Problem 8.7
+Q: Structures and IUPAC names of some hydrocarbons are given below. Explain why the names given in the parentheses are incorrect. 2,5,6- Trimethyloctane [ and not 3,4,7-Trimethyloctane ] 3-Ethyl-5-methylheptane [ and not 5-Ethyl-3-methylheptane ]
+First 1000 chars of Solution:
+(a) Lowest locant number, 2,5,6 is lower than 3,5,7, (b) substituents are in equivalent position; lower number is given to the one that comes first in the name according to alphabetical order. 8.5.3 N o m e n c l a t u r e o f O r g a n i c Compounds having Functional Group(s) A functional group, as defined earlier, is an atom or a group of atoms bonded together in a unique manner which is usually the site of Reprint 2025-26 266 chemistry chemical reactivity in an organic molecule. Compounds having the same functional group undergo similar reactions. For example, CH 3 OH, CH 3 CH 2 OH, and (CH 3 ) 2 CHOH — all having -OH functional group liberate hydrogen on reaction with sodium metal. The presence of functional groups enables systematisation of organic compounds into different classes. Examples of some functional groups with their prefixes and suffixes along with some examples of organic compounds possessing these are given in Table 8.4. First of all, the functional group present in t
+--------------------------------------------------------------------------------
+
+Problem 8.8
+Q: Write the IUPAC names of the compounds i-iv from their given structures.
+First 1000 chars of Solution:
+• The functional group present is an alcohol (OH). Hence the suffix is ‘-ol’. • The longest chain containing -OH has eight carbon atoms. Hence the corresponding saturated hydrocar- bon is octane. • The -OH is on carbon atom 3. In addition, a methyl group is attached at 6 th carbon. Hence, the systematic name of this compound is 6-Methyloctan-3-ol. The functional group present is ketone (>C=O), hence suffix ‘-one’. Presence of two keto groups is indicated by ‘di’, hence suffix becomes ‘dione’. The two keto groups are at carbons 2 and 4. The longest chain contains 6 carbon atoms, hence, parent hydrocarbon is hexane. Thus, the systematic name is Hexane-2,4-dione. Reprint 2025-26 267 organic chemistry – some basic principles and techniques Table 8.4 Some Functional Groups and Classes of Organic Compounds Reprint 2025-26 268 chemistry Here, two functional groups namely ketone and carboxylic acid are present. The principal functional group is the carboxylic acid group; hence the parent chain
+--------------------------------------------------------------------------------
+
+Problem 8.9
+Q: Derive the structure of (i) 2-Chlorohexane, (ii) Pent-4-en-2-ol, (iii) 3- Nitrocyclohexene, (iv) Cyclohex-2-en-1-ol, (v) 6-Hydroxy- heptanal.
+First 1000 chars of Solution:
+(i) ‘hexane’ indicates the presence of 6 carbon atoms in the chain. The functional group chloro is present at carbon 2. Hence, the structure of the compound is CH 3 CH 2 CH 2 CH 2 CH(Cl)CH 3 . (ii) ‘pent’ indicates that parent hydrocarbon contains 5 carbon atoms in the chain. ‘en’ and ‘ol’ correspond to the functional groups C=C and -OH at carbon atoms 4 and 2 respectively. Thus, the structure is CH 2 =CHCH 2 CH (OH)CH 3 . (iii) Six membered ring containing a carbon-carbon double bond is implied by cyclohexene, which is numbered as shown in (I). The prefix 3-nitro means that a nitro group is present on C-3. Thus, complete structural formula of the compound is (II). Double bond is suffixed functional group whereas NO 2 is prefixed functional group therefore double bond gets preference over –NO 2 group: (iv) ‘1-ol’ means that a -OH group is present at C-1. OH is suffixed functional group and gets preference over C=C bond. Thus the structure is as shown in (II): (v) ‘heptanal’ indicates t
+--------------------------------------------------------------------------------
+
+Problem 8.10
+Q: Write the structural formula of: (a) o -Ethylanisole, (b) p -Nitroaniline, (c) 2,3 - Dibromo -1 - phenylpentane, (d) 4-Ethyl-1-fluoro-2-nitrobenzene.
+First 1000 chars of Solution:
+(a)  (b) (c)  (d) 8.6 ISOMERISM The phenomenon of existence of two or more compounds possessing the same molecular formula but different properties is known as isomerism. Such compounds are called as isomers. The following flow chart shows different types of isomerism. 8.6.1 Structural Isomerism Compounds having the same molecular formula but different structures (manners in which atoms are linked) are classified as structural isomers. Some typical examples of different types of structural isomerism are given below: (i) Chain isomerism: When two or more compounds have similar molecular formula but Structural isomerism Stereoisomerism Chain isomerism Position isomerism Functional group isomerism different carbon skeletons, these are referred to as chain isomers and the phenomenon is termed as chain isomerism. For example, C 5 H 12 represents three compounds: CH 3  CH 3 CH 2 CH 2 CH 2 CH 3 CH 3 − CHCH 2 CH 3 Pentane Isopentane (2-Methylbutane) CH 3  CH 3  C  CH 3  CH 3 Neopentane 
+--------------------------------------------------------------------------------
+
+Problem 8.11
+Q: Using curved-arrow notation, show the formation of reactive intermediates when the following covalent bonds undergo heterolytic cleavage. (a) CH 3 –SCH 3 , (b) CH 3 –CN, (c) CH 3 –Cu
+First 1000 chars of Solution:
+
+--------------------------------------------------------------------------------
+
+Problem 8.12
+Q: Giving justification, categorise the following molecules/ions as nucleophile or electrophile:
+First 1000 chars of Solution:
+Nucleophiles: HS – ,C 2 H 5 O – ,(CH 3 ) 3 N:H 2 N: – These species have unshared pair of electrons, which can be donated and shared with an electrophile. Electrophiles : BF 3 ,C1 + H 3 –C + =O,N + O 2 . Reactive sites have only six valence electrons; can accept electron pair from a nucleophile.
+--------------------------------------------------------------------------------
+
+Problem 8.13
+Q: Identify electrophilic centre in the following: CH 3 CH=O, CH 3 CN, CH 3 I.
+First 1000 chars of Solution:
+Among CH 3 HC * =O, H 3 CC * ≡ N, and H 3 C * –I, the starred carbon atoms are electrophilic centers as they will have partial positive charge due to polarity of the bond. 8.7.3 Electron Movement in Organic Reactions The movement of electrons in organic reactions can be shown by curved-arrow Reprint 2025-26 274 chemistry notation. It shows how changes in bonding occur due to electronic redistribution during the reaction. To show the change in position of a pair of electrons, curved arrow starts from the point from where an electron pair is shifted and it ends at a location to which the pair of electron may move. Presentation of shifting of electron pair is given below : (i) from π bond to adjacent bond position (ii) from π bond to adjacent atom (iii) from atom to adjacent bond position Movement of single electron is indicated by a single barbed ‘fish hooks’ (i.e. half headed curved arrow). For example, in transfer of hydroxide ion giving ethanol and in the dissociation of chloromethane
+--------------------------------------------------------------------------------
+
+Problem 8.14
+Q: Which bond is more polar in the following pairs of molecules: (a) H 3 C-H, H 3 C-Br (b) H 3 C-NH 2 , H 3 C-OH (c) H 3 C-OH, H 3 C-SH
+First 1000 chars of Solution:
+(a) C–Br, since Br is more electronegative than H, (b) C–O, (c) C–O
+--------------------------------------------------------------------------------
+
+Problem 8.15
+Q: In which C–C bond of CH 3 CH 2 CH 2 Br, the inductive effect is expected to be the least?
+First 1000 chars of Solution:
+Magnitude of inductive effect diminishes as the number of intervening bonds increases. Hence, the effect is least in the bond between carbon-3 and hydrogen. 8.7.6 Resonance Structure There are many organic molecules whose behaviour cannot be explained by a single Lewis structure. An example is that of benzene. Its cyclic structure containing alternating C–C single and C=C double bonds shown is inadequate for explaining its characteristic properties. As per the above representation, benzene should exhibit two different bond lengths, due to C–C single and C=C double bonds. However, as determined experimentally benzene has a uniform C–C bond distances of 139 pm, a value intermediate between the C–C single(154 pm) and C=C double (134 pm) bonds. Thus, the structure of benzene cannot be represented adequately by the above structure. Further, benzene can be represented equally well by the energetically identical structures I and II. Benzene Therefore, according to the resonance theory (Unit 4
+--------------------------------------------------------------------------------
+
+Problem 8.16
+Q: Write resonance structures of CH 3 COO – and show the movement of electrons by curved arrows.
+First 1000 chars of Solution:
+First, write the structure and put unshared pairs of valence electrons on appropriate atoms. Then draw the arrows one at a time moving the electrons to get the other structures.
+--------------------------------------------------------------------------------
+
+Problem 8.17
+Q: Write resonance structures of CH 2 =CH–CHO. Indicate relative stability of the contributing structures.
+First 1000 chars of Solution:
+Stability: I > II > III [I: Most stable, more number of covalent bonds, each carbon and oxygen atom has an octet and no separation of opposite charge II: negative charge on more electronegative atom and positive charge on more electropositive atom; III: does not contribute as oxygen has positive charge and carbon has negative charge, hence least stable].
+--------------------------------------------------------------------------------
+
+Problem 8.18
+Q: Explain why the following two structures, I and II cannot be the major contributors to the real structure of CH 3 COOCH 3 .
+First 1000 chars of Solution:
+The two structures are less important contributors as they involve charge separation. Additionally, structure I contains a carbon atom with an incomplete octe t. 8.7.7 Resonance Effect The resonance effect is defined as ‘the polarity produced in the molecule by the interaction of two π -bonds or between a π -bond and lone pair of electrons present on an adjacent atom’. The effect is transmitted through the chain. There are two types of resonance or mesomeric effect designated as R or M effect. (i) Positive Resonance Effect (+R effect) In this effect, the transfer of electrons is away from an atom or substituent group attached to the conjugated system. This electron displacement makes certain positions in the molecule of high electron densities. This effect in aniline is shown as : (ii) Negative Resonance Effect (- R effect) This effect is observed when the transfer of electrons is towards the atom or substituent group attached to the conjugated system. For example in nitrobenzene this 
+--------------------------------------------------------------------------------
+
+Problem 8.19
+Q: Explain why (CH 3 ) 3 C + is more stable than CH 3 C + H 2 and C + H 3 is the least stable cation.
+First 1000 chars of Solution:
+Hyperconjugation interaction in (CH 3 ) 3 C + is greater than in CH 3 C + H 2 as the (CH 3 ) 3 C + has nine C-H bonds. In C + H 3 , vacant p orbital is perpendicular to the plane in which C-H bonds lie; hence cannot overlap with it. Thus, C + H 3 lacks hyperconjugative stability. 8.7.10 Types of Organic Reactions and Mechanisms Organic reactions can be classified into the following categories: (i) Substitution reactions (ii) Addition reactions (iii) Elimination reactions (iv) Rearrangement reactions You will be studying these reactions in Unit 9 and later in class XII. 8.8 Methods of Purification of Organic Compounds Once an organic compound is extracted from a natural source or synthesised in the laboratory, it is essential to purify it. Various methods used for the purification of organic compounds are based on the nature of the compound and the impurity present in it. The common techniques used for purification are as follows : (i) Sublimation (ii) Crystallisation (iii) Distillation
+--------------------------------------------------------------------------------
+
+Problem 8.20
+Q: On complete combustion, 0.246 g of an organic compound gave 0.198g of carbon dioxide and 0.1014g of water. Determine the percentage composition of carbon and hydrogen in the compound.
+First 1000 chars of Solution:
+× × = × = 12 0.198 100 Percentageof carbon 44 0.246 21.95% × × = × = Percentage of hydrogen 2 0.1014 100 18 0.246 4.58% 8.10.2 Nitrogen There are two methods for estimation of nitrogen: (i) Dumas method and (ii) Kjeldahl’s method. (i) Dumas method: The nitrogen containing organic compound, when heated with copper oxide in an atmosphere of carbon dioxide, yields free nitrogen in addition to carbon dioxide and water. C x H y N z + (2x + y/2) CuO → x CO 2 + y/2 H 2 O + z/2 N 2 + (2x + y/2) Cu Traces of nitrogen oxides formed, if any, are reduced to nitrogen by passing the gaseous mixture over a heated copper gauze. The mixture of gases so produced is collected over an aqueous solution of potassium hydroxide which absorbs carbon dioxide. Nitrogen is collected in the upper part of the graduated tube (Fig.8.15). Let the mass of organic compound = m g Volume of nitrogen collected = V 1 mL Room temperature = T 1 K × = × 273 Volumeof nitrogen atSTP 760 PV T 1 1 1 (Letit be mL) V Where p 1 and 
+--------------------------------------------------------------------------------
+
+Problem 8.21
+Q: In Dumas’ method for estimation of nitrogen, 0.3g of an organic compound gave 50mL of nitrogen collected at 300K temperature and 715mm pressure. Calculate the percentage composition of nitrogen in the compound. (Aqueous tension at 300K=15 mm)
+First 1000 chars of Solution:
+Volume of nitrogen collected at 300K and 715mm pressure is 50 mL Actual pressure = 715-15 =700 mm × × × 273 700 50 Volumeof nitrogen atSTP 300 760 41.9mL 22,400 mL of N 2 at STP weighs = 28 g 28 41.9 41.9mLof nitrogen weighs 22400 g × = × × = × = 28 41.9 100 Percentageof nitrogen 22400 0.3 17.46% (ii) Kjeldahl’s method: The compound containing nitrogen is heated with concentrated sulphuric acid. Nitrogen in the compound gets converted to ammonium sulphate (Fig. 8.16). The resulting acid mixture is then heated with excess of sodium hydroxide. The liberated ammonia gas is absorbed in an excess of standard solution of sulphuric acid. The amount of ammonia produced is determined by estimating the amount of sulphuric acid consumed in the reaction. It is done by estimating unreacted sulphuric acid left after the absorption of ammonia by titrating it with standard alkali solution. The difference between the initial amount of acid Reprint 2025-26 288 chemistry Fig.8.16 Kjeldahl method. Nitroge
+--------------------------------------------------------------------------------
+
+Problem 8.22
+Q: During estimation of nitrogen present in an organic compound by Kjeldahl’s method, the ammonia evolved from 0.5 g of the compound in Kjeldahl’s estimation of nitrogen, neutralized 10 mL of 1 M H 2 SO 4 . Find out the percentage of nitrogen in the compound.
+First 1000 chars of Solution:
+1 M of 10 mL H 2 SO 4 =1M of 20 mL NH 3 1000 mL of 1M ammonia contains 14 g nitrogen 20 mL of 1M ammonia contains Reprint 2025-26 289 organic chemistry – some basic principles and techniques 14 20 1000 × g nitrogen 14×20×100 Percentageof nitrogen =56.0% 1000×0.5 = 8.10.3 Halogens Carius method: A known mass of an organic compound is heated with fuming nitric acid in the presence of silver nitrate contained in a hard glass tube known as Carius tube, (Fig.8.17) Fig. 8.17 Carius method. Halogen containing organic compound is heated with fuming nitric acid in the presence of silver nitrate. in a furnace. Carbon and hydrogen present in the compound are oxidised to carbon dioxide and water. The halogen present forms the corresponding silver halide (AgX). It is filtered, washed, dried and weighed. Let the mass of organic compound taken = m g Mass of AgX formed = m 1 g 1 mol of AgX contains 1 mol of X Mass of halogen in m 1 g of AgX × = 1 atomicmassof X m g molecular massof AgX Percentage of h
+--------------------------------------------------------------------------------
+
+Problem 8.23
+Q: In Carius method of estimation of halogen, 0.15 g of an organic compound gave 0.12 g of AgBr. Find out the percentage of bromine in the compound.
+First 1000 chars of Solution:
+Molar mass of AgBr = 108 + 80 = 188 g mol -1 188 g AgBr contains 80 g bromine 0.12 g AgBr contains × 80 0.12 188 g bromine × × = 80 0.12 100 Percentage of bromine 188×0.15 34.04% = 8.10.4 Sulphur A known mass of an organic compound is heated in a Carius tube with sodium peroxide or fuming nitric acid. Sulphur present in the compound is oxidised to sulphuric acid. It is precipitated as barium sulphate by adding excess of barium chloride solution in water. The precipitate is filtered, washed, dried and weighed. The percentage of sulphur can be calculated from the mass of barium sulphate. Let the mass of organic compound taken = m g and the mass of barium sulphate formed = m 1 g 1 mol of BaSO 4 = 233 g BaSO 4 = 32 g sulphur m 1 g BaSO 4 contains 1 32 233 m × × g sulphur 1 32 100 Percentageof sulphur 233 m m × × = ×
+--------------------------------------------------------------------------------
+
+Problem 8.24
+Q: In sulphur estimation, 0.157 g of an organic compound gave 0.4813 g of Reprint 2025-26 290 chemistry barium sulphate. What is the percentage of sulphur in the compound?
+First 1000 chars of Solution:
+Molecular mass of BaSO 4 = 137+32+64 = 233 g 233 g BaSO 4 contains 32 g sulphur 0.4813 g BaSO 4 contains 32 0.4813 g 233 × g sulphur × × = × = 32 0.4813 100 Percentageof sulphur 233 0.157 42.10% 8.10.5 Phosphorus A known mass of an organic compound is heated with fuming nitric acid whereupon phosphorus present in the compound is oxidised to phosphoric acid. It is precipitated as ammonium phosphomolybdate, (NH 4 ) 3 PO 4 .12MoO 3 , by adding ammonia and ammonium molybdate. Alternatively, phosphoric acid may be precipitated as MgNH 4 PO 4 by adding magnesia mixture which on ignition yields Mg 2 P 2 O 7 . Let the mass of organic compound taken = m g and mass of ammonium phospho molydate = m 1 g Molar mass of (NH 4 ) 3 PO 4 .12MoO 3 = 1877g 1 31 100 % 1877 m m × × = × Percentage of phosphorus If phosphorus is estimated as Mg 2 P 2 O 7 , 1 62 100 222 m × × = × Percentage of phosphorus where, 222 u is the molar mass of Mg 2 P 2 O 7 , m , the mass of organic compound taken, m 1 , the mass of 
+--------------------------------------------------------------------------------
+
+Problem 9.1
+Q: Write structures of different chain isomers of alkanes corresponding to the molecular formula C 6 H 14 . Also write their IUPAC names.
+First 1000 chars of Solution:
+(i) CH 3 – CH 2 – CH 2 – CH 2 – CH 2 – CH 3 n -Hexane 2-Methylpentane 3-Methylpentane 2,3-Dimethylbutane 2,2 - Dimethylbutane Based upon the number of carbon atoms attached to a carbon atom, the carbon atom is termed as primary (1°), secondary (2°), tertiary (3°) or quaternary (4°). Carbon atom attached to no other carbon atom as in methane or to only one carbon atom as in ethane is called primary carbon atom. Terminal carbon atoms are always primary. Carbon atom attached to two carbon atoms is known as secondary. Tertiary carbon is attached to three carbon atoms and neo or quaternary carbon is attached to four carbon atoms. Can you identify 1°, 2°, 3° and 4° carbon atoms in Reprint 2025-26 298 chemistry structures I to V ? If you go on constructing structures for higher alkanes, you will be getting still larger number of isomers. C 6 H 14 has got five isomers and C 7 H 16 has nine. As many as 75 isomers are possible for C 10 H 22 . In structures II, IV and V, you observed that –CH 3 g
+--------------------------------------------------------------------------------
+
+Problem 9.2
+Q: Write structures of different isomeric alkyl groups corresponding to the molecular formula C 5 H 11 . Write IUPAC names of alcohols obtained by attachment of –OH groups at different carbons of the chain.
+First 1000 chars of Solution:
+Structures of – C 5 H 11 group Corresponding alcohols Name of alcohol (i) CH 3 – CH 2 – CH 2 – CH 2 – CH 2 – CH 3 – CH 2 – CH 2 – CH 2 – CH 2 – OH Pentan-1-ol (ii) CH 3 – CH – CH 2 – CH 2 – CH 3 CH 3 – CH – CH 2 – CH 2 – CH 3 Pentan-2-ol | | OH (iii) CH 3 – CH 2 – CH – CH 2 – CH 3 CH 3 – CH 2 – CH – CH 2 – CH 3 Pentan-3-ol | | OH CH 3 CH 3 3-Methyl- | | butan-1-ol (iv) CH 3 – CH – CH 2 – CH 2 – CH 3 – CH – CH 2 – CH 2 – OH CH 3 CH 3 2-Methyl- | | butan-1-ol (v) CH 3 – CH 2 – CH – CH 2 – CH 3 – CH 2 – CH – CH 2 – OH CH 3 CH 3 2-Methyl- | | butan-2-ol (vi) CH 3 – C – CH 2 – CH 3 CH 3 – C – CH 2 – CH 3 | | OH CH 3 CH 3 2,2- Dimethyl- | | propan-1-ol (vii) CH 3 – C – CH 2 – CH 3 – C – CH 2 OH | | CH 3 CH 3 CH 3 CH 3 OH 3-Methyl- | | | | b u t a n - 2 - o l (viii) CH 3 – CH – CH –CH 3 CH 3 – CH – CH –CH 3 compounds. These groups or substituents are known as alkyl groups as they are derived from alkanes by removal of one hydrogen atom. General formula for alkyl groups is C n H 2n+1 (Unit 8).
+--------------------------------------------------------------------------------
+
+Problem 9.3
+Q: Write IUPAC names of the following compounds : (i) (CH 3 ) 3 C CH 2 C(CH 3 ) 3 (ii) (CH 3 ) 2 C(C 2 H 5 ) 2 (iii) tetra – tert -butylmethane
+First 1000 chars of Solution:
+(i) 2, 2, 4, 4-Tetramethylpentane (ii) 3, 3-Dimethylpentane (iii) 3,3-Di- tert -butyl -2, 2, 4, 4 - tetramethylpentane If it is important to write the correct IUPAC name for a given structure, it is equally Remarks Lowest sum and alphabetical arrangement Lowest sum and alphabetical arrangement sec is not considered while arranging alphabetically; isopropyl is taken as one word Further numbering to the substituents of the side chain Alphabetical priority order important to write the correct structure from the given IUPAC name. To do this, first of all, the longest chain of carbon atoms corresponding to the parent alkane is written. Then after numbering it, the substituents are attached to the correct carbon atoms and finally valence of each carbon atom is satisfied by putting the correct number of hydrogen atoms. This can be clarified by writing the structure of 3-ethyl-2, 2–dimethylpentane in the following steps : i) Draw the chain of five carbon atoms: C – C – C – C – C ii) Give numbe
+--------------------------------------------------------------------------------
+
+Problem 9.4
+Q: Write structural formulas of the following compounds : (i) 3, 4, 4, 5–Tetramethylheptane (ii) 2,5-Dimethyhexane
+First 1000 chars of Solution:
+(i) CH 3 – CH 2 – CH – C – CH– CH – CH 3 (ii) CH 3 – CH – CH 2 – CH 2 – CH – CH 3
+--------------------------------------------------------------------------------
+
+Problem 9.5
+Q: Write structures for each of the following compounds. Why are the given names incorrect? Write correct IUPAC names. (i) 2-Ethylpentane (ii) 5-Ethyl – 3-methylheptane
+First 1000 chars of Solution:
+(i) CH 3 – CH – CH 2 – CH 2 – CH 3 Longest chain is of six carbon atoms and not that of five. Hence, correct name is 3-Methylhexane. 7 6 5 4 3 2 1 (ii) CH 3 – CH 2 – CH – CH 2 – CH – CH 2 – CH 3 Numbering is to be started from the end which gives lower number to ethyl group. Hence, correct name is 3-ethyl-5- methylheptane. 9.2.2 Preparation Petroleum and natural gas are the main sources of alkanes. However, alkanes can be prepared by following methods : 1. From unsaturated hydrocarbons Dihydrogen gas adds to alkenes and alkynes in the presence of finely divided catalysts like platinum, palladium or nickel to form alkanes. This process is called hydrogenation . These metals adsorb dihydrogen gas on their surfaces and activate the hydrogen – hydrogen bond. Platinum and palladium catalyse the reaction at room temperature but relatively higher temperature and pressure are required with nickel catalysts. CH 2 =CH 2 + H 2 Pt/Pd/Ni CH 3 − CH 3 Ethene Propane (9.1) CH 2 –CH=CH 2 + H 2 Pt/Pd/N
+--------------------------------------------------------------------------------
+
+Problem 9.6
+Q: Sodium salt of which acid will be needed for the preparation of propane ? Write chemical equation for the reaction.
+First 1000 chars of Solution:
+Butanoic acid, CH 3 CH 2 CH 2 COO – Na + + NaOH CaO CH 3 CH 2 CH 3 +Na 2 CO 3 ii) Kolbe’s electrolytic method: An aqueous solution of sodium or potassium salt of a carboxylic acid on electrolysis gives alkane containing even number of carbon atoms at the anode. − + + 3 2 2CH COO Na 2H O Sodium acetate ↓ Electrolysts − + + + (9.9) CH CH 2CO H 2NaOH 3 3 2 2 The reaction is supposed to follow the following path : O i) 2CH 3 COO – Na + 2CH 3 – C – O – +2Na + ii) At anode: O O 2CH 3 –C–O – –02e – 2CH 3 – C – 2C . H 3 +2CO 2 ↑ Acetate ion Acetate Methyl free free radical radical iii) H 3 C + CH 3 H 3 C–CH 3 ↑ iv) At cathode : H 2 O+e – → –OH+ 2 → H 2 ↑ Methane cannot be prepared by this method. Why? 9.2.3 Properties Physical properties Alkanes are almost non-polar molecules because of the covalent nature of C-C and C-H bonds and due to very little difference of electronegativity between carbon and hydrogen atoms. They possess weak van der Waals forces. Due to the weak forces, the first four 
+--------------------------------------------------------------------------------
+
+Problem  9.7
+Q: Write IUPAC names of the following compounds: (i) (CH 3 ) 2 CH – CH = CH – CH 2 – CH  CH 3 – CH – CH | C 2 H 5 (ii) (iii) CH 2 = C (CH 2 CH 2 CH 3 ) 2 (iv) CH 3 CH 2 CH 2 CH 2 CH 2 CH 3 | | CH 3 – CHCH = C – CH 2 – CHCH 3 | CH 3
+First 1000 chars of Solution:
+(i) 2,8-Dimethyl-3, 6-decadiene; (ii) 1,3,5,7 Octatetraene; (iii) 2- n -Propylpent-1-ene; (iv) 4-Ethyl-2,6-dimethyl-dec-4-ene;
+--------------------------------------------------------------------------------
+
+Problem 9.8
+Q: Calculate number of sigma ( σ ) and pi ( π ) bonds in the above structures (i-iv).
+First 1000 chars of Solution:
+σ bonds : 33, π bonds : 2 σ bonds : 17, π bonds : 4 σ bonds : 23, π bond : 1 σ bonds : 41, π bond : 1 9.3.3 Isomerism Alkenes show both structural isomerism and geometrical isomerism. Structural isomerism : As in alkanes, ethene (C 2 H 4 ) and propene (C 3 H 6 ) can have only one structure but alkenes higher than propene have different structures. Alkenes possessing C 4 H 8 as molecular formula can be written in the following three ways: I. 1 2 3 4 CH 2 = CH – CH 2 – CH 3 But-1-ene (C 4 H 8 ) II. 1 2 3 4 CH 3 – CH = CH – CH 3 But-2-ene (C 4 H 8 ) Reprint 2025-26 308 chemistry III. 1 2 3 CH 2 = C – CH 3 | CH 3 2-Methylprop-1-ene (C 4 H 8 ) Structures I and III, and II and III are the examples of chain isomerism whereas structures I and II are position isomers .
+--------------------------------------------------------------------------------
+
+Problem 9.9
+Q: Write structures and IUPAC names of different structural isomers of alkenes corresponding to C 5 H 10 .
+First 1000 chars of Solution:
+(a) CH 2 = CH – CH 2 – CH 2 – CH 3 Pent-1-ene (b) CH 3 – CH=CH – CH 2 – CH 3 Pent-2-ene (c) CH 3 – C = CH – CH 3 | CH 3 2-Methylbut-2-ene (d) CH 3 – CH – CH = CH 2 | CH 3 3-Methylbut-1-ene (e) CH 2 = C – CH 2 – CH 3 | CH 3 2-Methylbut-1-ene Geometrical isomerism: Doubly bonded carbon atoms have to satisfy the remaining two valences by joining with two atoms or groups. If the two atoms or groups attached to each carbon atom are different, they can be represented by YX C = C XY like structure. YX C = C XY can be represented in space in the following two ways : In (a), the two identical atoms i.e., both the X or both the Y lie on the same side of the double bond but in (b) the two X or two Y lie across the double bond or on the opposite sides of the double bond. This results in different geometry of (a) and (b) i.e. disposition of atoms or groups in space in the two arrangements is different. Therefore, they are stereoisomers . They would have the same geometry if atoms or groups around C
+--------------------------------------------------------------------------------
+
+Problem 9.10
+Q: Draw cis and trans isomers of the following compounds. Also write their IUPAC names : (i) CHCl = CHCl (ii) C 2 H 5 CCH 3 = CCH 3 C 2 H 5
+First 1000 chars of Solution:
+
+--------------------------------------------------------------------------------
+
+Problem 9.11
+Q: Which of the following compounds will show cis-trans isomerism? (i) (CH 3 ) 2 C = CH – C 2 H 5 (ii) CH 2 = CBr 2 (iii) C 6 H 5 CH = CH – CH 3 (iv) CH 3 CH = CCl CH 3
+First 1000 chars of Solution:
+(iii) and (iv). In structures (i) and (ii), two identical groups are attached to one of the doubly bonded carbon atom. 9.3.4 Preparation 1. From alkynes: Alkynes on partial reduction with calculated amount of dihydrogen in the presence of palladised charcoal partially deactivated with poisons like sulphur compounds or quinoline give alkenes. Partially deactivated palladised charcoal is known as Lindlar’s catalyst . Alkenes thus obtained are having cis geometry. However, alkynes on reduction with sodium in liquid ammonia form trans alkenes. iii) CH ≡ CH+H 2 Pd/C CH 2 =CH 2 (9.32) Ethyne Ethene iv) CH 3 –C ≡ CH+H 2 Pd/C CH 3 –CH =CH 2 Propyne Propene (9.33) Will propene thus obtained show geometrical isomerism? Think for the reason in support of your answer. 2. From alkyl halides : Alkyl halides (R-X) on heating with alcoholic potash (potassium hydroxide dissolved in alcohol, say, Reprint 2025-26 (9.30) (9.31) 310 chemistry ethanol) eliminate one molecule of halogen acid to form alkenes.
+--------------------------------------------------------------------------------
+
+Problem 9.12
+Q: Write IUPAC names of the products obtained by addition reactions of HBr to hex-1-ene (i) in the absence of peroxide and (ii) in the presence of peroxide.
+First 1000 chars of Solution:
+4. Addition of sulphuric acid : Cold concentrated sulphuric acid adds to alkenes in accordance with Markovnikov rule to form alkyl hydrogen sulphate by the electrophilic addition reaction. Reprint 2025-26 313 Hydrocarbons 5. Addition of water : In the presence of a few drops of concentrated sulphuric acid alkenes react with water to form alcohols, in accordance with the Markovnikov rule. 6. Oxidation: Alkenes on reaction with cold, dilute, aqueous solution of potassium permanganate (Baeyer’s reagent) produce vicinal glycols. Decolorisation of KMnO 4 solution is used as a test for unsaturation. (9.48) b) Acidic potassium permanganate or acidic potassium dichromate oxidises alkenes to ketones and/or acids depending upon the nature of the alkene and the experimental conditions KMnO 4 /H + 2CH 3 COOH But-2-ene Ethanoic acid CH 3 – CH=CH–CH 3 (9.44) (9.50) 7. Ozonolysis : Ozonolysis of alkenes involves the addition of ozone molecule to alkene to form ozonide, and then cleavage of the ozoni
+--------------------------------------------------------------------------------
+
+Problem 9.13
+Q: Write structures of different isomers corresponding to the 5 th member of alkyne series. Also write IUPAC names of all the isomers. What type of isomerism is exhibited by different pairs of isomers?
+First 1000 chars of Solution:
+5 th member of alkyne has the molecular formula C 6 H 10 . The possible isomers are: Reprint 2025-26 315 Hydrocarbons (a) HC ≡ C – CH 2 – CH 2 – CH 2 – CH 3 Hex-1-yne (b) CH 3 – C ≡ C – CH 2 – CH 2 – CH 3 Hex-2-yne (c) CH 3 – CH 2 – C ≡ C – CH 2 – CH 3 Hex-3-yne 3-Methylpent-1-yne 4-Methylpent-1-yne 4-Methylpent-2-yne 3,3-Dimethylbut-1-yne Position and chain isomerism shown by different pairs. 9.4.2 Structure of Triple Bond Ethyne is the simplest molecule of alkyne series. Structure of ethyne is shown in Fig. 9.6. Each carbon atom of ethyne has two sp hybridised orbitals. Carbon-carbon sigma ( σ ) bond is obtained by the head-on overlapping of the two sp hybridised orbitals of the two carbon atoms. The remaining sp hybridised orbital of each carbon atom undergoes overlapping along the internuclear axis with the 1 s orbital of each of the two hydrogen atoms forming two C-H sigma bonds. H-C-C bond angle is of 180°. Each carbon has two unhybridised p orbitals which are perpendicular to ea
+--------------------------------------------------------------------------------
+
+Problem 9.14
+Q: How will you convert ethanoic acid into benzene?
+First 1000 chars of Solution:
+9.5 Aromatic Hydrocarbon These hydrocarbons are also known as ‘ arenes ’. Since most of them possess pleasant odour ( Greek; aroma meaning pleasant smelling ), the class of compounds was named as ‘ aromatic compounds ’. Most of such compounds were found to contain benzene ring. Benzene ring is highly unsaturated but in a majority of reactions of aromatic compounds, the unsaturation of benzene ring is retained. However, there are examples of aromatic hydrocarbons which do not contain a benzene ring but instead contain other highly unsaturated ring. Aromatic compounds containing benzene ring are known as benzenoids and those not containing a benzene ring are known as non-benzenoids . Some examples of arenes are given below: Benzene Toluene Naphthalene (9.69) Biphenyl 9.5.1 Nomenclature and Isomerism The nomenclature and isomerism of aromatic hydrocarbons has already been discussed in Unit 8. All six hydrogen atoms in benzene are equivalent; so it forms one and only one type of monosubsti
+--------------------------------------------------------------------------------
+

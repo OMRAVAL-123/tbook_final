@@ -1,0 +1,262 @@
+
+UNIT 1: SOME BASIC CONCEPTS OF CHEMISTRY
+1.1 IMPORTANCE OF CHEMISTRY
+1.2 Nature of Matter
+    1.2.1 States of Matter
+    1.2.2 Classification of Matter
+1.3 Properties of Matter and their Measurement
+    1.3.1 Physical and chemical properties
+    1.3.2 Measurement of physical properties
+    1.3.3 The International System of Units (SI)
+    1.3.4 Mass and Weight
+    1.3.5 Volume
+    1.3.6 Density
+    1.3.7 Temperature
+1.4 Uncertainty in Measurement
+    1.4.1 Scientific Notation
+    1.4.2 Significant Figures
+    1.4.3 Dimensional Analysis
+1.5 Laws of Chemical Combinations
+    1.5.1 Law of Conservation of Mass
+    1.5.2 Law of Definite Proportions
+    1.5.3 Law of Multiple Proportions
+    1.5.4 Gay Lussac’s Law of Gaseous Volumes
+    1.5.5 Avogadro’s Law
+1.6 Dalton’s Atomic Theory
+1.7 Atomic and Molecular Masses
+    1.7.1 Atomic Mass
+    1.7.2 Average Atomic Mass
+    1.7.3 Molecular Mass
+    1.7.4 Formula Mass
+1.8 Mole concept and Molar Masses
+1.9 Percentage Composition
+    1.9.1 Empirical Formula for Molecular Formula
+1.10 Stoichiometry and Stoichiometric Calculations
+
+Unit 2: structure of atom
+2.1 Discovery of Sub-atomic Particles
+    2.1.1 Discovery of Electron
+    2.1.2 Charge to Mass Ratio of Electron
+    2.1.3 Charge on the Electron
+    2.1.4 Discovery of Protons and Neutrons
+2.2 Atomic Models
+    2.2.1 Thomson Model of Atom
+    2.2.2 Rutherford’s Nuclear Model of Atom
+    2.2.3 Atomic Number and Mass Number
+    2.2.4 Isobars and Isotopes
+    2.2.5 Drawbacks of Rutherford Model
+2.3 Developments Leading to the Bohr’s Model of Atom
+    2.3.1 Wave Nature of Electromagnetic Radiation
+    2.3.2 Particle Nature of Electromagnetic Radiation: Planck’s Quantum Theory
+    2.3.3 Evidence for the quantized* Electronic Energy Levels: Atomic spectra
+2.4 Bohr’s Model for Hydrogen Atom
+    2.4.1 Explanation of Line Spectrum of Hydrogen
+    2.4.2 Limitations of Bohr’s Model
+2.5 Towards Quantum Mechanical Model of the Atom
+    2.5.1 Dual Behaviour of Matter
+    2.5.2 Heisenberg’s Uncertainty Principle
+2.6 Quantum Mechanical Model of Atom
+    2.6.1 Orbitals and Quantum Numbers
+    2.6.2 Shapes of Atomic Orbitals
+    2.6.3 Energies of Orbitals
+    2.6.4 Filling of Orbitals in Atom
+    2.6.5 Electronic Configuration of Atoms
+    2.6.6 Stability of Completely Filled and Half Filled Subshells
+
+Unit 3: Classification of Elements and Periodicity in Properties
+3.1 WHY DO WE NEED TO CLASSIFY ELEMENTS ?
+3.2 GENESIS OF PERIODIC CLASSIFICATION
+3.3 MODERN PERIODIC LAW AND THE PRESENT FORM OF THE PERIODIC TABLE
+3.4 NOMENCLATURE OF ELEMENTS WITH ATOMIC NUMBERS > 100
+3.5 ELECTRONIC CONFIGURATIONS OF ELEMENTS AND THE PERIODIC TABLE
+3.6 ELECTRONIC CONFIGURATIONS A N D T Y P E S O F E L E M E N T S : s-, p-, d-, f- BLOCKS
+    3.6.1 The s -Block Elements
+    3.6.2 The p- Block Elements
+    3.6.3 The d- Block Elements (Transition Elements)
+    3.6.4 The f-Block Elements (Inner-Transition Elements)
+    3.6.5 Metals, Non-metals and Metalloids
+3.7 PERIODIC TRENDS IN PROPERTIES OF ELEMENTS
+    3.7.1 Trends in Physical Properties
+    3.7.2 Periodic Trends in Chemical Properties
+    3.7.3 Periodic Trends and Chemical Reactivity
+
+Unit 4: CHEMICAL BONDING AND MOLECULAR STRUCTURE
+4.1 KÖssel-Lewis Approach to Chemical Bonding
+    4.1.1 Octet Rule
+    4.1.2 Covalent Bond
+    4.1.3 Lewis Representation of Simple Molecules (the Lewis Structures)
+    4.1.4 Formal Charge
+    4.1.5 Limitations of the Octet Rule
+4.2 Ionic or Electrovalent Bond
+    4.2.1 Lattice Enthalpy
+4.3 Bond Parameters
+    4.3.1 Bond Length
+    4.3.2 Bond Angle
+    4.3.3 Bond Enthalpy
+    4.3.4 Bond Order
+    4.3.5 Resonance Structures
+    4.3.6 Polarity of Bonds
+4.4 The Valence Shell Electron Pair Repulsion (VSEPR) Theory
+4.5 Valence Bond Theory
+    4.5.1 Orbital Overlap Concept
+    4.5.2 Directional Properties of Bonds
+    4.5.3 Overlapping of Atomic Orbitals
+    4.5.4 Types of Overlapping and Nature of Covalent Bonds
+    4.5.5 Strength of Sigma and pi Bonds
+4.6 Hybridisation
+    4.6.1 Types of Hybridisation
+    4.6.2 Other Examples of sp
+    4.6.3 Hybridisation of Elements involving d Orbitals
+4.7 Molecular Orbital Theory
+    4.7.1 Formation of Molecular Orbitals Linear Combination of Atomic Orbitals (LCAO)
+    4.7.2 Conditions for the Combination of Atomic Orbitals
+    4.7.3 Types of Molecular Orbitals
+    4.7.4 Energy Level Diagram for Molecular Orbitals
+    4.7.5 Electronic Configuration and Molecular Behaviour
+4.8 BONDING IN SOME HOMONUCLEAR DIATOMIC MOLECULES
+4.9 Hydrogen Bonding
+    4.9.1 Cause of Formation of Hydrogen Bond
+    4.9.2 Types of H-Bonds
+
+Unit 5: Thermodynamics
+5.1 Thermodynamic terms
+    5.1.1 The System and the Surroundings
+    5.1.2 Types of the System
+    5.1.3 The State of the System
+    5.1.4 The Internal Energy as a State Function
+5.2 Applications
+    5.2.1 Work
+    5.2.2 Enthalpy, H (a) A Useful New State Function
+5.3 Measurement of ∆ U and ∆ H : Calorimetry
+5.4 Enthalpy change, ∆
+5.5 Enthalpies for different types of reactions
+5.6 spontaneity
+5.7 Gibbs energy change and equilibrium
+
+Unit 6: Equilibrium
+6.1 E Q U I L I B R I U M I N P H Y S I C A L PROCESSES
+    6.1.1 Solid-Liquid Equilibrium
+    6.1.2 Liquid-Vapour Equilibrium
+    6.1.3 Solid – Vapour Equilibrium
+    6.1.4 Equilibrium Involving Dissolution of Solid or Gases in Liquids Solids in liquids
+    6.1.5 General Characteristics of Equilibria Involving Physical Processes
+6.2 EQUILIBRIUM IN CHEMICAL PROCESSES – DYNAMIC EQUILIBRIUM
+6.3 LAW OF CHEMICAL EQUILIBRIUM AND EQUILIBRIUM CONSTANT
+6.4 HOMOGENEOUS EQUILIBRIA
+    6.4.1 Equilibrium Constant in Gaseous Systems
+6.5 HETEROGENEOUS EQUILIBRIA
+6.6 APPLICATIONS OF EQUILIBRIUM CONSTANTS
+    6.6.1 Predicting the Extent of a Reaction
+    6.6.2 Predicting the Direction of the Reaction
+    6.6.3 Calculating Equilibrium Concentrations
+6.7 Relationship between Equilibrium Constant K , Reaction Quotient Q and Gibbs Energy G
+6.8 FACTORS AFFECTING EQUILIBRIA
+    6.8.1 Effect of Concentration Change
+    6.8.2 Effect of Pressure Change
+    6.8.3 Effect of Inert Gas Addition
+    6.8.4 Effect of Temperature Change
+    6.8.5 Effect of a Catalyst
+6.9 IONIC EQUILIBRIUM IN SOLUTION
+6.10 ACIDS, BASES AND SALTS
+    6.10.1 Arrhenius Concept of Acids and Bases
+    6.10.2 The Brönsted-Lowry Acids and Bases
+    6.10.3 Lewis Acids and Bases
+6.11 IONIZATION OF ACIDS AND BASES
+    6.11.1 The Ionization Constant of Water and its Ionic Product
+    6.11.2 The pH Scale
+    6.11.3 Ionization Constants of Weak Acids
+    6.11.4 Ionization of Weak Bases
+    6.11.5 Relation between K
+    6.11.6 Di- and Polybasic Acids and Di- and Polyacidic Bases
+    6.11.7 Factors Affecting Acid Strength
+    6.11.8 Common Ion Effect in the Ionization of Acids and Bases
+    6.11.9 Hydrolysis of Salts and the pH of their Solutions
+6.12 BUFFER SOLUTIONS
+    6.12.1 Designing Buffer Solution
+6.13 SOLUBILITY EQUILIBRIA OF SPARINGLY SOLUBLE SALTS
+    6.13.1 Solubility Product Constant
+    6.13.2 Common Ion Effect on Solubility of Ionic Salts
+
+Unit 7: redox reactions
+7.1 CLASSICAL IDEA OF REDOX REACTIONS – OXIDATION AND REDUCTION REACTIONS
+7.2 REDOX REACTIONS IN TERMS OF ELECTRON TRANSFER REACTIONS
+    7.2.1 Competitive Electron Transfer Reactions
+7.3 OXIDATION NUMBER
+    7.3.1 Types of Redox Reactions 1. Combination reactions
+    7.3.2 Balancing of Redox Reactions
+    7.3.3 Redox Reactions as the Basis for Titrations
+    7.3.4 Limitations of Concept of Oxidation Number
+7.4 Redox Reactions and Electrode Processes
+
+Unit 8: Organic Chemistry – Some Basic Principles and Techniques
+8.1 General Introduction
+    8.2.1 The Shapes of Carbon Compounds
+    8.2.2 Some Characteristic Features of π Bonds
+8.3 STRUCTURAL RepresenTATIONS OF organic COMPOUNDs
+    8.3.1 Complete, Condensed and Bond-line Structural Formulas
+    8.3.2 Three-Dimensional Representation of Organic Molecules
+8.4 Classification of Organic Compounds
+    8.4.1 Functional Group
+    8.4.2 Homologous Series
+8.5 NOMENCLATURE OF ORGANIC COMPOUNDS
+    8.5.1 The IUPAC System of Nomenclature
+    8.5.2 IUPAC Nomenclature of Alkanes
+    8.5.3 N o m e n c l a t u r e o f O r g a n i c Compounds having Functional Group(s)
+    8.5.4 Nomenclature of Substituted Benzene Compounds
+8.6 ISOMERISM
+    8.6.1 Structural Isomerism
+    8.6.2 Stereoisomerism
+8.7 FUNDAMENTAL CONCEPTS IN ORGANIC REACTION MECHANISM
+    8.7.1 Fission of a Covalent Bond
+    8.7.2 Substrate and Reagent
+    8.7.3 Electron Movement in Organic Reactions
+    8.7.4 Electron Displacement Effects in Covalent Bonds
+    8.7.5 Inductive Effect
+    8.7.6 Resonance Structure
+    8.7.7 Resonance Effect
+    8.7.8 Electromeric Effect (E effect)
+    8.7.9 Hyperconjugation
+    8.7.10 Types of Organic Reactions and Mechanisms
+8.8 Methods of Purification of Organic Compounds
+    8.8.1 Sublimation
+    8.8.2 Crystallisation
+    8.8.3 Distillation
+    8.8.4 Differential Extraction
+    8.8.5 Chromatography
+8.9 Qualitative Analysis of Organic Compounds
+    8.9.1 Detection of Carbon and Hydrogen
+    8.9.2 Detection of Other Elements
+8.10 Quantitative Analysis
+    8.10.1 Carbon and Hydrogen
+    8.10.2 Nitrogen
+    8.10.3 Halogens
+    8.10.4 Sulphur
+    8.10.5 Phosphorus
+    8.10.6 Oxygen
+
+Unit 9: Hydrocarbons
+9.1 CLASSIFICATION
+9.2 ALKANES
+    9.2.1 Nomenclature and Isomerism
+    9.2.2 Preparation
+    9.2.3 Properties Physical properties
+    9.2.4 Conformations
+9.3 Alkenes
+    9.3.1 Structure of Double Bond
+    9.3.2 Nomenclature
+    9.3.3 Isomerism
+    9.3.4 Preparation
+    9.3.5 Properties Physical properties
+9.4 Alkynes
+    9.4.1 Nomenclature and Isomerism
+    9.4.2 Structure of Triple Bond
+    9.4.3 Preparation
+    9.4.4 Properties Physical properties
+9.5 Aromatic Hydrocarbon
+    9.5.1 Nomenclature and Isomerism
+    9.5.2 Structure of Benzene
+    9.5.3 Aromaticity
+    9.5.4 Preparation of Benzene
+    9.5.5 Properties Physical properties
+    9.5.6 Directive influence of a functional group in monosubstituted benzene
+9.6 Carcinogenicity and Toxicity

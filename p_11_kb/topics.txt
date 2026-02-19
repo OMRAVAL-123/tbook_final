@@ -1,0 +1,199 @@
+
+Chapter 1
+1.1 INTRODUCTION
+1.2 THE INTERNATIONAL SYSTEM OF UNITS
+1.3 SIGNIFICANT FIGURES
+    1.3.1 Rules for Arithmetic Operations with Significant Figures
+    1.3.2 Rounding off the Uncertain Digits
+    1.3.3 Rules for Determining the Uncertainty in the Results of Arithmetic Calculations
+1.4 DIMENSIONS OF PHYSICAL Q UANTITIES
+1.5 DIMENSIONAL FORMULAE AND DIMENSIONAL E Q UATIONS
+1.6 DIMENSIONAL ANALYSIS AND ITS APPLICATIONS
+    1.6.1 Checking the Dimensional Consistency of Equations
+    1.6.2 Deducing Relation among the Physical Q uantities
+
+Chapter 2
+2.1 INTRODUCTION
+2.2 INSTANTANEOUS VELOCITY AND SPEED
+2.3 ACCELERATION
+2.4 KINEMATIC E Q UATIONS FOR UNIFORMLY ACCELERATED MOTION
+
+Chapter 3
+3.1 INTRODUCTION
+3.2 SCALARS AND VECTORS
+    3.2.1 Position and Displacement Vectors
+    3.2.2 Equality of Vectors
+3.3 MULTIPLICATION OF VECTORS BY REAL NUMBERS
+3.4 ADDITION AND SUBTRACTION OF VECTORS — GRAPHICAL METHOD
+3.5 RESOLUTION OF VECTORS
+3.6 VECTOR ADDITION – ANALYTICAL METHOD
+3.7 MOTION IN A PLANE
+    3.7.1 Position Vector and Displacement
+3.8 MOTION IN A PLANE WITH CONSTANT ACCELERATION
+3.9 PROJECTILE MOTION
+3.10 Uniform circular motion
+
+Chapter 4
+4.1 INTRODUCTION
+4.2 ARISTOTLE’S  FALLACY
+4.3 THE LAW OF INERTIA
+4.4 NEWTON’S FIRST LAW OF MOTION
+4.6 NEWTON’S THIRD LAW OF MOTION
+4.7 CONSERVATION OF MOMENTUM
+4.8 EQUILIBRIUM OF A PARTICLE
+4.9 COMMON FORCES IN MECHANICS
+    4.9.1 Friction
+4.10 Circular motion
+4.11 Solving problems in
+
+Chapter 5
+5.1 INTRODUCTION
+    5.1.1 The Scalar Product
+5.2 NOTIONS OF WORK AND KINETIC ENERGY: THE WORK-ENERGY THEOREM
+5.3 WORK
+5.4 KINETIC ENERGY
+5.5 WORK DONE BY A VARIABLE FORCE
+5.6 THE WORK-ENERGY THEOREM FOR A VARIABLE FORCE
+5.7 THE CONCEPT OF POTENTIAL ENERGY
+5.8 THE CONSERVATION OF MECHANICAL ENERGY
+5.9 THE POTENTIAL ENERGY OF A SPRING
+5.10 Power
+5.11 Collisions
+    5.11.1 Elastic and  Inelastic Collisions
+    5.11.2 Collisions in One Dimension
+    5.11.3 Collisions in Two Dimensions
+
+Chapter 6
+6.1 INTRODUCTION
+    6.1.1 What kind of motion can a rigid body have?
+6.2 CENTRE OF MASS
+6.3 MOTION OF CENTRE OF MASS
+6.4 LINEAR MOMENTUM OF A SYSTEM OF PARTICLES
+6.5 VECTOR PRODUCT OF TWO VECTORS
+6.6 ANGULAR VELOCITY AND ITS RELATION WITH LINEAR VELOCITY
+    6.6.1 Angular acceleration
+6.7 TORQUE AND ANGULAR MOMENTUM
+    6.7.1 Moment of force (Torque)
+    6.7.2 Angular momentum of a particle
+6.8 EQUILIBRIUM OF A RIGID BODY
+    6.8.1 Principle of moments An ideal lever is essentially a light (i.e. of negligible mass) rod pivoted at a point along its
+    6.8.2 Centre of gravity
+6.9 MOMENT OF INERTIA
+6.10 Kinematics of rotational
+6.11 Dynamics of rotational
+6.12 Angular momentum in case
+    6.12.1 Conservation of angular momentum
+
+Chapter 7
+7.1 INTRODUCTION
+7.2 KEPLER’S LAWS
+7.4 THE GRAVITATIONAL CONSTANT
+7.5 ACCELERATION DUE TO GRAVITY OF THE EARTH
+7.6 ACCELERATION DUE TO GRAVITY BELOW AND ABOVE THE SURFACE OF EARTH
+7.7 GRAVITATIONAL POTENTIAL ENERGY
+7.8 ESCAPE SPEED
+7.9 EARTH SATELLITES
+7.10 ENERGY OF AN ORBITING SATELLITE
+
+Chapter 8
+8.1 INTRODUCTION
+8.2 Stress and strain
+8.3 Hooke’s law
+8.4 Stress-strain curve
+8.5 Elastic moduli
+    8.5.1 Young’s Modulus
+    8.5.2 Shear Modulus
+    8.5.3 Bulk Modulus
+    8.5.4 P OISSON ’ S R ATIO
+    8.5.5 Elastic Potential Energy in a Stretched Wire
+8.6 Applications
+
+Chapter 9
+9.1 INTRODUCTION
+9.2 PRESSURE
+    9.2.1 Pascal’s Law
+    9.2.2 Variation of Pressure with Depth
+    9.2.3 Atmospheric Pressure and Gauge Pressure
+    9.2.4 Hydraulic Machines
+9.3 STREAMLINE FLOW
+9.4 BERNOULLI’S PRINCIPLE
+    9.4.1 Speed of Efflux: Torricelli’s Law
+    9.4.2 Dynamic Lift
+9.5 VISCOSITY
+    9.5.1 Stokes’ Law
+9.6 SURFACE TENSION
+    9.6.1 Surface Energy
+    9.6.2 Surface Energy and Surface Tension
+    9.6.3 Angle of Contact
+    9.6.4 Drops and Bubbles
+    9.6.5 Capillary Rise
+
+Chapter 10
+10.1 INTRODUCTION
+10.2 TEMPERATURE AND HEAT
+10.3 MEASUREMENT OF TEMPERATURE
+10.4 IDEAL-GAS EQUATION AND ABSOLUTE TEMPERATURE
+10.5 THERMAL EXPANSION
+10.6 SPECIFIC HEAT CAPACITY
+10.7 CALORIMETRY
+10.8 CHANGE OF STATE
+    10.8.1 Latent Heat
+10.9 HEAT TRANSFER
+    10.9.1 Conduction
+    10.9.2 Convection
+    10.9.3 Radiation
+    10.9.4 Blackbody Radiation
+10.10 NEWTON’S LAW OF COOLING
+
+Chapter 11
+11.2 THERMAL EQUILIBRIUM Equilibrium in mechanics means that the net external force and torque on a system are zero. The term ‘equilibrium’ in thermodynamics appears
+11.3 ZEROTH LAW OF THERMODYNAMICS
+11.5 FIRST LAW OF THERMODYNAMICS
+11.6 SPECIFIC HEAT CAPACITY
+11.7 THERMODYNAMIC STATE VARIABLES AND EQUATION OF STATE
+11.8 THERMODYNAMIC PROCESSES
+    11.8.2 Isothermal process
+    11.8.3 Adiabatic process
+    11.8.4 Isochoric process
+    11.8.5 Isobaric process
+    11.8.6 Cyclic process
+11.9 SECOND LAW OF THERMODYNAMICS
+11.10 Reversible and irreversible
+11.11 Carnot engine
+
+Chapter 12
+12.1 INTRODUCTION
+12.2 MOLECULAR NATURE OF MATTER
+12.3 BEHAVIOUR OF GASES
+    12.4.1 Pressure of an Ideal Gas
+    12.4.2 Kinetic Interpretation of Temperature
+12.5 LAW OF EQUIPARTITION OF ENERGY
+12.6 SPECIFIC HEAT CAPACITY
+    12.6.1 Monatomic Gases
+    12.6.2 Diatomic Gases
+    12.6.3 Polyatomic Gases
+    12.6.4 Specific Heat Capacity of Solids
+12.7 MEAN FREE PATH
+
+Chapter 13
+13.1 INTRODUCTION
+13.2 PERIODIC AND OSCILLATORY MOTIONS
+13.3 SIMPLE HARMONIC MOTION
+13.4 SIMPLE HARMONIC MOTION AND UNIFORM CIRCULAR MOTION
+13.5 VELOCITY AND ACCELERATION IN SIMPLE HARMONIC MOTION
+13.6 FORCE LAW FOR SIMPLE HARMONIC MOTION
+13.7 ENERGY IN SIMPLE HARMONIC MOTION
+
+Chapter 14
+14.1 INTRODUCTION
+14.2 TRANSVERSE AND LONGITUDINAL WAVES
+14.3 DISPLACEMENT RELATION IN A  PROGRESSIVE WAVE
+    14.3.1 Amplitude and Phase
+    14.3.2 Wavelength and Angular Wave Number
+    14.3.3 Period, Angular Frequency and Frequency
+14.4 THE SPEED OF A TRAVELLING WAVE
+    14.4.1 Speed of a Transverse Wave on Stretched String
+    14.4.2 Speed of a Longitudinal Wave (Speed of Sound)
+14.5 THE PRINCIPLE OF SUPERPOSITION OF WAVES
+14.6 REFLECTION OF WAVES
+14.7 BEATS

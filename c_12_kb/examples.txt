@@ -1,0 +1,456 @@
+Example 1.1
+Q: Calculate the mole fraction of ethylene glycol (C 2 H 6 O 2 ) in a solution containing 20% of C 2 H 6 O 2 by mass.
+First 1000 chars of Solution:
+Assume that we have 100 g of solution (one can start with any amount of solution because the results obtained will be the same). Solution will contain 20 g of ethylene glycol and 80 g of water. Molar mass of C 2 H 6 O 2 = 12 × 2 + 1 × 6 + 16 × 2 = 62 g mol –1 . Moles of C 2 H 6 O 2 =  1 20 g 62 g mol = 0.322 mol Moles of water = -1 80 g 18 g mol = 4.444 mol moles of C H O x moles of C H O moles of H O   2 6 2 glycol 2 6 2 2   0.322 mol 0.322mol 4.444 mol = 0.068 Similarly,    water 4.444 mol 0.932 0.322 mol 4.444 mol x Mole fraction of water can also be calculated as: 1 – 0.068 = 0.932 (vi) Molarity : Molarity ( M ) is defined as number of moles of solute dissolved in one litre (or one cubic decimetre) of solution,  Moles of solute Molarity Volume of solution in litre (1.8) For example, 0.25 mol L –1 (or 0.25 M) solution of NaOH means that 0.25 mol of NaOH has been dissolved in one litre (or one cubic decimetre).
+--------------------------------------------------------------------------------
+
+Example 1.2
+Q: Calculate the molarity of a solution containing 5 g of NaOH in 450 mL solution. Moles of NaOH = -1 5 g 40 g mol
+First 1000 chars of Solution:
+Volume of the solution in litres = 450 mL / 1000 mL L -1 Using equation (2.8), –1 0.125 mol × 1000 mL L Molarity = = 0.278 mol L –1 = 0.278 mol dm –3 = 0.125 mol 450 mL = 0.278 M (vii) Molality : Molality ( m ) is defined as the number of moles of the solute per kilogram (kg) of the solvent and is expressed as: Molality (m) = Moles of solute Mass of solvent in kg (1.9) For example, 1.00 mol kg –1 (or 1.00 m) solution of KCl means that 1 mol (74.5 g) of KCl is dissolved in 1 kg of water. Each method of expressing concentration of the solutions has its own merits and demerits. Mass %, ppm, mole fraction and molality are independent of temperature, whereas molarity is a function of temperature. This is because volume depends on temperature and the mass does not. Calculate molality of 2.5 g of ethanoic acid (CH 3 COOH) in 75 g of benzene. Molar mass of C 2 H 4 O 2 : 12 × 2 + 1 × 4 + 16 × 2 = 60 g mol –1 Moles of C 2 H 4 O 2 = 1 2.5 g 60 g mol − = 0.0417 mol Mass of benzene in kg = 75 g/100
+--------------------------------------------------------------------------------
+
+Example 1.3
+Q: 
+First 1000 chars of Solution:
+− × 1 0.0417 mol 1000 g kg 75 g Intext Questions Intext Questions Intext Questions Intext Questions Intext Questions Every solid does not dissolve in a given liquid. While sodium chloride and sugar dissolve readily in water, naphthalene and anthracene do not. On the other hand, naphthalene and anthracene dissolve readily in benzene but sodium chloride and sugar do not. It is observed that polar solutes dissolve in polar solvents and non polar solutes in non- polar solvents. In general, a solute dissolves in a solvent if the intermolecular interactions are similar in the two or we may say like dissolves like . When a solid solute is added to the solvent, some solute dissolves and its concentration increases in solution. This process is known as dissolution. Some solute particles in solution collide with the solid solute particles and get separated out of solution. This process is known as crystallisation . A stage is reached when the two processes occur at the same rate. Under such cond
+--------------------------------------------------------------------------------
+
+Example 1.4
+Q: If N 2 gas is bubbled through water at 293 K, how many millimoles of N 2 gas would dissolve in 1 litre of water? Assume that N 2 exerts a partial pressure of 0.987 bar. Given that Henry’s law constant for N 2 at 293 K is 76.48 k bar.
+First 1000 chars of Solution:
+The solubility of gas is related to the mole fraction in aqueous solution. The mole fraction of the gas in the solution is calculated by applying Henry’s law. Thus: (nitrogen) p K = 0.987bar x (Nitrogen) = As 1 litre of water contains 55.5 mol of it, therefore if n represents number of moles of N 2 in solution, mol mol 55.5 mol + n n = 55.5 x (Nitrogen) = ( n in denominator is neglected as it is < < 55.5) Thus n = 1.29 × 10 –5 × 55.5 mol = 7.16 × 10 –4 mol  4 7.16×10 mol × 1000 mmol = 1 mol = 0.716 mmol Henry’s law finds several applications in industry and explains some biological phenomena. Notable among these are: · To increase the solubility of CO 2 in soft drinks and soda water, the bottle is sealed under high pressure. · Scuba divers must cope with high concentrations of dissolved gases while breathing air at high pressure underwater. Increased pressure increases the solubility of atmospheric gases in blood. When the divers come towards surface, the pressure gradually decreases.
+--------------------------------------------------------------------------------
+
+Example 1.5
+Q: 
+First 1000 chars of Solution:
+According to Raoult’s law, the vapour pressure of a volatile component in a given solution is given by p i = x i p i 0 . In the solution of a gas in a liquid, one of the components is so volatile that it exists as a gas and we have already seen that its solubility is given by Henry’s law which states that Raoult’s Law as a special case of Henry’s Law p = K H x . If we compare the equations for Raoult’s law and Henry’s law, it can be seen that the partial pressure of the volatile component or gas is directly proportional to its mole fraction in solution. Only the proportionality constant K H differs from p 1 0 . Thus, Raoult’s law becomes a special case of Henry’s law in which K H becomes equal to p 1 0 . Vapour Pressure of Solutions of Solids in Liquids Another important class of solutions consists of solids dissolved in liquid, for example, sodium chloride, glucose, urea and cane sugar in water and iodine and sulphur dissolved in carbon disulphide. Some physical properties of these so
+--------------------------------------------------------------------------------
+
+Example 1.6
+Q: The vapour pressure of pure benzene at a certain temperature is 0.850 bar. A non-volatile, non-electrolyte solid weighing 0.5 g when added to 39.0 g of benzene (molar mass 78 g mol -1 ). Vapour pressure of the solution, then, is 0.845 bar. What is the molar mass of the solid substance?
+First 1000 chars of Solution:
+The various quantities known to us are as follows: p 1 0 = 0.850 bar; p = 0.845 bar; M 1 = 78 g mol –1 ; w 2 = 0.5 g; w 1 = 39 g Substituting these values in equation (2.28), we get 0.850 bar – 0.845 bar 0.850 bar = Therefore, M 2 = 170 g mol –1 The vapour pressure of a liquid increases with increase of temperature. It boils at the temperature at which its vapour pressure is equal to the atmospheric pressure. For example, water boils at 373.15 K (100° C) because at this temperature the vapour pressure of water is 1.013 bar (1 atmosphere). We have also learnt in the last section that vapour pressure of the solvent decreases in the presence of non-volatile solute. Fig. 1.7 depicts the variation of vapour pressure of the pure solvent and solution as a function of temperature. For example, the vapour pressure of an aqueous solution of sucrose is less than 1.013 bar at 373.15 K. In order to make this solution boil, its vapour pressure must be increased to 1.013 bar by raising the temperatur
+--------------------------------------------------------------------------------
+
+Example 1.7
+Q: 
+First 1000 chars of Solution:
+D T b = K b × m = 0.52 K kg mol –1 × 0.1 mol kg –1 = 0.052 K Since water boils at 373.15 K at 1.013 bar pressure, therefore, the boiling point of solution will be 373.15 + 0.052 = 373.202 K.
+--------------------------------------------------------------------------------
+
+Example 1.8
+Q: The boiling point of benzene is 353.23 K. When 1.80 g of a non-volatile solute was dissolved in 90 g of benzene, the boiling point is raised to 354.11 K. Calculate the molar mass of the solute. K b for benzene is 2.53 K kg mol –1 The elevation ( D T b ) in the boiling point = 354.11 K – 353. 23 K = 0.88 K Substituting these values in expression (2.33) we get
+First 1000 chars of Solution:
+–1 –1 2.53 K kg mol × 1.8 g × 1000 g kg 0.88 K × 90 g = 58 g mol –1 M 2 = Therefore, molar mass of the solute, M 2 = 58 g mol –1 1.6.3 Depression of Freezing Point The lowering of vapour pressure of a solution causes a lowering of the freezing point compared to that of the pure solvent (Fig. 1.8). We know that at the freezing point of a substance, the solid phase is in dynamic equilibrium with the liquid phase. Thus, the freezing point of a substance may be defined as the temperature at which the vapour pressure of the substance in its liquid phase is equal to its vapour pressure in the solid phase. A solution will freeze when its vapour pressure equals the vapour pressure of the pure solid solvent as is clear from Fig. 1.8. According to Raoult’s law, when a non-volatile solid is added to the solvent its vapour pressure decreases and now it would become equal to that of solid solvent at lower temperature. Thus, the freezing point of the solvent decreases. Fig. 1.8: Diagram showing D T 
+--------------------------------------------------------------------------------
+
+Example 1.9
+Q: 45 g of ethylene glycol (C 2 H 6 O 2 ) is mixed with 600 g of water. Calculate (a) the freezing point depression and (b) the freezing point of the solution.
+First 1000 chars of Solution:
+Depression in freezing point is related to the molality, therefore, the molality of the solution with respect to ethylene glycol = Moles of ethylene glycol = 1 45 g 62 g mol  = 0.73 mol Mass of water in kg = 1 600g 1000g kg  = 0.6 kg Hence molality of ethylene glycol = Therefore freezing poi nt depression, Ä T f = 1.86 K kg mol –1 × 1.2 mol kg –1 = 2.2 K Freezing point of the aqueous solution = 273.15 K – 2.2 K = 270.95 K
+--------------------------------------------------------------------------------
+
+Example 1.10
+Q: 1.00 g of a non-electrolyte solute dissolved in 50 g of benzene lowered the freezing point of benzene by 0.40 K. The freezing point depression constant of benzene is 5.12 K kg mol –1 . Find the molar mass of the solute.
+First 1000 chars of Solution:
+Substituting the values of various terms involved in equation (1.36) we get, 1 1 5.12 K kg mol × 1.00 g × 1000 g kg 0.40 × 50 g M 2 = Thus, molar mass of the solute = 256 g mol -1 There are many phenomena which we observe in nature or at home. For example, raw mangoes shrivel when pickled in brine (salt water); wilted flowers revive when placed in fresh water, blood cells collapse when suspended in saline water, etc. If we look into these processes we find one thing common in all, that is, all these substances are bound by membranes. These membranes can be of animal or vegetable origin and these occur naturally such as pig’s bladder or parchment or can be synthetic such as cellophane. These membranes appear to be continuous sheets or films, yet they contain a network of submicroscopic holes or pores. Small solvent 1.6.4 Osmosis and Osmotic Pressure Fig. 1.9 Level of solution rises in the thistle funnel due to osmosis of solvent. moles of ethylene glycol mass of water in kilogram 0.73 m
+--------------------------------------------------------------------------------
+
+Example 1.11
+Q: 200 cm 3 of an aqueous solution of a protein contains 1.26 g of the protein. The osmotic pressure of such a solution at 300 K is found to be 2.57 × 10 -3 bar. Calculate the molar mass of the protein. The various quantities known to us are as follows: P = 2.57 × 10 –3 bar,
+First 1000 chars of Solution:
+V = 200 cm 3 = 0.200 litre T = 300 K R = 0.083 L bar mol -1 K -1 Substituting these values in equation (2.42) we get 3 1.26 g × 0.083 L bar K mol × 300 K 2.57×10 bar × 0.200 L M 2 = The phenomena mentioned in the beginning of this section can be explained on the basis of osmosis. A raw mango placed in concentrated salt solution loses water via osmosis and shrivel into pickle. Wilted flowers revive when placed in fresh water. A carrot that has become limp because of water loss into the atmosphere can be placed into the water making it firm once again. Water will move into its cells through osmosis. When placed in water containing less than 0.9% (mass/ volume) salt, blood cells swell due to flow of water in them by osmosis. People taking a lot of salt or salty food experience water retention in tissue cells and intercellular spaces because of osmosis. The resulting   1 1  = 61,022 g mol -1 puffiness or swelling is called edema . Water movement from soil into plant roots and subsequent
+--------------------------------------------------------------------------------
+
+Example 1.12
+Q: 
+First 1000 chars of Solution:
+1 122 g mol 241.98 g mol = or 2 x = 122 1 1 0.504 0.496 241.98     or x = 2 × 0 .496 = 0.992 Therefore, degree of association of benzoic acid in benzene is 99.2 %.
+--------------------------------------------------------------------------------
+
+Example 1.13
+Q: 0.6 mL of acetic acid (CH 3 COOH), having density 1.06 g mL –1 , is dissolved in 1 litre of water. The depression in freezing point observed for this strength of acid was 0.0205°C. Calculate the van’t Hoff factor and the dissociation constant of acid.
+First 1000 chars of Solution:
+Number of moles of acetic acid = Molality = 1 0.0106 mol 1000 mL 1 g mL   = 0.0106 mol kg –1 Using equation (1.35) D T f = 1.86 K kg mol –1 × 0.0106 mol kg –1 = 0.0197 K van’t Hoff Factor ( i ) = Acetic acid is a weak electrolyte and will dissociate into two ions: acetate and hydrogen ions per molecule of acetic acid. If x is the degree of dissociation of acetic acid, then we would have n (1 – x ) moles of undissociated acetic acid, nx moles of CH 3 COO – and nx moles of H + ions, ⇌ 3 3 CH COOH H CH COO mol 0 0 mol mol 1 n n nx nx x ( ) − Thus total moles of particles are: n (1 – x + x + x ) = n (1 + x )   1 1 1.041      n x i x n Thus degree of dissociation of acetic acid = x = 1.041– 1.000 = 0.041 Then [CH 3 COOH] = n (1 – x ) = 0.0106 (1 – 0.041), [CH 3 COO – ] = nx = 0.0106 × 0.041, [H + ] = nx = 0.0106 × 0.041.   CH COO H CH COOH = [ ][ ] [ ] 3 K a = 3 = 1.86 × 10 –5  1   1   1 0.6 mL 1.06 g mL 60 g mol = 0.0106 mol = n Observed freezing point Calculated freezing p
+--------------------------------------------------------------------------------
+
+Example 2.1
+Q: Represent the cell in which the following reaction takes place Mg(s) + 2Ag + (0.0001M) ® Mg 2+ (0.130M) + 2Ag(s) cell E = 3.17 V. Calculate its E (cell) if ( ) o The cell can be written as Mg ú Mg 2+ (0.130M) úú Ag + (0.0001M) ú Ag + 2 o cell 2 Mg RT – ln 2F Ag E +   cell E = ( ) V 0.130 0 059 2 0 0001 2 . log ( . ) = 3.17 V – = 3.17 V – 0.21V = 2.96 V. If the circuit in Daniell cell (Fig. 2.1) is closed then we note that the reaction 2.3.1 Equilibrium Constant from Nernst Equation Zn(s) + Cu 2+ (aq) ® Zn 2+ (aq) + Cu(s) (2.1) takes place and as time passes, the concentration of Zn 2+ keeps on increasing while the concentration of Cu 2+ keeps on decreasing. At the same time voltage of the cell as read on the voltmeter keeps on decreasing. After some time, we shall note that there is no change in the concentration of Cu 2+ and Zn 2+ ions and at the same time, voltmeter gives zero reading. This indicates that equilibrium has been attained. In this situation the Nernst equation may be written as: E (cell) = 0 = ( ) o cell E = or ( ) o But at equilibrium, + 2 [ ] [ ] Zn Cu + = K c for the reaction 2.1 2 and at T = 298K the above equation can be written as . V log K C = 1.1 V ( ( ) o cell E = 0 059 ( ) o 2 log K C = (1.1V × 2) 37.288 0.059 V  K C = 2 × 10 37 at 298K. In general, cell E = 2.303 RT nF log K C (2.14) ( ) o Thus, Eq. (2.14) gives a relationship between equilibrium constant of the reaction and standard potential of the cell in which that reaction takes place. Thus, equilibrium constants of the reaction, difficult to measure otherwise, can be calculated from the corresponding E o value of the cell.
+First 1000 chars of Solution:
++ 2 RT F 2 2.303 2 log [Zn ] [Cu ] cell E – +  2 2.303 [Zn ] log 2 [Cu ] RT F 2  cell E = 1.1V)
+--------------------------------------------------------------------------------
+
+Example 2.2
+Q: 
+First 1000 chars of Solution:
+2.3.2 Electro- chemical Cell and Gibbs Energy of the Reaction Electrical work done in one second is equal to electrical potential multiplied by total charge passed. If we want to obtain maximum work from a galvanic cell then charge has to be passed reversibly. The reversible work done by a galvanic cell is equal to decrease in its Gibbs energy and therefore, if the emf of the cell is E and nF is the amount of charge passed and D r G is the Gibbs energy of the reaction, then D r G = – nFE (cell) (2.15) It may be remembered that E (cell) is an intensive parameter but D r G is an extensive thermodynamic property and the value depends on n . Thus, if we write the reaction Zn(s) + Cu 2+ (aq) ¾® Zn 2+ (aq) + Cu(s) (2.1) D r G = – 2 FE (cell) but when we write the reaction 2 Zn (s) + 2 Cu 2+ (aq) ¾® 2 Zn 2+ (aq) + 2Cu(s) D r G = – 4 FE (cell) If the concentration of all the reacting species is unity, then cell E and we have E (cell) = ( ) o D r G o = – nF cell E we can obtain an important the
+--------------------------------------------------------------------------------
+
+Example 2.3
+Q: The standard electrode potential for Daniell cell is 1.1V. Calculate the standard Gibbs energy for the reaction: Zn(s) + Cu 2+ (aq) ¾® Zn 2+ (aq) + Cu(s) o (cell) E D r G o = – nF
+First 1000 chars of Solution:
+n in the above equation is 2, F = 96487 C mol –1 and ( ) o Therefore, D r G o = – 2 × 1.1V × 96487 C mol –1 Calculate the equilibrium constant of the reaction: Cu(s) + 2Ag + (aq) ® Cu 2+ (aq) + 2Ag(s) ( ) o cell E = 0.46 V . V log K C = 0.46 V or cell E = 0 059 ( ) o 2 0 46 2 0 059 . . V V × log K C = = 15.6 K C = 3.92 × 10 15 o (cell) E (2.16) cell E = 1.1 V = – 21227 J mol –1 = – 212.27 kJ mol –1 2.4 Calculate the potential of hydrogen electrode in contact with a solution whose pH is 10. 2.5 Calculate the emf of the cell in which the following reaction takes place: Ni(s) + 2Ag + (0.002 M) ® Ni 2+ (0.160 M) + 2Ag(s) Given that o cell E = 1.05 V 2.6 The cell in which the following reaction occurs: ( ) ( ) ( ) ( ) + − + + → + 3 2 2 aq aq aq 2Fe 2I 2Fe I s has o cell E = 0.236 V at 298 K. Calculate the standard Gibbs energy and the equilibrium constant of the cell reaction. 2.4 2.4 2.4 2.4 2.4 Conductance Conductance Conductance Conductance Conductance of Electrolytic of Electrolytic of 
+--------------------------------------------------------------------------------
+
+Example 2.4
+Q: 
+First 1000 chars of Solution:
+and L m = k × 1000 cm 3 L –1 molarity –1
+--------------------------------------------------------------------------------
+
+Example 2.5
+Q: The electrical resistance of a column of 0.05 mol L –1 NaOH solution of diameter 1 cm and length 50 cm is 5.55 × 10 3 ohm. Calculate its resistivity, conductivity and molar conductivity.
+First 1000 chars of Solution:
+A = p r 2 = 3.14 × 0.5 2 cm 2 = 0.785 cm 2 = 0.785 × 10 –4 m 2 l = 50 cm = 0.5 m = l R A  or      Conductivity =   1 = = Molar conductivity, m  = × 1000 If we want to calculate the values of different quantities in terms of ‘m’ instead of ‘cm’,  = RA l 3 –4 2 5.55 × 10 × 0.785×10 m 0.5 m  = 87.135 ×10 –2 W m = 1 =   = 100 m 87.135  = 1.148 S m –1 and = m c   = Both conductivity and molar conductivity change with the concentration of the electrolyte. Conductivity always decreases with decrease in concentration both, for weak and strong electrolytes. This can be explained by the fact that the number of ions per unit volume that carry the current in a solution decreases on dilution. The conductivity of a solution at any given concentration is the conductance of one unit volume of solution kept between two 2.4.2 Variation of Conductivity and Molar Conductivity with Concentration –2 –1 3 –1 –1 0.248×10 S cm ×1000 cm L = 0.02 mol L = 124 S cm 2 mol –1 3 2 5.55 10 0.785cm 50c
+--------------------------------------------------------------------------------
+
+Example 2.6
+Q: The molar conductivity of KCl solutions at different concentrations at 298 K are given below: c /mol L –1 L m /S cm 2 mol –1 0.000198 148.61 0.000309 148.29 0.000521 147.81 0.000989 147.09 Show that a plot between L m and c 1/2 is a straight line. Determine the values of L ° m and A for KCl.
+First 1000 chars of Solution:
+Taking the square root of concentration we obtain: c 1/2 /(mol L –1 ) 1/2 L m /S cm 2 mol –1 0.01407 148.61 0.01758 148.29 0.02283 147.81 0.03145 147.09 A plot of L m ( y-axis) and c 1/2 ( x -axis) is shown in (Fig. 3.7). It can be seen that it is nearly a straight line. From the intercept ( c 1/2 = 0), we find that L ° m = 150.0 S cm 2 mol –1 and A = – slope = 87.46 S cm 2 mol –1 /(mol/L –1 ) 1/2 . Fig. 2.7: Variation of L m against c½. Kohlrausch examined L ° m values for a number of strong electrolytes and observed certain regularities. He noted that the difference in L ° m of the electrolytes NaX and KX for any X is nearly constant. For example at 298 K: L ° m (KCl) – L ° m (NaCl) = L ° m (KBr) – L ° m (NaBr) = L ° m (KI) – L ° m (NaI) ≃ 23.4 S cm 2 mol –1 and similarly it was found that L ° m (NaBr) – L ° m (NaCl) = L ° m (KBr) – L ° m (KCl) ≃ 1.8 S cm 2 mol –1 On the basis of the above observations he enunciated Kohlrausch law of independent migration of ions . The law states tha
+--------------------------------------------------------------------------------
+
+Example 2.7
+Q: 
+First 1000 chars of Solution:
+We know from Kohlrausch law that   2 CaCl m   = 2+ – Ca Cl 2      = 119.0 S cm 2 mol –1 + 2(76.3) S cm 2 mol –1 = (119.0 + 152.6) S cm 2 mol –1 = 271.6 S cm 2 mol –1   4 MgSO m   = 2– 2+ 4 Mg SO     = 106.0 S cm 2 mol –1 + 160.0 S cm 2 mol –1 = 266 S cm 2 mol –1 .
+--------------------------------------------------------------------------------
+
+Example 2.8
+Q: L 0 m for NaCl, HCl and NaAc are 126.4, 425.9 and 91.0 S cm 2 mol –1 respectively. Calculate L 0 for HAc.   HAc m   = + – H Ac     + – – + – + H Cl Ac Na Cl Na            
+First 1000 chars of Solution:
+=       HCl NaAc NaCl m m m         = (425.9 + 91.0 – 126.4 ) S cm 2 mol –1 = 390.5 S cm 2 mol –1 . The conductivity of 0.001028 mol L –1 acetic acid is 4.95 × 10 –5 S cm –1 . Calculate its dissociation constant if L 0 m for acetic acid is 390.5 S cm 2 mol –1 .
+--------------------------------------------------------------------------------
+
+Example 2.9
+Q: 1 4 95 10 Scm 1000cm 0 001028 mol L L c        = 48.15 S cm 3 mol –1 . .
+First 1000 chars of Solution:
+m  =   2 1 48.15 Scm mol 390.5 Scm mol    m a = m = 0.1233     = 1.78 × 10 –5 mol L –1 –1 2 2 0 001028molL 0 1233 1 0 1233  . ( . ) c 1 . k =              2 2 2 m m           m m m m m m 5 1 3  2 1 (2.27) 2.7 Why does the conductivity of a solution decrease with dilution? 2.8 Suggest a way to determine the L ° m value of water. 2.9 The molar conductivity of 0.025 mol L –1 methanoic acid is 46.1 S cm 2 mol –1 . Calculate its degree of dissociation and dissociation constant. Given l 0 (H + ) = 349.6 S cm 2 mol –1 and l 0 (HCOO – ) = 54.6 S cm 2 mol –1 . 2.5 2.5 2.5 2.5 2.5 Electrolytic Electrolytic Electrolytic Electrolytic Electrolytic Cells and Cells and Cells and Cells and Cells and Electrolysis Electrolysis Electrolysis Electrolysis Electrolysis In an electrolytic cell external source of voltage is used to bring about a chemical reaction. The electrochemical processes are of great importance in the laboratory and the chemical industry. One of the s
+--------------------------------------------------------------------------------
+
+Example 2.10
+Q: A solution of CuSO 4 is electrolysed for 10 minutes with a current of 1.5 amperes. What is the mass of copper deposited at the cathode?
+First 1000 chars of Solution:
+t = 600 s charge = current × time = 1.5 A × 600 s = 900 C According to the reaction: Cu 2+ (aq) + 2e – = Cu(s) We require 2F or 2 × 96487 C to deposit 1 mol or 63 g of Cu. For 900 C, the mass of Cu deposited = (63 g mol –1 × 900 C)/(2 × 96487 C mol –1 ) = 0.2938 g. Products of electrolysis depend on the nature of material being electrolysed and the type of electrodes being used. If the electrode is inert (e.g., platinum or gold), it does not participate in the chemical reaction and acts only as source or sink for electrons. On the other hand, if the electrode is reactive, it participates in the electrode reaction. Thus, the products of electrolysis may be different for reactive and inert 2.5.1 Products of Electrolysis C = 96487 C mol –1 electrodes.The products of electrolysis depend on the different oxidising and reducing species present in the electrolytic cell and their standard electrode potentials. Moreover, some of the electrochemical processes although feasible, are so slow kinet
+--------------------------------------------------------------------------------
+
+Example 3.1
+Q: 
+First 1000 chars of Solution:
+Table 3.1: Average rates of hydrolysis of butyl chloride [C 4 H 9 CI] t 1 / [C 4 H 9 CI] t 2 / t 1 /s t 2 /s r av × 10 4 /mol L –1 s –1 mol L –1 mol L –1 [ ] [ ] ( ) { } = – − × 2 1 0.100 0.0905 0 50 1.90 0.0905 0.0820 50 100 1.70 0.0820 0.0741 100 150 1.58 0.0741 0.0671 150 200 1.40 0.0671 0.0549 200 300 1.22 0.0549 0.0439 300 400 1.10 0.0439 0.0335 400 500 1.04 0.0210 0.017 700 800 0.4 It can be seen (Table 3.1) that the average rate falls from 1.90 × 0 -4 mol L -1 s -1 to 0.4 × 10 -4 mol L -1 s -1 . However, average rate cannot be used to predict the rate of a reaction at a particular instant as it would be constant for the time interval for which it is calculated. So, to express the rate at a particular moment of time we determine the instantaneous rate . It is obtained when we consider the average rate at the smallest time interval say d t ( i.e. when D t approaches zero). Hence, mathematically for an infinitesimally small d t instantaneous rate is given by [ ] [ ] −∆ ∆ = = ∆ ∆ av
+--------------------------------------------------------------------------------
+
+Example 3.2
+Q: The decomposition of N 2 O 5 in CCl 4 at 318K has been studied by monitoring the concentration of N 2 O 5 in the solution. Initially the concentration of N 2 O 5 is 2.33 mol L –1 and after 184 minutes, it is reduced to 2.08 mol L –1 . The reaction takes place according to the equation 2 N 2 O 5 (g) ® 4 NO 2 (g) + O 2 (g) Calculate the average rate of this reaction in terms of hours, minutes and seconds. What is the rate of production of NO 2 during this period? Average Rate = − [ ]  − 1 2 1 2 2 08 2 33 184
+First 1000 chars of Solution:
+= 6.79 × 10 –4 mol L –1 /min = (6.79 × 10 –4 mol L –1 min –1 ) × (60 min/1h) = 4.07 × 10 –2 mol L –1 /h = 6.79 × 10 –4 mol L –1 × 1min/60s = 1.13 × 10 –5 mol L –1 s –1 It may be remembered that Rate NO = [ ]  2 ∆ ∆ t [ ] 2 NO 1 4 t ∆ = ∆ 6.79 × 10 –4 × 4 mol L –1 min –1 = 2.72 × 10 –3 mol L –1 min –1 Intext Questions Intext Questions Intext Questions Intext Questions Intext Questions 3.1 For the reaction R ® P, the concentration of a reactant changes from 0.03M to 0.02M in 25 minutes. Calculate the average rate of reaction using units of time both in minutes and seconds. 3.2 In a reaction, 2A ® Products, the concentration of A decreases from 0.5 mol L –1 to 0.4 mol L –1 in 10 minutes. Calculate the rate during this interval? 3.2 3.2 3.2 3.2 3.2 Factors Influencing Factors Influencing Factors Influencing Factors Influencing Factors Influencing Rate of a Reaction Rate of a Reaction Rate of a Reaction Rate of a Reaction Rate of a Reaction Rate of reaction depends upon the experimental 
+--------------------------------------------------------------------------------
+
+Example 3.3
+Q: 
+First 1000 chars of Solution:
+A balanced chemical equation never gives us a true picture of how a reaction takes place since rarely a reaction gets completed in one step. The reactions taking place in one step are called elementary reactions . When a sequence of elementary reactions (called mechanism) gives us the products, the reactions are called complex reactions . Calculate the overall order of a reaction which has the rate expression (a) Rate = k [A] 1/2 [B] 3/2 (b) Rate = k [A] 3/2 [B] –1 (a) Rate = k [A] x [B] y order = x + y So order = 1/2 + 3/2 = 2, i.e., second order (b) order = 3/2 + (–1) = 1/2, i.e., half order. These may be consecutive reactions (e.g., oxidation of ethane to CO 2 and H 2 O passes through a series of intermediate steps in which alcohol, aldehyde and acid are formed), reverse reactions and side reactions (e.g., nitration of phenol yields o -nitrophenol and p -nitrophenol). For a general reaction aA + bB ® cC + dD Rate = k [A] x [B] y Where x + y = n = order of the reaction k = x Rate [A]
+--------------------------------------------------------------------------------
+
+Example 3.4
+Q: 
+First 1000 chars of Solution:
+NH 4 NO 2 ® N 2 + 2H 2 O Bimolecular reactions involve simultaneous collision between two species, for example, dissociation of hydrogen iodide. 2HI ® H 2 + I 2 Trimolecular or termolecular reactions involve simultaneous collision between three reacting species, for example, 2NO + O 2 ® 2NO 2 The probability that more than three molecules can collide and react simultaneously is very small. Hence, reactions with the molecularity three are very rare and slow to proceed. It is, therefore, evident that complex reactions involving more than three molecules in the stoichiometric equation must take place in more than one step. KClO 3 + 6FeSO 4 + 3H 2 SO 4 ® KCl + 3Fe 2 (SO 4 ) 3 + 3H 2 O This reaction which apparently seems to be of tenth order is actually a second order reaction. This shows that this reaction takes place in several steps. Which step controls the rate of the overall reaction? The question can be answered if we go through the mechanism of reaction, for example, chances to win 
+--------------------------------------------------------------------------------
+
+Example 3.5
+Q: The initial concentration of N 2 O 5 in the following first order reaction N 2 O 5 (g) ® 2 NO 2 (g) + 1/2O 2 (g) was 1.24 × 10 –2 mol L –1 at 318 K. The concentration of N 2 O 5 after 60 minutes was 0.20 × 10 –2 mol L –1 . Calculate the rate constant of the reaction at 318 K.
+First 1000 chars of Solution:
+For a first order reaction R =   2 1 2.303     k t t  R log 1 2 2.303 log R k =   t t R  2 1 2 2 1 1.24 10 mol L 2.303 log 60 min 0 min 0.20 10 mol L =   1 2.303 log 6.2 min = 60 k = 0.0304 min -1 Let us consider a typical first order gas phase reaction A(g) ® B(g) + C(g) Let p i be the initial pressure of A and p t the total pressure at time ‘ t ’. Integrated rate equation for such a reaction can be derived as Total pressure p t = p A + p B + p C (pressure units) log ([R /[R]) 0 ] Slope = /2.303 k Time 0 Fig. 3.5 : Plot of log [R] 0 /[R] vs time for a first order reaction     1        2 1  p A , p B and p C are the partial pressures of A, B and C, respectively. If x atm be the decrease in pressure of A at time t and one mole each of B and C is being formed, the increase in pressure of B and C will also be x atm each. A(g) ® B(g) + C(g) At t = 0 p i atm 0 atm 0 atm At time t ( p i –x) atm x atm x atm where, p i is the initial pressure at time t = 0. p t = ( p i 
+--------------------------------------------------------------------------------
+
+Example 3.6
+Q: 
+First 1000 chars of Solution:
+2 5 N O p = 1.5 – 2 × 0.512 = 0.476 atm Using equation (3.16) p k t p 0.5 atm 2.303 2.303 log log 100s 0.476 atm   2.303 0.0216 4.98 10 s 100s     Half-Life of a Reaction The half-life of a reaction is the time in which the concentration of a reactant is reduced to one half of its initial concentration. It is represented as t 1/2 . For a zero order reaction, rate constant is given by equation 3.7. [ ] [ ] 0 R R k t − = [ ] [ ] 0 1/2 1 R At , R 2 t t = = The rate constant at t 1/2 becomes [ ] [ ] 0 0 1/2 R R k t − = [ ] 0 1/2 R 2 t k = It is clear that t 1/2 for a zero order reaction is directly proportional to the initial concentration of the reactants and inversely proportional to the rate constant. For the first order reaction, 0 2.303 R log R k t = (3.15) at t 1/2 [ ] [ ] 0 R R 2 = (3.16) So, the above equation becomes 2.303 R log /2 R k t = 1/2 or 1/2 2.303 log 2 t k  1/2 2.303 0.301 t k = × 0.693 t k = (3.17) 1/2 i A   4 1 1/2 [ ] [ ] [ ] [ ] 0 It can be seen that for a f
+--------------------------------------------------------------------------------
+
+Example 3.7
+Q: 
+First 1000 chars of Solution:
+
+--------------------------------------------------------------------------------
+
+Example 3.8
+Q: 
+First 1000 chars of Solution:
+3 2.303 log10 t or mol L –1 s –1 or kt = ln{[R] 0 /[R]} The order of a reaction is sometimes altered by conditions. There are many reactions which obey first order rate law although they are higher order reactions. Consider the hydrolysis of ethyl acetate which is a chemical reaction between ethyl acetate and water. In reality, it is a second order reaction and concentration of both ethyl acetate and water affect the rate of the reaction. But water is taken in large excess for hydrolysis, therefore, concentration of water is not altered much during the reaction. Thus, the rate of reaction is affected by concentration of ethyl acetate only. For example, during the hydrolysis of 0.01 mol of ethyl acetate with 10 mol of water, amounts of the reactants and products at the beginning ( t = 0) and completion ( t ) of the reaction are given as under. CH 3 COOC 2 H 5 + H 2 O H   CH 3 COOH + C 2 H 5 OH t = 0 0.01 mol 10 mol 0 mol 0 mol t 0 mol 9.99 mol 0.01 mol 0.01 mol The concentration of
+--------------------------------------------------------------------------------
+
+Example 3.9
+Q: T T E T T R 1 log k
+First 1000 chars of Solution:
+2 1 a 2 k = 1 2 2.303 E K                 700 500 2.303 8.314 J mol 700 500 0.07 log 0.02 = 0.544 = E a × 5.714 × 10 -4 /19.15 E a = 0.544 × 19.15/5.714 × 10 –4 = 18230.8 J Since k = A e - E a/ RT 0.02 = A e -18230.8/8.314 × 500 A = 0.02/0.012 = 1.61
+--------------------------------------------------------------------------------
+
+Example 3.10
+Q: The first order rate constant for the decomposition of ethyl iodide by the reaction C 2 H 5 I(g) ® C 2 H 4 (g) + HI(g) at 600K is 1.60 × 10 –5 s –1 . Its energy of activation is 209 kJ/mol. Calculate the rate constant of the reaction at 700K.
+First 1000 chars of Solution:
+We know that 2.303 E a log k 2 – log k 1 =        a 1 1        1 1 T T R 1 2 1 1 log 2.303 E k T T R a 1 log k 2 = 1 5 1 1 1 1 209000 J mol L log 1.60 10 600 K 700K 2.303 8.314 J mol L K =   log k 2 = – 4.796 + 2.599 = – 2.197 k 2 = 6.36 × 10 –3 s –1 A catalyst is a substance which increases the rate of a reaction without itself undergoing any permanent chemical change. For example, MnO 2 catalyses the following reaction so as to increase its rate considerably. Effect of Catalyst 2KClO 3 MnO2  2 KCl + 3O 2 The word catalyst should not be used when the added substance reduces the rate of raction. The substance is then called inhibitor. The action of the catalyst can be explained by intermediate complex theory. According to this theory, a catalyst participates in a chemical reaction by forming temporary bonds with the reactants resulting in an intermediate complex. This has a transitory existence and decomposes to yield products and the catalyst. It is believed that 
+--------------------------------------------------------------------------------
+
+Example 4.1
+Q: 
+First 1000 chars of Solution:
+Intext Question Intext Question Intext Question Intext Question Intext Question Silver atom has completely filled d orbitals (4 d 10 ) in its ground state. How can you say that it is a transition element? We will discuss the properties of elements of first transition series only in the following sections. 4.3 4.3 4.3 4.3 4.3 General General General General General Properties of Properties of Properties of Properties of Properties of the Transition the Transition the Transition the Transition the Transition Elements Elements Elements Elements Elements (d-Block) (d-Block) (d-Block) (d-Block) (d-Block) Physical Properties Nearly all the transition elements display typical metallic properties such as high tensile strength, ductility, malleability, high thermal and electrical conductivity and metallic lustre. With the exceptions of Zn, Cd, Hg and Mn, they have one or more typical metallic structures at normal temperatures. Sc Ti V Cr Mn Fe Co Ni Cu Zn hcp hcp bcc bcc X bcc ccp ccp ccp X (bc
+--------------------------------------------------------------------------------
+
+Example 4.2
+Q: 
+First 1000 chars of Solution:
+Intext Question Intext Question Intext Question Intext Question Intext Question electrons and the exchange energy. Exchange energy is responsible for the stabilisation of energy state. Exchange energy is approximately proportional to the total number of possible pairs of parallel spins in the degenerate orbitals. When several electrons occupy a set of degenerate orbitals, the lowest energy state corresponds to the maximum possible extent of single occupation of orbital and parallel spins (Hunds rule). The loss of exchange energy increases the stability. As the stability increases, the ionisation becomes more difficult. There is no loss of exchange energy at d 6 configuration. Mn + has 3 d 5 4 s 1 configuration and configuration of Cr + is d 5 , therefore, ionisation enthalpy of Mn + is lower than Cr + . In the same way, Fe 2+ has d 6 configuration and Mn 2+ has 3 d 5 configuration. Hence, ionisation enthalpy of Fe 2+ is lower than the Mn 2+ . In other words, we can say that the third i
+--------------------------------------------------------------------------------
+
+Example 4.3
+Q: 
+First 1000 chars of Solution:
+Intext Question Intext Question Intext Question Intext Question Intext Question Table 4.4 contains the thermochemical parameters related to the transformation of the solid metal atoms to M 2+ ions in solution and their standard electrode potentials. The observed values of E V and those calculated using the data of Table 4.4 are compared in Fig. 4.4. The unique behaviour of Cu, having a positive E V , accounts for its inability to liberate H 2 from acids. Only oxidising acids (nitric and hot concentrated sulphuric) react with Cu, the acids being reduced. The high energy to transform Cu(s) to Cu 2+ (aq) is not balanced by its hydration enthalpy. The general trend towards less negative E V values across the Trends in the M 2+ /M Standard Electrode Potentials Observed and calculated values for the standard electrode potentials (M 2+ ® M°) of the elements Ti to Zn series is related to the general increase in the sum of the first and second ionisation enthalpies. It is interesting to note th
+--------------------------------------------------------------------------------
+
+Example 4.4
+Q: 
+First 1000 chars of Solution:
+Intext Question Intext Question Intext Question Intext Question Intext Question Element (M) D a H o (M) D i H 1 o D 1 H 2 o D hyd H o (M 2+ ) E o /V Ti 469 656 1309 -1866 -1.63 V 515 650 1414 -1895 -1.18 Cr 398 653 1592 -1925 -0.90 Mn 279 717 1509 -1862 -1.18 Fe 418 762 1561 -1998 -0.44 Co 427 758 1644 -2079 -0.28 Ni 431 736 1752 -2121 -0.25 Cu 339 745 1958 -2121 0.34 Zn 130 906 1734 -2059 -0.76 The stability of the half-filled d sub-shell in Mn 2+ and the completely filled d 10 configuration in Zn 2+ are related to their E o values, whereas E o for Ni is related to the highest negative D hyd H o . An examination of the E o (M 3+ /M 2+ ) values (Table 4.2) shows the varying trends. The low value for Sc reflects the stability of Sc 3+ which has a noble gas configuration. The highest value for Zn is due to the removal of an electron from the stable d 10 configuration of Zn 2+ . The comparatively high value for Mn shows that Mn 2+ ( d 5 ) is particularly stable, whereas comparatively low 
+--------------------------------------------------------------------------------
+
+Example 4.5
+Q: How would you account for the increasing oxidising power in the series VO 2 + < Cr 2 O 7 2– < MnO 4 – ? This is due to the increasing stability of the lower species to which they are reduced. How would you account for the irregular variation of ionisation enthalpies (first and second) in the first series of the transition elements? Groups
+First 1000 chars of Solution:
+Intext Question Intext Question Intext Question Intext Question Intext Question Transition metals vary widely in their chemical reactivity. Many of them are sufficiently electropositive to dissolve in mineral acids, although a few are ‘noble’—that is, they are unaffected by single acids. The metals of the first series with the exception of copper are relatively more reactive and are oxidised by 1M H + , though the actual rate at which these metals react with oxidising agents like hydrogen ion (H + ) is sometimes slow. For example, titanium and vanadium, in practice, are passive to dilute non oxidising acids at room temperature. The E o values for M 2+ /M (Table 4.2) indicate a decreasing tendency to form divalent cations across the series. This general trend towards less negative E o Chemical Reactivity and E o Values values is related to the increase in the sum of the first and second ionisation enthalpies. It is interesting to note that the E o values for Mn, Ni and Zn are more negat
+--------------------------------------------------------------------------------
+
+Example 4.6
+Q: For the first row transition metals the E o values are: E o V Cr Mn Fe Co Ni Cu (M 2+ /M) –1.18 – 0.91 –1.18 – 0.44 – 0.28 – 0.25 +0.34 Explain the irregularity in the above values.
+First 1000 chars of Solution:
+The E o (M 2+ /M) values are not regular which can be explained from the irregular variation of ionisation enthalpies ( i i   1 2 H H ) and also the sublimation enthalpies which are relatively much less for manganese and vanadium.
+--------------------------------------------------------------------------------
+
+Example 4.7
+Q: Why is the E o value for the Mn 3+ /Mn 2+ couple much more positive than that for Cr 3+ /Cr 2+ or Fe 3+ /Fe 2+ ? Explain.
+First 1000 chars of Solution:
+Much larger third ionisation energy of Mn (where the required change is d 5 to d 4 ) is mainly responsible for this. This also explains why the +3 state of Mn is of little importance. Intext Questions Intext Questions Intext Questions Intext Questions Intext Questions Why is the highest oxidation state of a metal exhibited in its oxide or fluoride only? Which is a stronger reducing agent Cr 2+ or Fe 2+ and why ? Magnetic Properties When a magnetic field is applied to substances, mainly two types of magnetic behaviour are observed: diamagnetism and paramagnetism . Diamagnetic substances are repelled by the applied field while the paramagnetic substances are attracted. Substances which are attracted very strongly are said to be ferromagnetic . In fact, ferromagnetism is an extreme form of paramagnetism. Many of the transition metal ions are paramagnetic. Paramagnetism arises from the presence of unpaired electrons, each such electron having a magnetic moment associated with its spin angu
+--------------------------------------------------------------------------------
+
+Example 4.8
+Q: 
+First 1000 chars of Solution:
+Intext Question Intext Question Intext Question Intext Question Intext Question Calculate the ‘spin only’ magnetic moment of M 2+ (aq) ion ( Z = 27). When an electron from a lower energy d orbital is excited to a higher energy d orbital, the energy of excitation corresponds to the frequency of light absorbed (Unit 5). This frequency generally lies in the visible region. The colour observed corresponds to the complementary colour of the light absorbed. The frequency of the light absorbed is determined by the nature of the ligand. In aqueous solutions where water molecules are the ligands, the co lours of the ions observed are listed in Table 4.8. A few coloured solutions of d –block elements are illustrated in Fig. 4.5. Formation of Coloured Ions Configuration Example Colour 3d 0 Sc 3+ colourless 3d 0 Ti 4+ colourless 3d 1 Ti 3+ purple 3d 1 V 4+ blue 3d 2 V 3+ green 3d 3 V 2+ violet 3d 3 Cr 3+ violet 3d 4 Mn 3+ violet 3d 4 Cr 2+ blue 3d 5 Mn 2+ pink 3d 5 Fe 3+ yellow 3d 6 Fe 2+ green 3d
+--------------------------------------------------------------------------------
+
+Example 4.9
+Q: What is meant by ‘disproportionation’ of an oxidation state? Give an example.
+First 1000 chars of Solution:
+When a particular oxidation state becomes less stable relative to other oxidation states, one lower, one higher, it is said to undergo disproportionation. For example, manganese (VI) becomes unstable relative to manganese(VII) and manganese (IV) in acidic solution. 3 Mn VI O 4 2– + 4 H + ® 2 Mn VII O – 4 + Mn IV O 2 + 2H 2 O Intext Question Intext Question Intext Question Intext Question Intext Question Explain why Cu + ion is not stable in aqueous solutions? 4.4 4.4 4.4 4.4 4.4 Some Some Some Some Some Important Important Important Important Important Compounds of Compounds of Compounds of Compounds of Compounds of Transition Transition Transition Transition Transition Elements Elements Elements Elements Elements Oxides and Oxoanions of Metals These oxides are generally formed by the reaction of metals with oxygen at high temperatures. All the metals except scandium form MO oxides which are ionic. The highest oxidation number in the oxides, coincides with the group number and is attai
+--------------------------------------------------------------------------------
+
+Example 4.10
+Q: Name a member of the lanthanoid series which is well known to exhibit +4 oxidation state.
+First 1000 chars of Solution:
+Cerium ( Z = 58) Intext Question Intext Question Intext Question Intext Question Intext Question Actinoid contraction is greater from element to element than lanthanoid contraction. Why? 4.7 4.7 4.7 4.7 4.7 Some Some Some Some Some Applications Applications Applications Applications Applications of d- and of d- and of d- and of d- and of d- and f-Block f-Block f-Block f-Block f-Block Elements Elements Elements Elements Elements Iron and steels are the most important construction materials. Their production is based on the reduction of iron oxides, the removal of impurities and the addition of carbon and alloying metals such as Cr, Mn and Ni. Some compounds are manufactured for special purposes such as TiO for the pigment industry and MnO 2 for use in dry battery cells. The battery industry also requires Zn and Ni/Cd. The elements of Group 11 are still worthy of being called the coinage metals, although Ag and Au are restricted to collection items and the contemporary UK ‘copper’ coins 
+--------------------------------------------------------------------------------
+
+Example 5.1
+Q: 
+First 1000 chars of Solution:
+5.2 5.2 5.2 5.2 5.2 Definitions of Definitions of Definitions of Definitions of Definitions of Some Some Some Some Some Important Important Important Important Important Terms Terms Terms Terms Terms Pertaining to Pertaining to Pertaining to Pertaining to Pertaining to Coordination Coordination Coordination Coordination Coordination Compounds Compounds Compounds Compounds Compounds A coordination entity constitutes a central metal atom or ion bonded to a fixed number of ions or molecules. For example, [CoCl 3 (NH 3 ) 3 ] is a coordination entity in which the cobalt ion is surrounded by three ammonia molecules and three chloride ions. Other examples are [Ni(CO) 4 ], [PtCl 2 (NH 3 ) 2 ], [Fe(CN) 6 ] 4– , [Co(NH 3 ) 6 ] 3+ . In a coordination entity, the atom/ion to which a fixed number of ions/groups are bound in a definite geometrical arrangement around it, is called the central atom or ion. For example, the central atom/ion in the coordination entities: [NiCl 2 (H 2 O) 4 ], [CoCl(NH 3 
+--------------------------------------------------------------------------------
+
+Example 5.2
+Q: Write the formulas for the following coordination compounds: (a) tetraammineaquachloridocobalt(III) chloride (b) potassium tetrahydroxidozincate(II) (c) potassium trioxalatoaluminate(III) (d) dichloridobis(ethane-1,2-diamine)cobalt(III) (e) tetracarbonylnickel(0)
+First 1000 chars of Solution:
+(a) [Co(NH 3 ) 4 (H 2 O)Cl]Cl 2 (b) K 2 [Zn(OH) 4 ] (c) K 3 [Al(C 2 O 4 ) 3 ] (d) [CoCl 2 (en) 2 ] + (e) [Ni(CO) 4 ]
+--------------------------------------------------------------------------------
+
+Example 5.3
+Q: Write the IUPAC names of the following coordination compounds: (a) [Pt(NH 3 ) 2 Cl(NO 2 )] (b) K 3 [Cr(C 2 O 4 ) 3 ] (c) [CoCl 2 (en) 2 ]Cl (d) [Co(NH 3 ) 5 (CO 3 )]Cl (e) Hg[Co(SCN) 4 ]
+First 1000 chars of Solution:
+(a) diamminechloridonitrito-N-platinum(II) (b) potassium trioxalatochromate(III) (c) dichloridobis(ethane-1,2-diamine)cobalt(III) chloride (d) pentaamminecarbonatocobalt(III) chloride (e) mercury (I) tetrathiocyanato-S-cobaltate(III) Write the formulas for the following coordination compounds: (i) tetraamminediaquacobalt(III) chloride (ii) potassium tetracyanidonickelate(II) (iii) tris(ethane–1,2–diamine) chromium(III) chloride (iv) amminebromidochloridonitrito-N-platinate(II) (v) dichloridobis(ethane–1,2–diamine)platinum(IV) nitrate (vi) iron(III) hexacyanidoferrate(II) Write the IUPAC names of the following coordination compounds: (i) [Co(NH 3 ) 6 ]Cl 3 (ii) [Co(NH 3 ) 5 Cl]Cl 2 (iii) K 3 [Fe(CN) 6 ] (iv) K 3 [Fe(C 2 O 4 ) 3 ] (v) K 2 [PdCl 4 ] (vi) [Pt(NH 3 ) 2 Cl(NH 2 CH 3 )]Cl Isomers are two or more compounds that have the same chemical formula but a different arrangement of atoms. Because of the different arrangement of atoms, they differ in one or more physical or chemical prop
+--------------------------------------------------------------------------------
+
+Example 5.4
+Q: 
+First 1000 chars of Solution:
+Optical isomers are mirror images that cannot be superimposed on one another. These are called as enantiomers . The molecules or ions that cannot be superimposed are called chiral . The two forms are called dextro (d) and laevo (l) depending upon the direction they rotate the plane of polarised light in a polarimeter ( d rotates to the right, l to the left). Optical isomerism is common in octahedral complexes involving didentate ligands (Fig. 5.6). In a coordination entity of the type [PtCl 2 (en) 2 ] 2+ , only the cis -isomer shows optical activity (Fig. 5.7).
+--------------------------------------------------------------------------------
+
+Example 5.5
+Q: Draw structures of geometrical isomers of [Fe(NH 3 ) 2 (CN) 4 ] –
+First 1000 chars of Solution:
+
+--------------------------------------------------------------------------------
+
+Example 5.6
+Q: Out of the following two coordination entities which is chiral (optically active)? (a) cis -[CrCl 2 (ox) 2 ] 3– (b) trans -[CrCl 2 (ox) 2 ] 3–
+First 1000 chars of Solution:
+The two entities are represented as Out of the two, (a) cis - [CrCl 2 (ox) 2 ] 3- is chiral (optically active). Linkage isomerism arises in a coordination compound containing ambidentate ligand. A simple example is provided by complexes containing the thiocyanate ligand, NCS – , which may bind through the nitrogen to give M–NCS or through sulphur to give M–SCN. Jørgensen discovered such behaviour in the complex [Co(NH 3 ) 5 (NO 2 )]Cl 2 , which is obtained as the red form, in which the nitrite ligand is bound through oxygen (–ONO), and as the yellow form, in which the nitrite ligand is bound through nitrogen (–NO 2 ). Linkage Isomerism Coordination Isomerism This type of isomerism arises from the interchange of ligands between cationic and anionic entities of different metal ions present in a complex. An example is provided by [Co(NH 3 ) 6 ][Cr(CN) 6 ], in which the NH 3 ligands are bound to Co 3+ and the CN – ligands to Cr 3+ . In its coordination isomer [Cr(NH 3 ) 6 ][Co(CN) 6 ], the
+--------------------------------------------------------------------------------
+
+Example 5.7
+Q: The spin only magnetic moment of [MnBr 4 ] 2– is 5.9 BM. Predict the geometry of the complex ion ?
+First 1000 chars of Solution:
+Since the coordination number of Mn 2+ ion in the complex ion is 4, it will be either tetrahedral ( sp 3 hybridisation) or square planar ( dsp 2 hybridisation). But the fact that the magnetic moment of the complex ion is 5.9 BM, it should be tetrahedral in shape rather than square planar because of the presence of five unpaired electrons in the d orbitals. While the VB theory, to a larger extent, explains the formation, structures and magnetic behaviour of coordination compounds, it suffers from the following shortcomings: (i) It involves a number of assumptions. (ii) It does not give quantitative interpretation of magnetic data. (iii) It does not explain the colour exhibited by coordination compounds. (iv) It does not give a quantitative interpretation of the thermodynamic or kinetic stabilities of coordination compounds. (v) It does not make exact predictions regarding the tetrahedral and square planar structures of 4-coordinate complexes. (vi) It does not distinguish between weak an
+--------------------------------------------------------------------------------
+
+Example 6.1
+Q: Draw the structures of all the eight structural isomers that have the molecular formula C 5 H 11 Br. Name each isomer according to IUPAC system and classify them as primary, secondary or tertiary bromide.
+First 1000 chars of Solution:
+CH 3 CH 2 CH 2 CH 2 CH 2 Br 1-Bromopentane (1 o ) CH 3 CH 2 CH 2 CH( Br )CH 3 2-Bromopentane(2 o ) CH 3 CH 2 CH( Br )CH 2 CH 3 3-Bromopentane (2 o ) (CH 3 ) 2 CHCH 2 CH 2 Br 1-Bromo-3-methylbutane (1 o ) o -Chlorotoluene 1-Chloro-2-methylbenzene or 2-Chlorotoluene Benzyl chloride Chlorophenylmethane (CH 3 ) 2 CHCH Br CH 3 2-Bromo-3-methylbutane(2 o ) (CH 3 ) 2 C Br CH 2 CH 3 2-Bromo-2-methylbutane (3 o ) CH 3 CH 2 CH(CH 3 )CH 2 Br 1-Bromo-2-methylbutane(1 o ) (CH 3 ) 3 CCH 2 Br 1-Bromo-2,2-dimethylpropane (1 o ) Write IUPAC names of the following: (i) 4-Bromopent-2-ene (ii) 3-Bromo-2-methylbut-1-ene (iii) 4-Bromo-3-methylpent-2-ene (iv) 1-Bromo-2-methylbut-2-ene (v) 1-Bromobut-2-ene (vi) 3-Bromo-2-methylpropene Write structures of the following compounds: (i) 2-Chloro-3-methylpentane (ii) 1-Chloro-4-ethylcyclohexane (iii) 4-tert. Butyl-3-iodoheptane (iv) 1,4-Dibromobut-2-ene (v) 1-Bromo-4-sec. butyl-2-methylbenzene. Halogen atoms are more electronegative than carbon, therefore, carbon-
+--------------------------------------------------------------------------------
+
+Example 6.2
+Q: 
+First 1000 chars of Solution:
+X Bond Bond length/pm C-X Bond enthalpies/ kJmol -1 Dipole moment/Debye CH 3 – F 139 452 1.847 CH 3 – Cl 178 351 1.860 CH 3 – Br 193 293 1.830 CH 3 – I 214 234 1.636 The hydroxyl group of an alcohol is replaced by halogen on reaction with concentrated halogen acids, phosphorus halides or thionyl chloride. Thionyl chloride is preferred because in this reaction alkyl halide is formed along with gases SO 2 and HCl. The two gaseous products are escapable, hence, the reaction gives pure alkyl halides. The reactions of primary and secondary alcohols with HCl require the presence of a catalyst, ZnCl 2 . With tertiary alcohols, the reaction is conducted by simply shaking the alcohol with concentrated HCl at room temperature. Constant boiling with HBr (48%) is used for preparing alkyl bromide. Good yields of R—I may be obtained by heating alcohols with sodium or potassium iodide in 95% orthophosphoric acid. The order of reactivity of alcohols with a given haloacid is 3°>2°>1°. Phosphorus tribro
+--------------------------------------------------------------------------------
+
+Example 6.3
+Q: 
+First 1000 chars of Solution:
+AgF, Hg 2 F 2 , CoF 2 or SbF 3 . The reaction is termed as reaction. Aryl chlorides and bromides can be easily prepared by electrophilic substitution of arenes with chlorine and bromine respectively in the presence of Lewis acid catalysts like iron or iron(III) chloride. The ortho and para isomers can be easily separated due to large difference in their melting points. Reactions with iodine are reversible in nature and require the presence of an oxidising agent (HNO 3 , HIO 4 ) to oxidise the HI formed during iodination. Fluoro compounds are not prepared by this method due to high reactivity of fluorine. When a primary aromatic amine, dissolved or suspended in cold aqueous mineral acid, is treated with sodium nitrite, a diazonium salt is formed. Mixing the solution of freshly prepared diazonium salt with cuprous chloride or cuprous bromide results in the replacement of the diazonium group by –Cl or –Br. Replacement of the diazonium group by iodine does not require the presence of cupro
+--------------------------------------------------------------------------------
+
+Example 6.4
+Q: 
+First 1000 chars of Solution:
+Why is sulphuric acid not used during the reaction of alcohols with KI? Write structures of different dihalogen derivatives of propane. Among the isomeric alkanes of molecular formula C 5 H 12 , identify the one that on photochemical chlorination yields (i) A single monochloride. (ii) Three isomeric monochlorides. (iii) Four isomeric monochlorides. Draw the structures of major monohalo products in each of the following reactions: Alkyl halides are colourless when pure. However, bromides and iodides develop colour when exposed to light. Many volatile halogen compounds have sweet smell. Methyl chloride, methyl bromide, ethyl chloride and some chlorofluoromethanes are gases at room temperature. Higher members are liquids or solids. As we have already learnt, molecules of organic halogen compounds are generally polar. Due to greater polarity as well as higher molecular mass as compared to the parent hydrocarbon, the intermolecular forces of attraction (dipole-dipole and van der Waals) are 
+--------------------------------------------------------------------------------
+
+Example 6.5
+Q: 
+First 1000 chars of Solution:
+i i single step and no intermediate is formed. As the reaction progresses and the bond between the incoming nucleophile and the carbon atom starts forming, the bond between carbon atom and leaving group weakens. As this happens, the three carbon-hydrogen bonds of the substrate start moving away from the attacking nucleophile. In transition state all the three C-H bonds are in the same plane and the attacking and leaving nucleophiles are partially attached to the carbon. As the attacking nucleophile approaches closer to the carbon, C-H bonds still keep on moving in the same direction till the attacking nucleophile attaches to carbon and leaving group leaves the carbon. As a result configuration is inverted, the configuration (See box) of carbon atom under attack inverts in much the same way as an umbrella is turned inside out when caught in a strong wind. This process is called as . In the transition state, the carbon atom is simultaneously bonded to incoming nucleophile and the outgoin
+--------------------------------------------------------------------------------
+
+Example 6.7
+Q: Predict the order of reactivity of the following compounds in S N 1 and S N 2 reactions: (i) The four isomeric bromobutanes (ii) C 6 H 5 CH 2 Br , C 6 H 5 CH(C 6 H 5 ) Br , C 6 H 5 CH(CH 3 ) Br , C 6 H 5 C(CH 3 )(C 6 H 5 ) Br + + H 2 C 2 CH C H
+First 1000 chars of Solution:
+
+--------------------------------------------------------------------------------
+
+Example 6.6
+Q: 
+First 1000 chars of Solution:
+(i) CH 3 CH 2 CH 2 CH 2 Br < (CH 3 ) 2 CHCH 2 Br < CH 3 CH 2 CH( Br )CH 3 < (CH 3 ) 3 C Br (S N 1) CH 3 CH 2 CH 2 CH 2 Br > (CH 3 ) 2 CHCH 2 Br > CH 3 CH 2 CH( Br )CH 3 > (CH 3 ) 3 C Br (S N 2) Of the two primary bromides, the carbocation intermediate derived from (CH 3 ) 2 CHCH 2 Br is more stable than derived from CH 3 CH 2 CH 2 CH 2 Br because of greater electron donating inductive effect of (CH 3 ) 2 CH- group. Therefore, (CH 3 ) 2 CHCH 2 Br is more reactive than CH 3 CH 2 CH 2 CH 2 Br in S N 1 reactions. CH 3 CH 2 CH(Br)CH 3 is a secondary bromide and (CH 3 ) 3 CBr is a tertiary bromide. Hence the above order is followed in S N 1. The reactivity in S N 2 reactions follows the reverse order as the steric hinderance around the electrophilic carbon increases in that order. (ii) C 6 H 5 C(CH 3 )(C 6 H 5 ) Br > C 6 H 5 CH(C 6 H 5 ) Br > C 6 H 5 CH(CH 3 ) Br > C 6 H 5 CH 2 Br (S N 1) C 6 H 5 C(CH 3 )(C 6 H 5 ) Br < C 6 H 5 CH(C 6 H 5 ) Br < C 6 H 5 CH(CH 3 ) Br < C 6 H 5 CH 2 Br (S N 2)
+--------------------------------------------------------------------------------
+
+Example 6.8
+Q: Identify chiral and achiral molecules in each of the following pair of compounds. (Wedge and Dash representations according to Class XI. (iii) Retention: Retention of configuration is the preservation of the spatial arrangement of bonds to an asymmetric centre during a chemical reaction or transformation. In general, if during a reaction, no bond to the stereocentre is broken, the product will have the same general configuration of groups around the stereocentre as that of reactant. Such a reaction is said to proceed with retention of the configuration. Consider as an example, the reaction that takes place when (–)-2-methylbutan-1-ol is heated with concentrated hydrochloric acid. It is important to note that configuration at a symmetric centre in the reactant and product is same but the sign of optical rotation has changed in the product. This is so because two different compounds with same configuration at asymmetric centre may have different optical rotation. One may be dextrorotatory (plus sign of optical rotation) while other may be laevorotatory (negative sign of optical rotation). (iv) Inversion, retention and racemisation: There are three outcomes for a reaction at an asymmetric carbon atom, when a bond directly linked to an asymmetric carbon atom is broken. Consider the replacement of a group X by Y in the following reaction; If (A) is the only compound obtained, the process is called retention of configuration. Note that configuration has been rotated in A. If (B) is the only compound obtained, the process is called inversion of configuration. Configuration has been inverted in B.
+First 1000 chars of Solution:
+If a 50:50 mixture of A and B is obtained then the process is called racemisation and the product is optically inactive, as one isomer will rotate the plane polarised light in the direction opposite to another. In case of optically active alkyl halides, the product formed as a result of S N 2 mechanism has the inverted configuration as compared to the reactant. This is because the nucleophile attaches itself on the side opposite to the one where the halogen atom is present. When (–)-2-bromooctane is allowed to react with sodium hydroxide, (+)-octan-2-ol is formed with the –OH group occupying the position opposite to what bromide had occupied. Thus, S N 2 reactions of optically active halides are accompanied by inversion of configuration. In case of optically active alkyl halides, S N 1 reactions are accompanied by racemisation. Can you think of the reason why it happens? Actually the carbocation formed in the slow step being sp 2 hybridised is planar (achiral). The attack of the nucleo
+--------------------------------------------------------------------------------
+
+Example 6.9
+Q: Although chlorine is an electron withdrawing group, yet it is ortho -, para - directing in electrophilic aromatic substitution reactions. Why?
+First 1000 chars of Solution:
+Chlorine withdraws electrons through inductive effect and releases electrons through resonance. Through inductive effect, chlorine destabilises the intermediate carbocation formed during the electrophilic substitution. Through resonance, halogen tends to stabilise the carbocation and the effect is more pronounced at ortho - and para - positions. The inductive effect is stronger than resonance and causes net electron withdrawal and thus causes net deactivation. The resonance effect tends to oppose the inductive effect for the attack at ortho - and para - positions and hence makes the deactivation less for ortho - and para - attack. Reactivity is thus controlled by the stronger inductive effect and orientation is controlled by resonance effect. A mixture of an alkyl halide and aryl halide gives an alkylarene when treated with sodium in dry ether and is called Wurtz-Fittig reaction. Aryl halides also give analogous compounds when treated with sodium in dry ether, in which two aryl groups 
+--------------------------------------------------------------------------------
+
+Example 7.1
+Q: Give IUPAC names of the following compounds: CH 3 CH CH OH 2 (i) CH CH Cl CH 3 CH 3 OH CH 3 H 3 C (iii)
+First 1000 chars of Solution:
+(i) 4-Chloro-2,3-dimethylpentan-1-ol (ii) 2-Ethoxypropane (iii) 2,6-Dimethylphenol (iv) 1-Ethoxy-2-nitrocyclohexane Name the following compounds according to IUPAC system. (i) (ii) (iii) (iv) (v) In alcohols, the oxygen of the – OH group is attached to carbon by a sigma ( s ) bond formed by the overlap of a sp 3 hybridised orbital of carbon with a sp 3 hybridised orbital of oxygen. Fig. 7.1 depicts structural aspects of methanol, phenol and methoxymethane. : Structures of methanol, phenol and methoxymethane (ii) CH 3 CH O CH 2 CH 3 CH 3 NO 2 OC H 2 5 (iv) The bond angle in alcohols is slightly less than the tetrahedral angle (109°-28 ¢ ). It is due to the repulsion between the unshared electron pairs of oxygen. In phenols, the –OH group is attached to sp 2 hybridised carbon of an aromatic ring. The carbon– oxygen bond length (136 pm) in phenol is slightly less than that in methanol. This is due to (i) partial double bond character on account of the conjugation of unshared electron pair
+--------------------------------------------------------------------------------
+
+Example 7.2
+Q: (c) Chlorobenzene is fused with NaOH at 623K and 320 atmospheric pressure. Phenol is obtained by acidification of sodium phenoxide so produced (Unit 6, Class XII). Benzene is sulphonated with oleum and benzene sulphonic acid so formed is converted to sodium phenoxide on heating with molten sodium hydroxide. Acidification of the sodium salt gives phenol. A diazonium salt is formed by treating an aromatic primary amine with nitrous acid (NaNO 2 + HCl) at 273-278 K. Diazonium salts are hydrolysed to phenols by warming with water or by treating with dilute acids (Unit 9, Class XII). OH NH 2 Aniline Most of the worldwide production of phenol is from cumene. Phenol is manufactured from the hydrocarbon, cumene. Cumene (isopropylbenzene) is oxidised in the presence of air to cumene hydroperoxide. It is converted to phenol and acetone by treating it with dilute acid. Acetone, a by-product of this reaction, is also obtained in large quantities by this method. + – N Cl 2 NaNO 2 H O 2 N + HCl 2 + Warm +HCl Benzene diazonium chloride Show how are the following alcohols prepared by the reaction of a suitable Grignard reagent on methanal ? Write structures of the products of the following reactions: (i) (ii) (iii) Alcohols and phenols consist of two parts, an alkyl/aryl group and a hydroxyl group. The properties of alcohols and phenols are chiefly due to the hydroxyl group. The nature of alkyl and aryl groups simply modify these properties. The boiling points of alcohols and phenols increase with increase in the number of carbon atoms (increase in van der Waals forces). In alcohols, the boiling points decrease with increase of branching in carbon chain (because of decrease in van der Waals forces with decrease in surface area). The –OH group in alcohols and phenols is involved in intermolecular hydrogen bonding as shown below: Physical Properties It is interesting to note that boiling points of alcohols and phenols are higher in comparison to other classes of compounds, namely hydrocarbons, ethers, haloalkanes and haloarenes of comparable molecular masses. For example, ethanol and propane have comparable molecular masses but their boiling points differ widely. The boiling point of methoxymethane is intermediate of the two boiling points. The high boiling points of alcohols are mainly due to the presence of intermolecular hydrogen bonding in them which is lacking in ethers and hydrocarbons. Solubility of alcohols and phenols in water is due to their ability to form hydrogen bonds with water molecules as shown. The solubility decreases with increase in size of alkyl/aryl (hydro- phobic) groups. Several of the lower molecular mass alcohols are miscible with water in all proportions.
+First 1000 chars of Solution:
+
+--------------------------------------------------------------------------------
+
+Example 7.3
+Q: Arrange the following sets of compounds in order of their increasing boiling points: (a) Pentan-1-ol, butan-1-ol, butan-2-ol, ethanol, propan-1-ol, methanol. (b) Pentan-1-ol, n-butane, pentanal, ethoxyethane.
+First 1000 chars of Solution:
+(a) Methanol, ethanol, propan-1-ol, butan-2-ol, butan-1-ol, pentan-1-ol. (b) n-Butane, ethoxyethane, pentanal and pentan-1-ol. Alcohols are versatile compounds. They react both as nucleophiles and electrophiles. The bond between O–H is broken when alcohols react as nucleophiles. Chemical Reactions Alcohols as nucleophiles (i) (ii) The bond between C–O is broken when they react as electrophiles. Protonated alcohols react in this manner. Protonated alcohols as electrophiles Based on the cleavage of O–H and C–O bonds, the reactions of alcohols and phenols may be divided into two groups: (a) Reactions involving cleavage of O–H bond (i) Reaction with metals : Alcohols and phenols react with active metals such as sodium, potassium and aluminium to yield corresponding alkoxides/phenoxides and hydrogen. In addition to this, phenols react with aqueous sodium hydroxide to form sodium phenoxides. OH O Na The above reactions show that alcohols and phenols are acidic in nature. In fact, alcohols an
+--------------------------------------------------------------------------------
+
+Example 7.4
+Q: 
+First 1000 chars of Solution:
+Pyridine R/Ar +R ’ l OH COC R/Ar OCO R + HCl ’ The reaction with carboxylic acid and acid anhydride is carried out in the presence of a small amount of concentrated sulphuric acid. The reaction is reversible, and therefore, water is removed as soon as it is formed. The reaction with acid chloride is carried out in the presence of a base (pyridine) so as to neutralise HCl which is formed during the reaction. It shifts the equilibrium to the right hand side. The introduction of acetyl (CH 3 CO) group in alcohols or phenols is known as acetylation. Acetylation of salicylic acid produces aspirin. Aspirin possesses analgesic, anti- inflammatory and antipyretic properties. (b) Reactions involving cleavage of carbon – oxygen (C–O) bond in alcohols The reactions involving cleavage of C–O bond take place only in alcohols. Phenols show this type of reaction only with zinc. Alcohols react with hydrogen halides to form alkyl halides (Refer Unit 6, Class XII). ROH + HX ® R–X + H 2 O The difference 
+--------------------------------------------------------------------------------
+
+Example 7.5
+Q: Write the structures of the major products expected from the following reactions: (a) Mononitration of 3-methylphenol (b) Dinitration of 3-methylphenol (c) Mononitration of phenyl methanoate.
+First 1000 chars of Solution:
+The combined influence of –OH and –CH 3 groups determine the position of the incoming group. Phenoxide ion generated by treating phenol with sodium hydroxide is even more reactive than phenol towards electrophilic aromatic substitution. Hence, it undergoes electrophilic substitution with carbon dioxide, a weak electrophile. Ortho hydroxybenzoic acid is formed as the main reaction product. On treating phenol with chloroform in the presence of sodium hydroxide, a –CHO group is introduced at ortho position of benzene ring. This reaction is known as Reimer - Tiemann reaction . The intermediate substituted benzal chloride is hydrolysed in the presence of alkali to produce salicylaldehyde. Phenol is converted to benzene on heating with zinc dust. Oxidation of phenol with chromic acid produces a conjugated diketone known as benzoquinone. In the presence of air, phenols are slowly oxidised to dark coloured mixtures containing quinones. Give structures of the products you would expect when each
+--------------------------------------------------------------------------------
+
+Example 7.6
+Q: The following is not an appropriate reaction for the preparation of t-butyl ethyl ether. (i) What would be the major product of this reaction ? (ii) Write a suitable reaction for the preparation of t-butylethyl ether.
+First 1000 chars of Solution:
+(i) The major product of the given reaction is 2-methylprop-1-ene. It is because sodium ethoxide is a strong nucleophile as well as a strong base. Thus elimination reaction predominates over substitution. (ii) Phenols are also converted to ethers by this method. In this, phenol is used as the phenoxide moiety. O CH –Br 3 Na + The C-O bonds in ethers are polar and thus, ethers have a net dipole moment. The weak polarity of ethers do not appreciably affect their boiling points which are comparable to those of the alkanes of comparable molecular masses but are much lower than the boiling points of alcohols as shown in the following cases: Physical Properties Formula CH 3 (CH 2 ) 3 CH 3 C 2 H 5 -O-C 2 H 5 CH 3 (CH 2 ) 3 -OH n-Pentane Ethoxyethane Butan-1-ol b.p./K 309.1 307.6 390 The large difference in boiling points of alcohols and ethers is due to the presence of hydrogen bonding in alcohols. The miscibility of ethers with water resembles those of alcohols of the same molecular mass. Bo
+--------------------------------------------------------------------------------
+
+Example 7.7
+Q: 
+First 1000 chars of Solution:
+(ii) Friedel-Crafts reaction : Anisole undergoes Friedel-Crafts reaction, i.e. , the alkyl and acyl groups are introduced at ortho and para positions by reaction with alkyl halide and acyl halide in the presence of anhydrous aluminium chloride (a Lewis acid) as catalyst. (iii) Nitration : Anisole reacts with a mixture of concentrated sulphuric and nitric acids to yield a mixture of ortho and para nitroanisole. Write the reactions of Williamson synthesis of 2-ethoxy-3-methylpentane starting from ethanol and 3-methylpentan-2-ol. Which of the following is an appropriate set of reactants for the preparation of 1-methoxy-4-nitrobenzene and why? (i) (ii) Predict the products of the following reactions: 3 2 2 3 CH CH CH O – CH HBr − − − + → (i) (ii) (iii) CH C OC H HI 3 3 2 5 ( ) −  →  (iv) and are classified (i) on the basis of the number of hydroxyl groups and (ii) according to the hybridisation of the carbon atom, sp 3 or sp 2 to which the –OH group is attached. are classified on the ba
+--------------------------------------------------------------------------------
+
+Example 8.1
+Q: Give names of the reagents to bring about the following transformations: (i) Hexan-1-ol to hexanal (ii) Cyclohexanol to cyclohexanone (iii) p -Fluorotoluene to (iv) Ethanenitrile to ethanal p -fluorobenzaldehyde (v) Allyl alcohol to propenal (vi) But-2-ene to ethanal
+First 1000 chars of Solution:
+(i) C 5 H 5 NH + CrO 3 Cl - (PCC) (ii) Anhydrous CrO 3 (iii) CrO 3 in the presence (iv) (Diisobutyl)aluminium of acetic anhydride/ hydride (DIBAL-H) 1. CrO 2 Cl 2 2. HOH (v) PCC (vi) O 3 /H 2 O-Zn dust Write the structures of products of the following reactions; (i) (ii) 2.H 3 O + (iii) C C H Hg 2+ , H SO 2 4 H C 3 (iv) (C 6 H CH ) Cd + 2 CH 5 2 2 3 COCl CH 3 1.CrO Cl 2 2 NO 2 The physical properties of aldehydes and ketones are described as follows. Methanal is a gas at room temperature. Ethanal is a volatile liquid. Other aldehydes and ketones are liquid or solid at room temperature. The boiling points of aldehydes and ketones are higher than hydrocarbons and ethers of comparable molecular masses. It is due to weak molecular association in aldehydes and ketones arising out of the dipole-dipole interactions. Also, their boiling points are lower than those of alcohols of similar molecular masses due to absence of intermolecular hydrogen bonding. The following compounds of molecular mas
+--------------------------------------------------------------------------------
+
+Example 8.2
+Q: 
+First 1000 chars of Solution:
+Arrange the following compounds in increasing order of their boiling points. CH 3 CHO, CH 3 CH 2 OH, CH 3 OCH 3 , CH 3 CH 2 CH 3 Since aldehydes and ketones both possess the carbonyl functional group, they undergo similar chemical reactions. Contrary to electrophilic addition reactions observed in alkenes, the aldehydes and ketones undergo nucleophilic addition reactions. (i) Mechanism of nucleophilic addition reactions A nucleophile attacks the electrophilic carbon atom of the polar carbonyl group from a direction approximately perpendicular to the plane of sp 2 hybridised orbitals of carbonyl carbon (Fig. 8.2). The hybridisation of carbon changes from sp 2 to sp 3 in this process, and a tetrahedral alkoxide intermediate is produced. This intermediate captures a proton from the reaction medium to give the electrically neutral product. The net result is addition of Nu – and H + Nucleophilic attack on carbonyl carbon (ii) Reactivity Aldehydes are generally more reactive than ketones in 
+--------------------------------------------------------------------------------
+
+Example 8.3
+Q: Would you expect benzaldehyde to be more reactive or less reactive in nucleophilic addition reactions than propanal? Explain your answer.
+First 1000 chars of Solution:
+The carbon atom of the carbonyl group of benzaldehyde is less electrophilic than carbon atom of the carbonyl group present in propanal. The polarity of the carbonyl group is reduced in benzaldehyde due to resonance as shown below and hence it is less reactive than propanal. across the carbon oxygen double bond as shown in Fig. 8.2. (iii) Some important examples of nucleophilic addition and nucleophilic addition-elimination reactions: (a) Addition of hydrogen cyanide (HCN) : Aldehydes and ketones react with hydrogen cyanide (HCN) to yield cyanohydrins. This reaction occurs very slowly with pure HCN. Therefore, it is catalysed by a base and the generated cyanide ion (CN - ) being a stronger nucleophile readily adds to carbonyl compounds to yield corresponding cyanohydrin. Cyanohydrins are useful synthetic intermediates. (b) Addition of sodium hydrogensulphite: Sodium hydrogensulphite adds to aldehydes and ketones to form the addition products. The position of the equilibrium lies largely
+--------------------------------------------------------------------------------
+
+Example 8.4
+Q: An organic compound (A) with molecular formula C 8 H 8 O forms an orange-red precipitate with 2,4-DNP reagent and gives yellow precipitate on heating with iodine in the presence of sodium hydroxide. It neither reduces Tollens’ or Fehlings’ reagent, nor does it decolourise bromine water or Baeyer’s reagent. On drastic oxidation with chromic acid, it gives a carboxylic acid (B) having molecular formula C 7 H 6 O 2 . Identify the compounds (A) and (B) and explain the reactions involved.
+First 1000 chars of Solution:
+(A) forms 2,4-DNP derivative. Therefore, it is an aldehyde or a ketone. Since it does not reduce Tollens’ or Fehling reagent, (A) must be a ketone. (A) responds to iodoform test. Therefore, it should be a methyl ketone. The molecular formula of (A) indicates high degree of unsaturation, yet it does not decolourise bromine water or Baeyer’s reagent. This indicates the presence of unsaturation due to an aromatic ring. Compound (B), being an oxidation product of a ketone should be a carboxylic acid. The molecular formula of (B) indicates that it should be benzoic acid and compound (A) should, therefore, be a monosubstituted aromatic methyl ketone. The molecular formula of (A) indicates that it should be phenyl methyl ketone (acetophenone). Reactions are as follows: The aldehydes and ketones undergo a number of reactions due to the acidic nature of α -hydrogen. The acidity of α -hydrogen atoms of carbonyl compounds is due to the strong electron withdrawing effect of the carbonyl group and 
+--------------------------------------------------------------------------------
+
+Example 8.5
+Q: Write chemical reactions to affect the following transformations: (i) Butan-1-ol to butanoic acid (ii) Benzyl alcohol to phenylethanoic acid (iii) 3-Nitrobromobenzene to 3-nitrobenzoic acid (iv) 4-Methylacetophenone to benzene-1,4-dicarboxylic acid (v) Cyclohexene to hexane-1,6-dioic acid (vi) Butanal to butanoic acid.
+First 1000 chars of Solution:
+(i) (ii) (iii) (iv) (v) (vi) Show how each of the following compounds can be converted to benzoic acid. (i) Ethylbenzene (ii) Acetophenone (iii) Bromobenzene (iv) Phenylethene (Styrene) Aliphatic carboxylic acids upto nine carbon atoms are colourless liquids at room temperature with unpleasant odours. The higher acids are wax like solids and are practically odourless due to their low volatility. Carboxylic acids are higher boiling liquids than aldehydes, ketones and even alcohols of comparable molecular masses. This is due to more extensive association of carboxylic acid molecules through intermolecular hydrogen bonding. The hydrogen bonds are not broken completely even in the vapour phase. In fact, most carboxylic acids exist as dimer in the vapour phase or in the aprotic solvents. Simple aliphatic carboxylic acids having upto four carbon atoms are miscible in water due to the formation of hydrogen bonds with water. The solubility decreases with increasing number of carbon atoms. High
+--------------------------------------------------------------------------------
+
+Example 9.1
+Q: 
+First 1000 chars of Solution:
+Gabriel synthesis is used for the preparation of primary amines. Phthalimide on treatment with ethanolic potassium hydroxide forms potassium salt of phthalimide which on heating with alkyl halide followed by alkaline hydrolysis produces the corresponding primary amine. Aromatic primary amines cannot be prepared by this method because aryl halides do not undergo nucleophilic substitution with the anion formed by phthalimide. Hoffmann developed a method for preparation of primary amines by treating an amide with bromine in an aqueous or ethanolic solution of sodium hydroxide. In this degradation reaction, migration of an alkyl or aryl group takes place from carbonyl carbon of the amide to the nitrogen atom. The amine so formed contains one carbon less than that present in the amide.
+--------------------------------------------------------------------------------
+
+Example 9.2
+Q: Write chemical equations for the following conversions: (i) CH 3 –CH 2 –Cl into CH 3 –CH 2 –CH 2 –NH 2 (ii) C 6 H 5 –CH 2 –Cl into C 6 H 5 –CH 2 –CH 2 –NH 2
+First 1000 chars of Solution:
+Write structures and IUPAC names of (i) the amide which gives propanamine by Hoffmann bromamide reaction. (ii) the amine produced by the Hoffmann degradation of benzamide. (i) Propanamine contains three carbons. Hence, the amide molecule must contain four carbon atoms. Structure and IUPAC name of the starting amide with four carbon atoms are given below: (ii) Benzamide is an aromatic amide containing seven carbon atoms. Hence, the amine formed from benzamide is aromatic primary amine containing six carbon atoms. How will you convert (i) Benzene into aniline (ii) Benzene into N, N-dimethylaniline (iii) Cl–(CH 2 ) 4 –Cl into hexan-1,6-diamine? The lower aliphatic amines are gases with fishy odour. Primary amines with three or more carbon atoms are liquid and still higher ones are solid. Aniline and other arylamines are usually colourless but get coloured on storage due to atmospheric oxidation. Lower aliphatic amines are soluble in water because they can form hydrogen bonds with water mo
+--------------------------------------------------------------------------------
+
+Example 9.3
+Q: 
+First 1000 chars of Solution:
+Butanamide Aniline or benzenamine Primary > Secondary > Tertiary Intermolecular hydrogen bonding in primary amines is shown in Fig. 9.2. Intermolecular hydrogen bonding in primary amines Boiling points of amines, alcohols and alkanes of almost the same molar mass are shown in Table 9.2. Sl. No. Compound Molar mass b.p./K 1. n-C 4 H 9 NH 2 73 350.8 2. (C 2 H 5 ) 2 NH 73 329.3 3. C 2 H 5 N(CH 3 ) 2 73 310.5 4. C 2 H 5 CH(CH 3 ) 2 72 300.8 5. n-C 4 H 9 OH 74 390.3 Difference in electronegativity between nitrogen and hydrogen atoms and the presence of unshared pair of electrons over the nitrogen atom makes amines reactive. The number of hydrogen atoms attached to nitrogen atom also decides the course of reaction of amines; that is why primary (–NH 2 ), secondary N H and tertiary amines N differ in many reactions. Moreover, amines behave as nucleophiles due to the presence of unshared electron pair. Some of the reactions of amines are described below: Amines, being basic in nature, react wi
+--------------------------------------------------------------------------------
+
+Example 9.4
+Q: Arrange the following in decreasing order of their basic strength: C 6 H 5 NH 2 , C 2 H 5 NH 2 , (C 2 H 5 ) 2 NH , NH 3
+First 1000 chars of Solution:
+The decreasing order of basic strength of the above amines and ammonia follows the following order: (C 2 H 5 ) 2 NH > C 2 H 5 NH 2 > NH 3 > C 6 H 5 NH 2 Amines undergo alkylation on reaction with alkyl halides (refer Unit 6, Class XII). Aliphatic and aromatic primary and secondary amines react with acid chlorides, anhydrides and esters by nucleophilic substitution reaction. This reaction is known as acylation. You can consider this reaction as the replacement of hydrogen atom of –NH 2 or > N–H group by the acyl group. The products obtained by acylation reaction are known as amides. The reaction is carried out in the presence of a base stronger than the amine, like pyridine, which removes HCl so formed and shifts the equilibrium to the right hand side. Amines also react with benzoyl chloride (C 6 H 5 COCl). This reaction is known as benzoylation. 3 6 5 6 5 2 3 Methanamine Benzoyl chloride N Methylbenzamide NH C C O CH C H CH C H H l NH l C C O What do you think is the product of the rea
+--------------------------------------------------------------------------------
+
+Example 9.5
+Q: can be considered as derivatives of ammonia obtained by replacement of hydrogen atoms with alkyl or aryl groups. Replacement of one hydrogen atom of ammonia gives rise to structure of the type , known as are characterised by the structure or and by or Secondary and tertiary amines are known as simple amines if the alkyl or aryl groups are the same and mixed amines if the groups are different. Like ammonia, all the three types of amines have one unshared electron pair on nitrogen atom due to which they behave as . Amines are usually formed from nitro compounds, halides, amides, imides, etc. They exhibit hydrogen bonding which influence their physical properties. In , a combination of electron releasing, steric and H-bonding factors influence the stability of the substituted ammonium cations in protic polar solvents and thus affect the basic nature of amines. Alkyl amines are found to be stronger bases than ammonia. In , electron releasing and withdrawing groups, respectively increase and decrease their basic character. is a weaker base
+First 1000 chars of Solution:
+Convert (i) 3-Methylaniline into 3-nitrotoluene. (ii) Aniline into 1,3,5 - tribromobenzene. than ammonia. Reactions of amines are governed by availability of the unshared pair of electrons on nitrogen. Influence of the number of hydrogen atoms at nitrogen atom on the type of reactions and nature of products is responsible for identification and distinction between primary, secondary and tertiary amines. p -Toluenesulphonyl chloride is used for the identification of primary, secondary and tertiary amines. Presence of amino group in aromatic ring enhances reactivity of the aromatic amines. Reactivity of aromatic amines can be controlled by process, i.e., by treating with acetyl chloride or acetic anhydride. Tertiary amines like are used as insect attractants. , usually obtained from arylamines, undergo replacement of the diazonium group with a variety of nucleophiles to provide advantageous methods for producing aryl halides, cyanides, phenols and arenes by reductive removal of the diazo
+--------------------------------------------------------------------------------
+
