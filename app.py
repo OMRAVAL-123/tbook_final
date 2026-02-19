@@ -23,7 +23,7 @@ st.title("📚 Intelligent Multi-KB RAG System")
 # Sidebar for Key
 with st.sidebar:
     st.header("Configuration")
-    # api_key = st.text_input("Groq API Key", value=st.session_state["GROQ_API_KEY"], type="password")
+    api_key = st.text_input("Groq API Key", value=st.session_state["GROQ_API_KEY"], type="password")
     if api_key:
         st.session_state["GROQ_API_KEY"] = api_key
         os.environ["GROQ_API_KEY"] = api_key
