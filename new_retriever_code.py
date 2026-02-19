@@ -45,12 +45,6 @@ class Retriever:
         except Exception:
             self.vectorstore = None
 
-        # Cross Encoder
-        try:
-            self.cross_encoder = CrossEncoder('cross-encoder/ms-marco-MiniLM-L-6-v2')
-        except Exception:
-            self.cross_encoder = None
-
     def _load_schemas(self) -> Dict[str, str]:
         """Dynamically load schemas from all detected sqlite databases."""
         schemas = {}
@@ -126,9 +120,10 @@ class Retriever:
         system_instruction = """You are a Strict SQL Generator.
 Rules:
 1. ONLY generate SQL for the provided SQLite schemas.
-2. For "Chapter X", use EXACT MATCHING strings. 
-   - CORRECT: WHERE chapter_name = 'Chapter 1' 
-   - WRONG: WHERE chapter_name LIKE '%Chapter 1%' (This matches Chapter 11, 12...)
+2. Check the "Sample rows" in the schema context to understand the format of columns like 'chapter_name'.
+   - If 'chapter_name' contains "Chapter 1", use strict string matching: WHERE chapter_name = 'Chapter 7'
+   - If 'chapter_name' contains "1", use the integer/string number: WHERE chapter_name = '7'
+   - ADAPT to the specific table's format.
 3. For "Example X.Y", check columns like 'example_id' or 'topic_number'.
 4. Do NOT approximate numbers.
 5. If user asks for 'Summaries', look for a 'summaries' table.
