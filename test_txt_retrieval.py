@@ -4,12 +4,14 @@ import os
 import pathlib
 
 # Add p_12_kb to path to import retriever
-sys.path.append(str(pathlib.Path(r"d:\tbook_final\p_12_kb")))
+sys.path.append(str(pathlib.Path(r"d:\tbook_final\m_12_kb")))
 import retriever
 
 def test():
     queries = [
-        "give me summary of chapter 6 of 12th physics"
+        "provide solution to example 7.1 of maths 12",
+        "provide solution to example 7.2 of maths 12",
+        ""
     ]
     
     print("--- STARTING TESTS ---")

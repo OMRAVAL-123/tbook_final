@@ -47,20 +47,18 @@ class Retriever:
         try:
             self.cross_encoder = CrossEncoder('cross-encoder/ms-marco-MiniLM-L-6-v2')
         except Exception as e:
-            # print(f"Warning: CrossEncoder failed to load: {e}")
             self.cross_encoder = None
 
     def _detect_intent(self, query: str) -> str:
         query_lower = query.lower()
         
         # Listing keywords
-        listing_keywords = ["list all", "list the", "list topics", "list summaries", "give me a list", "show all"]
+        listing_keywords = ["list all", "list the", "list topics", "list summaries", "give me a list", "show all", "list chapter"]
         for k in listing_keywords:
             if k in query_lower:
                 return "listing"
 
         # Structured Pattern Detection
-        # Matches: "Chapter 7", "Example 7.2", "Exercise 3.1", "Problem 1.5", "1.2"
         structured_patterns = [
             r"chapter\s*\d+", 
             r"example\s*\d+", 
@@ -77,28 +75,37 @@ class Retriever:
         return "explanation"
 
     def _find_file_for_query(self, query: str) -> str:
-        """Heuristic to pick the right text file based on query terms."""
         q = query.lower()
         if "summary" in q or "summaries" in q:
             return "summaries.txt"
         elif "example" in q:
             return "examples.txt"
         elif "problem" in q:
-            return "problems.txt"
+            # Check for problems.txt first, then examples.txt (some systems use eg.txt -> examples.txt)
+            if (self.base_path / "problems.txt").exists():
+                return "problems.txt"
+            return "examples.txt"
         elif "exercise" in q or "question" in q:
-            # Check for both, prioritize exercises.txt
             if (self.base_path / "exercises.txt").exists():
                 return "exercises.txt"
-            return "exercise.txt" # Common variation
+            return "exercise.txt"
+        elif "intext" in q or "in-text" in q:
+            if (self.base_path / "intext.txt").exists():
+                return "intext.txt"
         elif "topic" in q:
             return "topics.txt"
         elif "chapter" in q:
-            # Check if user wants summary or topics for a chapter
-            # We'll default to summaries.txt if it exists and intent is structured/listing
+            # If they just say "Chapter 5", maybe they want summary?
             if (self.base_path / "summaries.txt").exists():
                 return "summaries.txt"
             return "topics.txt"
-        return ""
+            
+        # Fallbacks for chemistry
+        if "12" in str(self.base_path):
+             if (self.base_path / "intext.txt").exists() and re.search(r"\b\d+\.\d+\b", q):
+                 return "intext.txt"
+                 
+        return "examples.txt" # Default
 
     def _extract_from_text(self, filename: str, query: str, intent: str) -> str:
         file_path = self.base_path / filename
@@ -108,54 +115,72 @@ class Retriever:
         with open(file_path, "r", encoding="utf-8") as f:
             content = f.read()
 
-        # 1. Identify Target Chapter/ID
-        # Try to find "X.Y" or just "X"
+        # Try to find target ID like "7.2" or "1"
         id_match = re.search(r"(\d+(\.\d+)*)", query)
         target_id = id_match.group(1) if id_match else None
         
         if not target_id:
             return "Could not identify a specific ID (e.g., 7.1) in your query."
 
-        # 2. Logic for Topics (Line-based)
+        # Logic for Topics
         if filename == "topics.txt":
             lines = content.splitlines()
             matches = []
             for line in lines:
                 if line.strip().startswith(target_id):
                     matches.append(line.strip())
-            
-            if matches:
-                return "\n".join(matches)
-            else:
-                return f"No topics found for ID {target_id}"
+            if matches: return "\n".join(matches)
+            return f"No topics found for ID {target_id}"
 
-        # 3. Listing Logic (If intent is listing)
+        # Listing Logic
         if intent == "listing":
-            if not target_id:
-                # If no specific ID, list everything (good for summaries)
-                return content
-            elif '.' not in target_id:
-                 # List all items for this chapter
-                list_pattern = re.compile(r"((Example|Question|Exercise|Problem|Chapter)\s+" + re.escape(target_id) + r"\s*.*)", re.IGNORECASE)
-                headers = [m.group(1) for m in list_pattern.finditer(content)]
+            # If target_id is just a chapter number (no dot)
+            if "." not in target_id:
+                # Find all headers starting with this chapter
+                # Pattern matches "Chapter X", "Example X.Y", "1.1", etc.
+                pattern = re.compile(r"^(.*?" + re.escape(target_id) + r"\.\d+.*)$", re.MULTILINE | re.IGNORECASE)
+                headers = [m.group(1).strip() for m in pattern.finditer(content)]
                 if headers:
-                    return "**Items found:**\n" + "\n".join([f"- {h}" for h in headers[:50]])
-                return f"No items found for Chapter {target_id}"
+                    return f"**Items in Chapter {target_id}**:\n" + "\n".join([f"- {h}" for h in headers[:50]])
+            return "No list found for this chapter."
 
-        # 4. Strict Block Retrieval
-        # We assume blocks start with "Example X.Y", "Question X.Y", "Problem X.Y", "Chapter X"
-        # We must align with the exact ID.
-        escaped_id = re.escape(target_id)
-        # Regex to find the header
-        # Stop at next header OR separator line (-----)
-        header_pattern = re.compile(
-            r"(Example|Question|Exercise|Problem|Chapter)\s+" + escaped_id + r"\s*(.*?)(?=(Example|Question|Exercise|Problem|Chapter)\s+\d+|^-{10,}|\Z)", 
-            re.IGNORECASE | re.DOTALL | re.MULTILINE
-        )
+        # Structured Retrieval
+        # We need to be very flexible. 
+        # Case 1: "Example 7.2"
+        # Case 2: "7.2" at start of line
+        # Case 3: "Chapter 7 - Example 2" (Maps 7.2 to Chapter 7 Example 2)
         
-        match = header_pattern.search(content)
-        if match:
-            return match.group(0).strip()
+        patterns = []
+        escaped_id = re.escape(target_id)
+        
+        # Pattern 1: Standard "Example 1.2"
+        patterns.append(re.compile(r"(Example|Question|Exercise|Problem|Chapter|Section)\s+" + escaped_id + r"\b", re.I))
+        
+        # Pattern 2: "1.2" at start of line
+        patterns.append(re.compile(r"^\s*" + escaped_id + r"\b", re.M))
+        
+        # Pattern 3: "Chapter X - Example Y" for "X.Y"
+        if "." in target_id:
+            ch, eg = target_id.split(".", 1)
+            patterns.append(re.compile(r"Chapter\s+" + re.escape(ch) + r"\s*-\s*Example\s+" + re.escape(eg) + r"\b", re.I))
+            patterns.append(re.compile(r"Chapter\s+" + re.escape(ch) + r".*?Example\s+" + re.escape(eg) + r"\b", re.I | re.DOTALL))
+
+        found_match = None
+        for p in patterns:
+            match = p.search(content)
+            if match:
+                # Found the start. Now find the end.
+                # End is the next "Example/Chapter/etc." or "-------" or end of file
+                start_idx = match.start()
+                # Look ahead for next separator or header
+                end_pattern = re.compile(r"\n(Example|Question|Exercise|Problem|Chapter|Section)\s+\d+|\n-{10,}|\Z", re.I)
+                end_match = end_pattern.search(content, start_idx + 1)
+                end_idx = end_match.start() if end_match else len(content)
+                found_match = content[start_idx:end_idx].strip()
+                break
+        
+        if found_match:
+            return found_match
 
         return f"Exact match for {target_id} not found in {filename}."
 
@@ -163,14 +188,9 @@ class Retriever:
         if not self.vectorstore:
             return "Error: Vectorstore not initialized."
         try:
-            # 1. FAISS Search
             docs = self.retriever_engine.invoke(query)
             doc_texts = [d.page_content for d in docs]
-            
-            if not doc_texts:
-                return "No relevant context found."
-
-            # 2. Cross Encoder Re-ranking
+            if not doc_texts: return "No relevant context found."
             if self.cross_encoder:
                 pairs = [[query, doc] for doc in doc_texts]
                 scores = self.cross_encoder.predict(pairs)
@@ -178,63 +198,32 @@ class Retriever:
                 top_docs = [d[0] for d in scored_docs[:5]] 
             else:
                 top_docs = doc_texts[:5]
-                
             context = "\n\n".join(top_docs)
-            
-            # 3. LLM Generation
-            prompt = f"""You are an expert tutor.
-Context:
-{context}
-
-Question: {query}
-
-Instructions:
-- Explain clearly.
-- Use LaTeX for math: inline $...$, display $$...$$.
-- If deriving, show steps.
-- If relevant information is found in the chunks, use your logic to respond and correct incorrect/incomplete messages.
-- If the question is ENTIRELY out of context, reply with: "Sorry, out of context".
-"""
+            prompt = f"Context:\n{context}\n\nQuestion: {query}\n\nExplain clearly with LaTeX."
             response = self.llm_smart.invoke(prompt)
             return response.content
         except Exception as e:
-            return f"Error in semantic retrieval: {e}"
+            return f"Error: {e}"
 
     def retrieve(self, query: str) -> Dict[str, Any]:
         intent = self._detect_intent(query)
-        kb_name = self.base_path.name
+        target_file = self._find_file_for_query(query)
         
-        result = {
-            "kb": kb_name,
-            "intent": intent,
-            "answer": ""
-        }
+        result = {"kb": self.base_path.name, "intent": intent, "answer": ""}
         
         if intent in ["structured", "listing"]:
-            # Try to identify which text file to look into
-            target_file = self._find_file_for_query(query)
-            
-            if target_file:
-                result["answer"] = self._extract_from_text(target_file, query, intent)
-                # Fallback to vector search if text search fails? 
-                # The user said "simply use the txt files", implying strictly text search for listing tasks.
-                if "not found" in result["answer"] and intent == "structured":
-                     # Maybe try semantic search as fallback if specific ID wasn't found?
-                     # No, user wants strict adherence to txt listing.
-                     pass
-            else:
-                 # If we can't map query to a file (e.g. "List everything"), maybe list topics?
-                 if intent == "listing":
-                     result["answer"] = self._extract_from_text("topics.txt", query, intent)
-                 else:
-                     result["answer"] = "Could not determine which resource (Examples, Exercises, Topics) you are looking for. Please specify."
-                
-        else: # explanation
+            result["answer"] = self._extract_from_text(target_file, query, intent)
+            if "not found" in result["answer"] and target_file == "examples.txt":
+                 # Try intext.txt or exercises.txt if it was a structured request
+                 for alt in ["intext.txt", "exercises.txt", "problems.txt"]:
+                     if (self.base_path / alt).exists():
+                         alt_res = self._extract_from_text(alt, query, intent)
+                         if "not found" not in alt_res:
+                             result["answer"] = alt_res
+                             break
+        else:
             result["answer"] = self._retrieve_and_rank(query)
-            
         return result
 
-# Expose function
 def retrieve(query):
-    r = Retriever()
-    return r.retrieve(query)
+    return Retriever().retrieve(query)
