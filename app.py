@@ -23,7 +23,7 @@ st.title("📚 Intelligent Multi-KB RAG System")
 # Sidebar for Key
 with st.sidebar:
     st.header("Configuration")
-    api_key = st.text_input("Groq API Key", value=st.session_state["GROQ_API_KEY"], type="password")
+    # api_key = st.text_input("Groq API Key", value=st.session_state["GROQ_API_KEY"], type="password")
     if api_key:
         st.session_state["GROQ_API_KEY"] = api_key
         os.environ["GROQ_API_KEY"] = api_key
@@ -120,8 +120,25 @@ Example: ["m_11_kb", "p_12_kb"]
         except Exception as e:
             return {"answer": f"Error calling retriever: {str(e)}"}
 
-    def merge_answers(self, query, responses_text):
-        prompt = f"""You are an expert editor.
+    def merge_answers(self, query, responses_text, intents):
+        is_structured = any(i in ["structured", "listing"] for i in intents)
+        
+        if is_structured:
+            prompt = f"""You are a Precise Data Aggregator.
+User Query: {query}
+
+Responses from Knowledge Bases:
+{responses_text}
+
+Task:
+1. Aggregate the provided structured data.
+2. Ensure NO numerical/structured data is lost.
+3. Do NOT summarize. Concatenate list items/tables strictly.
+4. If the data is JSON, keep it valid or present as a markdown table.
+5. If the text says "Exact structured match not found", propagate that message.
+"""
+        else:
+            prompt = f"""You are an expert editor.
 User Query: {query}
 
 Responses from Knowledge Bases:
@@ -133,6 +150,8 @@ Task:
 3. Preserve mathematical formatting (LaTeX).
 4. Structure with clear sections.
 5. If listing, present a clean table or list.
+6. If any relevant information is found in chunks/table, use your logic to respond and correct incorrect/incomplete messages.
+7. If the query is ENTIRELY out of context, reply with: "Sorry, out of context".
 """
         response = self.merger_llm.invoke(prompt)
         return response.content, response.response_metadata
@@ -167,6 +186,7 @@ if st.button("Search") and query_input:
             st.markdown("### 2️⃣ Retrieval")
             kb_responses = []
             full_text = ""
+            collected_intents = []
             
             cols = st.columns(len(target_kbs))
             
@@ -174,9 +194,17 @@ if st.button("Search") and query_input:
                 with cols[idx]:
                     st.info(f"Querying {kb}...")
                     resp = app.call_retriever(kb, query)
-                    answer = resp.get("answer", "No answer")
+                    
+                    if isinstance(resp, dict):
+                        answer = resp.get("answer", "No answer")
+                        intent = resp.get("intent", "explanation")
+                    else:
+                        answer = str(resp)
+                        intent = "explanation"
+                        
+                    collected_intents.append(intent)
                     kb_responses.append(answer)
-                    full_text += f"=== RESPONSE FROM {kb} ===\n{answer}\n\n"
+                    full_text += f"=== RESPONSE FROM {kb} (Intent: {intent}) ===\n{answer}\n\n"
                     
                     with st.expander(f"See Raw Answer from {kb}"):
                         st.markdown(answer)
@@ -184,7 +212,7 @@ if st.button("Search") and query_input:
             
             st.markdown("### 3️⃣ Final Answer")
             with st.spinner("Synthesizing final response..."):
-                final_ans, merge_meta = app.merge_answers(query, full_text)
+                final_ans, merge_meta = app.merge_answers(query, full_text, collected_intents)
                 
             st.markdown(final_ans)
             
