@@ -9,10 +9,7 @@ import retriever
 
 def test():
     queries = [
-        "Example 7.2",
-        "List examples in Chapter 7",
-        "List topics in Chapter 1",
-        "Explain flux"
+        "give me summary of chapter 6 of 12th physics"
     ]
     
     print("--- STARTING TESTS ---")

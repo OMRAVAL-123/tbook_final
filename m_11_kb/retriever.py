@@ -79,7 +79,9 @@ class Retriever:
     def _find_file_for_query(self, query: str) -> str:
         """Heuristic to pick the right text file based on query terms."""
         q = query.lower()
-        if "example" in q:
+        if "summary" in q or "summaries" in q:
+            return "summaries.txt"
+        elif "example" in q:
             return "examples.txt"
         elif "problem" in q:
             return "problems.txt"
@@ -88,7 +90,13 @@ class Retriever:
             if (self.base_path / "exercises.txt").exists():
                 return "exercises.txt"
             return "exercise.txt" # Common variation
-        elif "topic" in q or "chapter" in q:
+        elif "topic" in q:
+            return "topics.txt"
+        elif "chapter" in q:
+            # Check if user wants summary or topics for a chapter
+            # We'll default to summaries.txt if it exists and intent is structured/listing
+            if (self.base_path / "summaries.txt").exists():
+                return "summaries.txt"
             return "topics.txt"
         return ""
 
@@ -110,8 +118,6 @@ class Retriever:
 
         # 2. Logic for Topics (Line-based)
         if filename == "topics.txt":
-            # If target_id is just a chapter number (e.g. '7' or '07'), list all 7.x
-            # If target_id is specific '7.2', show that line
             lines = content.splitlines()
             matches = []
             for line in lines:
@@ -123,30 +129,33 @@ class Retriever:
             else:
                 return f"No topics found for ID {target_id}"
 
-        # 3. Logic for Examples/Exercises/Problems (Block-based)
-        # We assume blocks start with "Example X.Y", "Question X.Y", "Problem X.Y"
-        # We'll try to find the specific block for target_id
-        
+        # 3. Listing Logic (If intent is listing)
+        if intent == "listing":
+            if not target_id:
+                # If no specific ID, list everything (good for summaries)
+                return content
+            elif '.' not in target_id:
+                 # List all items for this chapter
+                list_pattern = re.compile(r"((Example|Question|Exercise|Problem|Chapter)\s+" + re.escape(target_id) + r"\s*.*)", re.IGNORECASE)
+                headers = [m.group(1) for m in list_pattern.finditer(content)]
+                if headers:
+                    return "**Items found:**\n" + "\n".join([f"- {h}" for h in headers[:50]])
+                return f"No items found for Chapter {target_id}"
+
+        # 4. Strict Block Retrieval
+        # We assume blocks start with "Example X.Y", "Question X.Y", "Problem X.Y", "Chapter X"
+        # We must align with the exact ID.
+        escaped_id = re.escape(target_id)
         # Regex to find the header
-        # Covers: Example 1.1, Question 1.1, Exercise 1.1, Problem 1.1
+        # Stop at next header OR separator line (-----)
         header_pattern = re.compile(
-            r"(Example|Question|Exercise|Problem)\s+" + re.escape(target_id) + r"\s*(.*?)(?=(Example|Question|Exercise|Problem)\s+\d+\.\d+|\Z)", 
-            re.IGNORECASE | re.DOTALL
+            r"(Example|Question|Exercise|Problem|Chapter)\s+" + escaped_id + r"\s*(.*?)(?=(Example|Question|Exercise|Problem|Chapter)\s+\d+|^-{10,}|\Z)", 
+            re.IGNORECASE | re.DOTALL | re.MULTILINE
         )
         
         match = header_pattern.search(content)
         if match:
             return match.group(0).strip()
-            
-        # If strict match failed, maybe the user asked for "Chapter 7" examples in listing mode
-        if intent == "listing" and len(target_id.split('.')) == 1:
-            # List all items for this chapter
-            # Find all headers starting with "{target_id}."
-            list_pattern = re.compile(r"((Example|Question|Exercise|Problem)\s+" + re.escape(target_id) + r"\.\d+.*)", re.IGNORECASE)
-            headers = [m.group(1) for m in list_pattern.finditer(content)]
-            if headers:
-                return "**Items found:**\n" + "\n".join([f"- {h}" for h in headers[:50]]) # Limit to 50
-            return f"No items found for Chapter {target_id}"
 
         return f"Exact match for {target_id} not found in {filename}."
 

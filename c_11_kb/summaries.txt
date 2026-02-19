@@ -1,0 +1,56 @@
+Chapter 1: Some Basic Concepts of Chemistry
+This chapter introduces the foundational principles of chemistry including 
+the nature and classification of matter, measurement systems, significant figures, 
+laws of chemical combinations, Dalton’s atomic theory, atomic and molecular masses, 
+mole concept, percentage composition, empirical and molecular formulas, and 
+stoichiometric calculations. It builds the numerical and conceptual base required 
+for all further chemical studies.
+----------------------------------------
+Chapter 2: Structure of Atom
+This chapter explains the discovery of subatomic particles and the evolution 
+of atomic models from Thomson and Rutherford to Bohr and the quantum mechanical model. 
+It covers electromagnetic radiation, Planck’s theory, atomic spectra, dual nature of matter, 
+Heisenberg’s uncertainty principle, quantum numbers, atomic orbitals, electronic configuration, 
+and stability of half-filled and fully filled subshells.
+----------------------------------------
+Chapter 3: Classification of Elements and Periodicity
+This chapter discusses the need for classification of elements and the development 
+of the periodic table. It explains the modern periodic law, electronic configurations, 
+block elements (s, p, d, f), metals and non-metals, and periodic trends such as atomic radius, 
+ionization enthalpy, electron affinity, electronegativity, and chemical reactivity.
+----------------------------------------
+Chapter 4: Chemical Bonding and Molecular Structure
+This chapter explores ionic and covalent bonding, the octet rule, Lewis structures, 
+bond parameters, VSEPR theory, valence bond theory, hybridisation, and molecular orbital theory. 
+It explains bond formation, bond strength, resonance, polarity, hydrogen bonding, and bonding 
+in homonuclear diatomic molecules, forming the structural basis of chemistry.
+----------------------------------------
+Chapter 5: Thermodynamics
+This chapter introduces thermodynamic concepts including system and surroundings, 
+internal energy, work, enthalpy, calorimetry, enthalpy changes of reactions, spontaneity, 
+entropy, and Gibbs free energy. It establishes the energy relationships governing chemical 
+and physical processes.
+----------------------------------------
+Chapter 6: Equilibrium
+This chapter covers equilibrium in physical and chemical processes, dynamic equilibrium, 
+law of mass action, equilibrium constant, Le Chatelier’s principle, ionic equilibrium, acids 
+and bases (Arrhenius, Brønsted-Lowry, Lewis concepts), pH scale, buffer solutions, hydrolysis, 
+solubility product, and common ion effect.
+----------------------------------------
+Chapter 7: Redox Reactions
+This chapter explains oxidation and reduction in terms of classical concepts and electron transfer. 
+It discusses oxidation numbers, balancing redox reactions, redox titrations, electrode processes, 
+and the role of redox reactions in chemical and electrochemical systems.
+----------------------------------------
+Chapter 8: Organic Chemistry – Some Basic Principles and Techniques
+This chapter introduces fundamental concepts of organic chemistry including structural 
+representation, IUPAC nomenclature, isomerism, reaction mechanisms, electron displacement effects, 
+resonance, inductive effect, hyperconjugation, purification techniques, and qualitative and 
+quantitative analysis of organic compounds.
+----------------------------------------
+Chapter 9: Hydrocarbons
+This chapter discusses classification and properties of hydrocarbons including alkanes, 
+alkenes, alkynes, and aromatic compounds. It explains nomenclature, isomerism, preparation methods, 
+structural features of benzene, aromaticity, directive influence in substitution reactions, and 
+the environmental and health impacts such as carcinogenicity and toxicity.
+----------------------------------------

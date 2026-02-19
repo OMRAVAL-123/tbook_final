@@ -56,20 +56,18 @@ class MegaRouterApp:
     def _load_all_summaries(self):
         summaries = {}
         for folder in self.kb_folders:
-            summ_db = folder / "summaries.db"
-            if summ_db.exists():
+            summ_txt = folder / "summaries.txt"
+            if summ_txt.exists():
                 try:
-                    conn = sqlite3.connect(summ_db)
-                    cur = conn.cursor()
-                    cur.execute("SELECT chapter_title, summary FROM summaries")
-                    rows = cur.fetchall()
-                    kb_summ_text = "\n".join([f"- {r[0]}: {r[1]}" for r in rows[:5]])
-                    summaries[folder.name] = kb_summ_text
-                    conn.close()
+                    with open(summ_txt, "r", encoding="utf-8") as f:
+                        # Read first 500 chars as summary preview
+                        content = f.read()
+                        preview = content[:1000] + "..." if len(content) > 1000 else content
+                        summaries[folder.name] = preview
                 except Exception as e:
                     summaries[folder.name] = "No summary available."
             else:
-                summaries[folder.name] = "No summary db found."
+                summaries[folder.name] = "No summary txt found."
         return summaries
 
     def route_query(self, query):
